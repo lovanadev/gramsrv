@@ -12,17 +12,17 @@ import (
 )
 
 const (
-	ProductName      = "Telesrv"
-	ProductUsername  = "telesrv"
-	DesktopAppName   = "Telesrv Desktop"
-	AndroidAppName   = "Telesrv Android"
-	IOSAppName       = "Telesrv iOS"
-	MacOSAppName     = "Telesrv macOS"
-	WebAAppName      = "Telesrv Web A"
-	WebKAppName      = "Telesrv Web K"
-	PremiumName      = "Telesrv Premium"
-	StarsName        = "Telesrv Stars"
-	DefaultPublicURL = "https://telesrv.net"
+	ProductName      = "Whatsgram"
+	ProductUsername  = "whatsgram"
+	DesktopAppName   = "Whatsgram Desktop"
+	AndroidAppName   = "Whatsgram Android"
+	IOSAppName       = "Whatsgram iOS"
+	MacOSAppName     = "Whatsgram macOS"
+	WebAAppName      = "Whatsgram Web A"
+	WebKAppName      = "Whatsgram Web K"
+	PremiumName      = "Whatsgram Premium"
+	StarsName        = "Whatsgram Stars"
+	DefaultPublicURL = "https://wgram.my.id"
 )
 
 // ClientAppName returns the branded display name for a stored client platform.

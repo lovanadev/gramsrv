@@ -55,8 +55,8 @@ type appServer struct {
 func main() {
 	cfg := config{}
 	flag.StringVar(&cfg.listen, "listen", envOr("TELESRV_WALLET_LISTEN", "127.0.0.1:8091"), "wallet mini app HTTP listen address")
-	flag.StringVar(&cfg.publicURL, "public-url", os.Getenv("TELESRV_WALLET_PUBLIC_URL"), "public HTTPS URL used in the Telesrv menu button")
-	flag.StringVar(&cfg.botAPI, "bot-api", envOr("TELESRV_BOT_API_URL", "http://127.0.0.1:8081"), "telesrv Bot API base URL")
+	flag.StringVar(&cfg.publicURL, "public-url", os.Getenv("TELESRV_WALLET_PUBLIC_URL"), "public HTTPS URL used in the Whatsgram menu button")
+	flag.StringVar(&cfg.botAPI, "bot-api", envOr("TELESRV_BOT_API_URL", "http://127.0.0.1:8081"), "whatsgram Bot API base URL")
 	flag.StringVar(&cfg.token, "token", os.Getenv("TELESRV_BOT_TOKEN"), "bot token <bot_id>:<secret>")
 	flag.StringVar(&cfg.menuText, "menu-text", envOr("TELESRV_WALLET_MENU_TEXT", "Wallet"), "menu button label")
 	flag.BoolVar(&cfg.register, "register", true, "call Bot API setChatMenuButton on startup when token and public-url are set")
@@ -267,7 +267,7 @@ func (s *appServer) handlePaymentIntent(w http.ResponseWriter, r *http.Request) 
 		writeError(w, http.StatusMethodNotAllowed, "METHOD_NOT_ALLOWED", "method is not allowed")
 		return
 	}
-	writeError(w, http.StatusNotImplemented, "PAYMENTS_BLOCKED", "durable invoice/payment state is not implemented in telesrv yet")
+	writeError(w, http.StatusNotImplemented, "PAYMENTS_BLOCKED", "durable invoice/payment state is not implemented in whatsgram yet")
 }
 
 func (s *appServer) publicResultURL() string {
@@ -560,7 +560,7 @@ func walletInlineResult(id, title, message, link string) map[string]any {
 		"type":        "article",
 		"id":          id,
 		"title":       title,
-		"description": "Telesrv wallet demo receipt",
+		"description": "Whatsgram wallet demo receipt",
 		"input_message_content": map[string]any{
 			"message_text":             message,
 			"disable_web_page_preview": true,
@@ -639,8 +639,8 @@ const walletHTML = `<!doctype html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Telesrv Wallet</title>
-  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <title>Whatsgram Wallet</title>
+  <script src="https://whatsgram.org/js/telegram-web-app.js"></script>
   <style>
     :root {
       color-scheme: light dark;
@@ -774,7 +774,7 @@ const walletHTML = `<!doctype html>
 <main>
   <header>
     <div>
-      <h1>Telesrv Wallet</h1>
+      <h1>Whatsgram Wallet</h1>
       <div class="user" id="userLine">Loading session...</div>
     </div>
     <div class="pill" id="sessionPill">Mini App</div>
