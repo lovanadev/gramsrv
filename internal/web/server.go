@@ -249,7 +249,7 @@ body{font:16px/1.5 system-ui,sans-serif;background:#f4f6f8;color:#17212b;margin:
 button.addEventListener('click', () => { const proxy=window.TelegramWebviewProxy;
 if(!proxy || typeof proxy.postEvent !== 'function'){status.textContent='Open this checkout inside Telegram.';return;}
 button.disabled=true;status.textContent='Submitting…';
-proxy.postEvent('payment_form_submit', JSON.stringify({title:'telesrv dev payment',credentials:{type:'telesrv_dev',form_id:'{{.FormID}}'}}));
+proxy.postEvent('payment_form_submit', JSON.stringify({title:'whatsgram payment',credentials:{type:'telesrv_dev',form_id:'{{.FormID}}'}}));
 }); })();
 </script></body></html>`))
 

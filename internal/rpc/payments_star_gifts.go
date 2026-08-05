@@ -855,7 +855,7 @@ func (r *Router) starsTopupPaymentForm(ctx context.Context, userID int64, purpos
 		return nil, starsPurchaseErr(err)
 	}
 	return r.devStarsFiatPaymentForm(userID, form,
-		branding.StarsName, "telesrv dev Stars top-up",
+		branding.StarsName, "Stars top-up",
 		[]domain.User{domain.OfficialSystemUser()}), nil
 }
 

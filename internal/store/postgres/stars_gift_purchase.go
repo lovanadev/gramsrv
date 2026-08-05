@@ -189,7 +189,7 @@ RETURNING balance,granted`, req.BuyerUserID, req.Stars).Scan(&result.Balance.Bal
 			return fmt.Errorf("credit stars topup buyer: %w", err)
 		}
 		if err := insertStarsTxn(ctx, tx, req.BuyerUserID, req.Stars, domain.StarsReasonTopup,
-			req.SpendPurposePeer, req.Date, "Stars top-up", "telesrv dev purchase"); err != nil {
+			req.SpendPurposePeer, req.Date, "Stars top-up", "purchase"); err != nil {
 			return err
 		}
 		_, err := tx.Exec(ctx, `

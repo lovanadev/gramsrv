@@ -830,7 +830,6 @@ func (r *Router) onContactsDeleteContacts(ctx context.Context, ids []tg.InputUse
 				return nil, internalErr()
 			}
 		}
-		updates = append(updates, &tg.UpdateContactsReset{})
 		if err := r.recordContactsReset(ctx, userID); err != nil {
 			return nil, internalErr()
 		}
