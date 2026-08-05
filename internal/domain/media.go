@@ -816,14 +816,20 @@ func (m *MessageMedia) IsZero() bool {
 	return m == nil || m.Kind == MessageMediaKindNone
 }
 
-// HasUnreadPayload 表示该媒体是否参与 media_unread（"未听"）状态。
-// 只有 voice/round 才有此语义：客户端只为它们渲染未听标记并上报
-// readMessageContents；photo/document 置位只会留下永不清除的脏状态。
+// HasUnreadPayload 表示该媒体是否参与 media_unread（"未听" / "未查看"）状态。
+// voice/round 以及带有 TTL（阅后即焚）的图片/视频需要此语义：
+// 客户端只为它们渲染未听/倒计时标记并上报 readMessageContents。
 func (m *MessageMedia) HasUnreadPayload() bool {
-	if m.IsZero() || m.Kind != MessageMediaKindDocument {
+	if m.IsZero() {
 		return false
 	}
-	return m.Voice || m.Round
+	if m.TTLSeconds > 0 {
+		return true
+	}
+	if m.Kind == MessageMediaKindDocument {
+		return m.Voice || m.Round
+	}
+	return false
 }
 
 // StickerPack 是 emoji→文档 id 的映射条目（messages.stickerSet.packs）。

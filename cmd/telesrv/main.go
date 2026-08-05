@@ -92,7 +92,7 @@ func main() {
 	defer func() { _ = logger.Sync() }()
 
 	if err := run(logger); err != nil {
-		logger.Error("telesrv 退出", zap.Error(err))
+		logger.Error("whatsgram 退出", zap.Error(err))
 		_ = logger.Sync() // os.Exit 跳过 defer；缓冲写需显式 flush 错误日志
 		os.Exit(1)
 	}
@@ -532,7 +532,7 @@ func run(logger *zap.Logger) error {
 
 	// tg.Layer 由当前导入的 canonical schema 生成；纳入未来 Layer 后无需
 	// 在 telesrv 另维护一份常量。
-	logger.Info("telesrv 启动",
+	logger.Info("whatsgram 启动",
 		zap.String("listen", cfg.ListenAddr),
 		zap.Int("dc", cfg.DC),
 		zap.String("default_country_code", cfg.DefaultCountryCode),

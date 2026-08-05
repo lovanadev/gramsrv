@@ -48,7 +48,7 @@ func (s *Service) UploadProfilePhotoKind(ctx context.Context, ownerType domain.P
 }
 
 // CreatePhotoFromUpload 把已上传文件组装成 Photo（不绑定 profile_photos），用于频道头像 / 图片消息。
-func (s *Service) CreatePhotoFromUpload(ctx context.Context, file domain.UploadedFileRef) (domain.Photo, error) {
+func (s *Service) CreatePhotoFromUpload(ctx context.Context, file domain.UploadedFileRef, ttlSeconds int) (domain.Photo, error) {
 	intentHash, err := uploadedMediaIntentHash(domain.UploadedMediaPhoto, file, nil)
 	if err != nil {
 		return domain.Photo{}, err
@@ -63,7 +63,7 @@ func (s *Service) CreatePhotoFromUpload(ctx context.Context, file domain.Uploade
 	if len(data) == 0 {
 		return domain.Photo{}, domain.ErrPhotoInvalid
 	}
-	photo, err := s.createPhoto(ctx, data, photoSizeSpecsForMessage(data))
+	photo, err := s.createPhoto(ctx, data, photoSizeSpecsForMessage(data), ttlSeconds > 0)
 	if err != nil {
 		return domain.Photo{}, err
 	}
@@ -90,7 +90,7 @@ func (s *Service) CreatePhotoFromBytes(ctx context.Context, data []byte) (domain
 	if len(data) == 0 {
 		return domain.Photo{}, domain.ErrPhotoInvalid
 	}
-	return s.createPhoto(ctx, data, photoSizeSpecsForMessage(data))
+	return s.createPhoto(ctx, data, photoSizeSpecsForMessage(data), false)
 }
 
 // GetPhoto 按 id 返回已存储照片。
@@ -620,9 +620,9 @@ func (s *Service) DeleteProfilePhotosKind(ctx context.Context, ownerType domain.
 }
 
 // createPhoto 把字节落 blob（每个尺寸一个 location_key，指向同一内容）并写 photos 表。
-func (s *Service) createPhoto(ctx context.Context, data []byte, specs []photoSizeSpec) (domain.Photo, error) {
+func (s *Service) createPhoto(ctx context.Context, data []byte, specs []photoSizeSpec, isViewOnce bool) (domain.Photo, error) {
 	photoID := randomID()
-	sizes, err := s.putPhotoStaticSizes(ctx, photoID, data, specs)
+	sizes, err := s.putPhotoStaticSizes(ctx, photoID, data, specs, isViewOnce)
 	if err != nil {
 		return domain.Photo{}, err
 	}
@@ -660,27 +660,70 @@ func (s *Service) createAvatarPhoto(ctx context.Context, data []byte) (domain.Ph
 	return photo, nil
 }
 
-func (s *Service) putPhotoStaticSizes(ctx context.Context, photoID int64, data []byte, specs []photoSizeSpec) ([]domain.PhotoSize, error) {
+func (s *Service) putPhotoStaticSizes(ctx context.Context, photoID int64, data []byte, specs []photoSizeSpec, isViewOnce bool) ([]domain.PhotoSize, error) {
 	objectKey, err := s.blobs.Put(ctx, data)
 	if err != nil {
 		return nil, err
 	}
 	mimeType := imageMimeType(data)
 	sizes := make([]domain.PhotoSize, 0, len(specs))
+	
+	var src image.Image
+	var format string
+	
 	for _, spec := range specs {
+		if spec.Type == "x" || spec.Type == "y" {
+			blob := domain.FileBlob{
+				LocationKey: fmt.Sprintf("photo:%d:%s", photoID, spec.Type),
+				Backend:     domain.MediaBackend(s.blobs.Name()),
+				ObjectKey:   objectKey,
+				Size:        int64(len(data)),
+				MimeType:    mimeType,
+			}
+			if err := s.media.PutFileBlob(ctx, blob); err != nil {
+				return nil, err
+			}
+			s.blobCache.put(blob.LocationKey, blob)
+			sizes = append(sizes, domain.PhotoSize{Kind: domain.PhotoSizeKindDefault, Type: spec.Type, W: spec.W, H: spec.H, Size: len(data)})
+			continue
+		}
+		
+		if src == nil {
+			src, format, _ = image.Decode(bytes.NewReader(data))
+		}
+		
+		targetSpec := spec
+		if isViewOnce {
+			targetSpec.W = 40
+			targetSpec.H = 40
+		}
+		
+		var rendition []byte
+		if src != nil {
+			rendition, _ = messageRendition(data, src, format, targetSpec, isViewOnce)
+		}
+		if len(rendition) == 0 {
+			rendition = data // fallback
+		}
+		
+		rendObjectKey, err := s.blobs.Put(ctx, rendition)
+		if err != nil {
+			return nil, err
+		}
 		blob := domain.FileBlob{
 			LocationKey: fmt.Sprintf("photo:%d:%s", photoID, spec.Type),
 			Backend:     domain.MediaBackend(s.blobs.Name()),
-			ObjectKey:   objectKey,
-			Size:        int64(len(data)),
-			MimeType:    mimeType,
+			ObjectKey:   rendObjectKey,
+			Size:        int64(len(rendition)),
+			MimeType:    imageMimeType(rendition),
 		}
 		if err := s.media.PutFileBlob(ctx, blob); err != nil {
 			return nil, err
 		}
 		s.blobCache.put(blob.LocationKey, blob)
-		sizes = append(sizes, domain.PhotoSize{Kind: domain.PhotoSizeKindDefault, Type: spec.Type, W: spec.W, H: spec.H, Size: len(data)})
+		sizes = append(sizes, domain.PhotoSize{Kind: domain.PhotoSizeKindDefault, Type: spec.Type, W: targetSpec.W, H: targetSpec.H, Size: len(rendition)})
 	}
+
 	s.prewarmSmallBlob(objectKey, data)
 	return sizes, nil
 }
@@ -726,6 +769,40 @@ func (s *Service) putAvatarStaticSizes(ctx context.Context, photoID int64, data 
 		})
 	}
 	return sizes, nil
+}
+
+func messageRendition(data []byte, src image.Image, format string, spec photoSizeSpec, blur bool) ([]byte, error) {
+	bounds := src.Bounds()
+	if !blur && bounds.Dx() <= spec.W && bounds.Dy() <= spec.H {
+		return append([]byte(nil), data...), nil
+	}
+	if spec.W <= 0 || spec.H <= 0 {
+		return nil, domain.ErrPhotoInvalid
+	}
+	
+	w, h := bounds.Dx(), bounds.Dy()
+	if w > spec.W || h > spec.H || blur {
+		if w > h {
+			h = maxInt(1, h * spec.W / w)
+			w = spec.W
+		} else {
+			w = maxInt(1, w * spec.H / h)
+			h = spec.H
+		}
+	}
+	
+	dst := image.NewRGBA(image.Rect(0, 0, w, h))
+	xdraw.CatmullRom.Scale(dst, dst.Bounds(), src, bounds, xdraw.Src, nil)
+	
+	var buf bytes.Buffer
+	if format == "jpeg" {
+		if err := jpeg.Encode(&buf, dst, &jpeg.Options{Quality: 85}); err != nil {
+			return nil, err
+		}
+	} else if err := png.Encode(&buf, dst); err != nil {
+		return nil, err
+	}
+	return buf.Bytes(), nil
 }
 
 func avatarRendition(original []byte, src image.Image, format string, spec photoSizeSpec) ([]byte, error) {

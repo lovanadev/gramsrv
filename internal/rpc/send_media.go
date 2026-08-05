@@ -647,7 +647,7 @@ func (r *Router) resolveInputMedia(ctx context.Context, userID int64, input tg.I
 		if !ok {
 			return nil, fileReferenceInvalidErr()
 		}
-		photo, err := r.deps.Files.CreatePhotoFromUpload(ctx, ref)
+		photo, err := r.deps.Files.CreatePhotoFromUpload(ctx, ref, in.TTLSeconds)
 		if err != nil {
 			return nil, mediaUploadErr(err)
 		}

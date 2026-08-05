@@ -56,7 +56,7 @@ func run() error {
 		defer cancel()
 		_ = httpServer.Shutdown(shutdownCtx)
 	}()
-	log.Printf("telesrv-admin listening on %s", cfg.Addr)
+	log.Printf("whatsgram-admin listening on %s", cfg.Addr)
 	if err := httpServer.ListenAndServe(); err != nil && err != http.ErrServerClosed {
 		return err
 	}

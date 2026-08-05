@@ -20,7 +20,7 @@ func tgMessageMedia(m *domain.MessageMedia) tg.MessageMediaClass {
 	}
 	switch m.Kind {
 	case domain.MessageMediaKindPhoto:
-		out := &tg.MessageMediaPhoto{Spoiler: m.Spoiler}
+		out := &tg.MessageMediaPhoto{Spoiler: m.Spoiler || m.TTLSeconds > 0}
 		if m.Photo != nil {
 			out.Photo = tgPhoto(*m.Photo)
 		}
@@ -38,7 +38,7 @@ func tgMessageMedia(m *domain.MessageMedia) tg.MessageMediaClass {
 			nopremium = true
 		}
 		out := &tg.MessageMediaDocument{
-			Spoiler:   m.Spoiler,
+			Spoiler:   m.Spoiler || m.TTLSeconds > 0,
 			Nopremium: nopremium,
 			Voice:     m.Voice,
 			Round:     m.Round,

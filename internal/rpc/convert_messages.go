@@ -61,6 +61,7 @@ func tgMessage(m domain.Message) tg.MessageClass {
 	msg := &tg.Message{
 		Out:         m.Out,
 		MediaUnread: m.MediaUnread,
+		Silent:      m.Silent,
 		ID:          m.ID,
 		PeerID:      peer,
 		Date:        m.Date,

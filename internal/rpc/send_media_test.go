@@ -528,7 +528,7 @@ func fakeMoveInt64(in []int64, from, to int) []int64 {
 	out = append(out[:to], append([]int64{value}, out[to:]...)...)
 	return out
 }
-func (f *fakeFiles) CreatePhotoFromUpload(_ context.Context, _ domain.UploadedFileRef) (domain.Photo, error) {
+func (f *fakeFiles) CreatePhotoFromUpload(_ context.Context, _ domain.UploadedFileRef, _ int) (domain.Photo, error) {
 	photo := domain.Photo{ID: 777, AccessHash: 7, DCID: 2, Sizes: []domain.PhotoSize{{Kind: domain.PhotoSizeKindDefault, Type: "x", W: 800, H: 600}}}
 	return f.putPhoto(photo), nil
 }

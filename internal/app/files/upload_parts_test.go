@@ -150,14 +150,14 @@ func TestCreatePhotoFromUploadReceiptReplaysAfterPartCleanup(t *testing.T) {
 	if _, err := svc.SaveFilePart(ctx, file.OwnerUserID, file.FileID, 0, []byte("image-bytes")); err != nil {
 		t.Fatalf("SaveFilePart: %v", err)
 	}
-	first, err := svc.CreatePhotoFromUpload(ctx, file)
+	first, err := svc.CreatePhotoFromUpload(ctx, file, 0)
 	if err != nil {
 		t.Fatalf("CreatePhotoFromUpload: %v", err)
 	}
 	if remaining, err := media.LoadFileParts(ctx, file.OwnerUserID, file.FileID); err != nil || len(remaining) != 0 {
 		t.Fatalf("upload parts after photo materialization = %+v err=%v", remaining, err)
 	}
-	replayed, err := svc.CreatePhotoFromUpload(ctx, file)
+	replayed, err := svc.CreatePhotoFromUpload(ctx, file, 0)
 	if err != nil {
 		t.Fatalf("replay CreatePhotoFromUpload: %v", err)
 	}
@@ -166,7 +166,7 @@ func TestCreatePhotoFromUploadReceiptReplaysAfterPartCleanup(t *testing.T) {
 	}
 	changed := file
 	changed.Name = "different.jpg"
-	if _, err := svc.CreatePhotoFromUpload(ctx, changed); !errors.Is(err, domain.ErrFilePartsInvalid) {
+	if _, err := svc.CreatePhotoFromUpload(ctx, changed, 0); !errors.Is(err, domain.ErrFilePartsInvalid) {
 		t.Fatalf("changed photo intent err = %v, want ErrFilePartsInvalid", err)
 	}
 }

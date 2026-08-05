@@ -863,7 +863,7 @@ type FilesService interface {
 	RenameStickerSet(ctx context.Context, actorUserID int64, ref domain.StickerSetRef, title string) (domain.StickerSet, []domain.Document, error)
 	DeleteStickerSet(ctx context.Context, actorUserID int64, ref domain.StickerSetRef) (domain.StickerSetKind, error)
 	// 头像（profile photo）与消息媒体组装。
-	CreatePhotoFromUpload(ctx context.Context, file domain.UploadedFileRef) (domain.Photo, error)
+	CreatePhotoFromUpload(ctx context.Context, file domain.UploadedFileRef, ttlSeconds int) (domain.Photo, error)
 	CreatePhotoFromBytes(ctx context.Context, data []byte) (domain.Photo, error)
 	// CreatePhotoFromURL / CreateDocumentFromURL 抓取外链媒体（inputMediaPhoto/DocumentExternal），
 	// SSRF 安全；未启用返回 ErrExternalMediaDisabled。

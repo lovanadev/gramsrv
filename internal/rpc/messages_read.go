@@ -53,17 +53,19 @@ func (r *Router) onMessagesReadMessageContents(ctx context.Context, ids []int) (
 			PtsCount: affected.PtsCount,
 		}
 		contents.SetDate(now)
-		r.pushUserUpdatesIfNoReliableDispatch(ctx, userID, &tg.Updates{
+		r.pushUserUpdates(ctx, userID, &tg.Updates{
 			Updates: []tg.UpdateClass{contents},
 			Date:    now,
 			Seq:     0,
 		})
 	}
 	// voice/round 的对端发送者收到自己视角 box id 的内容已读回执，
-	// 让 sender 端的"未听"蓝点消失；reliable outbox 部署下由 worker 投递。
+	// 让 sender 端的"未听"蓝点消失。
+	// 注意：TTL 阅后即焚图片依赖该通知立即消散模糊状态并开始倒计时，
+	// 因此即使启用了 reliable outbox 也必须直接通过 live push 立即下发。
 	for _, event := range read.SenderEvents {
 		if update := tgOtherUpdateFromEvent(event); update != nil {
-			r.pushUserUpdatesIfNoReliableDispatch(ctx, event.UserID, &tg.Updates{
+			r.pushUserUpdates(ctx, event.UserID, &tg.Updates{
 				Updates: []tg.UpdateClass{update},
 				Date:    now,
 				Seq:     0,
