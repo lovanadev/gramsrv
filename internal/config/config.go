@@ -227,6 +227,9 @@ type Config struct {
 	StarGiftTONStartingGrant int64
 	// BlobDir 是本地磁盘 blob backend 根目录（媒体文件字节内容）。
 	BlobDir string
+	// WarmCachesEnable 控制启动时是否全量读取并缓存所有的媒体小文件。
+	// 当使用 R2 rclone 等 FUSE 云端挂载时建议关闭，避免启动时挂起。
+	WarmCachesEnable bool
 	// StickerSeedDir 是 reaction / sticker 资源种子目录（导入到 documents/sticker_sets + blob）。
 	StickerSeedDir string
 	// StickerSeedMaxSets 限制导入的常规贴纸集数量（避免启动时导入过多包），<=0 表示不限。
@@ -712,6 +715,7 @@ func Load() (Config, error) {
 		// TELESRV_STARGIFT_TON_STARTING_GRANT diubah dari 10_000_000_000 (10 TON) menjadi 0.
 		StarGiftTONStartingGrant:      envInt64Or("TELESRV_STARGIFT_TON_STARTING_GRANT", 0),
 		BlobDir:                       envOr("TELESRV_BLOB_DIR", "data/blobs"),
+		WarmCachesEnable:              envBoolOr("TELESRV_WARM_CACHES_ENABLE", true),
 		StickerSeedDir:                envOr("TELESRV_STICKER_SEED_DIR", "data/sticker-seed"),
 		StickerSeedMaxSets:            envIntOr("TELESRV_STICKER_SEED_MAX_SETS", 300),
 		PremiumPromoSeedDir:           envOr("TELESRV_PREMIUM_PROMO_SEED_DIR", "data/premium-promo"),
