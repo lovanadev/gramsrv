@@ -48,6 +48,7 @@ import (
 	passkeyapp "telesrv/internal/app/passkey"
 	phoneapp "telesrv/internal/app/phone"
 	pollsapp "telesrv/internal/app/polls"
+	premiumapp "telesrv/internal/app/premium"
 	privacyapp "telesrv/internal/app/privacy"
 	ratingapp "telesrv/internal/app/rating"
 	secretchatapp "telesrv/internal/app/secretchat"
@@ -80,6 +81,7 @@ import (
 	"telesrv/internal/store/redisstore"
 	"telesrv/internal/telegramloginhttp"
 	"telesrv/internal/turnsrv"
+	"telesrv/internal/updatecdn"
 	"telesrv/internal/web"
 )
 
@@ -513,6 +515,12 @@ func run(logger *zap.Logger) error {
 	if err != nil {
 		return fmt.Errorf("load config: %w", err)
 	}
+	if !domain.ConfigurePremiumBotUserID(cfg.PremiumBotUserID) {
+		return fmt.Errorf("configure Premium bot user id %d", cfg.PremiumBotUserID)
+	}
+	if !domain.ConfigurePremiumBotUsername(cfg.PremiumBotUsername) {
+		return fmt.Errorf("configure Premium bot username %q", cfg.PremiumBotUsername)
+	}
 	buildMeta := currentBuildMetadata()
 
 	rsaKey, err := mtprotoedge.LoadOrGenerateRSAKey(cfg.RSAKeyPath)
@@ -666,6 +674,7 @@ func run(logger *zap.Logger) error {
 	updateStateStore := postgres.NewUpdateStateStore(pool)
 	updateEventStore := postgres.NewUpdateEventStore(pool, postgres.WithUpdateEventLogger(logger.Named("store").Named("updates")))
 	phoneChangeStore := postgres.NewPhoneChangeStore(pool)
+	collectiblePhoneStore := postgres.NewCollectiblePhoneStore(pool)
 	readModelVersionStore := storepkg.NewCachedReadModelVersionStore(postgres.NewReadModelVersionStore(pool), 0, 0)
 	dispatchOutboxStore := postgres.NewDispatchOutboxStore(pool, postgres.WithLeaseTimeout(cfg.OutboxLeaseTimeout))
 	bootstrapUpdateStore := postgres.NewBootstrapUpdateJobStore(pool)
@@ -828,6 +837,7 @@ func run(logger *zap.Logger) error {
 		contacts.WithPhotoProvider(cachedPhotos),
 		contacts.WithPrivacyEvaluator(privacyService),
 		contacts.WithAccountFreezeProvider(adminService),
+		contacts.WithCollectiblePhoneProvider(collectiblePhoneStore),
 		contacts.WithReadModelVersions(readModelVersionStore),
 	)
 	if seeded, err := langPackService.SeedDirectory(ctx, cfg.LangPackSeedDir); err != nil {
@@ -1006,6 +1016,19 @@ func run(logger *zap.Logger) error {
 	starsService := stars.NewService(starsStore,
 		stars.WithStartingGrant(cfg.StarsStartingGrant),
 		stars.WithPurchaseStore(starsPurchaseStore))
+	premiumStore := postgres.NewPremiumStore(pool, messageStore, cfg.PremiumBotUserID)
+	if err := premiumStore.EnsurePremiumBotIdentity(ctx, cfg.PremiumBotUsername); err != nil {
+		return fmt.Errorf("configure Premium bot: %w", err)
+	}
+	premiumService := premiumapp.NewService(premiumStore, premiumapp.Config{
+		BotUserID: cfg.PremiumBotUserID,
+		Username:  cfg.PremiumBotUsername,
+		Stars:     starsService,
+	})
+	if err := premiumService.SyncPlans(ctx, cfg.PremiumPlans); err != nil {
+		return fmt.Errorf("sync Premium plans: %w", err)
+	}
+	botsService.SetPremium(premiumService)
 	starGiftStore := postgres.NewStarGiftStore(pool)
 	starGiftUpgradeStore := postgres.NewStarGiftUpgradeStore(pool, messageStore, postgres.WithStarGiftLifecyclePolicy(domain.StarGiftLifecyclePolicy{
 		TransferStars: cfg.StarGiftTransferStars, DropOriginalDetailsStars: cfg.StarGiftDropOriginalDetailsStars,
@@ -1035,7 +1058,7 @@ func run(logger *zap.Logger) error {
 		passkeyapp.WithAllowedOrigins(cfg.PasskeyAllowedOrigins))
 	// 自定义云主题(Create a New Theme):主题目录与每用户已安装列表均持久化到 postgres。
 	themeService := themesapp.NewService(postgres.NewThemeStore(pool))
-	usersService := users.NewService(userStore, users.WithBaseUserCache(userCache), users.WithContactStore(contactStore), users.WithPhotoProvider(cachedPhotos), users.WithPrivacyEvaluator(privacyService), users.WithAccountFreezeProvider(adminService))
+	usersService := users.NewService(userStore, users.WithBaseUserCache(userCache), users.WithContactStore(contactStore), users.WithPhotoProvider(cachedPhotos), users.WithPrivacyEvaluator(privacyService), users.WithAccountFreezeProvider(adminService), users.WithCollectiblePhoneStore(collectiblePhoneStore))
 	privacyService.ConfigureReadModels(usersService, channelStore)
 	aiComposeService := aiapp.NewService(aiComposeStore, newAIComposeOptions(cfg, rateLimiter, usersService.PremiumActive, logger)...)
 	botsService.SetAIChatGenerator(aiComposeService)
@@ -1044,6 +1067,7 @@ func run(logger *zap.Logger) error {
 		dialogs.WithPhotoProvider(cachedPhotos),
 		dialogs.WithPrivacyEvaluator(privacyService),
 		dialogs.WithAccountFreezeProvider(adminService),
+		dialogs.WithCollectiblePhoneProvider(collectiblePhoneStore),
 		dialogs.WithPremiumChecker(usersService.PremiumActive),
 		dialogs.WithReadModelVersions(readModelVersionStore),
 	)
@@ -1070,6 +1094,7 @@ func run(logger *zap.Logger) error {
 		messageapp.WithPhotoProvider(cachedPhotos),
 		messageapp.WithPrivacyEvaluator(privacyService),
 		messageapp.WithAccountFreezeProvider(adminService),
+		messageapp.WithCollectiblePhoneProvider(collectiblePhoneStore),
 		messageapp.WithReadModelVersions(readModelVersionStore),
 		messageapp.WithBotResponder(botsService),
 		messageapp.WithSendPermissionChecker(adminService),
@@ -1192,6 +1217,14 @@ func run(logger *zap.Logger) error {
 	botsService.SetCustomVerification(botVerificationService)
 	botVerificationService.SetApplicantNotifier(botsService)
 	updatesService := updates.NewService(updateStateStore, updateEventStore, updates.WithLogger(logger.Named("app").Named("updates")))
+	var appUpdateResolver updatecdn.Resolver
+	if cfg.UpdateServiceURL != "" {
+		client, err := updatecdn.NewClient(cfg.UpdateServiceURL, cfg.UpdateRequestTimeout)
+		if err != nil {
+			return fmt.Errorf("initialize update service client: %w", err)
+		}
+		appUpdateResolver = client
+	}
 	router := rpc.New(rpc.Config{
 		DC:                       cfg.DC,
 		DefaultCountryCode:       cfg.DefaultCountryCode,
@@ -1211,6 +1244,7 @@ func run(logger *zap.Logger) error {
 		GroupCallMaxParticipants: cfg.GroupCallMaxParticipants,
 		RtmpIngestURL:            cfg.LiveStreamRtmpURL,
 		PublicBaseURL:            cfg.PublicBaseURL,
+		UpdatePublicURL:          cfg.UpdatePublicURL,
 		PublicAppScheme:          cfg.PublicAppScheme,
 		PublicAppLinkBase:        cfg.PublicAppLinkBase,
 		// PFS temp→perm 解析缓存：显式撤销会清缓存并断开连接，re-bind 即时失效；
@@ -1224,49 +1258,55 @@ func run(logger *zap.Logger) error {
 		AuthKeySessionLayers: authKeyStore,
 		Account:              accountService,
 		Privacy:              privacyService,
-		Help:                 help.NewService(helpStore, helpStore, help.WithMapboxToken(cfg.MapboxToken), help.WithAccountFreezeProvider(adminService)),
-		AccountFreeze:        adminService,
-		AICompose:            aiComposeService,
-		Ephemeral:            ephemeralService,
-		EphemeralPush:        ephemeralStore,
-		Moderation:           moderationService,
-		Users:                usersService,
-		Usernames:            usernamesService,
-		AccountRatings:       ratingService,
-		BotVerifications:     botVerificationService,
-		TelegramLogin:        telegramLoginRPCDependency(telegramLoginService),
-		Updates:              updatesService,
-		BootstrapUpdates:     bootstrapUpdateStore,
-		BotAPIUpdates:        botAPIUpdateStore,
-		BotCallbacks:         botCallbackStore,
-		Contacts:             contactsService,
-		Dialogs:              dialogsService,
-		Chatlists:            chatlistsService,
-		Messages:             messagesService,
-		Translation:          translationService,
-		Channels:             channelsService,
-		Communities:          communitiesService,
-		Files:                filesService,
-		PremiumPromo:         filesService,
-		Bots:                 botsService,
-		ServiceBotCallbacks:  botsService,
-		Polls:                pollsapp.NewService(pollStore),
-		Stories:              storiesService,
-		Phone:                phoneService,
-		SecretChats:          secretChatService,
-		Stars:                starsService,
-		Gifts:                giftsService,
-		Passkey:              passkeyService,
-		Themes:               themeService,
-		GroupCalls:           groupCallsService,
-		LiveStreams:          liveStreamDep(liveStreamService),
-		SFU:                  sfuService,
-		TURN:                 turnService,
-		LangPack:             langPackService,
-		Sessions:             activeSessions,
-		Metrics:              metricRegistry,
-		Inline:               inlineRegistryStore,
-		Limiter:              rateLimiter,
+		Help: help.NewService(helpStore, helpStore,
+			help.WithMapboxToken(cfg.MapboxToken),
+			help.WithPremiumBotUsername(cfg.PremiumBotUsername),
+			help.WithAccountFreezeProvider(adminService)),
+		AppUpdates:          appUpdateResolver,
+		AccountFreeze:       adminService,
+		AICompose:           aiComposeService,
+		Ephemeral:           ephemeralService,
+		EphemeralPush:       ephemeralStore,
+		Moderation:          moderationService,
+		Users:               usersService,
+		Usernames:           usernamesService,
+		CollectiblePhones:   collectiblePhoneStore,
+		AccountRatings:      ratingService,
+		BotVerifications:    botVerificationService,
+		TelegramLogin:       telegramLoginRPCDependency(telegramLoginService),
+		Updates:             updatesService,
+		BootstrapUpdates:    bootstrapUpdateStore,
+		BotAPIUpdates:       botAPIUpdateStore,
+		BotCallbacks:        botCallbackStore,
+		Contacts:            contactsService,
+		Dialogs:             dialogsService,
+		Chatlists:           chatlistsService,
+		Messages:            messagesService,
+		Translation:         translationService,
+		Channels:            channelsService,
+		Communities:         communitiesService,
+		Files:               filesService,
+		PremiumPromo:        filesService,
+		Bots:                botsService,
+		ServiceBotCallbacks: botsService,
+		Polls:               pollsapp.NewService(pollStore),
+		Stories:             storiesService,
+		Phone:               phoneService,
+		SecretChats:         secretChatService,
+		Stars:               starsService,
+		Premium:             premiumService,
+		Gifts:               giftsService,
+		Passkey:             passkeyService,
+		Themes:              themeService,
+		GroupCalls:          groupCallsService,
+		LiveStreams:         liveStreamDep(liveStreamService),
+		SFU:                 sfuService,
+		TURN:                turnService,
+		LangPack:            langPackService,
+		Sessions:            activeSessions,
+		Metrics:             metricRegistry,
+		Inline:              inlineRegistryStore,
+		Limiter:             rateLimiter,
 	}, logger.Named("rpc"), clock.System)
 	readModelListener := postgres.NewReadModelChangeListener(cfg.PostgresDSN, postgres.ReadModelCacheSet{
 		ReadModelVersions:  readModelVersionStore,
@@ -1296,6 +1336,7 @@ func run(logger *zap.Logger) error {
 		Revoker:                router,
 		Users:                  usersService,
 		Stars:                  starsService,
+		Premium:                premiumService,
 		StarsNotifier:          router,
 		UserNotifier:           router,
 		UserModerationNotifier: router,
@@ -1309,6 +1350,7 @@ func run(logger *zap.Logger) error {
 		Emoji:                  filesService,
 		Moderation:             moderationService,
 		Usernames:              usernamesService,
+		CollectiblePhones:      collectiblePhoneStore,
 		Rating:                 ratingService,
 		Verification:           verificationService,
 		BotVerification:        botVerificationService,
