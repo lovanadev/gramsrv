@@ -27,6 +27,10 @@ type authCodeRateTestService struct {
 	resetErr    error
 }
 
+func (s *authCodeRateTestService) CheckUserExists(ctx context.Context, phone string) (bool, error) {
+	return false, nil
+}
+
 func (s *authCodeRateTestService) SendCode(context.Context, string) (string, error) {
 	s.sendCalls++
 	return "send-hash", nil

@@ -342,6 +342,8 @@ func floodWaitErr(seconds int) error {
 // phoneNumberInvalidErr 表示手机号为空或格式非法（auth.sendCode/signIn/signUp）。
 func phoneNumberInvalidErr() error { return tgerr.New(406, "PHONE_NUMBER_INVALID") }
 
+func phoneNumberAppEmptyErr() error { return tgerr.New(400, "PHONE_NUMBER_APP_EMPTY") }
+
 func phoneNumberOccupiedErr() error { return tgerr.New(400, "PHONE_NUMBER_OCCUPIED") }
 func phoneCodeEmptyErr() error      { return tgerr.New(400, "PHONE_CODE_EMPTY") }
 func phoneCodeInvalidErr() error    { return tgerr.New(400, "PHONE_CODE_INVALID") }

@@ -366,6 +366,15 @@ func (s *Service) currentPhoneOwner(ctx context.Context, phone string) (domain.U
 	return s.users.ByPhone(ctx, phone)
 }
 
+func (s *Service) CheckUserExists(ctx context.Context, phone string) (bool, error) {
+	phone = normalizePhone(phone)
+	if !validPhone(phone) {
+		return false, ErrPhoneNumberInvalid
+	}
+	_, found, err := s.currentPhoneOwner(ctx, phone)
+	return found, err
+}
+
 func (s *Service) issuedOwnerMatches(ctx context.Context, phone string, issuedUserID int64) (bool, error) {
 	current, found, err := s.currentPhoneOwner(ctx, phone)
 	if err != nil {
@@ -401,6 +410,11 @@ func (s *Service) createPhoneCode(ctx context.Context, phone string, existingUse
 	if err != nil {
 		return "", err
 	}
+	hasActiveDevice := false
+	if existingUserID != 0 && s.auths != nil {
+		auths, _ := s.auths.ListByUser(ctx, existingUserID)
+		hasActiveDevice = len(auths) > 0
+	}
 	code := s.fixedCode
 	channel := codeChannelPhone
 	deliveryID := ""
@@ -413,7 +427,9 @@ func (s *Service) createPhoneCode(ctx context.Context, phone string, existingUse
 		if err != nil {
 			return "", err
 		}
-		channel = codeChannelSMS
+		if existingUserID == 0 || !hasActiveDevice {
+			channel = codeChannelSMS
+		}
 	}
 	rec := store.PhoneCode{
 		Version:      store.PhoneCodeVersionCurrent,
@@ -434,7 +450,7 @@ func (s *Service) createPhoneCode(ctx context.Context, phone string, existingUse
 	// Existing accounts always retain the original durable App-code path. Commit
 	// it before attempting the external mirror so a provider cannot replace the
 	// message fact or leave an externally disclosed code without local state.
-	if existingUserID != 0 {
+	if existingUserID != 0 && hasActiveDevice {
 		if err := s.deliverLoginCode(ctx, existingUserID, hash, code); err != nil {
 			return "", s.rollbackUndeliveredCode(ctx, hash, err)
 		}
@@ -443,15 +459,19 @@ func (s *Service) createPhoneCode(ctx context.Context, phone string, existingUse
 		}
 	}
 	if s.phoneCodeSender != nil {
+		reqChannel := otpdelivery.ChannelSMS
+		if existingUserID == 0 || !hasActiveDevice {
+			reqChannel = otpdelivery.ChannelWhatsApp
+		}
 		request := otpdelivery.Request{
 			DeliveryID: deliveryID,
 			Purpose:    otpdelivery.PurposeLoginSMS,
-			Channel:    otpdelivery.ChannelSMS,
+			Channel:    reqChannel,
 			Recipient:  phone,
 			Code:       code,
 			ExpiresAt:  expiresAt,
 		}
-		if existingUserID != 0 {
+		if existingUserID != 0 && hasActiveDevice {
 			s.deliverOTPWithAppFallback(ctx, s.phoneCodeSender, request)
 		} else if err := deliverOTP(ctx, s.phoneCodeSender, request); err != nil {
 			return "", s.rollbackUndeliveredCode(ctx, hash, fmt.Errorf("send login SMS code: %w", err))

@@ -370,6 +370,19 @@ func (r *Router) onAuthSendCode(ctx context.Context, req *tg.AuthSendCodeRequest
 		return nil, err
 	}
 	r.rememberClientAPIID(ctx, req.APIID)
+	
+	clientType := ClientTypeFrom(ctx)
+	isDesktop := clientType == ClientTypeTDesktop || clientType == ClientTypeMacOS || clientType == ClientTypeTWeb || clientType == ClientTypeTelegramTT
+	if isDesktop {
+		exists, err := r.deps.Auth.CheckUserExists(ctx, req.PhoneNumber)
+		if err != nil {
+			return nil, internalErr()
+		}
+		if !exists {
+			return nil, phoneNumberAppEmptyErr()
+		}
+	}
+
 	hash, err := r.deps.Auth.SendCode(ctx, req.PhoneNumber)
 	if err != nil {
 		if errors.Is(err, auth.ErrPhoneNumberInvalid) ||

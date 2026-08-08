@@ -25,6 +25,7 @@ type AuthService interface {
 	UserID(ctx context.Context, authKeyID [8]byte) (int64, bool, error)
 	PendingPasswordUserID(ctx context.Context, authKeyID [8]byte) (int64, bool, error)
 	CompletePasswordSignIn(ctx context.Context, authKeyID [8]byte) error
+	CheckUserExists(ctx context.Context, phone string) (bool, error)
 	SendCode(ctx context.Context, phone string) (string, error)
 	CodeDelivery(ctx context.Context, phoneCodeHash string) (domain.AuthCodeDelivery, bool, error)
 	ResendCode(ctx context.Context, phone, phoneCodeHash string) (string, error)

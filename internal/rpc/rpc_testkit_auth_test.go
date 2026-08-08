@@ -86,6 +86,10 @@ func (s *blockingUserAuthService) UserID(ctx context.Context, _ [8]byte) (int64,
 	}
 }
 
+func (s *blockingUserAuthService) CheckUserExists(ctx context.Context, phone string) (bool, error) {
+	return false, nil
+}
+
 func (s *blockingUserAuthService) SendCode(context.Context, string) (string, error) {
 	return "", nil
 }
@@ -179,6 +183,10 @@ func (s *captureAuthService) ResolveAuthKey(context.Context, [8]byte) ([8]byte, 
 func (s *captureAuthService) UserID(context.Context, [8]byte) (int64, bool, error) {
 	s.userIDCount++
 	return s.userID, s.userID != 0, nil
+}
+
+func (s *captureAuthService) CheckUserExists(ctx context.Context, phone string) (bool, error) {
+	return false, nil
 }
 
 func (s *captureAuthService) SendCode(context.Context, string) (string, error) {

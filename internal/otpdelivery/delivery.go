@@ -17,8 +17,9 @@ import (
 type Channel string
 
 const (
-	ChannelEmail Channel = "email"
-	ChannelSMS   Channel = "sms"
+	ChannelEmail    Channel = "email"
+	ChannelSMS      Channel = "sms"
+	ChannelWhatsApp Channel = "whatsapp"
 )
 
 type Purpose string
@@ -53,7 +54,7 @@ func (r Request) Validate(now time.Time) error {
 		return fmt.Errorf("unsupported delivery purpose %q", r.Purpose)
 	}
 	switch r.Channel {
-	case ChannelEmail, ChannelSMS:
+	case ChannelEmail, ChannelSMS, ChannelWhatsApp:
 	default:
 		return fmt.Errorf("unsupported delivery channel %q", r.Channel)
 	}
