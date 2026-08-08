@@ -3174,16 +3174,19 @@ func (s *Service) ImportOfficialStarGift(ctx context.Context, req ImportOfficial
 func officialRarity(value officialgifts.Rarity) (domain.StarGiftAttributeRarityKind, int, error) {
 	kind := domain.StarGiftAttributeRarityKind(strings.ToLower(strings.TrimSpace(value.Kind)))
 	if !kind.Valid() {
-		return "", 0, domain.ErrStarGiftCollectibleInvalid
+		return "", 0, fmt.Errorf("officialRarity: invalid kind %q", value.Kind)
 	}
 	if kind == domain.StarGiftRarityPermille {
-		if value.Permille == nil || *value.Permille <= 0 || *value.Permille > 1000 {
-			return "", 0, domain.ErrStarGiftCollectibleInvalid
+		if value.Permille == nil {
+			return "", 0, fmt.Errorf("officialRarity: permille kind but value is nil")
+		}
+		if *value.Permille <= 0 || *value.Permille > 1000 {
+			return "", 0, fmt.Errorf("officialRarity: permille value out of bounds: %d", *value.Permille)
 		}
 		return kind, *value.Permille, nil
 	}
 	if value.Permille != nil {
-		return "", 0, domain.ErrStarGiftCollectibleInvalid
+		return "", 0, fmt.Errorf("officialRarity: non-permille kind %q has permille value %d", value.Kind, *value.Permille)
 	}
 	return kind, 0, nil
 }

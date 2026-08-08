@@ -1,0 +1,3 @@
+ALTER TABLE star_gift_collectible_models ADD CONSTRAINT star_gift_collectible_model_name_uniq UNIQUE (collectible_revision_id, name);
+ALTER TABLE star_gift_collectible_patterns ADD CONSTRAINT star_gift_collectible_pattern_name_uniq UNIQUE (collectible_revision_id, name);
+ALTER TABLE star_gift_collectible_backdrops ADD CONSTRAINT star_gift_collectible_backdrop_name_uniq UNIQUE (collectible_revision_id, name);

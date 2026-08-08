@@ -965,14 +965,29 @@ var starGiftCollectibleSlugPrefix = regexp.MustCompile(`^[a-z0-9][a-z0-9-]{0,47}
 // blobs/documents are allocated. This is the validation boundary used by admin dry-runs.
 func ValidateStarGiftCollectibleDraft(write StarGiftCollectibleWrite) error {
 	write.SlugPrefix = strings.TrimSpace(strings.ToLower(write.SlugPrefix))
-	if write.GiftID <= 0 || write.UpgradeStars <= 0 || write.SupplyTotal <= 0 ||
-		!starGiftCollectibleSlugPrefix.MatchString(write.SlugPrefix) || strings.TrimSpace(write.CommandID) == "" {
-		return ErrStarGiftCollectibleInvalid
+	if write.GiftID <= 0 {
+		return fmt.Errorf("invalid gift ID %d", write.GiftID)
 	}
-	if write.OfficialGiftID < 0 ||
-		(write.OfficialGiftID == 0 && len(write.SourceManifestSHA256) != 0) ||
-		(write.OfficialGiftID > 0 && len(write.SourceManifestSHA256) != 32) {
-		return ErrStarGiftCollectibleInvalid
+	if write.UpgradeStars <= 0 {
+		return fmt.Errorf("invalid upgrade stars %d", write.UpgradeStars)
+	}
+	if write.SupplyTotal <= 0 {
+		return fmt.Errorf("invalid supply total %d", write.SupplyTotal)
+	}
+	if !starGiftCollectibleSlugPrefix.MatchString(write.SlugPrefix) {
+		return fmt.Errorf("invalid slug prefix %s", write.SlugPrefix)
+	}
+	if strings.TrimSpace(write.CommandID) == "" {
+		return fmt.Errorf("invalid command ID")
+	}
+	if write.OfficialGiftID < 0 {
+		return fmt.Errorf("invalid official gift ID %d", write.OfficialGiftID)
+	}
+	if write.OfficialGiftID == 0 && len(write.SourceManifestSHA256) != 0 {
+		return fmt.Errorf("source manifest sha256 provided but official gift ID is 0")
+	}
+	if write.OfficialGiftID > 0 && len(write.SourceManifestSHA256) != 32 {
+		return fmt.Errorf("official gift ID is > 0 but source manifest sha256 len is %d", len(write.SourceManifestSHA256))
 	}
 	if err := validateStarGiftAttributes(write.Models, StarGiftCollectibleModel, false); err != nil {
 		return err
@@ -1019,16 +1034,16 @@ func validateStarGiftUpgradePreviewPool(write StarGiftCollectibleWrite, requireS
 			selectable++
 			if requireStoredAsset {
 				if attribute.Document == nil {
-					return fmt.Errorf("%w: %s preview attribute has no document", ErrStarGiftCollectibleInvalid, kind)
+					return fmt.Errorf("preview pool: %s preview attribute has no document", kind)
 				}
 				documents[attribute.Document.ID] = struct{}{}
 			}
 		}
 		if selectable < 2 {
-			return fmt.Errorf("%w: %s preview requires at least two selectable attributes", ErrStarGiftCollectibleInvalid, kind)
+			return fmt.Errorf("preview pool: %s preview requires at least two selectable attributes", kind)
 		}
 		if requireStoredAsset && len(documents) < 2 {
-			return fmt.Errorf("%w: %s preview requires at least two distinct documents", ErrStarGiftCollectibleInvalid, kind)
+			return fmt.Errorf("preview pool: %s preview requires at least two distinct documents", kind)
 		}
 		return nil
 	}
@@ -1057,30 +1072,43 @@ func validateStarGiftUpgradePreviewPool(write StarGiftCollectibleWrite, requireS
 }
 
 func validateStarGiftAttributes(attributes []StarGiftCollectibleAttribute, kind StarGiftCollectibleAttributeKind, requireStoredAsset bool) error {
-	if len(attributes) == 0 || len(attributes) > MaxStarGiftCollectibleAttributesPerKind {
-		return ErrStarGiftCollectibleInvalid
+	if len(attributes) == 0 {
+		return fmt.Errorf("validateAttributes %s: len is 0", kind)
 	}
-	seen := make(map[string]struct{}, len(attributes))
+	if len(attributes) > MaxStarGiftCollectibleAttributesPerKind {
+		return fmt.Errorf("validateAttributes %s: len %d exceeds max", kind, len(attributes))
+	}
 	selectable := 0
 	for _, attribute := range attributes {
 		name := strings.TrimSpace(attribute.Name)
 		rarityKind := attribute.RarityKind
-		if attribute.Kind != kind || name == "" || len([]rune(name)) > MaxStarGiftTitleRunes || !rarityKind.Valid() {
-			return ErrStarGiftCollectibleInvalid
+		if attribute.Kind != kind {
+			return fmt.Errorf("validateAttributes %s: kind mismatch (got %s)", kind, attribute.Kind)
+		}
+		if name == "" {
+			return fmt.Errorf("validateAttributes %s: empty name", kind)
+		}
+		if len([]rune(name)) > MaxStarGiftTitleRunes {
+			return fmt.Errorf("validateAttributes %s: name too long %q", kind, name)
+		}
+		if !rarityKind.Valid() {
+			return fmt.Errorf("validateAttributes %s: invalid rarity kind %s for %q", kind, rarityKind, name)
 		}
 		if rarityKind == StarGiftRarityPermille {
-			if attribute.RarityPermille <= 0 || attribute.RarityPermille > 1000 || attribute.Crafted {
-				return ErrStarGiftCollectibleInvalid
+			if attribute.RarityPermille <= 0 || attribute.RarityPermille > 1000 {
+				return fmt.Errorf("validateAttributes %s: invalid permille %d for %q", kind, attribute.RarityPermille, name)
+			}
+			if attribute.Crafted {
+				return fmt.Errorf("validateAttributes %s: crafted with permille %q", kind, name)
 			}
 			selectable++
-		} else if attribute.RarityPermille != 0 || !attribute.Crafted || kind != StarGiftCollectibleModel {
-			return ErrStarGiftCollectibleInvalid
+		} else if attribute.RarityPermille != 0 {
+			return fmt.Errorf("validateAttributes %s: non-zero permille for non-permille rarity %q", kind, name)
+		} else if !attribute.Crafted {
+			return fmt.Errorf("validateAttributes %s: not crafted for non-permille rarity %q", kind, name)
+		} else if kind != StarGiftCollectibleModel {
+			return fmt.Errorf("validateAttributes %s: non-model with non-permille rarity %q", kind, name)
 		}
-		key := strings.ToLower(name)
-		if _, ok := seen[key]; ok {
-			return ErrStarGiftCollectibleInvalid
-		}
-		seen[key] = struct{}{}
 		switch kind {
 		case StarGiftCollectibleModel, StarGiftCollectiblePattern:
 			if attribute.Animation == nil || len(attribute.Animation.JSON) == 0 ||

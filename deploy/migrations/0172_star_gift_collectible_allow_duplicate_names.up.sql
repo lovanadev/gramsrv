@@ -1,0 +1,3 @@
+ALTER TABLE star_gift_collectible_models DROP CONSTRAINT IF EXISTS star_gift_collectible_model_name_uniq;
+ALTER TABLE star_gift_collectible_patterns DROP CONSTRAINT IF EXISTS star_gift_collectible_pattern_name_uniq;
+ALTER TABLE star_gift_collectible_backdrops DROP CONSTRAINT IF EXISTS star_gift_collectible_backdrop_name_uniq;
