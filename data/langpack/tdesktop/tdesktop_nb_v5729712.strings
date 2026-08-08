@@ -162,7 +162,7 @@
 "cloud_lng_passport_in_uk" = "Ukrainsk";
 "cloud_lng_passport_in_uz" = "Usbekisk";
 "cloud_lng_passport_in_vi" = "Vietnamesisk";
-"cloud_lng_tooltip_psa_covid" = "Denne meldingen er en offentlig tjenestekunngjøring vedrørende den pågående COVID-19 pandemien. Lær mer om dette tiltaket på https://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "Denne meldingen er en offentlig tjenestekunngjøring vedrørende den pågående COVID-19 pandemien. Lær mer om dette tiltaket på https://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "Dette er en offisiell kunngjøring fra administrerende direktør ved Telegram angående den pågående konflikten.";
 "cloud_lng_topup_purpose_subs" = "Kjøp **stjerner** for å beholde kanalabonnementene dine.";
 "cloud_lng_translate_to_ar" = "Arabisk";
@@ -220,7 +220,7 @@
 "lng_about_text2" = "Denne programvaren er lisensiert under {gpl_link} versjon 3.\nKildekoden er tilgjengelig på {github_link}.";
 "lng_about_text3" = "Besøk {faq_link} for mer info.";
 "lng_about_text3_faq" = "Ofte stilte spørsmål";
-"lng_about_text_1" = "Offisiell gratis meldingsapp basert på [a href=\"https://core.telegram.org/api\"]Telegram API[/a]\nfor hastighet og sikkerhet.";
+"lng_about_text_1" = "Offisiell gratis meldingsapp basert på [a href=\"https://core.whatsgram.org/api\"]Telegram API[/a]\nfor hastighet og sikkerhet.";
 "lng_about_text_2" = "Denne programvaren er lisensiert under [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] versjon 3.\nKildekode tilgjengelig på [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a].";
 "lng_about_text_3" = "Se {faq_open}ofte stilte spørsmål{faq_close} for mer info.";
 "lng_about_version" = "versjon {version}";
@@ -1302,7 +1302,7 @@
 "lng_bot_download_starting" = "Starter…";
 "lng_bot_earn_available" = "Tilgjengelig saldo";
 "lng_bot_earn_balance_about" = "Stjerner fra din totale saldo kan brukes til annonser eller utbetales 21 dager etter at de er opptjent.";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
+"lng_bot_earn_balance_about_url" = "https://whatsgram.org/tos/stars";
 "lng_bot_earn_balance_button#one" = "Ta ut {count} {emoji}";
 "lng_bot_earn_balance_button#other" = "Ta ut {count} {emoji}";
 "lng_bot_earn_balance_button_all" = "Fullt uttak";
@@ -1443,7 +1443,7 @@
 "lng_business_about_quick_replies" = "Konfigurer snarveier med rik tekst og medieinnhold for å svare på meldinger raskere.";
 "lng_business_about_sponsored" = "Som en abonnent på Premium vil du ikke se noen annonser på Telegram, men du kan slå på disse, for eksempel for å se annonser du selv har lansert på {link}";
 "lng_business_about_sponsored_link" = "Telegram Annonseplattform {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
+"lng_business_about_sponsored_url" = "https://ads.whatsgram.org";
 "lng_business_button_sponsored" = "Ikke skjul annonser";
 "lng_business_edit_messages" = "Rediger meldinger";
 "lng_business_limit_reached#one" = "Grense på {count} melding nådd.";
@@ -1624,7 +1624,7 @@
 "lng_channel_earn_learn_bot_in_about" = "Telegram kan vise annonser i roboten din.";
 "lng_channel_earn_learn_close" = "Jeg skjønner";
 "lng_channel_earn_learn_coin_about" = "Gram er en blokkjedeplattform og kryptovaluta som Telegram bruker for sine høye hastigheter og lave transaksjonsgebyrer. {link}";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels";
+"lng_channel_earn_learn_coin_link" = "https://whatsgram.org/blog/monetization-for-channels";
 "lng_channel_earn_learn_coin_title" = "Hva er {emoji} Gram?";
 "lng_channel_earn_learn_in_about" = "Telegram kan vise annonser i kanalen din.";
 "lng_channel_earn_learn_in_subtitle" = "Telegram Annonser";
@@ -1788,7 +1788,7 @@
 "lng_chatbots_gift_settings" = "Endre gaveinnstillinger";
 "lng_chatbots_include_button" = "Valgte samtaler";
 "lng_chatbots_included_title" = "Inkluderte samtaler";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"lng_chatbots_info_url" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "lng_chatbots_leave_without_added_text" = "Du har ikke lagt til en robot for å administrere kontoen din. Vil du avslutte?";
 "lng_chatbots_leave_without_added_title" = "Ingen robot lagt til";
 "lng_chatbots_manage_gifts" = "Administrere gaver og stjerner";
@@ -2246,7 +2246,7 @@
 "lng_credits_box_history_entry_floodskip_row" = "Meldinger";
 "lng_credits_box_history_entry_fragment" = "Fragment";
 "lng_credits_box_history_entry_gift_about_link" = "Se eksempler {emoji}";
-"lng_credits_box_history_entry_gift_about_url" = "https://telegram.org/blog/telegram-stars";
+"lng_credits_box_history_entry_gift_about_url" = "https://whatsgram.org/blog/telegram-stars";
 "lng_credits_box_history_entry_gift_bought" = "Gavekjøp";
 "lng_credits_box_history_entry_gift_bought_from" = "Fra";
 "lng_credits_box_history_entry_gift_converted" = "Omgjort gave";
@@ -2285,7 +2285,7 @@
 "lng_credits_box_history_entry_via" = "Via";
 "lng_credits_box_history_entry_via_premium_bot" = "Premium Bot";
 "lng_credits_box_out_about" = "Gjennomgå {link} av stjerner.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars";
 "lng_credits_box_out_both" = "{photo} og {video}";
 "lng_credits_box_out_confirm#one" = "Bekreft og betal {emoji} {count} stjerne";
 "lng_credits_box_out_confirm#other" = "Bekreft og betal {emoji} {count} stjerner";
@@ -2386,7 +2386,7 @@
 "lng_credits_summary_in_toast_title" = "Stjerner anskaffet";
 "lng_credits_summary_options_about" = "Ved å fortsette med kjøp av stjerner, godtar du {link}.";
 "lng_credits_summary_options_about_link" = "Vilkår for bruk";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars";
+"lng_credits_summary_options_about_url" = "https://whatsgram.org/tos/stars";
 "lng_credits_summary_options_credits#one" = "{count} stjerne";
 "lng_credits_summary_options_credits#other" = "{count} stjerner";
 "lng_credits_summary_options_more" = "Flere valg";
@@ -4175,7 +4175,7 @@
 "lng_group_invite_subscription" = "Krev månedlig beløp";
 "lng_group_invite_subscription_about" = "Krev abonnementsavgift fra personer som blir med i kanalen via denne lenken. {link}";
 "lng_group_invite_subscription_about_link" = "Les mer {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "du får omtrent {total} pr. måned";
 "lng_group_invite_subscription_info_subtitle" = "Abonnementsavgift";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} pr. måned {multiplier} {total}";
@@ -4920,7 +4920,7 @@
 "lng_mini_apps_disclaimer_link" = "Vilkår for bruk";
 "lng_mini_apps_disclaimer_text" = "Du er i ferd med å bruke en mini-app som driftes av en uavhengig part som **ikke er tilknyttet Telegram**. Du må godta vilkårene for bruk av mini-apper for å fortsette.";
 "lng_mini_apps_disclaimer_title" = "Advarsel";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "Minimer til hurtigstartlinjen";
 "lng_minimize_window" = "Minimer";
 "lng_minutes#one" = "{count} minutt";
@@ -5100,7 +5100,7 @@
 "lng_owner_badge" = "eier";
 "lng_paid_about" = "Brukere vil måtte overføre det angitte antallet stjerner til kanalen din for å kunne se dette innholdet. {link}";
 "lng_paid_about_link" = "Les mer om stjerner >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars";
 "lng_paid_admin_about" = "Seere kan sende deg stjernereaksjoner.";
 "lng_paid_admin_title" = "Motta stjerner fra seere";
 "lng_paid_comment_about" = "Uthev og fest en melding ved å legge til stjerner for {name}.";
@@ -5605,7 +5605,7 @@
 "lng_popular_apps_info_here" = "her";
 "lng_popular_apps_info_text" = "Denne katalogen rangerer miniapplikasjoner basert på deres daglige inntekter, målt i stjerner. For å bli oppført må utviklere angi sine hoved-miniapplikasjoner i {bot} (som beskrevet {link}), ha over **1000** daglige brukere og en daglig inntekt på over **1000** stjerner basert på ukentlig gjennomsnitt.";
 "lng_popular_apps_info_title" = "Mest innbringende miniapplikasjoner";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
+"lng_popular_apps_info_url" = "https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app";
 "lng_posts_limit_about#one" = "Du kan foreta inntil {count} søk pr. dag.";
 "lng_posts_limit_about#other" = "Du kan foreta inntil {count} søk pr. dag.";
 "lng_posts_limit_reached" = "Grense nådd";
@@ -5940,7 +5940,7 @@
 "lng_profile_bot_help" = "Hjelp for robot";
 "lng_profile_bot_permissions_title" = "Tillat tilgang til";
 "lng_profile_bot_privacy" = "Robotens personvernvilkår";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "Innstillinger for robot";
 "lng_profile_camera_title" = "Ta et bilde av deg selv";
 "lng_profile_changed_photo_about" = "Du kan endre dette i {link}.";
@@ -7011,7 +7011,7 @@
 "lng_settings_export_data" = "Eksporter Telegram data";
 "lng_settings_faq" = "Ofte stilte spørsmål";
 "lng_settings_faq_button" = "Gå til FAQ";
-"lng_settings_faq_link" = "https://telegram.org/faq#general-questions";
+"lng_settings_faq_link" = "https://whatsgram.org/faq#general-questions";
 "lng_settings_faq_subtitle" = "FAQ";
 "lng_settings_features" = "Funksjoner i Telegram";
 "lng_settings_file_confirmations" = "Bekreftelse ved åpning av filer";
@@ -7207,7 +7207,7 @@
 "lng_settings_suggestion_password_title" = "Ditt passord";
 "lng_settings_suggestion_password_yes" = "Ja, såklart";
 "lng_settings_suggestion_phone_number_about" = "Hold nummeret ditt oppdatert for å sikre at du alltid kan logge inn i Telegram. {link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
+"lng_settings_suggestion_phone_number_about_link" = "https://whatsgram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
 "lng_settings_suggestion_phone_number_change" = "Vennligst endre telefonnummeret ditt i den offisielle Telegram appen på telefonen din så snart som mulig. {emoji}";
 "lng_settings_suggestion_phone_number_title" = "Er nummeret ditt fortsatt {phone}?";
 "lng_settings_system_integration" = "Systemintegrasjon";
@@ -7416,7 +7416,7 @@
 "lng_sponsored_info_description1" = "I motsetning til andre apper bruker aldri Telegram dine private data for å gi deg målrettede annonser. Sponsede meldinger på Telegram er basert utelukkende på emnet i den offentlige kanalen de vises i. Ingen brukerdata blir samlet eller analysert for å vise annonser, og alle brukere som ser på en kanal på Telegram ser den samme sponsede meldingen.\n\nI motsetning til andre apper sporer ikke Telegram om du har trykket på en sponset melding, og vi oppretter heller ikke profiler basert på aktiviteten din. Vi hindrer også eksterne lenker i sponsede meldinger for å sikre at tredjeparter ikke kan overvåke våre brukere. Vi mener at alle har rett til personvern, og teknologiske plattformer bør respektere det.\n\nTelegram tilbyr gratis og ubegrensede tjenester til hundrevis av millioner brukere, noe som innebærer betydelige server- og trafikkostnader. For å forbli uavhengig og holde fast ved sine verdier, har Telegram utviklet et betalt verktøy for å promotere meldinger med brukernes personvern i tankene. Vi ønsker ansvarlige annonsører velkommen på:";
 "lng_sponsored_info_description1_link" = "Finn ut mer i personvernerklæringen";
 "lng_sponsored_info_description1_linked" = "I motsetning til andre apper, bruker aldri Telegram dine private data for å gi deg målrettede annonser. {link}\n\nI motsetning til andre apper, sporer ikke Telegram om du trykker på en sponset melding og profilerer deg ikke basert på aktiviteten din. Vi hindrer også eksterne lenker i sponsede meldinger for å forsikre at tredjeparter ikke kan spionere på våre brukere. Vi mener at alle har krav på personvern, og at teknologiske plattformer bør respektere det.\n\nTelegram tilbyr gratis og ubegrensede tjenester til hundrevis av millioner brukere, noe som innebærer betydelige server- og trafikkostnader. For å forbli uavhengig og holde fast ved sine verdier, har Telegram utviklet et betalt verktøy for å promotere meldinger med brukernes personvern i tankene. Vi ønsker ansvarlige annonsører velkommen på:";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy#5-6-no-ads-based-on-user-data";
+"lng_sponsored_info_description1_url" = "https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data";
 "lng_sponsored_info_description2" = "Sponsede meldinger er for tiden i testmodus. Så snart de er lansert for fullt og gjør det mulig for Telegram å dekke grunnleggende kostnader, vil vi begynne å dele annonseinntektene med eierne av de offentlige kanalene hvor sponsede meldinger vises.\n\nAnnonser på nett bør ikke lenger være synonymt med misbruk av personvern. La oss sammen redefinere hvordan et teknologisk selskap bør operere!";
 "lng_sponsored_info_menu" = "Annonsørinfo";
 "lng_sponsored_info_submenu" = "Annonsør: {text}";
@@ -7641,7 +7641,7 @@
 "lng_star_ref_start_info" = "Ved å opprette et partnerprogram, godtar du {terms} av partnerprogrammer.";
 "lng_star_ref_stopped" = "Denne henvisningslenken er ikke lenger aktiv.";
 "lng_star_ref_title" = "Partnerprogram";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program";
+"lng_star_ref_tos_url" = "https://whatsgram.org/tos/affiliate-program";
 "lng_star_ref_transparent_about" = "Følg med på provisjonene fra henviste brukere i sanntid.";
 "lng_star_ref_transparent_title" = "Oversiktlig";
 "lng_star_ref_update" = "Oppdater partnerprogram";

@@ -64,7 +64,7 @@
 "AdsInfo.Bot.Split.Title" = "تدعم منشئ البوت";
 "AdsInfo.Info" = "إعلانات تيليجرام تختلف كثيرًا عن الإعلانات على المنصات الأخرى. إعلانات تيليجرام:";
 "AdsInfo.Launch.Text" = "يمكن لأي شخص إنشاء إعلان لعرضه في هذه القناة بأقل ميزانية. الرجاء مراجعة منصة إعلانات تيليجرام لمعرفة التفاصيل. [< معرفة المزيد]()";
-"AdsInfo.Launch.Text_URL" = "https://ads.telegram.org";
+"AdsInfo.Launch.Text_URL" = "https://ads.whatsgram.org";
 "AdsInfo.Launch.Title" = "هل يمكنني نشر إعلان؟";
 "AdsInfo.Respect.Text" = "الإعلانات على تيليجرام لا تستخدم معلوماتك الشخصية وتعتمد على القناة التي تظهر فيها.";
 "AdsInfo.Respect.Title" = "تحترم خصوصيتك";
@@ -178,7 +178,7 @@
 "AffiliateSetup.StartTitle" = "بدء برنامج الجهات المروّجة";
 "AffiliateSetup.SuggestedSectionEmpty" = "لا توجد برامج متاحة حاليًا.\nيرجى التحقق من الصفحة لاحقا.";
 "AffiliateSetup.SuggestedSectionTitle" = "البرامج";
-"AffiliateSetup.TermsFooter" = "من خلال إنشاء برنامج الجهات المروّجة، فإنك توافق على [الشروط والأحكام](https://telegram.org/terms) الخاصة بالبرنامج.";
+"AffiliateSetup.TermsFooter" = "من خلال إنشاء برنامج الجهات المروّجة، فإنك توافق على [الشروط والأحكام](https://whatsgram.org/terms) الخاصة بالبرنامج.";
 "AffiliateSetup.TextJoin" = "اربح عمولة في كل مرة يقوم فيها المستخدم لأول مرة بالوصول إلى تطبيق مصغر من خلال رابط الإحالة الخاص بك، ثم قام بإنفاق **النجوم** داخله.";
 "AffiliateSetup.TextNew" = "مكافأة الأشخاص الذين يساعدون في تنمية قاعدة المستخدمين لديك.";
 "AffiliateSetup.TitleJoin" = "برامج الجهات المروّجة";
@@ -573,11 +573,11 @@
 "AuthSessions.AddDevice" = "مسح رمز QR";
 "AuthSessions.AddDevice.InvalidQRCode" = "رمز الـ QR غير صالح";
 "AuthSessions.AddDevice.ScanInfo" = "امسح رمز الـ QR لتسجيل الدخول\nإلى هذا الحساب من جهاز آخر.";
-"AuthSessions.AddDevice.ScanInstallInfo" = "يرجى الذهاب إلى [getdesktop.telegram.org](desktop) or [web.telegram.org](web) للحصول على رمز QR";
+"AuthSessions.AddDevice.ScanInstallInfo" = "يرجى الذهاب إلى [getdesktop.whatsgram.org](desktop) or [web.whatsgram.org](web) للحصول على رمز QR";
 "AuthSessions.AddDevice.ScanTitle" = "مسح رمز QR";
 "AuthSessions.AddDevice.UrlLoginHint" = "يمكن استخدام هذا الرمز للسماح لشخص ما بتسجيل الدخول إلى حسابك في تيليجرام.\n\nلتأكيد عملية تسجيل الدخول؛ يرجى الذهاب إلى الإعدادات > الأجهزة > إضافة جهاز ثم مسح الرمز.";
 "AuthSessions.AddDeviceIntro.Action" = "مسح رمز QR";
-"AuthSessions.AddDeviceIntro.Text1" = "قم بتنزيل تيليجرام على حاسوبك من [desktop.telegram.org]()";
+"AuthSessions.AddDeviceIntro.Text1" = "قم بتنزيل تيليجرام على حاسوبك من [desktop.whatsgram.org]()";
 "AuthSessions.AddDeviceIntro.Text2" = "يرجى فتح تيليجرام على حاسوبك للحصول على رمز QR";
 "AuthSessions.AddDeviceIntro.Text3" = "امسح رمز الـ QR لربط حسابك";
 "AuthSessions.AddDeviceIntro.Title" = "تسجيل الدخول عبر رمز QR";
@@ -1075,7 +1075,7 @@
 "Business.AddPost" = "إضافة منشور";
 "Business.AddPostInfo" = "نشر الصور والمقاطع المرئية لبضائعك أو خدماتك على صفحتك.";
 "Business.AdsInfo" = "لأنك من مشتركي المميز؛ لن تظهر أي إعلانات على تيليجرام، ولكن يمكنك تشغيلها -على سبيل المثال- لمشاهدة إعلاناتك التي أطلقتها على [< منصة إعلانات تيليجرام]()";
-"Business.AdsInfo_URL" = "https://ads.telegram.org";
+"Business.AdsInfo_URL" = "https://ads.whatsgram.org";
 "Business.AdsTitle" = "الإعلانات في القنوات";
 "Business.AwayMessages" = "رسائل «خارج أوقات العمل»";
 "Business.AwayMessagesInfo" = "تحديد رسائل الرد الآلي خارج أوقات العمل.";
@@ -2975,7 +2975,7 @@
 "Chat.PrivateMessageSeenTimestamp.YesterdayAt" = "قُرئت يوم أمس عند \u2068%@\u2069";
 "Chat.PrivateMessageSentTimestamp.Date" = "أُرسلت \u2068%@\u2069";
 "Chat.PrivateMessageSentTimestamp.YesterdayAt" = "أُرسلت أمس في \u2068%@\u2069";
-"Chat.PsaTooltip.covid" = "تزودك هذه الرسالة بإعلان عام لمبادرة تتعلق بالجائحة الحالية كوفيد-19. تعرف على المزيد حول هذه المبادرة على https://telegram.org/blog/coronavirus";
+"Chat.PsaTooltip.covid" = "تزودك هذه الرسالة بإعلان عام لمبادرة تتعلق بالجائحة الحالية كوفيد-19. تعرف على المزيد حول هذه المبادرة على https://whatsgram.org/blog/coronavirus";
 "Chat.PsaTooltip.psa" = "هذه رسالة رسمية من الرئيس التنفيذي لتيليجرام بشأن الصراع الحالي.";
 "Chat.QuickReply.ServiceHeader1" = "ضغطة مطولة على الرد السريع لتحريره أو حذفه.";
 "Chat.QuickReply.ServiceHeader2" = "لاستخدام هذا الرد السريع في محادثة؛ عليك كتابة «/» وتحديد الاختصار من القائمة.";
@@ -3483,7 +3483,7 @@
 "ChatList.PremiumRestoreDiscountTitle" = "يمكنك إعادة الاشتراك المُميّز بخصم \u2068%@\u2069";
 "ChatList.PremiumXmasGiftText" = "إهداء أصدقائك هدايا محدودة الإصدار!";
 "ChatList.PremiumXmasGiftTitle" = "👑 توزيع هدايا Snoop Dogg  🎁";
-"ChatList.PsaAlert.covid" = "تزودك هذه الرسالة بإعلان عام لمبادرة تتعلق بالجائحة الحالية كوفيد-19. تعرف على المزيد حول هذه المبادرة على https://telegram.org/blog/coronavirus";
+"ChatList.PsaAlert.covid" = "تزودك هذه الرسالة بإعلان عام لمبادرة تتعلق بالجائحة الحالية كوفيد-19. تعرف على المزيد حول هذه المبادرة على https://whatsgram.org/blog/coronavirus";
 "ChatList.PsaAlert.psa" = "هذه رسالة رسمية من الرئيس التنفيذي لتيليجرام بشأن الصراع الحالي.";
 "ChatList.PsaLabel.covid" = "كوفيد-19";
 "ChatList.PsaLabel.psa" = "إعلان";
@@ -3781,7 +3781,7 @@
 "ChatbotSetup.SetupNotCompleted.Text" = "لم تقم بإضافة بوت لإدارة حسابك. المغادرة على أية حال؟";
 "ChatbotSetup.SetupNotCompleted.Title" = "لا يوجد بوت مضاف";
 "ChatbotSetup.Text" = "إضافة بوت للرد على الرسائل نيابة عنك.";
-"ChatbotSetup.TextLink" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"ChatbotSetup.TextLink" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "ChatbotSetup.Title" = "ستُضاف لاحقًا";
 "ChatbotSetup.TitleItem" = "المحادثة الآلية";
 "Checkout.Email" = "البريد الإلكتروني";
@@ -4778,7 +4778,7 @@
 "Conversation.Unpin" = "إلغاء التثبيت";
 "Conversation.UnpinMessageAlert" = "هل ترغب في إلغاء تثبيت هذه الرسالة؟";
 "Conversation.UnreadMessages" = "الرسائل غير المقروءة";
-"Conversation.UnsupportedMedia" = "نسخة تيليجرام التي لديك لاتدعم هذه الرسالة. حدّث التطبيق لعرضها: https://telegram.org/update ";
+"Conversation.UnsupportedMedia" = "نسخة تيليجرام التي لديك لاتدعم هذه الرسالة. حدّث التطبيق لعرضها: https://whatsgram.org/update ";
 "Conversation.UnsupportedMediaPlaceholder" = "نسختك الحالية من تيليجرام لا تدعم هذه الرسالة. يرجى تحديث التطبيق إلى أحدث نسخة.";
 "Conversation.UnvotePoll" = "سحب التصويت";
 "Conversation.UpdateTelegram" = "تحديث تيليجرام";
@@ -5007,7 +5007,7 @@
 "DeleteAccount.ConfirmationAlertText" = "حذف حسابك سيحذف بياناتك نهائيا!\n\nمن المستحيل التراجع عن هذا الإجراء!";
 "DeleteAccount.ConfirmationAlertTitle" = "تأكيد حذف حسابك";
 "DeleteAccount.Continue" = "الاستمرار";
-"DeleteAccount.DeleteMessagesURL" = "https://telegram.org/faq/ar#b9";
+"DeleteAccount.DeleteMessagesURL" = "https://whatsgram.org/faq/ar#b9";
 "DeleteAccount.DeleteMyAccount" = "حذف حسابي";
 "DeleteAccount.DeleteMyAccountTitle" = "حذف حسابي";
 "DeleteAccount.EnterPassword" = "يرجى إدخال كلمة مرورك";
@@ -5276,7 +5276,7 @@
 "EnableSharing.SendRequest" = "إرسال الطلب";
 "EnableSharing.Text" = "يتطلب موافقة **\u2068%@\u2069** لتمكين المشاركة. إرسال طلب الموافقة؟";
 "EnableSharing.Title" = "تمكين المشاركة";
-"EncryptionKey.Description" = "تم اشتقاق الصورة والنص من مفتاح تشفير هذه المحادثة السرية مع \u2068%1$@\u2069.\n\nإن كانت مطابقة لما يظهر على جهاز \u2068%2$@\u2069؛ فالتشفير من الطرف للطرف مضمون.\n\nللاستزادة اطلع على telegram.org";
+"EncryptionKey.Description" = "تم اشتقاق الصورة والنص من مفتاح تشفير هذه المحادثة السرية مع \u2068%1$@\u2069.\n\nإن كانت مطابقة لما يظهر على جهاز \u2068%2$@\u2069؛ فالتشفير من الطرف للطرف مضمون.\n\nللاستزادة اطلع على whatsgram.org";
 "EncryptionKey.Title" = "مفتاح التشفير";
 "EnterPasscode.ChangeTitle" = "تغيير رمز القفل";
 "EnterPasscode.EnterCurrentPasscode" = "أدخل رمز قفلك الحالي";
@@ -5621,7 +5621,7 @@
 "FrozenAccount.Understood" = "مفهوم";
 "FrozenAccount.Violation.Text" = "لقد تم تجميد حسابك بسبب انتهاك شروط خدمة تيليجرام.";
 "FrozenAccount.Violation.TextNew" = "تم تجميد حسابك لانتهاك [شروط خدمة تيليجرام]().";
-"FrozenAccount.Violation.TextNew_URL" = "https://telegram.org/tos";
+"FrozenAccount.Violation.TextNew_URL" = "https://whatsgram.org/tos";
 "FrozenAccount.Violation.Title" = "انتهاك الشروط";
 "Gallery.Ad" = "إعلان";
 "Gallery.AirPlay" = "AirPlay";
@@ -7147,7 +7147,7 @@
 "InviteText.ContactsCountText#many" = "مرحبا، أنا أستخدم تيليجرام للمحادثة وكذلك \u2068%@\u2069 من جهات اتصالي، انضم إلينا! قم بتنزيله من هنا: \u2068{url}\u2069";
 "InviteText.ContactsCountText#other" = "مرحبا، أنا أستخدم تيليجرام للمحادثة وكذلك \u2068%@\u2069 من جهات اتصالي، انضم إلينا! قم بتنزيله من هنا: \u2068{url}\u2069";
 "InviteText.SingleContact" = "مرحبا، أنا أستخدم تيليجرام للمحادثة، انضم إلي! قم بتنزيله من هنا: \u2068%@\u2069";
-"InviteText.URL" = "https://telegram.org/dl";
+"InviteText.URL" = "https://whatsgram.org/dl";
 "Items.NOfM" = "\u2068%1$@\u2069 من \u2068%2$@\u2069";
 "Join.ChannelsTooMuch" = "عذرًا، أنت عضو في الكثير من المجموعات والقنوات. الرجاء مغادرة إحداها قبل الانضمام لأخرى.";
 "KeyCommand.ChatInfo" = "معلومات المحادثة";
@@ -7466,7 +7466,7 @@
 "Login.NewNumber" = "رقم جديد";
 "Login.OpenFragment" = "فتح Fragment";
 "Login.Or" = "أو";
-"Login.PRIVACY_URL" = "https://telegram.org/privacy";
+"Login.PRIVACY_URL" = "https://whatsgram.org/privacy";
 "Login.PadPhoneHelp" = "يمكنك استخدام رقم هاتفك الرئيسي لتسجيل الدخول في تيليجرام على كافة أجهزتك.\nلا تستخدم رقم شريحة الآيباد الخاص بك هنا – سنحتاج لإرسال رسالة SMS قصيرة لك.\n\nهل هذا الرقم صحيح؟\n\u2068{number}\u2069";
 "Login.PadPhoneHelpTitle" = "رقم هاتفك";
 "Login.Paste" = "لصق";
@@ -8152,9 +8152,9 @@
 "Monetization.Balance.ComingLaterInfo" = "في الأسابيع المقبلة، ستتمكن من جمع مكافأتك باستخدام Fragment، وهي منصة تابعة لجهة خارجية يستخدمها المعلنون لدفع الإعلانات. [معرفة المزيد >]()";
 "Monetization.Balance.StarsInfo" = "يمكنك سحب مكافآت النجوم عبر Fragment، أو استخدام النجوم للإعلان عن قناتك. لا يمكنك سحب أقل من ١٠٠٠ نجمة. [معرفة المزيد >]()";
 "Monetization.Balance.StarsInfoGroup" = "يمكنك تحويل النجوم إلى مكافآت عبر Fragment. لا يمكنك سحب أقل من ١٠٠٠ نجمة. [معرفة المزيد]()";
-"Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
+"Monetization.Balance.StarsInfo_URL" = "https://whatsgram.org/tos/stars";
 "Monetization.Balance.ZeroInfo" = "سيكون بإمكانك جمع المكافآت باستخدام Fragment، وهي منصة تابعة لجهة خارجية يستخدمها المعلنون لدفع ثمن الإعلانات. [< الشروط والأحكام]()";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceStarsBuyAds" = "شراء الإعلانات";
 "Monetization.BalanceStarsWithdraw" = "السحب عبر Fragment ";
 "Monetization.BalanceStarsWithdrawShort" = "سحب";
@@ -8171,7 +8171,7 @@
 "Monetization.Intro.Bot.Ads.Text" = "يمكن لـتيليجرام عرض الإعلانات في البوت الخاص بك.";
 "Monetization.Intro.Bot.Title" = "الربح من البوت الخاص بك";
 "Monetization.Intro.Info.Text" = "جرام هي عملة مشفرة لمنصة TON blockchain تستعملها تيليجرام لسرعتها العالية وعمولاتها المنخفضة على التعاملات.. [معرفة المزيد]()";
-"Monetization.Intro.Info.Text_URL" = "https://telegram.org/blog/monetization-for-channels";
+"Monetization.Intro.Info.Text_URL" = "https://whatsgram.org/blog/monetization-for-channels";
 "Monetization.Intro.Info.Title" = "ما عملة #جرام؟";
 "Monetization.Intro.Split.Text" = "يمكنك استلام ٥٠٪ من إيرادات الإعلانات كمكافآت بعملة جرام.";
 "Monetization.Intro.Split.Title" = "الإيرادات بالمناصفة ٥٠:٥٠";
@@ -9915,7 +9915,7 @@
 "Passport.Identity.TypePassportUploadScan" = "رفع نسخة من جواز\u00a0سفرك";
 "Passport.Identity.TypePersonalDetails" = "التفاصيل الشخصية";
 "Passport.Identity.UploadOneOfScan" = "يُرجى رفع نسخة من \u2068%@\u2069";
-"Passport.InfoFAQ_URL" = "https://telegram.org/faq/ar#g9";
+"Passport.InfoFAQ_URL" = "https://whatsgram.org/faq/ar#g9";
 "Passport.InfoLearnMore" = "المزيد";
 "Passport.InfoText" = "مع **جواز تيليجرام** يمكنك التسجيل في المواقع والخدمات التي تتطلب توثيق الهوية الشخصية بسهولة.\n\nمعلوماتك، بياناتك الشخصية ومستنداتك محمية ومشفرة من الطرف إلى الطرف. لا يمكن لأحد _حتى تيليجرام_ الوصول إليها دون إذنك. ";
 "Passport.InfoTitle" = "ماهو جواز تيليجرام؟";
@@ -10026,10 +10026,10 @@
 "PeerInfo.AllowedReactions.OptionSomeReactions" = "بعض التفاعلات";
 "PeerInfo.AllowedReactions.ReactionListHeader" = "التفاعلات المتاحة";
 "PeerInfo.AllowedReactions.StarReactions" = "تمكين التفاعلات المدفوعة";
-"PeerInfo.AllowedReactions.StarReactionsFooter" = "يمكنك تشغيل هذه الخاصية للسماح لمشتركي القناة بالتفاعل مع منشوراتك بنجوم تيليجرام، والتي يمكنك سحبها لاحقًا على هيئة TON.[معرفة المزيد >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"PeerInfo.AllowedReactions.StarReactionsFooter" = "يمكنك تشغيل هذه الخاصية للسماح لمشتركي القناة بالتفاعل مع منشوراتك بنجوم تيليجرام، والتي يمكنك سحبها لاحقًا على هيئة TON.[معرفة المزيد >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "PeerInfo.AllowedReactions.Title" = "التفاعلات";
-"PeerInfo.AppFooter" = "تشغيلك لهذا التطبيق المصغر؛ يعني موافقتك على [شروط الخدمة للتطبيقات المصغرة](https://telegram.org/tos/mini-apps).";
-"PeerInfo.AppFooterAdmin" = "نشرك لهذا التطبيق المصغّر يعني موافقتك على [شروط خدمة تيليجرام للمطورين](https://telegram.org/tos/bot-developers).";
+"PeerInfo.AppFooter" = "تشغيلك لهذا التطبيق المصغر؛ يعني موافقتك على [شروط الخدمة للتطبيقات المصغرة](https://whatsgram.org/tos/mini-apps).";
+"PeerInfo.AppFooterAdmin" = "نشرك لهذا التطبيق المصغّر يعني موافقتك على [شروط خدمة تيليجرام للمطورين](https://whatsgram.org/tos/bot-developers).";
 "PeerInfo.AutoDeleteDisable" = "تعطيل";
 "PeerInfo.AutoDeleteInfo" = "حذف تلقائي للرسائل الجديدة المرسلة في هذه المحادثة بعد فترة زمنية محددة.";
 "PeerInfo.AutoDeleteSettingOther" = "أخرى...";
@@ -11267,7 +11267,7 @@
 "Report.Title.Story" = "الإبلاغ عن القصة";
 "Report.Title.User" = "الإبلاغ عن المستخدم";
 "ReportAd.Help" = "معرفة المزيد حول [سياسات وإرشادات الإعلانات]().";
-"ReportAd.Help_URL" = "https://ads.telegram.org/guidelines";
+"ReportAd.Help_URL" = "https://ads.whatsgram.org/guidelines";
 "ReportAd.Hidden" = "لن تظهر لك بعد الآن إعلانات من تيليجرام.";
 "ReportAd.Reported" = "سنراجع هذا الإعلان للتأكد من أنه يتوافق مع [سياسة وإرشادات الإعلانات]().";
 "ReportAd.Title" = "الإبلاغ عن الإعلان";
@@ -11546,7 +11546,7 @@
 "SendStarReactions.ShowMyselfInTop" = "إظهاري في «أبرز الداعمين»";
 "SendStarReactions.SliderTop" = "الأشهر";
 "SendStarReactions.SubtitleFrom" = "من \u2068%@\u2069";
-"SendStarReactions.TermsOfServiceFooter" = "إرسالك للنجوم يعني موافقتك على [شروط الخدمة](https://telegram.org/tos/stars).";
+"SendStarReactions.TermsOfServiceFooter" = "إرسالك للنجوم يعني موافقتك على [شروط الخدمة](https://whatsgram.org/tos/stars).";
 "SendStarReactions.TextGeneric" = "اختيار عدد النجوم المراد إرسالها إلى **\u2068%@\u2069** لدعم هذا المنشور.";
 "SendStarReactions.TextSentStars#one" = "لقد أرسلت نجمة واحدة لدعم هذا المنشور.";
 "SendStarReactions.TextSentStars#two" = "لقد أرسلت نجمتين لدعم هذا المنشور.";
@@ -11661,7 +11661,7 @@
 "Settings.ChatThemes" = "أنماط المحادثات";
 "Settings.CheckPasswordText" = "حسابك محمي بالتحقق بخطوتين. هل ما زلت تتذكر كلمة مرورك؟";
 "Settings.CheckPasswordTitle" = "كلمة مرورك";
-"Settings.CheckPhoneNumberFAQAnchor" = "https://telegram.org/faq/ar#g2";
+"Settings.CheckPhoneNumberFAQAnchor" = "https://whatsgram.org/faq/ar#g2";
 "Settings.CheckPhoneNumberText" = "يرجى إبقاء رقم هاتفك محدّثًا؛ لضمان قدرتك على تسجيل الدخول إلى تيليجرام. [معرفة المزيد]()";
 "Settings.CheckPhoneNumberTitle" = "هل لا يزال \u2068%@\u2069 رقمك؟";
 "Settings.Context.Logout" = "تسجيل الخروج";
@@ -11675,7 +11675,7 @@
 "Settings.FAQ" = "الأسئلة الشائعة";
 "Settings.FAQ_Button" = "الأسئلة الشائعة";
 "Settings.FAQ_Intro" = "الدعم الفني في تيليجرام يقوم به متطوعون يحاولون الرد سريعًا قدر الإمكان، لكن ذلك قد يستغرق بعض الوقت.\n\nيرجى الاطلاع على الأسئلة الشائعة عن تيليجرام؛ فهي تحوي حلولًا للمشاكل وإجاباتٍ لمعظم الأسئلة.";
-"Settings.FAQ_URL" = "https://telegram.org/faq/ar#a";
+"Settings.FAQ_URL" = "https://whatsgram.org/faq/ar#a";
 "Settings.FrequentlyAskedQuestions" = "الأسئلة الشائعة ";
 "Settings.KeepPassword" = "نعم، بالتأكيد";
 "Settings.KeepPhoneNumber" = "إبقاء \u2068%@\u2069";
@@ -11715,7 +11715,7 @@
 "Settings.Privacy.ReadTimePremiumActive" = "المشتركون في تيليجرام المُميّز";
 "Settings.Privacy.ReadTimePremiumActiveFooter" = "لأنك من المشتركين في تيليجرام المميّز؛ سيظهر لك \"آخر ظهور\" و \"وقت القراءة\" لكل المستخدمين الذين يشاركونه معك، حتى إن أخفيت آخر ظهور لك و وقت قراءتك.";
 "Settings.Privacy.ReadTimePremiumFooter" = "إذا اشتركت في المُميّز؛ سيظهر لك «آخر وقت » و «وقت القراءة» لدى الآخرين، حتى إن أخفيت وقتك عنهم (إلا إذا كانوا هم يخفونه).";
-"Settings.PrivacyPolicy_URL" = "https://telegram.org/privacy";
+"Settings.PrivacyPolicy_URL" = "https://whatsgram.org/privacy";
 "Settings.PrivacySettings" = "الخصوصية والأمان";
 "Settings.Proxy" = "البروكسي";
 "Settings.ProxyConnected" = "متصل";
@@ -11753,7 +11753,7 @@
 "Settings.SuggestSetupPasswordText" = "تعيين كلمة مرور والتي سيتم طلبها عند قيامك بتسجيل الدخول برقم الهاتف هذا.";
 "Settings.SuggestSetupPasswordTitle" = "حماية حسابك";
 "Settings.Support" = "اسأل سؤالًا";
-"Settings.Terms_URL" = "https://telegram.org/tos";
+"Settings.Terms_URL" = "https://whatsgram.org/tos";
 "Settings.Tips" = "ميزات تيليجرام";
 "Settings.TipsUsername" = "TelegramTipsAR";
 "Settings.Title" = "الإعدادات";
@@ -12095,10 +12095,10 @@
 "SocksProxySetup.Warning.Text" = "سيعرض هذا الإجراء عنوان الـ IP الخاص بك لمزود الخادم الوسيط «البروكسي».";
 "SocksProxySetup.Warning.Title" = "تحذير!";
 "SponsoredMessageInfo.Action" = "معرفة المزيد";
-"SponsoredMessageInfo.ActionUrl" = "https://ads.telegram.org";
-"SponsoredMessageInfo.Text" = "فتح https://telegram.org";
-"SponsoredMessageInfo.Url" = "https://ads.telegram.org";
-"SponsoredMessageInfoScreen.MarkdownText" = "على خلاف التطبيقات الأخرى؛ لا تستخدم تيليجرام أبدًا بياناتك الخاصة لاستهدافك بالإعلانات  [يمكنك معرفة المزيد في سياسة الخصوصية](https://telegram.org/privacy#5-6-no-ads-based-on-user-data).\nأنت ترى هذه الرسالة فقط لأن شخصًا ما اختار هذه القناة العامة كمساحة للإعلان. يعني هذا أنه لا يتم استخراج بيانات المستخدمين أو تحليلها لعرض الإعلانات، وأن أي مستخدم يستعرض قناة على تيليجرام سيرى نفس الرسالة الإعلانية.\n\nعلى خلاف التطبيقات الأخرى؛ لا تراقب تيليجرام ما إذا كنت قد ضغطت على رسالة إعلانية أم لا، ولا تنشئ ملفًا بناءً على نشاطك. لقد حظرنا أيضًا استخدام الروابط الخارجية في الرسائل الإعلانية؛ لمنع الأطراف الثالثة من التجسس على مستخدمينا. نؤمن أن لكل شخص الحق في الخصوصية، ويجب أن تحترم المنصات التقنية ذلك.\n\nتقدم تيليجرام خدمة مجانية غير محدودة لمئات الملايين من المستخدمين وهي تتطلب تكاليف كبيرة للخوادم والاتصالات. من أجل إبقاء تيليجرام مستقلة والحفاظ على التزامها بقيمها؛ طورت تيليجرام أداة مدفوعة للرسائل الإعلانية مع مراعاة خصوصية المستخدم. نرحب بالإعلانات على:\n[url]\nلا ينبغي أن تكون الإعلانات على الإنترنت تعني الإساءة إلى خصوصية المستخدم. دعونا نعيد معًا تعريف الكيفية التي يجب أن تعمل بها أي شركة تقنية.";
+"SponsoredMessageInfo.ActionUrl" = "https://ads.whatsgram.org";
+"SponsoredMessageInfo.Text" = "فتح https://whatsgram.org";
+"SponsoredMessageInfo.Url" = "https://ads.whatsgram.org";
+"SponsoredMessageInfoScreen.MarkdownText" = "على خلاف التطبيقات الأخرى؛ لا تستخدم تيليجرام أبدًا بياناتك الخاصة لاستهدافك بالإعلانات  [يمكنك معرفة المزيد في سياسة الخصوصية](https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data).\nأنت ترى هذه الرسالة فقط لأن شخصًا ما اختار هذه القناة العامة كمساحة للإعلان. يعني هذا أنه لا يتم استخراج بيانات المستخدمين أو تحليلها لعرض الإعلانات، وأن أي مستخدم يستعرض قناة على تيليجرام سيرى نفس الرسالة الإعلانية.\n\nعلى خلاف التطبيقات الأخرى؛ لا تراقب تيليجرام ما إذا كنت قد ضغطت على رسالة إعلانية أم لا، ولا تنشئ ملفًا بناءً على نشاطك. لقد حظرنا أيضًا استخدام الروابط الخارجية في الرسائل الإعلانية؛ لمنع الأطراف الثالثة من التجسس على مستخدمينا. نؤمن أن لكل شخص الحق في الخصوصية، ويجب أن تحترم المنصات التقنية ذلك.\n\nتقدم تيليجرام خدمة مجانية غير محدودة لمئات الملايين من المستخدمين وهي تتطلب تكاليف كبيرة للخوادم والاتصالات. من أجل إبقاء تيليجرام مستقلة والحفاظ على التزامها بقيمها؛ طورت تيليجرام أداة مدفوعة للرسائل الإعلانية مع مراعاة خصوصية المستخدم. نرحب بالإعلانات على:\n[url]\nلا ينبغي أن تكون الإعلانات على الإنترنت تعني الإساءة إلى خصوصية المستخدم. دعونا نعيد معًا تعريف الكيفية التي يجب أن تعمل بها أي شركة تقنية.";
 "SponsoredMessageInfoScreen.Text" = "على خلاف التطبيقات الأخرى؛ لا تستخدم تيليجرام أبدًا بياناتك الخاصة لاستهدافك بالإعلانات. تعتمد الرسائل الإعلانية في تيليجرام بشكل أساسي على مواضيع القنوات العامة التي تُعرض فيها. يعني هذا أنه لا يتم استخراج بيانات المستخدمين أو تحليلها لعرض الإعلانات، وأن أي مستخدم يستعرض قناة على تيليجرام سيرى نفس الرسالة الإعلانية.\n\nعلى خلاف التطبيقات الأخرى؛ لا تراقب تيليجرام ما إذا كنت قد ضغطت على رسالة إعلانية أم لا، ولا تنشئ ملفًا بناءً على نشاطك. لقد حظرنا أيضًا استخدام الروابط الخارجية في الرسائل الإعلانية؛ لمنع الأطراف الثالثة من التجسس على مستخدمينا. نؤمن أن لكل شخص الحق في الخصوصية، ويجب أن تحترم المنصات التقنية ذلك.\n\nتقدم تيليجرام خدمة مجانية غير محدودة لمئات الملايين من المستخدمين وهي تتطلب تكاليف كبيرة للخوادم والاتصالات. من أجل إبقاء تيليجرام مستقلة والحفاظ على التزامها بقيمها؛ طورت تيليجرام أداة مدفوعة للرسائل الإعلانية مع مراعاة خصوصية المستخدم. نرحب بالإعلانات على:\n[url]\nالرسائل الإعلانية في وضع الاختبار حاليًا. بمجرد إطلاقها بالكامل والسماح لتيليجرام بتغطية تكاليفها الأساسية؛ سنبدأ في مشاركة عائدات الإعلانات مع مالكي القنوات العامة التي تم عرض الرسائل الإعلانية عليها.\n\nلا ينبغي أن تكون الإعلانات على الإنترنت تعني الإساءة إلى خصوصية المستخدم. دعونا نعيد معًا تعريف الكيفية التي يجب أن تعمل بها أي شركة تقنية.";
 "SponsoredMessageInfoScreen.Title" = "ماهي الرسائل الإعلانية؟";
 "SponsoredMessageMenu.Hide" = "إخفاء";
@@ -12116,7 +12116,7 @@
 "Stars.BotRevenue.Withdraw.Balance" = "الرصيد المتاح";
 "Stars.BotRevenue.Withdraw.BuyAds" = "شراء الإعلانات";
 "Stars.BotRevenue.Withdraw.Info" = "يمكنك جمع مكافآت النجوم عبر Fragment، أو استخدام النجوم للإعلان عن البوت الخاص بك. لا يمكنك سحب أقل من ١٠٠٠ نجمة. [معرفة المزيد >]()";
-"Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Stars.BotRevenue.Withdraw.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "Stars.BotRevenue.Withdraw.Withdraw" = "السحب عبر Fragment";
 "Stars.BotRevenue.Withdraw.WithdrawShort" = "سحب";
 "Stars.Gift.Received.Text" = "استخدم النجوم لفتح المحتوى والخدمات على تيليجرام. [انظر الأمثلة >]()";
@@ -12222,7 +12222,7 @@
 "Stars.Intro.Withdraw" = "سحب";
 "Stars.Intro.YourBalance" = "رصيدك";
 "Stars.PaidContent.AmountInfo" = "سيتعين على المستخدمين تحويل هذا المبلغ من النجوم إلى قناتك من أجل عرض هذه الوسائط.\n[معرفة المزيد حول النجوم]()";
-"Stars.PaidContent.AmountInfo_URL" = "https://telegram.org/tos/stars";
+"Stars.PaidContent.AmountInfo_URL" = "https://whatsgram.org/tos/stars";
 "Stars.PaidContent.AmountPlaceholder" = "النجوم المطلوبة للفتح";
 "Stars.PaidContent.AmountTitle" = "إدخال مبلغ فتح المحتوى";
 "Stars.PaidContent.Create" = "جعل هذه الوسائط مدفوعة";
@@ -12259,7 +12259,7 @@
 "Stars.Purchase.StarsReactionsNeededInfo" = "يمكنك شراء **النجوم** لإرسال التفاعلات المدفوعة إلى **\u2068%@\u2069** والقنوات الأخرى.";
 "Stars.Purchase.SubscriptionInfo" = "الرجاء شراء النجوم للاشتراك في **\u2068%@\u2069**.";
 "Stars.Purchase.SubscriptionRenewInfo" = "الرجاء شراء **نجوم** للمحافظة على اشتراكك في **\u2068%@\u2069**.";
-"Stars.Purchase.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Purchase.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Purchase.TransferStarGiftInfo" = "شراء النجوم لنقل ملكية مقتنياتك الرقمية الفريدة.";
 "Stars.Purchase.UpgradeStarGiftInfo" = "قم بشراء النجوم لترقية هديتك إلى مقتنى رقمي فريد من نوعه.";
 "Stars.SellGift.AmountInfo" = "سوف تستلم **\u2068%@\u2069**.";
@@ -12293,7 +12293,7 @@
 "Stars.SendStars.SendStars" = "تأكيد وإرسال";
 "Stars.SendStars.Title" = "إرسال النجوم";
 "Stars.Subscription.Terms" = "اشتراكك يعني موافقتك على [شروط الخدمة]().";
-"Stars.Subscription.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Subscription.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Ton.Description" = "يمكنك استخدام جرام لشراء الهدايا واقتراح منشورات للقنوات.";
 "Stars.Ton.Title" = "رصيد جرام";
 "Stars.Transaction.AppleTopUp.Subtitle" = "متجر التطبيقات";
@@ -12419,7 +12419,7 @@
 "Stars.Transaction.TelegramPremium#many" = "المميز لمدة \u2068%@\u2069 شهرا";
 "Stars.Transaction.TelegramPremium#other" = "المميز لمدة \u2068%@\u2069 شهر";
 "Stars.Transaction.Terms" = "مراجعة [شروط الخدمة]() لنجوم تيليجرام.";
-"Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transaction.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transaction.To" = "إلى";
 "Stars.Transaction.Unsupported.Title" = "غير مدعومة";
 "Stars.Transaction.Via" = "عبر";
@@ -12465,7 +12465,7 @@
 "Stars.Transfer.SubscribeInfo" = "الاشتراك في **\u2068%1$@\u2069** مقابل **\u2068%2$@\u2069** في الشهر؟";
 "Stars.Transfer.SubscribePerMonth" = "/ شهر";
 "Stars.Transfer.Terms" = "شراؤك يعني موافقتك على [شروط الخدمة]().";
-"Stars.Transfer.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transfer.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transfer.Title" = "تأكيد الشراء";
 "Stars.Transfer.Unavailable" = "للأسف، شراء النجوم غير متاح في بلدك.";
 "Stars.Transfer.UnlockBotInfo" = "فتح \u2068%1$@\u2069 في **\u2068%2$@\u2069** مقابل **\u2068%3$@\u2069**؟";
@@ -13706,9 +13706,9 @@
 "Ton.ProceedsOverview" = "نظرة عامة على العائدات";
 "Ton.WithdrawViaFragment" = "السحب عبر Fragment";
 "Ton.WithdrawViaFragment.Info" = "اسحب رصيد جرام عبر Fragment. [معرفةالمزيد >]()";
-"Ton.WithdrawViaFragment.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Ton.WithdrawViaFragment.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "TopApps.Info.Done" = "فهمت";
-"TopApps.Info.Text" = "يصنّف هذا الدليل التطبيقات المصغرة بناءً على إيراداتها اليومية، والتي يتم قياسها بالنجوم. لكي يتم إدراجها في القائمة، يجب على المطورين تعيين تطبيقاتهم المصغرة الرئيسية في @botfather (كما هو موضح [هنا](https://core.telegram.org/bots/webapps#launching-the-main-mini-app))، ويجب أن يكون لديها أكثر من **١٠٠٠** مستخدم يوميًا، وأن تحقق إيرادات يومية تزيد عن **١٠٠٠** نجمة، بناءً على المتوسط \u200b\u200bالأسبوعي.";
+"TopApps.Info.Text" = "يصنّف هذا الدليل التطبيقات المصغرة بناءً على إيراداتها اليومية، والتي يتم قياسها بالنجوم. لكي يتم إدراجها في القائمة، يجب على المطورين تعيين تطبيقاتهم المصغرة الرئيسية في @botfather (كما هو موضح [هنا](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app))، ويجب أن يكون لديها أكثر من **١٠٠٠** مستخدم يوميًا، وأن تحقق إيرادات يومية تزيد عن **١٠٠٠** نجمة، بناءً على المتوسط \u200b\u200bالأسبوعي.";
 "TopApps.Info.Title" = "أشهر التطبيقات المصغرة";
 "Tour.StartButton" = "بدء المراسلة";
 "Tour.Text1" = "تطبيق المراسلة **الأسرعُ** عالميًّا.\nإنه **مجانيٌّ** و**آمنٌ** كذلك.";
@@ -14710,7 +14710,7 @@
 "WebApp.DisclaimerContinue" = "استمرار";
 "WebApp.DisclaimerText" = "أنت على وشك استخدام تطبيق مصغّر يديره طرف مستقل **لا ينتمي لتيليجرام**. للمتابعة؛ تجب عليك الموافقة على شروط استخدام التطبيقات المُصغّرة.";
 "WebApp.DisclaimerTitle" = "شروط الاستخدام";
-"WebApp.Disclaimer_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.Disclaimer_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.Download.Cancel" = "إلغاء";
 "WebApp.Download.Document" = "تنزيل المستند";
 "WebApp.Download.Download" = "تنزيل";
@@ -14739,7 +14739,7 @@
 "WebApp.LaunchMoreInfo" = "المزيد حول هذا البوت";
 "WebApp.LaunchOpenApp" = "تشغيل";
 "WebApp.LaunchTermsConfirmation" = "تشغيلك لهذا التطبيق المصغّر؛ يعني موافقتك على [شروط الخدمة للتطبيقات المصغّرة]().";
-"WebApp.LaunchTermsConfirmation_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.LaunchTermsConfirmation_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.LocationPermission.Allow" = "سماح";
 "WebApp.LocationPermission.Decline" = "رفض";
 "WebApp.LocationPermission.Succeed" = "يستطيع **\u2068%@\u2069** الآن الوصول إلى موقعك";
@@ -14763,7 +14763,7 @@
 "WebApp.OpenWebViewAlertText" = "يرغب **\u2068%@\u2069** بفتح تطبيق الويب الخاص به للمتابعة.\n\nسيتمكن من الوصول إلى **عنوان الـ IP** والمعلومات الأساسية لجهازك.";
 "WebApp.OpenWebViewAlertTitle" = "تشغيل التطبيق";
 "WebApp.PrivacyPolicy" = "سياسة الخصوصية";
-"WebApp.PrivacyPolicy_URL" = "https://telegram.org/privacy-tpa";
+"WebApp.PrivacyPolicy_URL" = "https://whatsgram.org/privacy-tpa";
 "WebApp.ReloadPage" = "إعادة تحميل الصفحة";
 "WebApp.RemoveAllConfirmationText" = "سيؤدي هذا إلى إزالة اختصارات **\u2068%@\u2069** من كل القوائم.";
 "WebApp.RemoveBot" = "إزالته من القائمة";
@@ -14785,7 +14785,7 @@
 "WebApp.ShortcutsAdded" = "تمت إضافة الاختصار **\u2068%@\u2069** لقائمة الإرفاق.";
 "WebApp.ShortcutsSettingsAdded" = "تمت إضافة اختصارات **\u2068%@\u2069** في قائمة المرفقات والإعدادات.";
 "WebApp.TermsOfUse" = "شروط الاستخدام";
-"WebApp.TermsOfUse_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.TermsOfUse_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebBrowser.AddBookmark" = "إضافة إشارة مرجعية";
 "WebBrowser.AddressBar.Bookmarks" = "الإشارات المرجعية";
 "WebBrowser.AddressBar.RecentlyVisited" = "تمت زيارته مؤخرًا";

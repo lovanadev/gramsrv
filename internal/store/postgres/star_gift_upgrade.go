@@ -480,6 +480,15 @@ VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17)`,
 			if _, err := tx.Exec(ctx, `UPDATE star_gift_collectible_revisions SET issued=issued+1 WHERE id=$1`, revision.ID); err != nil {
 				return fmt.Errorf("increment collectible issuance: %w", err)
 			}
+			if locked.PrepaidUpgradeStars > 0 && !req.RequirePrepaid && locked.FromUserID > 0 {
+				if _, err := tx.Exec(ctx, `INSERT INTO stars_balances(user_id,balance,updated_at) VALUES($1,$2,now())
+					ON CONFLICT(user_id) DO UPDATE SET balance=stars_balances.balance+EXCLUDED.balance,updated_at=now()`, locked.FromUserID, locked.PrepaidUpgradeStars); err != nil {
+					return fmt.Errorf("refund star gift upgrade balance: %w", err)
+				}
+				if err := insertStarsTxn(ctx, tx, locked.FromUserID, locked.PrepaidUpgradeStars, domain.StarsReasonGiftPrepaid, locked.Owner, req.Date, "Star gift upgrade refunded", ""); err != nil {
+					return fmt.Errorf("refund star gift upgrade txn: %w", err)
+				}
+			}
 			if _, err := tx.Exec(ctx, `
 UPDATE peer_star_gifts
 SET unique_gift_id=$2, prepaid_upgrade_stars=0, prepaid_upgrade_hash='', convert_stars=0,
@@ -644,10 +653,15 @@ func userStarGiftSourceMessageIDs(ctx context.Context, db interface {
 		return nil, domain.ErrStarGiftCollectibleInvalid
 	}
 	messageIDs := []int{saved.MsgID}
+	seen := map[int]struct{}{saved.MsgID: {}}
+	if saved.UpgradeMsgID > 0 && saved.UpgradeMsgID != saved.MsgID {
+		messageIDs = append(messageIDs, saved.UpgradeMsgID)
+		seen[saved.UpgradeMsgID] = struct{}{}
+	}
 	rows, err := db.Query(ctx, `
 SELECT msg_id FROM star_gift_user_message_refs
-WHERE owner_user_id=$1 AND saved_gift_id=$2 AND msg_id<>$3
-ORDER BY msg_id`, saved.Owner.ID, saved.ID, saved.MsgID)
+WHERE owner_user_id=$1 AND saved_gift_id=$2
+ORDER BY msg_id`, saved.Owner.ID, saved.ID)
 	if err != nil {
 		return nil, fmt.Errorf("list star gift source message refs: %w", err)
 	}
@@ -660,7 +674,10 @@ ORDER BY msg_id`, saved.Owner.ID, saved.ID, saved.MsgID)
 		if msgID <= 0 {
 			return nil, fmt.Errorf("star gift source message ref has invalid id")
 		}
-		messageIDs = append(messageIDs, msgID)
+		if _, ok := seen[msgID]; !ok {
+			messageIDs = append(messageIDs, msgID)
+			seen[msgID] = struct{}{}
+		}
 	}
 	if err := rows.Err(); err != nil {
 		return nil, fmt.Errorf("iterate star gift source message refs: %w", err)
@@ -782,6 +799,15 @@ FOR UPDATE`, req.UserID, sourceMessageID).Scan(&peerType, &peerID)
 					return nil, fmt.Errorf("upgrade service message missing owner box")
 				}
 				action.UpgradeMsgID = 0
+			}
+			if action.UpgradeSeparate {
+				if !req.RequirePrepaid {
+					action.Refunded = true
+				} else {
+					action.Upgraded = true
+				}
+			} else {
+				action.Upgraded = true
 			}
 			action.CanUpgrade = false
 			action.PrepaidUpgradeHash = ""

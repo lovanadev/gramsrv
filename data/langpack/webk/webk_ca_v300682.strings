@@ -222,7 +222,7 @@
 "AdminRights.Other" = "Altres";
 "AdminRights.PostStories" = "Publicar històries";
 "Administrators" = "Administració";
-"Ads.Reported" = "Revisarem aquest anunci per a confirmar que compleix amb les nostres **[Normes i Directrius d'anuncis](https://ads.telegram.org/guidelines)**.";
+"Ads.Reported" = "Revisarem aquest anunci per a confirmar que compleix amb les nostres **[Normes i Directrius d'anuncis](https://ads.whatsgram.org/guidelines)**.";
 "AgeVerification.Action" = "Verifica la meva edat";
 "AgeVerification.Failed" = "No podeu visualitzar contingut +18.";
 "AgeVerification.Text" = "Per a accedir a aquest contingut, cal que confirmeu que teniu almenys **18** anys.\n\nNomés cal que feu el procés una vegada, usant la càmera del mòbil. Telegram no emmagatzemarà la foto.";
@@ -902,7 +902,7 @@
 "Chat.Message.Ad.Text" = "A diferència d'altres aplicacions, el Telegram no usa mai les vostres dades privades per a suggerir anuncis. Els missatges patrocinats en el Telegram es basen únicament en el tema dels canals públics on es mostren. Això vol dir que no s'extreu ni s'analitza cap dada d'usuari per a mostrar anuncis, i tothom qui veu un canal al Telegram veu els mateixos missatges patrocinats.\n\nA diferència d'altres aplicacions, el Telegram no controla si heu tocat en un missatge patrocinat ni crea un perfil basant-se en la vostra activitat. Tampoc permetem enllaços externs als missatges patrocinats per a assegurar que tercers no puguin espiar els nostres usuaris. Creiem que tothom té dret a la intimitat, i les plataformes tecnològiques haurien de respectar-ho.\n\nEl Telegram ofereix un servei gratuït i il·limitat a centenars de milions d'usuaris, i això suposa costos importants en servidors i trànsit. Per tal de romandre independent i mantenir-se fidel als seus valors, Telegram ha desenvolupat una eina de pagament per a promocionar missatges tenint present la privadesa dels usuaris. Donem la benvinguda a anunciants responsables a:\n\n%@\n\nEls missatges patrocinats estan en proves. Una vegada s'hagin llançat del tot i permetin que Telegram cobreixi els seus costos bàsics, començarem a compartir els ingressos publicitaris amb els propietaris dels canals públics en els quals es mostren els missatges patrocinats.\n\nEls anuncis no haurien de ser sinònim d'abús de la privadesa dels usuaris. Redefinim com ha d'operar una empresa tecnològica: fem-ho junts.";
 "Chat.Message.RequestToJoin" = "SOL·LICITA ACCÉS";
 "Chat.Message.SendMessage" = "ENVIA EL MISSATGE";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Què són els missatges patrocinats?";
 "Chat.Message.ViewApp" = "INICIA L'APLICACIÓ";
 "Chat.Message.ViewBot" = "MOSTRA EL BOT";
@@ -1063,7 +1063,7 @@
 "ChatList.Filter.NonContacts" = "Altres usuaris";
 "ChatList.Filter.ReadChats" = "Llegits";
 "ChatList.Main.EmptyPlaceholder.Subtitle" = "En teniu %s al Telegram";
-"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "Useu l'aplicació del Telegram en un dispositiu [Android](https://telegram.org/android) o [iOS](https://telegram.org/dl/ios) per a sincronitzar els contactes";
+"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "Useu l'aplicació del Telegram en un dispositiu [Android](https://whatsgram.org/android) o [iOS](https://whatsgram.org/dl/ios) per a sincronitzar els contactes";
 "ChatList.Main.EmptyPlaceholder.Title" = "Els xats es mostraran aquí";
 "ChatList.Menu.SwitchTo.A" = "Canvia a la versió A";
 "ChatList.Menu.SwitchTo.Webogram" = "Canvia a la versió antiga";
@@ -1774,7 +1774,7 @@
 "InviteLink.Observe.Fee.Subtitle" = "Obteniu aproximadament %s al mes";
 "InviteLink.Observe.Fee.Title" = "%s / mes x %d";
 "InviteLink.Sticker.TimeLeft" = "caduca en %@";
-"InviteLink.Subscription.Caption" = "Cobreu una tarifa de subscripció a qui s’uneixi al canal amb aquest enllaç. [Més informació >](https://telegram.org/)";
+"InviteLink.Subscription.Caption" = "Cobreu una tarifa de subscripció a qui s’uneixi al canal amb aquest enllaç. [Més informació >](https://whatsgram.org/)";
 "InviteLink.Subscription.Edit" = "Per a canviar la tarifa de subscripció, creeu un altre enllaç amb un preu diferent.";
 "InviteLink.Subscription.Placeholder" = "Quantitat d'estrelles al mes";
 "InviteLink.Subscription.Price" = "~%s/mes";
@@ -2176,8 +2176,8 @@
 "Message.Context.Selection.SendNow" = "Envia la selecció";
 "Message.Context.Unpin" = "Deixa de fixar";
 "Message.ReplyActionButtonShowReceipt" = "Mostra el rebut";
-"Message.Unsupported.Desktop" = "__Aquest missatge encara no és compatible amb el Telegram Web. Proveu [getdesktop.telegram.org](https://getdesktop.telegram.org/)__";
-"Message.Unsupported.Mobile" = "__Aquest missatge encara no és compatible amb el Telegram Web. Proveu [telegram.org/dl](https://telegram.org/dl/)__";
+"Message.Unsupported.Desktop" = "__Aquest missatge encara no és compatible amb el Telegram Web. Proveu [getdesktop.whatsgram.org](https://getdesktop.whatsgram.org/)__";
+"Message.Unsupported.Mobile" = "__Aquest missatge encara no és compatible amb el Telegram Web. Proveu [whatsgram.org/dl](https://whatsgram.org/dl/)__";
 "MessageContainsEmojiPack" = "Aquest missatge conté emojis del paquet %s.";
 "MessageContainsEmojiPacks#one" = "Aquest missatge conté emojis d'**%d paquet**.";
 "MessageContainsEmojiPacks#other" = "Aquest missatge conté emojis de: **%d paquets**.";
@@ -2576,8 +2576,8 @@
 "PeerInfo.Action.LiveStream" = "Directe";
 "PeerInfo.Action.VoiceChat" = "Xat de vídeo";
 "PeerInfo.Administrators" = "Administradors";
-"PeerInfo.AppFooter" = "En iniciar aquesta miniaplicació, accepteu les [Condicions del servei de les miniaplicacions](https://telegram.org/privacy).";
-"PeerInfo.AppFooterAdmin" = "En publicar aquesta miniaplicació, accepteu les [Condicions del servei per a desenvolupadors](https://telegram.org/privacy).";
+"PeerInfo.AppFooter" = "En iniciar aquesta miniaplicació, accepteu les [Condicions del servei de les miniaplicacions](https://whatsgram.org/privacy).";
+"PeerInfo.AppFooterAdmin" = "En publicar aquesta miniaplicació, accepteu les [Condicions del servei per a desenvolupadors](https://whatsgram.org/privacy).";
 "PeerInfo.DeleteChannel" = "Elimina el canal";
 "PeerInfo.DeleteContact" = "Elimina el contacte";
 "PeerInfo.Discussion" = "Debat";
@@ -2968,7 +2968,7 @@
 "Report2CommentOptional" = "Afegiu un comentari (opcional)";
 "Report2Send" = "Envia la denúncia";
 "ReportAd" = "Denuncia l'anunci";
-"ReportAdLearnMore" = "Llegiu més informació sobre les [Polítiques i Directrius dels anuncis](https://ads.telegram.org/guidelines).";
+"ReportAdLearnMore" = "Llegiu més informació sobre les [Polítiques i Directrius dels anuncis](https://ads.whatsgram.org/guidelines).";
 "ReportBug" = "Informa d'un error";
 "ReportChat" = "Denuncia";
 "ReportChatChild" = "Abús de menors";
@@ -3032,7 +3032,7 @@
 "RevenueSharingAdsInfo3Subtitle" = "Podeu desactivar els anuncis subscrivint-vos al **Telegram Premium**. Els canals amb nivell %1$s poden eliminar-los per als seus subscriptors.";
 "RevenueSharingAdsInfo3Title" = "Es poden eliminar";
 "RevenueSharingAdsInfo4Subtitle2" = "Tothom pot crear un anunci i mostrar-lo en aquest canal, amb poc pressupost. Consulteu la **plataforma d'anuncis del Telegram** per a més informació. %1$s";
-"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[Més informació >](https://ads.telegram.org/)**";
+"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[Més informació >](https://ads.whatsgram.org/)**";
 "RevenueSharingAdsInfo4Title" = "Puc llançar un anunci?";
 "RevokeAlert" = "Segur que voleu revocar l'enllaç? Una vegada fet, ningú podrà usar l'enllaç per a unir-se al grup.";
 "RevokeButton" = "Revoca";
@@ -3565,7 +3565,7 @@
 "Stars.Subscribe.Button" = "Subscriu-me";
 "Stars.Subscribe.Description" = "Us voleu subscriure a **%s** per **%s** al mes?";
 "Stars.Subscribe.Need" = "Compreu **estrelles** i useu-les per subscriure-us a canals.";
-"Stars.Subscribe.Terms" = "En subscriure-us, accepteu les [Condicions del servei](https://telegram.org).";
+"Stars.Subscribe.Terms" = "En subscriure-us, accepteu les [Condicions del servei](https://whatsgram.org).";
 "Stars.Subscribe.Title" = "Subscriviu-vos al canal";
 "Stars.Subscription" = "Subscripció";
 "Stars.Subscription.Active" = "Si ho cancel·leu, encara podreu accedir a la subscripció fins al %s.";
@@ -3585,13 +3585,13 @@
 "Stars.Subscriptions.Expires" = "caduca el dia %s";
 "Stars.Subscriptions.PerMonth" = "al mes";
 "Stars.Subscriptions.Renews" = "es renova el dia %s";
-"Stars.TOS" = "En continuar i comprar estrelles, accepteu els [Termes i condicions](https://telegram.org/tos).";
+"Stars.TOS" = "En continuar i comprar estrelles, accepteu els [Termes i condicions](https://whatsgram.org/tos).";
 "Stars.TopUp" = "Recàrrega d'estrelles";
 "Stars.TopUp.Enough" = "Teniu prou estrelles ara mateix. [Compra'n igualment]()";
 "Stars.TopUp.Label_default" = "Compreu estrelles per a desblocar continguts i serveis\na les miniaplicacions de Telegram.";
 "Stars.TopUp.Label_stargift" = "Compreu **estrelles** per a enviar regals.";
 "Stars.TopUp.Reaction" = "Compreu **estrelles** i envieu-les a **%s** per a donar suport a les seves publicacions.";
-"Stars.TransactionTOS" = "Llegiu les **[Condicions del servei](https://telegram.org/tos)** de les estrelles.";
+"Stars.TransactionTOS" = "Llegiu les **[Condicions del servei](https://whatsgram.org/tos)** de les estrelles.";
 "Stars.Unlock" = "Voleu desblocar %s a **%s** per **%s**?";
 "Stars.Unlock.FromBot" = "Voleu desblocar %s de **%s** per **%s**?";
 "Stars.Unlock.Media" = "%s i %s";
@@ -4058,8 +4058,8 @@
 "Verified.Channel" = "Telegram ha verificat aquest canal.";
 "Verified.Group" = "Telegram ha verificat aquest grup.";
 "ViaBot" = "via";
-"Video.Unsupported.Desktop" = "__Malauradament, aquest vídeo no es pot reproduir al Telegram Web. Proveu d'obrir-lo amb l'[aplicació d'escriptori](https://getdesktop.telegram.org/).__";
-"Video.Unsupported.Mobile" = "__Malauradament, aquest vídeo no es pot reproduir al Telegram Web. Proveu d'obrir-lo amb l'[aplicació mòbil](https://telegram.org/dl/).__";
+"Video.Unsupported.Desktop" = "__Malauradament, aquest vídeo no es pot reproduir al Telegram Web. Proveu d'obrir-lo amb l'[aplicació d'escriptori](https://getdesktop.whatsgram.org/).__";
+"Video.Unsupported.Mobile" = "__Malauradament, aquest vídeo no es pot reproduir al Telegram Web. Proveu d'obrir-lo amb l'[aplicació mòbil](https://whatsgram.org/dl/).__";
 "VideoCall" = "Videotrucada";
 "Videos#one" = "%d vídeo";
 "Videos#other" = "%d vídeos";
@@ -4128,7 +4128,7 @@
 "WebApp.InstallBot" = "Instal·la el bot";
 "WebApp.WriteAccess.Description" = "Voleu permetre que %s us enviï missatges?";
 "WebApp.WriteAccess.Title" = "Permet els missatges";
-"WebAppDisclaimerUrl" = "https://telegram.org/tos/mini-apps";
+"WebAppDisclaimerUrl" = "https://whatsgram.org/tos/mini-apps";
 "WebPage.InstantView" = "VISTA IMMEDIATA";
 "WebPage.OpenLink" = "OBRE L'ENLLAÇ";
 "WebPage.RemovePreview" = "Elimina la vista prèvia de l'enllaç";

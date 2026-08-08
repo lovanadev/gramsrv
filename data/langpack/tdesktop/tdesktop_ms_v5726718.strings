@@ -161,7 +161,7 @@
 "cloud_lng_passport_in_uk" = "Ukrain";
 "cloud_lng_passport_in_uz" = "Uzbek";
 "cloud_lng_passport_in_vi" = "Vietnam";
-"cloud_lng_tooltip_psa_covid" = "Mesej ini menyediakan anda dengan pengumuman perkhidmatan awam mengenai wabak COVIC-19 masa kini. Maklumat lanjut tmengenai inisiatif ini ada di\nhttps://telegram.org/blog/coronavirus\n";
+"cloud_lng_tooltip_psa_covid" = "Mesej ini menyediakan anda dengan pengumuman perkhidmatan awam mengenai wabak COVIC-19 masa kini. Maklumat lanjut tmengenai inisiatif ini ada di\nhttps://whatsgram.org/blog/coronavirus\n";
 "cloud_lng_tooltip_psa_psa" = "Ini adalah mesej rasmi dari Ketua Pegawai Eksekutif Telegram mengenai konflik sedang berlaku.";
 "cloud_lng_topup_purpose_subs" = "Beli **Star** untuk teruskan langganan saluran anda.";
 "cloud_lng_translate_to_ar" = "Arab";
@@ -219,7 +219,7 @@
 "lng_about_text2" = "Perisisan ini dilesen di bawah {gpl_link} versi 3.\nKod asal boleh didapati di {github_link}.";
 "lng_about_text3" = "Lawat {faq_link} untuk info lanjut.";
 "lng_about_text3_faq" = "Soalan Lazim";
-"lng_about_text_1" = "Aplikasi kiriman mesej rasmi percuma berdasarkan [a href=\"https://core.telegram.org/api\"]Telegram API[/a]\nyang pantas dan selamat.";
+"lng_about_text_1" = "Aplikasi kiriman mesej rasmi percuma berdasarkan [a href=\"https://core.whatsgram.org/api\"]Telegram API[/a]\nyang pantas dan selamat.";
 "lng_about_text_2" = "Perisian ini dilesen di bawah  [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] versi 3.\nKod sumber asal boleh didapati dari  [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a].";
 "lng_about_text_3" = "Sila lawat {faq_open}Soalan lazim (FAQ) Telegram FAQ{faq_close} untuk informasi lanjut .";
 "lng_about_version" = "versi {version}";
@@ -1288,7 +1288,7 @@
 "lng_bot_download_starting" = "Memula...";
 "lng_bot_earn_available" = "Baki tersedia";
 "lng_bot_earn_balance_about" = "Star dari jumlah baki anda tersedia boleh diguna untuk iklan atau dikeluarkan sebagai  ganjaran 21 hari selepas mereka diperolehi.";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
+"lng_bot_earn_balance_about_url" = "https://whatsgram.org/tos/stars";
 "lng_bot_earn_balance_button#other" = "Keluarkan {emoji} {count}";
 "lng_bot_earn_balance_button_all" = "Keluarkan semua star";
 "lng_bot_earn_balance_button_buy_ads" = "Beli Iklan";
@@ -1424,7 +1424,7 @@
 "lng_business_about_quick_replies" = "Set jalan pintas dengan teks dan media berformat untuk respon pada mesej dengan cepat.";
 "lng_business_about_sponsored" = "Sebagai pelanggan Premium, anda tak akan nampak iklan di Telegram, tetapi anda boleh buka mereka, contoh, untuk lihat iklan anda sendiri lancarkan di {link}";
 "lng_business_about_sponsored_link" = "Platform Iklan Telegram {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
+"lng_business_about_sponsored_url" = "https://ads.whatsgram.org";
 "lng_business_button_sponsored" = "Jangan Sorok Iklan";
 "lng_business_edit_messages" = "Sunting mesej";
 "lng_business_limit_reached#other" = "Had {count} mesej dicapai.";
@@ -1597,7 +1597,7 @@
 "lng_channel_earn_learn_bot_in_about" = "Telegram boleh papar iklan dalam bot anda.";
 "lng_channel_earn_learn_close" = "Faham";
 "lng_channel_earn_learn_coin_about" = "**Gram** adalah mata wang kripto platform blok rantai, yang Telegram guna untuk transaksi kelajuan tinggi dan komision rendahnya. {link}";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels";
+"lng_channel_earn_learn_coin_link" = "https://whatsgram.org/blog/monetization-for-channels";
 "lng_channel_earn_learn_coin_title" = "Apa itu {emoji} Gram?";
 "lng_channel_earn_learn_in_about" = "Telegram boleh papar iklan di saluran anda.";
 "lng_channel_earn_learn_in_subtitle" = "Telegram Iklan";
@@ -1753,7 +1753,7 @@
 "lng_chatbots_gift_settings" = "Tukar Tetapan Hadiah";
 "lng_chatbots_include_button" = "Pilih Bual";
 "lng_chatbots_included_title" = "Bual termasuk";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"lng_chatbots_info_url" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "lng_chatbots_leave_without_added_text" = "Anda belum tambah bot untuk urus akaun anda. Masih mahu keluar?";
 "lng_chatbots_leave_without_added_title" = "Tiada Bot Ditambah";
 "lng_chatbots_manage_gifts" = "Urus Hadiah dan Star";
@@ -2307,7 +2307,7 @@
 "lng_credits_box_history_entry_floodskip_row" = "Mesej";
 "lng_credits_box_history_entry_fragment" = "Fragment";
 "lng_credits_box_history_entry_gift_about_link" = "Lihat Contoh {emoji}";
-"lng_credits_box_history_entry_gift_about_url" = "https://telegram.org/blog/telegram-stars/ms";
+"lng_credits_box_history_entry_gift_about_url" = "https://whatsgram.org/blog/telegram-stars/ms";
 "lng_credits_box_history_entry_gift_bought" = "Belian Hadiah";
 "lng_credits_box_history_entry_gift_bought_from" = "Dari";
 "lng_credits_box_history_entry_gift_converted" = "Hadiah Ditukar";
@@ -2346,7 +2346,7 @@
 "lng_credits_box_history_entry_via" = "Melalui";
 "lng_credits_box_history_entry_via_premium_bot" = "Bot Premium";
 "lng_credits_box_out_about" = "Semak {link} untuk Star.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars";
 "lng_credits_box_out_both" = "{photo} dan {video}";
 "lng_credits_box_out_confirm#other" = "Pastikan dan Bayar {emoji} {count} Star";
 "lng_credits_box_out_media#other" = "Anda ingin buka {media} dalam {chat} untuk**{count} Star**?";
@@ -2433,7 +2433,7 @@
 "lng_credits_summary_in_toast_title" = "Star Dibeli";
 "lng_credits_summary_options_about" = "Dengan meneruskan dan membeli Star, anda bersetuju dengan {link}";
 "lng_credits_summary_options_about_link" = "Terma dan Syarat";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars";
+"lng_credits_summary_options_about_url" = "https://whatsgram.org/tos/stars";
 "lng_credits_summary_options_credits#other" = "{count} Star";
 "lng_credits_summary_options_more" = "Lagi Opsyen";
 "lng_credits_summary_options_subtitle" = "Pilih pakej";
@@ -4098,7 +4098,7 @@
 "lng_group_invite_subscription" = "Perlu Bayaran Bulanan";
 "lng_group_invite_subscription_about" = "Caj bayaran langganan dari orang menyertai saluran anda melalui link ini. {link}";
 "lng_group_invite_subscription_about_link" = "Pelajari lagi {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "Anda dapat lebih kurang {total} setiap bulan";
 "lng_group_invite_subscription_info_subtitle" = "Bayaran langganan";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} / bulan {multiplier} {total}";
@@ -4808,7 +4808,7 @@
 "lng_mini_apps_disclaimer_link" = "Terma Mengguna";
 "lng_mini_apps_disclaimer_text" = "Anda akan guna ap mini dikendalikan oleh pihak berkecuali ** tidak berkait dengan Telegram**. Anda hendaklah terima Terma Mengguna ap mini untuk meneruskan.";
 "lng_mini_apps_disclaimer_title" = "Amaran";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "Runtuhkan ke Dulang";
 "lng_minimize_window" = "Kecilkan";
 "lng_minutes#other" = "{count} minit";
@@ -4973,7 +4973,7 @@
 "lng_owner_badge" = "pemilik";
 "lng_paid_about" = "Pengguna hendaklah pindah amaun Star ini ke saluran anda untuk melihat media ini. {link}";
 "lng_paid_about_link" = "Lagi tentang star >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars/ms";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars/ms";
 "lng_paid_admin_about" = "Penonton boleh kirim anda Reaksi Star.";
 "lng_paid_admin_title" = "Terima Star dari Penonton";
 "lng_paid_comment_about" = "Serlah dan semat mesej anda dengan menambah Star untuk {name}.";
@@ -5449,7 +5449,7 @@
 "lng_popular_apps_info_here" = "di sini";
 "lng_popular_apps_info_text" = "Katalog ini nilai apl mini berdasarkan pada hasil harian, dikira dalam Star. Untuk disenaraikan, juruprogram mesti set apl mini utama mereka dalam {bot} (seperti yang dinyatakan {link}), mempunyai lebih **1,000** pengguna harian, dan nikmati hasil harian lebih dari **1,000** Star, berdasarkan pada purata mingguan.";
 "lng_popular_apps_info_title" = "Apl Mini Teratas";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
+"lng_popular_apps_info_url" = "https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app";
 "lng_posts_limit_about#other" = "Anda boleh buat sehingga {count} carian setiap hari.";
 "lng_posts_limit_reached" = "Had Dicapai";
 "lng_posts_limit_search_paid" = "Cari untuk {cost}";
@@ -5733,7 +5733,7 @@
 "lng_profile_bot_help" = "Bantuan Bot";
 "lng_profile_bot_permissions_title" = "Benar akses ke";
 "lng_profile_bot_privacy" = "Polisi Privasi Bot";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "Tetapan Bot";
 "lng_profile_camera_title" = "Tangkap gambar sendiri";
 "lng_profile_changed_photo_about" = "Anda boleh tukarnya di {link}.";
@@ -6766,7 +6766,7 @@
 "lng_settings_export_data" = "Eksport data Telegram";
 "lng_settings_faq" = "Soalan Lazim Telegram";
 "lng_settings_faq_button" = "Pergi ke FAQ";
-"lng_settings_faq_link" = "https://telegram.org/faq#general-questions";
+"lng_settings_faq_link" = "https://whatsgram.org/faq#general-questions";
 "lng_settings_faq_subtitle" = "Soalan Lazim";
 "lng_settings_features" = "Ciri Telegram";
 "lng_settings_file_confirmations" = "Kepastian fail buka";
@@ -6961,7 +6961,7 @@
 "lng_settings_suggestion_password_title" = "Kata laluan anda";
 "lng_settings_suggestion_password_yes" = "Ya, semestinya";
 "lng_settings_suggestion_phone_number_about" = "Tentukan nombor fon anda adalah terkini untuk pastikan anda sentiasa boleh log masuk ke Telegram. {link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq/ms#s-saya-mempunyai-nombor-telefon-baru,-apa-yang-harus-saya-lakukan";
+"lng_settings_suggestion_phone_number_about_link" = "https://whatsgram.org/faq/ms#s-saya-mempunyai-nombor-telefon-baru,-apa-yang-harus-saya-lakukan";
 "lng_settings_suggestion_phone_number_change" = "Sila tukar nombor fon anda, dalam apl Telegram rasmi di fon anda dengan segera. {emoji}";
 "lng_settings_suggestion_phone_number_title" = "Adakah {phone} masih nombor anda?";
 "lng_settings_system_integration" = "Integrasi sistem";
@@ -7155,7 +7155,7 @@
 "lng_sponsored_info_description1" = "Tidak seperti aplikasi lain, Telegram tidak pernah mengguna data peribadi anda untuk tujuan iklan. Mesej yang ditaja di Telegram berdasarkan hanya pada topik saluran awam di mana ianya dipaparkan, Ini bermakna tiada data pengguna yang akan diguna atau dianalisa untuk kegunaan iklan, dan setiap pengguna saluran di Telegram akan nampak mesej ditaja yang sama.\n\nTidak seperti aplikasi lain, Telegram tidak mengambil kira samada anda tekan pada mesej ditaja dan tidak memprofil anda berdasarkan aktiviti anda. Kami juga menghalang link luaran dalam mesej ditaja untuk pastikan pihak ketiga tidak boleh mengintip pengguna kami. Kami percaya bahawa setiap pengguna mempunyai hak privasi dan platform teknologi sepatutnya menghormatinya.\n\nTelegram membolehkan servis percuma dan tanpa had kepada beratus juta pengguna, di mana ianya melibatkan kos tinggi untuk server dan trafik. Untuk pastikan kami terus tidak berpihak kepada sesiapa dan terus memperjuangkan nilai-nilai kami, Telegram  mencipta alatan berbayar untuk mempromosi mesej dengan mengambil kira privasi pengguna. Kami mengalu-alukan pengiklan yang bertanggungjawab di:";
 "lng_sponsored_info_description1_link" = "Pelajari lagi di Polisi Privasi";
 "lng_sponsored_info_description1_linked" = "Tidak seperti aplikasi lain, Telegram tidak pernah menggunakan data peribadi anda untuk menyasarkan iklan. {link}\n\nTidak seperti apl lain, Telegram tidak menjejaki sama ada anda ketik pada mesej yang ditaja dan tidak memprofilkan anda berdasarkan aktiviti anda. Kami juga menghalang link luar dalam mesej yang ditaja untuk memastikan pihak ketiga tidak dapat mengintip pengguna kami. Kami percaya bahawa setiap orang mempunyai hak untuk privasi, dan platform teknologi harus menghormatinya.\n\nTelegram menawarkan perkhidmatan percuma dan tanpa had kepada berbilion pengguna, yang melibatkan kos server dan trafik yang besar. Untuk kekal bebas dan kekal setia pada nilainya, Telegram membangunkan alat berbayar untuk mempromosikan mesej dengan mengambil kira privasi pengguna. Kami mengalu-alukan pengiklan yang bertanggungjawab di:";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy#5-6-no-ads-based-on-user-data";
+"lng_sponsored_info_description1_url" = "https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data";
 "lng_sponsored_info_description2" = "Mesej Ditaja kini sedang diuji. Apabila telah dilancarkan sepenuhnya dan membolehkan Telegram membiayai kos asasnya, kami akan mula berkongsi hasil iklan dengan pemilik saluran awam di mana mesej ditaja dipamirkan.\n\nIklan di talian tidak lagi disamakan dengan salah guna privasi pengguna. Mari kita tentukan semula bagaimana syarikat teknologi sepatutnya beroperasi - bersama-sama.";
 "lng_sponsored_info_menu" = "Info pengiklan";
 "lng_sponsored_info_submenu" = "Pengiklan: {text}";
@@ -7374,7 +7374,7 @@
 "lng_star_ref_start_info" = "Dengan mencipta program afiliasi, anda setuju dengan {terms} Program Afiliasi.";
 "lng_star_ref_stopped" = "Link afiliasi ini tak lagi aktif.";
 "lng_star_ref_title" = "Program Afiliasi";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program";
+"lng_star_ref_tos_url" = "https://whatsgram.org/tos/affiliate-program";
 "lng_star_ref_transparent_about" = "Pantau komisen dari pengguna yang dirujuk dalam masa sebenar.";
 "lng_star_ref_transparent_title" = "Telus";
 "lng_star_ref_update" = "Kemaskini Program Afiliasi";

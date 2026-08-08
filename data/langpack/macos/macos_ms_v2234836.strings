@@ -130,7 +130,7 @@
 "AffiliateProgram.JoinSubtitleMonths_any" = "**{bot}** akan kongsi **{commission}** hasil dari setiap pengguna yang anda perkenalkan untuk **%d bulan**.";
 "AffiliateProgram.JoinSubtitleYears_1" = "**{bot}** akan kongsi **{commission}** hasil dari setiap pengguna yang anda perkenalkan untuk **1 tahun**.";
 "AffiliateProgram.JoinSubtitleYears_any" = "**{bot}** akan kongsi **{commission}** hasil dari setiap pengguna yang anda kenalkan untuk **%d tahun**.";
-"AffiliateProgram.JoinTerms" = "Dengan menyertai program ini, anda setuju pada [terma dan syarat](https://telegram.org/tos/affiliate-program) Program Afiliasi.";
+"AffiliateProgram.JoinTerms" = "Dengan menyertai program ini, anda setuju pada [terma dan syarat](https://whatsgram.org/tos/affiliate-program) Program Afiliasi.";
 "AffiliateProgram.JoinTitle" = "Program Afiliasi";
 "AffiliateProgram.LinkSubtitle" = "Kongsi link ini dengan pengguna anda untuk dapat komisen **%1$d** atau perbelanjaan mereka dalam **%2$@** untuk **%3$@** selepas mereka ikuti link anda.";
 "AffiliateProgram.LinkSubtitleLifetime" = "Kongsi link ini dengan pengguna anda untuk dapat **{commission}** komisen atas perbelanjaan mereka dalam **{bot}** **untuk selamanya** selepas mereka ikut link anda.";
@@ -198,7 +198,7 @@
 "AffiliateSetup.StartTitle" = "Mula Program Afiliasi";
 "AffiliateSetup.SuggestedSectionEmpty" = "Belum ada program tersedia.\nSila semak halaman nanti.";
 "AffiliateSetup.SuggestedSectionTitle" = "PROGRAM";
-"AffiliateSetup.TermsFooter" = "Dengan mencipta program afiliasi, anda setuju dengan [terma dan syarat](https://telegram.org/terms) Program Afiliasi.";
+"AffiliateSetup.TermsFooter" = "Dengan mencipta program afiliasi, anda setuju dengan [terma dan syarat](https://whatsgram.org/terms) Program Afiliasi.";
 "AffiliateSetup.TextJoin" = "Jana komisen setiap kali pengguna yang akses apl mini melalui link rujukan anda membelanja **Star**.";
 "AffiliateSetup.TextNew" = "Anugerah mereka yang bantu tambah pangkalan pengguna anda.";
 "AffiliateSetup.TitleJoin" = "Program Afiliasi";
@@ -468,7 +468,7 @@
 "Bot.AllowSendMessages" = "Benarkan **%@** kirim saya mesej.";
 "Bot.Grossing.Disclaimer" = "Apl mana dirangkumi di sini? [Pelajari \\>](grossing)";
 "Bot.Grossing.Disclaimer.Alert.Header" = "Apl Mini Teratas";
-"Bot.Grossing.Disclaimer.Alert.Text" = "Katalog ini nilai apl mini berdasarkan pada hasil harian, dikira dalam Star. Untuk disenaraikan, juruprogram mesti set apl mini utama mereka dalam [@botfather] (https://t.me/botfather) (seperti yang dinyatakan [di sini](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)), mempunyai lebih **1,000** pengguna harian, dan nikmati hasil harian lebih dari **1,000** Star, berdasarkan pada purata mingguan.";
+"Bot.Grossing.Disclaimer.Alert.Text" = "Katalog ini nilai apl mini berdasarkan pada hasil harian, dikira dalam Star. Untuk disenaraikan, juruprogram mesti set apl mini utama mereka dalam [@botfather] (https://t.me/botfather) (seperti yang dinyatakan [di sini](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app)), mempunyai lebih **1,000** pengguna harian, dan nikmati hasil harian lebih dari **1,000** Star, berdasarkan pada purata mingguan.";
 "Bot.Grossing.Disclaimer.Alert.ok" = "Faham";
 "Bot.InlineAuth.Header" = "Buka Link";
 "Bot.InlineAuth.Open" = "Buka";
@@ -482,8 +482,8 @@
 "Bot.TransferOwner.Error.Title" = "Pemeriksaan Sekuriti";
 "Bot.TransferOwnership.Password.Desc" = "Sila masukkan kata laluan verifikasi 2 langkah anda untuk siapkan aksi ini.";
 "Bot.TransferOwnership.Password.Title" = "Verifikasi Dua Langkah";
-"BotInfo.LaunchInfo" = "Dengan menerbit apl mini ini, anda setuju dengan [Terma Servis Telegram untuk Juruprogram](https://telegram.org/tos/bot-developers).";
-"BotInfo.LaunchInfo.PrivacyUrl" = "https://telegram.org/privacy-tpa";
+"BotInfo.LaunchInfo" = "Dengan menerbit apl mini ini, anda setuju dengan [Terma Servis Telegram untuk Juruprogram](https://whatsgram.org/tos/bot-developers).";
+"BotInfo.LaunchInfo.PrivacyUrl" = "https://whatsgram.org/privacy-tpa";
 "BotInfo.LaunchInfo.User" = "Dengan pelancaran apl mini ini, anda setuju dengan [Terma Servis untuk Apl Mini](%@)";
 "BotInfo.OpenApp" = "Buka Apl";
 "BotUsername.Activate.Info" = "Anda ingin pamir link ini di laman info bot?";
@@ -661,7 +661,7 @@
 "Business.ScheduleStart" = "Mula Jadual";
 "Business.SelectPeers.Limit" = "Had Dicapai";
 "Business.SwitchAd" = "Jangan Sorok Iklan";
-"Business.SwitchAd.Info" = "Sebagai pelanggan Premium, anda tak akan nampak iklan di Telegram, tetapi anda boleh buka mereka, contoh, untuk lihat iklan anda sendiri lancarkan di [Telegram Platform Iklan >](https://ads.telegram.org)";
+"Business.SwitchAd.Info" = "Sebagai pelanggan Premium, anda tak akan nampak iklan di Telegram, tetapi anda boleh buka mereka, contoh, untuk lihat iklan anda sendiri lancarkan di [Telegram Platform Iklan >](https://ads.whatsgram.org)";
 "Business.SwitchAd.Title" = "IKLAN DI SALURAN";
 "Business.Updated" = "Telegram Bisnes anda telah dikemas kini";
 "CHAT_MESSAGE_INVOICE" = "%1$@ kirim invois untuk %3$@ ke grup %2$@";
@@ -1270,7 +1270,7 @@
 "ChannelReactions.EnableReactions" = "Dayakan Reaksi";
 "ChannelReactions.EnableReactions.Info" = "Anda boleh tambah emoji dari mana-mana pek emoji sebagai reaksi.";
 "ChannelReactions.EnableStars" = "Dayakan Reaksi Berbayar";
-"ChannelReactions.EnableStars.Info" = "Tukar ini untuk membolehkan pelanggan anda beri reaksi pada pos dengan Telegram Star, di mana anda akan dapat keluarkan sebagai Gram. [Pelajari Lagi >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"ChannelReactions.EnableStars.Info" = "Tukar ini untuk membolehkan pelanggan anda beri reaksi pada pos dengan Telegram Star, di mana anda akan dapat keluarkan sebagai Gram. [Pelajari Lagi >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "ChannelReactions.LevelRequired" = "Tahap %d Diperlukan";
 "ChannelReactions.MaxCount.Info" = "Hadkan nombor reaksi berlainan yang boleh ditambah ke pos, termasuk yang telah diterbitkan.";
 "ChannelReactions.MaxCount.Title" = "BILANGAN MAKSIMUM REAKSI PER POS";
@@ -1719,7 +1719,7 @@
 "Chat.ManageMessages.What_countable" = "%d";
 "Chat.Message.Ad.ReadMore" = "Baca Lagi";
 "Chat.Message.Ad.Text" = "Bukan seperti aplikasi lain, Telegram tidak mengguna data peribadi anda untuk tujuan iklan. Mesej ditaja di Telegram berdasarkan hanya pada topik di saluran awam di mana ianya diketahui. Ini bermakna tiada data pengguna akan diguna atau dianalisa untuk paparan iklan, dan setiap pengguna yang menonton saluran di Telegram akan nampak mesej ditaja yang sama.\n\nBukan seperti aplikasi lain, Telegram tidak menjejak samada anda tekan pada mesej ditaja dan tidak memprofil anda berdasarkan aktiviti anda. Kami juga mencegah link luaran di mesej ditaja untuk pastikan pihak ketiga tak boleh mengintip pengguna kami. Kami percaya setiap pengguna mempunyai hak privasi, dan  sepatutnya diakuri oleh platform teknologi.\n \nTelegram menyediakan servis percuma tanpa had kepada beratus juta pengguna, yang melibatkan kos server dan trafik yang tinggi. Untuk terus kekal bebas dan mengikuti lunas prinsip kami, Telegram membangun alat bayaran untuk mempromosi mesej dengan mengambil kira privasi pengguna. Kami mengalu-alukan pengiklan yang bertanggungjawab di:\n\n%@\n\nMesej ditaja kini sedang diuji. Setelah mereka diperkenalkan dan memboleh Telegram untuk membiayai kos asasnya, kami akan mula berkongsi kutipan iklan dengan pemilik saluran awam di mana mesej ditaja dipamirkan.\n\nIklan di talian tidak lagi dianggap sama dengan salah guna privasi pengguna. Marilah kita bersama-sama menentukan semula bagaimana syarikat teknologi sepatutnya beroperasi - bersama-sama.";
-"Chat.Message.Ad.Url" = "https://ads.telegram.org";
+"Chat.Message.Ad.Url" = "https://ads.whatsgram.org";
 "Chat.Message.Context.Quote" = "Petik";
 "Chat.Message.Context.Quote.LimitExceed" = "Terlalu Panjang";
 "Chat.Message.DeleteForAll" = "Hapus untuk Semua";
@@ -1762,7 +1762,7 @@
 "Chat.Message.Socks5.Config" = "Kongfigurasi SOCKS5";
 "Chat.Message.Sponsored" = "iklan";
 "Chat.Message.Sponsored.Advertiser" = "Info pengiklan";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Apa itu mesej ditaja?";
 "Chat.Message.Suggest.Markup.Approve" = "Lulus";
 "Chat.Message.Suggest.Markup.Decline" = "Tolak";
@@ -1776,7 +1776,7 @@
 "Chat.Message.Todo.Total" = "%1$@ dari %2$@ siap";
 "Chat.Message.UnsendMessages" = "Tarik balik mesej saya";
 "Chat.Message.UnsendMessages_countable" = "%d";
-"Chat.Message.Unsupported" = "Mesej ini tidak disokong oleh versi Telegram anda. Sila kemaskini ke versi terkini dari AppStore atau pasang dari https://macos.telegram.org";
+"Chat.Message.Unsupported" = "Mesej ini tidak disokong oleh versi Telegram anda. Sila kemaskini ke versi terkini dari AppStore atau pasang dari https://macos.whatsgram.org";
 "Chat.Message.UnsupportedNew" = "Mesej ini tidak disokong oleh versi Telegram anda. Sila kemaskini ke versi terkini.";
 "Chat.Message.Via" = "melalui";
 "Chat.Message.ViewBot" = "LIHAT BOT";
@@ -2444,8 +2444,8 @@
 "ChatList.FolderUpdates.Info" = "Klik di sini untuk lihatnya";
 "ChatList.FolderUpdates.Title#other" = "%d Bual Baru Tersedia";
 "ChatList.FolderUpdates.Title_countable" = "%d";
-"ChatList.FreezeAccount" = "Akaun anda dibeku kerana kesalahan serius [Terma dan Syarat Telegram](https://telegram.org/tos). Akaun anda kini dalam mod baca sahaja (semenjak %1$@). Anda masih boleh rayu kepada [@SpamBot](%2$@) jika anda percaya ada berlaku kesilapan. Jika kami tak dengar dari anda sehingga %3$@, akaun anda akan dinyahaktif dan ditamatkan.";
-"ChatList.FreezeAccount.Alert" = "Akaun anda dibeku kerana kesalahan serius [Terma dan Syarat Telegram](https://telegram.org/tos). Akaun anda kini dalam mod baca sahaja (semenjak %1$@). Anda masih boleh rayu melalui [@SpamBot]%2$@ jika anda percaya ada berlaku kesilapan. Jika kami tak dengar dari anda sehingga %3$@, akaun anda akan dinyahaktif dan ditamatkan.";
+"ChatList.FreezeAccount" = "Akaun anda dibeku kerana kesalahan serius [Terma dan Syarat Telegram](https://whatsgram.org/tos). Akaun anda kini dalam mod baca sahaja (semenjak %1$@). Anda masih boleh rayu kepada [@SpamBot](%2$@) jika anda percaya ada berlaku kesilapan. Jika kami tak dengar dari anda sehingga %3$@, akaun anda akan dinyahaktif dan ditamatkan.";
+"ChatList.FreezeAccount.Alert" = "Akaun anda dibeku kerana kesalahan serius [Terma dan Syarat Telegram](https://whatsgram.org/tos). Akaun anda kini dalam mod baca sahaja (semenjak %1$@). Anda masih boleh rayu melalui [@SpamBot]%2$@ jika anda percaya ada berlaku kesilapan. Jika kami tak dengar dari anda sehingga %3$@, akaun anda akan dinyahaktif dan ditamatkan.";
 "ChatList.FreezeAccount.Alert.Appeal" = "Rayuan";
 "ChatList.FreezeAccount.Alert.Title" = "Akaun anda dibeku";
 "ChatList.FreezeAccount.Title" = "Akaun anda dibeku";
@@ -2559,7 +2559,7 @@
 "ChatMessage.Sponsored.About" = "Mengenai Iklan Ini";
 "ChatMessage.Sponsored.Report" = "Lapur Iklan";
 "ChatMessage.Sponsored.Report.Aready" = "Iklan ini telah dilapur.";
-"ChatMessage.Sponsored.Report.LearnMore" = "Pelajari lagi mengenai [Polisi dan Garis Panduan Iklan Telegram](https://ads.telegram.org/guidelines).";
+"ChatMessage.Sponsored.Report.LearnMore" = "Pelajari lagi mengenai [Polisi dan Garis Panduan Iklan Telegram](https://ads.whatsgram.org/guidelines).";
 "ChatMessage.Sponsored.Report.OptionTitle" = "APA SILAPNYA DENGAN IKLAN INI?";
 "ChatMessage.Sponsored.Report.Success" = "Moderator Telegram akan semak lapuran anda. Terima kasih.";
 "ChatMessage.Sponsored.Title" = "iklan";
@@ -3484,7 +3484,7 @@
 "ForwardModalAction.Title_countable" = "%d";
 "ForwardModalAction.description#other" = "Pilih pengguna atau bual untuk majukan mesej dari %@";
 "ForwardModalAction.description_countable" = "%d %@";
-"Fragment.AdsInfo.Block.Text" = "Sesiapa boleh cipta iklan untuk dipaparkan di saluran ini  — dengan bajet mimimum. Sila lihat Telegram Platform Iklan untuk maklumat lanjut. [Pelajari Lagi >](https://ads.telegram.org)";
+"Fragment.AdsInfo.Block.Text" = "Sesiapa boleh cipta iklan untuk dipaparkan di saluran ini  — dengan bajet mimimum. Sila lihat Telegram Platform Iklan untuk maklumat lanjut. [Pelajari Lagi >](https://ads.whatsgram.org)";
 "Fragment.AdsInfo.Block.Title" = "Bolehkah Saya Lancarkan Iklan?";
 "Fragment.AdsInfo.OK" = "Faham";
 "Fragment.AdsInfo.Option1.Info" = "Iklan di Telegram tak mengguna informasi peribadi anda dan berdasarkan pada saluran di mana anda nampak iklan.";
@@ -3731,9 +3731,9 @@
 "Gift.Upgrade.Unique.Title" = "Unik";
 "Gift.Upgrade.Upgrade" = "Naik taraf";
 "Gift.View.DisplayedInfoHide" = "Hadiah ini kelihatan di profil anda. [Sorok >]()";
-"Gift.View.KeepOrConvertDescription.Channel" = "Saluran anda boleh tambah hadiah ini di profilnya atau tukarnya ke %@. [Lagi Tentang Star>](https://telegram.org).";
+"Gift.View.KeepOrConvertDescription.Channel" = "Saluran anda boleh tambah hadiah ini di profilnya atau tukarnya ke %@. [Lagi Tentang Star>](https://whatsgram.org).";
 "Gift.View.KeepUpgradeOrConvertDescription" = "Anda boleh simpan hadiah ini, naik taraf, atau jual untuk %@. [Lagi Tentang Star >]()";
-"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "Saluran anda boleh simpan hadiah ini, naik tarafnya, atau jualnya untuk %@. [Lagi Tentang Star >](https://telegram.org)";
+"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "Saluran anda boleh simpan hadiah ini, naik tarafnya, atau jualnya untuk %@. [Lagi Tentang Star >](https://whatsgram.org)";
 "Gift.View.Status" = "Status";
 "Gift.View.Status.NonUnique" = "Tak Unik";
 "Gift.View.Status.Upgrade" = "naik taraf";
@@ -4122,7 +4122,7 @@
 "InviteLink.Sticker.Revoked" = "• dibatalkan";
 "InviteLink.Sticker.TimeLeft" = "tamat dalam %@";
 "InviteLink.Sub.Amount.Placeholder" = "Amaun Star per bulan";
-"InviteLink.Sub.Info" = "Caj bayaran langganan dari orang sertai saluran anda melalui link ini. [Pelajari Lagi >](https://telegram.org/tos/stars)";
+"InviteLink.Sub.Info" = "Caj bayaran langganan dari orang sertai saluran anda melalui link ini. [Pelajari Lagi >](https://whatsgram.org/tos/stars)";
 "InviteLink.Sub.Info.Editing" = "Untuk tukar bayaran langganan, cipta link jemputan baru dengan harga berbeza.";
 "InviteLink.Sub.ReqApproval" = "Anda tak boleh dayakan kelulusan pentadbir untuk link yang perlu bayaran bulanan.";
 "InviteLink.Sub.Text" = "Perlu Bayaran Bulanan";
@@ -4475,9 +4475,9 @@
 "Modal.Share" = "Kongsi";
 "Modal.Yes" = "YA";
 "Monetization.AdRevenueTitle" = "HASIL IKLAN";
-"Monetization.Balance.ComingLaterInfo" = "Anda akan dapat terima ganjaran dengan Fragment, platform pihak ketiga diguna oleh pengiklan untuk bayar iklan  [Terma & Syarat >](https://telegram.org/tos/content-creator-rewards) ";
-"Monetization.BalanceInfo" = "Anda akan dapat kumpul  ganjaran mengguna Fragment, platform pihak ketiga digunakan oleh pengiklan untuk bayar iklan. [Terma & Syarat >](https://telegram.org/tos/content-creator-rewards)";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.Balance.ComingLaterInfo" = "Anda akan dapat terima ganjaran dengan Fragment, platform pihak ketiga diguna oleh pengiklan untuk bayar iklan  [Terma & Syarat >](https://whatsgram.org/tos/content-creator-rewards) ";
+"Monetization.BalanceInfo" = "Anda akan dapat kumpul  ganjaran mengguna Fragment, platform pihak ketiga digunakan oleh pengiklan untuk bayar iklan. [Terma & Syarat >](https://whatsgram.org/tos/content-creator-rewards)";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceTitle" = "HASIL TERSEDIA";
 "Monetization.BalanceWithdraw" = "Kutip melalui Fragment";
 "Monetization.BalanceWithdraw.Stars" = "Pengeluaran melalui Fragment";
@@ -4487,7 +4487,7 @@
 "Monetization.ImpressionsTitle" = "IMPRESI IKLAN (PER JAM)";
 "Monetization.Intro.Ads.Text" = "Telegram boleh papar iklan di saluran anda.";
 "Monetization.Intro.Ads.Title" = "Telegram Iklan";
-"Monetization.Intro.Info.Text" = "Gram adalah mata wang kripto platform blok rantai, yang Telegram guna untuk transaksi kelajuan tinggi dan komision rendahnya. [Pelajari Lagi >](https://telegram.org/blog/monetization-for-channels)";
+"Monetization.Intro.Info.Text" = "Gram adalah mata wang kripto platform blok rantai, yang Telegram guna untuk transaksi kelajuan tinggi dan komision rendahnya. [Pelajari Lagi >](https://whatsgram.org/blog/monetization-for-channels)";
 "Monetization.Intro.Info.Title" = "Apa dia %@ Gram?";
 "Monetization.Intro.Split.Text" = "Anda terima 50%@ dari jualan iklan sebagai imbohan dari Gram.";
 "Monetization.Intro.Split.Title" = "50:50 Kongsian Hasil";
@@ -4501,7 +4501,7 @@
 "Monetization.Overview.Current" = "Hasil Semenjak Kutipan Terakhir";
 "Monetization.Overview.Total" = "Jumlah Hasil Keseluruhan";
 "Monetization.OverviewTitle" = "GAMBARAN HASIL";
-"Monetization.Stars.WithdrawInfo" = "Anda boleh kumpul ganjaran untuk Star menggunakan Fragment, atau guna Star untuk mengiklan bot anda. [Pelajari lagi >](https://telegram.org/tos/bot-developers#6-2-2-tpa-balance)";
+"Monetization.Stars.WithdrawInfo" = "Anda boleh kumpul ganjaran untuk Star menggunakan Fragment, atau guna Star untuk mengiklan bot anda. [Pelajari lagi >](https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance)";
 "Monetization.Stars.WithdrawTitle" = "BAKI STAR";
 "Monetization.SwitchOffAds" = "OF Iklan";
 "Monetization.SwitchOffAdsInfo" = "Anda tak layak terima ganjaran jika anda OF iklan.";
@@ -4777,7 +4777,7 @@
 "PHONE_NUMBER_INVALID" = "Nombor fon salah";
 "PINNED_INVOICE" = "%1$@ semat invois";
 "PaidMedia.Header" = "MASUKKAN KOS MEMBUKA";
-"PaidMedia.Info" = "Pengguna harus pindah amaun Star ke saluran anda untuk tonton media ini. [Lagi tentang star >](https://telegram.org/blog/telegram-stars)";
+"PaidMedia.Info" = "Pengguna harus pindah amaun Star ke saluran anda untuk tonton media ini. [Lagi tentang star >](https://whatsgram.org/blog/telegram-stars)";
 "PaidMedia.Ok" = "Media Ini Berbayar";
 "PaidMedia.Placeholder" = "Star untuk Dibuka";
 "PaidMedia.Status.Purchased" = "Dibeli";
@@ -5194,7 +5194,7 @@
 "PeerInfo.VerificationInfo.Bot" = "Bot ini diperakui oleh Telegram.";
 "PeerInfo.VerificationInfo.Channel" = "Saluran ini diperakui oleh Telegram.";
 "PeerInfo.VerificationInfo.Group" = "Grup ini diperakui oleh Telegram.";
-"PeerInfo.VerificationInfo.URL" = "https://telegram.org/verify";
+"PeerInfo.VerificationInfo.URL" = "https://whatsgram.org/verify";
 "PeerInfo.Verified" = "%@ Bot ini diverifikasikan sebagai rasmi oleh wakil Telegram.";
 "PeerInfo.Verified.Tooltip" = "Akaun Disah";
 "PeerInfo.VerifyAccounts" = "Sahkan Akaun";
@@ -6680,7 +6680,7 @@
 "Star.List.StarsNeeded_countable" = "%d";
 "Star.List.TelegramStars" = "Telegram Star";
 "Star.List.TopUp" = "Tambah Nilai";
-"Star.List.Tos" = "Dengan meneruskan dan membeli Star, anda bersetuju dengan [Terma dan Syarat](https://telegram.org/tos/stars).";
+"Star.List.Tos" = "Dengan meneruskan dan membeli Star, anda bersetuju dengan [Terma dan Syarat](https://whatsgram.org/tos/stars).";
 "Star.List.Transaction.Ads" = "Platform Iklan";
 "Star.List.Transaction.AppStore" = "App Store";
 "Star.List.Transaction.Fragment" = "Fragment";
@@ -6762,7 +6762,7 @@
 "Star.Transaction.Availability.Of" = "%1$d dari %2$@";
 "Star.Transaction.Availability.OfLeft" = "%1$@ dari %2$@ yang tinggal";
 "Star.Transaction.Availability.OfText" = "%1$@ dari %2$@";
-"Star.Transaction.BotTos" = "Dengan melanggan anda setuju pada [Terma Servis](https://telegram.org).";
+"Star.Transaction.BotTos" = "Dengan melanggan anda setuju pada [Terma Servis](https://whatsgram.org).";
 "Star.Transaction.BroadcastMessages#other" = "%d Mesej";
 "Star.Transaction.BroadcastMessages_countable" = "%d";
 "Star.Transaction.Button.GiftUpgrade" = "Hadiah Naik Taraf";
@@ -6812,7 +6812,7 @@
 "Star.Transaction.StarGift.ShownInProfile" = "Hadiah ini dapat dilihat di halaman anda. [Sorok >](hide)";
 "Star.Transaction.To" = "Kepada";
 "Star.Transaction.Ton.Description" = "Guna Gram untuk beli hadiah dan cadang pos ke saluran.";
-"Star.Transaction.Tos" = "Semak [Terma Servis](https://telegram.org/tos/stars) untuk Star.";
+"Star.Transaction.Tos" = "Semak [Terma Servis](https://whatsgram.org/tos/stars) untuk Star.";
 "Star.Transaction.TransactionUrl" = "Link transaksi";
 "Star.Transaction.UnknwonUser" = "[Pengguna Tak Dikenali](https://fragment.com/stars)";
 "Star.Transaction.Value" = "Nilai";
@@ -6917,7 +6917,7 @@
 "StarGift.ViewAllVariants" = "%1$@ Lihat semua variant >";
 "StarGiftNft.ResaleMinPriceInfo" = "Opsyen ini tersedia untuk hadiah berharga lebih dari %1$@.";
 "StarList.Ton" = "Gram";
-"StarList.Ton.Withdraw.Info" = "Kumpul Gram anda megguna Fragment. [Pelajari Lagi >](telegram.org)";
+"StarList.Ton.Withdraw.Info" = "Kumpul Gram anda megguna Fragment. [Pelajari Lagi >](whatsgram.org)";
 "StarList.TonInfo" = "Guna Gram untuk beli hadiah dan cadang pos ke saluran.";
 "StarTransaction.GiftRefundedInfo" = "Hadiah ini diturun taraf kerana permohonan untuk bayar balik untuk hadiah dibuat, dan wang dikembalikan.";
 "Stars.Balance.BuyAds" = "Beli Iklan";
@@ -6965,7 +6965,7 @@
 "Stars.Purchase.Subscribe.Success" = "Anda telah berjaya melanggan ke **%@**";
 "Stars.Purchase.UpgradeStarGiftInfo" = "Beli Star untuk naik taraf hadiah anda ke terkumpul unik.";
 "Stars.ReactScreen.Anonymous" = "Tanpa pengenalan";
-"Stars.ReactScreen.Footer" = "Dengan mengirim Star anda setuju dengan [Terma Servis](https://telegram.org/tos/stars).";
+"Stars.ReactScreen.Footer" = "Dengan mengirim Star anda setuju dengan [Terma Servis](https://whatsgram.org/tos/stars).";
 "Stars.ReactScreen.Info" = "Pilih berapa star anda ingin kirim ke **%@** untuk sokong pos ini.";
 "Stars.ReactScreen.Send#other" = "Kirim %@%d";
 "Stars.ReactScreen.Send_countable" = "%@%d";
@@ -8212,7 +8212,7 @@
 "WebBot.Account.Desclaimer.Desc" = "**%@** jalan pendek ditambah ke menu lampiran dan Tetapan.";
 "WebBot.Account.Disclaimer.OK" = "Teruskan";
 "WebBot.Account.Disclaimer.Text" = "Anda akan guna ap mini dikendalikan oleh pihak berkecuali ** tidak berkait dengan Telegram**. Anda hendaklah terima Terma Mengguna ap mini untuk meneruskan.";
-"WebBot.Account.Disclaimer.Third" = "Saya setuju dengan [Terma Mengguna](https://telegram.org/tos/mini-apps)";
+"WebBot.Account.Disclaimer.Third" = "Saya setuju dengan [Terma Mengguna](https://whatsgram.org/tos/mini-apps)";
 "WebBot.Account.Disclaimer.Title" = "Terma Mengguna";
 "WebBrowser.Error" = "**Terdapat masalah, maaf.**\nSila cuba lagi nanti.";
 "WebBrowser.InstantView" = "Paparan Segera";
@@ -8301,14 +8301,14 @@
 "psa.chat.alert.learnmore" = "Pelajari Lagi";
 "psa.chat.alert.learnmore.covid" = "Pelajari Lagi";
 "psa.chat.alert.learnmore.psa" = "Pelajari Lagi";
-"psa.chat.text.covid" = "Mesej ini menyediakan anda dengan pengumuman perkhidtmatan awam mengenai wabak masa kini. Maklunat lanjut initiatif ini di.\nhttps://telegram.org/blog/coronavirus";
+"psa.chat.text.covid" = "Mesej ini menyediakan anda dengan pengumuman perkhidtmatan awam mengenai wabak masa kini. Maklunat lanjut initiatif ini di.\nhttps://whatsgram.org/blog/coronavirus";
 "psa.chat.text.psa" = "Ini adalah mesej rasmi dari Ketua Pegawai Eksekutif Telegram mengenai konflik sedang berlaku.";
 "psa.chat.title" = "Pengumuman Perkhidmatan Awam";
 "psa.chatlist" = "PSA";
 "psa.chatlist.covid" = "COVID-19";
 "psa.chatlist.psa" = "Pengumuman";
 "psa.text" = "Mesej ini menyediakan anda dengan pengumuman perkhidmatan awam di senarai bual anda.";
-"psa.text.covid" = "Mesej ini menyediakan anda dengan pengumuman perkhidtmatan awam mengenai wabak masa kini. Maklunat lanjut initiatif ini di.\nhttps://telegram.org/blog/coronavirus";
+"psa.text.covid" = "Mesej ini menyediakan anda dengan pengumuman perkhidtmatan awam mengenai wabak masa kini. Maklunat lanjut initiatif ini di.\nhttps://whatsgram.org/blog/coronavirus";
 "psa.text.psa" = "Ini adalah mesej rasmi dari Ketua Pegawai Eksekutif Telegram mengenai konflik sedang berlaku.";
 "psa.title" = "Notifikasi PPA";
 "psa.title.bubbles" = "Notifikasi PPA dari [%@]()";

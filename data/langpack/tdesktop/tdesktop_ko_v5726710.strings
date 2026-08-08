@@ -161,7 +161,7 @@
 "cloud_lng_passport_in_uk" = "우크라이나어";
 "cloud_lng_passport_in_uz" = "우즈베크어";
 "cloud_lng_passport_in_vi" = "베트남어";
-"cloud_lng_tooltip_psa_covid" = "이 메시지는 진행 중인 COVID-19 팬데믹과 관련된 공익 안내입니다. 이 활동에 대해 자세히 알아보세요: https://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "이 메시지는 진행 중인 COVID-19 팬데믹과 관련된 공익 안내입니다. 이 활동에 대해 자세히 알아보세요: https://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "현재 진행중인 갈등과 관련된 텔레그램 CEO의 공식 메시지입니다.";
 "cloud_lng_topup_purpose_subs" = "채널 구독을 유지하려면 **스타**를 구매하세요.";
 "cloud_lng_translate_to_ar" = "아랍어";
@@ -219,7 +219,7 @@
 "lng_about_text2" = "이 소프트웨어는 {gpl_link} 버전3 라이선스를 따르고 있습니다.\n소스코드는 {github_link} 에서 접근 가능합니다.";
 "lng_about_text3" = "{faq_link} 를 방문해서 더 많은 정보를 확인하세요.";
 "lng_about_text3_faq" = "자주 묻는 질문";
-"lng_about_text_1" = "빠르고 안전한 [a href=\"https://core.telegram.org/api\"]텔레그램 API[/a] 기반의 공식 무료 메신저 앱입니다.";
+"lng_about_text_1" = "빠르고 안전한 [a href=\"https://core.whatsgram.org/api\"]텔레그램 API[/a] 기반의 공식 무료 메신저 앱입니다.";
 "lng_about_text_2" = "이 소프트웨어는  [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] version 3 를 채택하고 있으며,\n소스코드는 [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a]에서 제공하고 있습니다.";
 "lng_about_text_3" = "자세한 사항은 {faq_open}자주 묻는 질문{faq_close}에서 확인하세요.";
 "lng_about_version" = "버전 {version}";
@@ -1288,7 +1288,7 @@
 "lng_bot_download_starting" = "시작 중...";
 "lng_bot_earn_available" = "사용 가능한 잔액";
 "lng_bot_earn_balance_about" = "총 잔액의 스타는 광고에 사용하거나 획득 후 21일이 지나 리워드로 출금할 수 있습니다.";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
+"lng_bot_earn_balance_about_url" = "https://whatsgram.org/tos/stars";
 "lng_bot_earn_balance_button#other" = "{emoji} {count} 출금";
 "lng_bot_earn_balance_button_all" = "모든 스타 출금";
 "lng_bot_earn_balance_button_buy_ads" = "광고 구매";
@@ -1424,7 +1424,7 @@
 "lng_business_about_quick_replies" = "서식 있는 텍스트와 미디어로 바로가기를 설정하면 메시지에 더 빠르게 응답할 수 있습니다.";
 "lng_business_about_sponsored" = "프리미엄 구독자는 텔레그램에서 광고를 보지 않지만, 예를 들어 {link}에서 시작한 내 광고를 보기 위해 광고를 켤 수 있습니다.";
 "lng_business_about_sponsored_link" = "텔레그램 광고 플랫폼 {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
+"lng_business_about_sponsored_url" = "https://ads.whatsgram.org";
 "lng_business_button_sponsored" = "광고 숨기지 않기";
 "lng_business_edit_messages" = "메시지 수정";
 "lng_business_limit_reached#other" = "메시지 {count}개 한도에 도달했습니다.";
@@ -1598,7 +1598,7 @@
 "lng_channel_earn_learn_bot_in_about" = "텔레그램이 봇에 광고를 표시할 수 있습니다.";
 "lng_channel_earn_learn_close" = "확인";
 "lng_channel_earn_learn_coin_about" = "그램은 빠른 속도와 낮은 거래 수수료를 위해 텔레그램이 사용하는 TON 블록체인 플랫폼의 암호화폐입니다. {link}";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels/ko";
+"lng_channel_earn_learn_coin_link" = "https://whatsgram.org/blog/monetization-for-channels/ko";
 "lng_channel_earn_learn_coin_title" = "{emoji} 그램이란?";
 "lng_channel_earn_learn_in_about" = "텔레그램은 회원님의 채널에 광고를 표시할 수 있습니다.";
 "lng_channel_earn_learn_in_subtitle" = "텔레그램 광고";
@@ -1754,7 +1754,7 @@
 "lng_chatbots_gift_settings" = "선물 설정 변경";
 "lng_chatbots_include_button" = "대화방 선택";
 "lng_chatbots_included_title" = "포함할 대화방";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business/ko?ln=a#508721516";
+"lng_chatbots_info_url" = "https://whatsgram.org/blog/telegram-business/ko?ln=a#508721516";
 "lng_chatbots_leave_without_added_text" = "계정을 관리할 봇을 추가하지 않았습니다. 그래도 나가시겠습니까?";
 "lng_chatbots_leave_without_added_title" = "추가된 봇 없음";
 "lng_chatbots_manage_gifts" = "선물 및 스타 관리";
@@ -2309,7 +2309,7 @@
 "lng_credits_box_history_entry_floodskip_row" = "메시지";
 "lng_credits_box_history_entry_fragment" = "Fragment";
 "lng_credits_box_history_entry_gift_about_link" = "예시 보기 {emoji}";
-"lng_credits_box_history_entry_gift_about_url" = "https://telegram.org/blog/telegram-stars/ko";
+"lng_credits_box_history_entry_gift_about_url" = "https://whatsgram.org/blog/telegram-stars/ko";
 "lng_credits_box_history_entry_gift_bought" = "선물 구매";
 "lng_credits_box_history_entry_gift_bought_from" = "발신자";
 "lng_credits_box_history_entry_gift_converted" = "전환된 선물";
@@ -2348,7 +2348,7 @@
 "lng_credits_box_history_entry_via" = "경유";
 "lng_credits_box_history_entry_via_premium_bot" = "프리미엄 봇";
 "lng_credits_box_out_about" = "스타 관련 {link}을 검토하세요.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars";
 "lng_credits_box_out_both" = "{photo} 및 {video}";
 "lng_credits_box_out_confirm#other" = "{emoji} {count} 스타 결제 확인";
 "lng_credits_box_out_media#other" = "{chat}에서 {media} 잠금 해제에 **{count} 스타**를 사용하시겠습니까?";
@@ -2435,7 +2435,7 @@
 "lng_credits_summary_in_toast_title" = "스타 획득";
 "lng_credits_summary_options_about" = "계속하여 스타를 구매하면 {link}에 동의하게 됩니다.";
 "lng_credits_summary_options_about_link" = "이용약관";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars";
+"lng_credits_summary_options_about_url" = "https://whatsgram.org/tos/stars";
 "lng_credits_summary_options_credits#other" = "{count} 스타";
 "lng_credits_summary_options_more" = "더 많은 옵션";
 "lng_credits_summary_options_subtitle" = "패키지 선택";
@@ -4100,7 +4100,7 @@
 "lng_group_invite_subscription" = "월 요금 필요";
 "lng_group_invite_subscription_about" = "이 링크로 채널에 참여하는 사람에게 구독료를 청구합니다. {link}";
 "lng_group_invite_subscription_about_link" = "자세히 알아보기 {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "월 약 {total} 수령";
 "lng_group_invite_subscription_info_subtitle" = "구독료";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} / 월 {multiplier} {total}";
@@ -4810,7 +4810,7 @@
 "lng_mini_apps_disclaimer_link" = "이용약관";
 "lng_mini_apps_disclaimer_text" = "회원님은 **텔레그램과 무관한** 독립적인 제3자가 운영하는 미니 앱을 사용하려고 합니다. 계속하려면 이용약관에 동의해주셔야 합니다.";
 "lng_mini_apps_disclaimer_title" = "경고";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "트레이로 최소화";
 "lng_minimize_window" = "축소";
 "lng_minutes#other" = "{count} 분";
@@ -4975,7 +4975,7 @@
 "lng_owner_badge" = "소유자";
 "lng_paid_about" = "이 미디어를 보려면 사용자가 채널에 해당 수량의 스타를 보내야 합니다. {link}";
 "lng_paid_about_link" = "스타에 대해 더 알아보기 >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars/ko";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars/ko";
 "lng_paid_admin_about" = "시청자가 회원님에게 스타 반응을 보낼 수 있습니다.";
 "lng_paid_admin_title" = "시청자로부터 스타 받기";
 "lng_paid_comment_about" = "{name}님에게 스타를 추가해 메시지를 강조 표시하고 고정하세요.";
@@ -5451,7 +5451,7 @@
 "lng_popular_apps_info_here" = "여기";
 "lng_popular_apps_info_text" = "이 카탈로그는 스타로 측정한 일일 수익을 기준으로 미니 앱의 순위를 매깁니다. 목록에 표시되려면 개발자가 {bot}에서 기본 미니 앱을 설정해야 하며({link}에 설명된 대로), 일일 사용자가 **1,000**명을 넘고 주간 평균 기준 일일 수익이 **1,000** 스타를 초과해야 합니다.";
 "lng_popular_apps_info_title" = "상위 미니 앱";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
+"lng_popular_apps_info_url" = "https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app";
 "lng_posts_limit_about#other" = "하루에 검색 쿼리를 최대 {count}개까지 만들 수 있습니다.";
 "lng_posts_limit_reached" = "한도 도달";
 "lng_posts_limit_search_paid" = "{cost}로 검색";
@@ -5735,7 +5735,7 @@
 "lng_profile_bot_help" = "도움말";
 "lng_profile_bot_permissions_title" = "접근 허용 대상";
 "lng_profile_bot_privacy" = "봇 개인 정보 보호 정책";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "봇 설정";
 "lng_profile_camera_title" = "나를 캡춰";
 "lng_profile_changed_photo_about" = "{link}에서 변경할 수 있습니다.";
@@ -6768,7 +6768,7 @@
 "lng_settings_export_data" = "텔레그램 데이터 내보내기";
 "lng_settings_faq" = "자주 묻는 질문";
 "lng_settings_faq_button" = "자주 묻는 질문으로 가기";
-"lng_settings_faq_link" = "https://telegram.org/faq/ko";
+"lng_settings_faq_link" = "https://whatsgram.org/faq/ko";
 "lng_settings_faq_subtitle" = "자주 묻는 질문";
 "lng_settings_features" = "텔레그램 기능 소개";
 "lng_settings_file_confirmations" = "파일 열기 확인";
@@ -6963,7 +6963,7 @@
 "lng_settings_suggestion_password_title" = "내 비밀번호";
 "lng_settings_suggestion_password_yes" = "네, 확실합니다";
 "lng_settings_suggestion_phone_number_about" = "언제든 텔레그램에 로그인할 수 있도록 전화번호를 최신 상태로 유지하세요. {link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq/ko#868251438";
+"lng_settings_suggestion_phone_number_about_link" = "https://whatsgram.org/faq/ko#868251438";
 "lng_settings_suggestion_phone_number_change" = "가능한 한 빨리 휴대폰의 공식 텔레그램 앱에서 전화번호를 변경하세요. {emoji}";
 "lng_settings_suggestion_phone_number_title" = "{phone} 번호를 계속 사용하시나요?";
 "lng_settings_system_integration" = "시스템 통합";
@@ -7157,7 +7157,7 @@
 "lng_sponsored_info_description1" = "다른 앱과 달리, 텔레그램은 광고 타겟팅에 사용자의 개인 데이터를 절대 사용하지 않습니다. 텔레그램의 스폰서 메시지는 표시되는 공개 채널의 주제만을 기반으로 합니다. 즉, 광고를 표시하기 위해 사용자 데이터를 수집하거나 분석하지 않으며, 텔레그램에서 같은 채널을 보는 모든 사용자는 동일한 스폰서 메시지를 보게 됩니다.\n\n다른 앱과 달리, 텔레그램은 사용자가 스폰서 메시지를 탭했는지 추적하지 않으며 사용자의 활동을 기반으로 프로파일링하지 않습니다. 또한 제3자가 사용자를 염탐할 수 없도록 스폰서 메시지의 외부 링크를 차단합니다. 저희는 모두에게 개인정보 보호 권리가 있으며, 기술 플랫폼은 이를 존중해야 한다고 믿습니다.\n\n텔레그램은 수억 명의 사용자에게 무료 무제한 서비스를 제공하며, 여기에는 상당한 서버 및 트래픽 비용이 듭니다. 독립성을 유지하고 텔레그램의 가치를 지키기 위해, 텔레그램은 사용자 개인정보 보호를 고려한 유료 메시지 홍보 도구를 개발했습니다. 책임감 있는 광고주를 환영합니다:";
 "lng_sponsored_info_description1_link" = "개인정보 처리방침에서 자세히 알아보기";
 "lng_sponsored_info_description1_linked" = "다른 앱과 달리 텔레그램은 광고 타겟팅에 회원님의 개인 데이터를 절대 사용하지 않습니다. {link}\n\n다른 앱과 달리 텔레그램은 회원님이 후원 메시지를 탭했는지 추적하지 않으며 활동을 기반으로 프로필을 만들지 않습니다. 또한 제3자가 사용자를 염탐할 수 없도록 후원 메시지의 외부 링크를 차단합니다. 모든 사람에게는 개인정보 보호 권리가 있으며 기술 플랫폼은 이를 존중해야 한다고 믿습니다.\n\n텔레그램은 수억 명의 사용자에게 무료 무제한 서비스를 제공하며, 여기에는 상당한 서버와 트래픽 비용이 듭니다. 독립성을 유지하고 가치를 지키기 위해 텔레그램은 사용자 개인정보 보호를 고려한 유료 메시지 홍보 도구를 개발했습니다. 책임 있는 광고주는 다음에서 환영합니다:";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy#5-6-no-ads-based-on-user-data";
+"lng_sponsored_info_description1_url" = "https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data";
 "lng_sponsored_info_description2" = "스폰서 메시지는 현재 테스트 모드입니다. 정식 출시되어 텔레그램이 기본 비용을 충당할 수 있게 되면, 스폰서 메시지가 표시되는 공개 채널 소유자와 광고 수익을 공유하기 시작할 예정입니다.\n\n온라인 광고가 더 이상 사용자 개인정보 침해와 동의어가 되어서는 안 됩니다. 기술 기업이 운영되는 방식을 함께 새롭게 정의해 나가겠습니다.";
 "lng_sponsored_info_menu" = "광고 정보";
 "lng_sponsored_info_submenu" = "광고주: {text}";
@@ -7376,7 +7376,7 @@
 "lng_star_ref_start_info" = "제휴 프로그램을 만들면 {terms}에 동의하게 됩니다.";
 "lng_star_ref_stopped" = "이 제휴 링크는 더 이상 활성 상태가 아닙니다.";
 "lng_star_ref_title" = "제휴 프로그램";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program";
+"lng_star_ref_tos_url" = "https://whatsgram.org/tos/affiliate-program";
 "lng_star_ref_transparent_about" = "추천한 사용자의 수수료를 실시간으로 추적하세요.";
 "lng_star_ref_transparent_title" = "투명성";
 "lng_star_ref_update" = "제휴 프로그램 업데이트";

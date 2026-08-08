@@ -1578,7 +1578,7 @@
 "GiftPeerUpgradeTransferableDescription" = "\u2068{user}\u2069 יוכל לשלוח את המתנה לכולם בטלגרם.";
 "GiftPeerUpgradeUniqueDescription" = "\u2068{user}\u2069 יקבל מספר, דגם, רקע וסמל ייחודיים עבור המתנה.";
 "GiftPremiumDescription" = "הענק ל\u2068{user}\u2069 גישה לתכונות ייחודיות עם Telegram Premium. \u2068{link}\u2069";
-"GiftPremiumDescriptionLink" = "https://telegram.org/faq_premium";
+"GiftPremiumDescriptionLink" = "https://whatsgram.org/faq_premium";
 "GiftPremiumDescriptionLinkCaption" = "ראה תכונות >";
 "GiftPremiumDescriptionYourBalance" = "היתרה שלך היא **\u2068{stars}\u2069**. \u2068{link}\u2069";
 "GiftPremiumHeader" = "הענק Premium";
@@ -2513,7 +2513,7 @@
 "ProfileBirthdayValueAge#two" = "\u2068{date}\u2069 (גיל שנתיים)";
 "ProfileBirthdayValueAge#many" = "\u2068{date}\u2069 (גיל \u2068{age}\u2069)";
 "ProfileBirthdayValueAge#other" = "\u2068{date}\u2069 (גיל \u2068{age}\u2069)";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps";
 "ProfileCopyPhone" = "העתק מספר טלפון";
 "ProfileItemSubscribers" = "מנויים";
 "ProfileJoinChannel" = "הצטרף לערוץ";
@@ -2882,7 +2882,7 @@
 "SpeakingWithVolume" = "\u2068{volume}\u2069% מדבר/ת";
 "SponsoredMessageAd" = "מודעה";
 "SponsoredMessageAdWhatIsThis" = "מה זה?";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "מהן הודעות\nממומנות?";
 "SponsoredMessageInfoDescription1" = "בניגוד לאפליקציות אחרות, טלגרם לעולם לא משתמשת בנתונים האישיים שלך כדי להתאים פרסומות. הודעות ממומנות בטלגרם מבוססות רק על נושא הערוץ הציבורי בו הן מוצגות. זאת אומרת שאיננו כורים או מנתחים פרטי משתמשים בכדי להציג פרסומות, וכל המשתמשים שצופים בערוץ מסוים בטלגרם יראו את אותה ההודעה הממומנת.";
 "SponsoredMessageInfoDescription2" = "בניגוד לאפליקציות אחרות, טלגרם לא עוקבת האם לחצת על הודעה ממומנת, ואינה מכוונת אותן אליך בהתאם לפעילות שלך. אנו חוסמים קישורים חיצוניים בהודעות ממומנות כדי לוודא שגופים צד שלישי לא יוכלו לרגל אחרי המשתמשים שלנו. אנו מאמינים שלכולם הזכות לפרטיות, ועל פלטפורמות טכנולוגיות לכבד זאת.";
@@ -2925,7 +2925,7 @@
 "StarsNeededTextSendPaidMessages" = "קנה **כוכבים** כדי לשלוח הודעות.";
 "StarsPay" = "אשר ושלם \u2068{amount}\u2069";
 "StarsPerMonth" = "⭐️\u2068{amount}\u2069/לחודש";
-"StarsReactionLink" = "https://telegram.org/tos/stars";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars";
 "StarsReactionLinkText" = "תנאי השימוש";
 "StarsReactionTerms" = "באמצעות שליחת כוכבים הינך מסכים ל\u2068{link}\u2069";
 "StarsSubscribeBotButtonMonth" = "הירשם ב\u2068{amount}\u2069 לחודש";
@@ -2934,14 +2934,14 @@
 "StarsSubscribeBotText#many" = "להירשם ל**\u2068{name}\u2069** ב**\u2068{bot}\u2069** ב**\u2068{amount}\u2069** כוכבים לחודש?";
 "StarsSubscribeBotText#other" = "להירשם ל**\u2068{name}\u2069** ב**\u2068{bot}\u2069** ב**\u2068{amount}\u2069** כוכבים לחודש?";
 "StarsSubscribeInfo" = "על ידי הרשמה הינך מסכים ל\u2068{link}\u2069";
-"StarsSubscribeInfoLink" = "https://telegram.org/tos/stars";
+"StarsSubscribeInfoLink" = "https://whatsgram.org/tos/stars";
 "StarsSubscribeInfoLinkText" = "תנאי השימוש";
 "StarsSubscribeText#one" = "להירשם ל**\u2068{chat}\u2069** ב**כוכב \u2068{amount}\u2069** לחודש?";
 "StarsSubscribeText#two" = "להירשם ל**\u2068{chat}\u2069** ב**\u2068{amount}\u2069 כוכבים** לחודש?";
 "StarsSubscribeText#many" = "להירשם ל**\u2068{chat}\u2069** ב**\u2068{amount}\u2069 כוכבים** לחודש?";
 "StarsSubscribeText#other" = "להירשם ל**\u2068{chat}\u2069** ב**\u2068{amount}\u2069 כוכבים** לחודש?";
 "StarsTransactionTOS" = "ראה את \u2068{link}\u2069 עבור כוכבים.";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars";
 "StarsTransactionTOSLinkText" = "תנאי השימוש";
 "StarsTransactionsAll" = "כל העסקאות";
 "StarsTransactionsIncoming" = "הכנסות";

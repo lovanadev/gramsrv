@@ -164,7 +164,7 @@
 "cloud_lng_passport_in_uk" = "на украинском языке";
 "cloud_lng_passport_in_uz" = "на узбекском языке";
 "cloud_lng_passport_in_vi" = "на вьетнамском языке";
-"cloud_lng_tooltip_psa_covid" = "Это экстренная новость о пандемии COVID-19. Подробнее об этой инициативе: https://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "Это экстренная новость о пандемии COVID-19. Подробнее об этой инициативе: https://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "Вы видите официальное сообщение от руководителя Telegram в связи с происходящим конфликтом.";
 "cloud_lng_topup_purpose_subs" = "Купите **звёзды**, чтобы продлить подписки на каналы.";
 "cloud_lng_translate_to_ar" = "арабский";
@@ -222,7 +222,7 @@
 "lng_about_text2" = "Эта программа лицензирована по {gpl_link} версии 3.\nИсходный код доступен на {github_link}.";
 "lng_about_text3" = "Больше информации здесь: {faq_link}.";
 "lng_about_text3_faq" = "Вопросы о Telegram";
-"lng_about_text_1" = "Официальное бесплатное приложение для быстрого и безопасного обмена сообщениями на основе [a href=\"https://core.telegram.org/api\"]Telegram API[/a].";
+"lng_about_text_1" = "Официальное бесплатное приложение для быстрого и безопасного обмена сообщениями на основе [a href=\"https://core.whatsgram.org/api\"]Telegram API[/a].";
 "lng_about_text_2" = "Это программное обеспечение лицензировано по [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] версии 3.\nИсходный код доступен на [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a].";
 "lng_about_text_3" = "Подробнее —\u00a0в \n{faq_open}ответах на популярные вопросы о Telegram{faq_close}.";
 "lng_about_version" = "версия {version}";
@@ -1602,7 +1602,7 @@
 "lng_bot_download_starting" = "Скачивание...";
 "lng_bot_earn_available" = "Доступный баланс";
 "lng_bot_earn_balance_about" = "Покупка рекламы и получение вознаграждений за звёзды возможны не ранее чем через 21 день после поступления звёзд на баланс.";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
+"lng_bot_earn_balance_about_url" = "https://whatsgram.org/tos/stars";
 "lng_bot_earn_balance_button#one" = "Вывести {emoji} {count}";
 "lng_bot_earn_balance_button#few" = "Вывести {emoji} {count}";
 "lng_bot_earn_balance_button#many" = "Вывести {emoji} {count}";
@@ -1753,7 +1753,7 @@
 "lng_business_about_quick_replies" = "Заготовки ответов с медиафайлами и форматированием.";
 "lng_business_about_sponsored" = "Официальная реклама в Telegram не отображается у Premium-пользователей. Вы можете включить её — например, для просмотра своих объявлений, созданных на {link}";
 "lng_business_about_sponsored_link" = "Рекламной платформе Telegram {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
+"lng_business_about_sponsored_url" = "https://ads.whatsgram.org";
 "lng_business_button_sponsored" = "Показывать рекламу";
 "lng_business_edit_messages" = "Изменить сообщения";
 "lng_business_limit_reached#one" = "Можно создать не более {count} сообщения.";
@@ -1950,7 +1950,7 @@
 "lng_channel_earn_learn_bot_in_about" = "Telegram может показывать рекламу в Вашем боте.";
 "lng_channel_earn_learn_close" = "ОК";
 "lng_channel_earn_learn_coin_about" = "GRAM — это криптовалюта блокчейн-платформы TON, которую использует Telegram. Её преимущества — высокая скорость обработки транзакций и низкая комиссия. {link}";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels/ru";
+"lng_channel_earn_learn_coin_link" = "https://whatsgram.org/blog/monetization-for-channels/ru";
 "lng_channel_earn_learn_coin_title" = "Что такое {emoji} GRAM?";
 "lng_channel_earn_learn_in_about" = "Telegram может показывать рекламу в Вашем канале.";
 "lng_channel_earn_learn_in_subtitle" = "Реклама в Telegram";
@@ -2130,7 +2130,7 @@
 "lng_chatbots_gift_settings" = "Настройка подарков";
 "lng_chatbots_include_button" = "Выбрать чаты";
 "lng_chatbots_included_title" = "Выбранные чаты";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business/ru#chat-boti-dlya-biznesa";
+"lng_chatbots_info_url" = "https://whatsgram.org/blog/telegram-business/ru#chat-boti-dlya-biznesa";
 "lng_chatbots_leave_without_added_text" = "Вы не добавили бота для управления аккаунтом. Всё равно выйти?";
 "lng_chatbots_leave_without_added_title" = "Бот не добавлен";
 "lng_chatbots_manage_gifts" = "Управление подарками и звёздами";
@@ -2783,7 +2783,7 @@
 "lng_credits_box_history_entry_floodskip_row" = "Сообщения";
 "lng_credits_box_history_entry_fragment" = "Fragment";
 "lng_credits_box_history_entry_gift_about_link" = "Примеры {emoji}";
-"lng_credits_box_history_entry_gift_about_url" = "https://telegram.org/blog/telegram-stars/ru";
+"lng_credits_box_history_entry_gift_about_url" = "https://whatsgram.org/blog/telegram-stars/ru";
 "lng_credits_box_history_entry_gift_bought" = "Покупка подарка";
 "lng_credits_box_history_entry_gift_bought_from" = "От";
 "lng_credits_box_history_entry_gift_converted" = "Обмен подарка";
@@ -2822,7 +2822,7 @@
 "lng_credits_box_history_entry_via" = "Через";
 "lng_credits_box_history_entry_via_premium_bot" = "Premium Bot";
 "lng_credits_box_out_about" = "Применяются {link} покупки и использования звёзд.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars/ru";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars/ru";
 "lng_credits_box_out_both" = "{photo} и {video}";
 "lng_credits_box_out_confirm#one" = "Подтвердить и заплатить {emoji} {count} звезду";
 "lng_credits_box_out_confirm#few" = "Подтвердить и заплатить {emoji} {count} звезды";
@@ -2951,7 +2951,7 @@
 "lng_credits_summary_in_toast_title" = "Звёзды зачислены";
 "lng_credits_summary_options_about" = "Приобретая звёзды, Вы принимаете {link} Telegram.";
 "lng_credits_summary_options_about_link" = "условия";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars";
+"lng_credits_summary_options_about_url" = "https://whatsgram.org/tos/stars";
 "lng_credits_summary_options_credits#one" = "{count} звезда";
 "lng_credits_summary_options_credits#few" = "{count} звезды";
 "lng_credits_summary_options_credits#many" = "{count} звёзд";
@@ -5063,7 +5063,7 @@
 "lng_group_invite_subscription" = "Ежемесячная плата";
 "lng_group_invite_subscription_about" = "Вы можете сделать подписку на канал платной для пользователей, присоединившихся по этой ссылке. {link}";
 "lng_group_invite_subscription_about_link" = "Подробнее {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "Вы получаете около {total} в месяц";
 "lng_group_invite_subscription_info_subtitle" = "Стоимость подписки";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} в месяц {multiplier} {total}";
@@ -5959,7 +5959,7 @@
 "lng_mini_apps_disclaimer_link" = "Условия использования";
 "lng_mini_apps_disclaimer_text" = "Вы собираетесь воспользоваться мини-приложением, которое поддерживается сторонним разработчиком, **не имеющим отношения к Telegram**. Чтобы продолжить, необходимо принять Условия использования мини-приложений.";
 "lng_mini_apps_disclaimer_title" = "Внимание";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "Свернуть";
 "lng_minimize_window" = "Свернуть";
 "lng_minutes#one" = "{count} минуту";
@@ -6169,7 +6169,7 @@
 "lng_owner_badge" = "владелец";
 "lng_paid_about" = "Пользователи смогут просмотреть этот контент после отправки указанного количества звёзд Вашему каналу. {link}";
 "lng_paid_about_link" = "Подробнее о звёздах >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars/ru";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars/ru";
 "lng_paid_admin_about" = "Зрители могут отправлять Вам звёздные реакции.";
 "lng_paid_admin_title" = "Звёзды от зрителей";
 "lng_paid_comment_about" = "Выделите и закрепите своё сообщение за звёзды — и поддержите {name}.";
@@ -6732,7 +6732,7 @@
 "lng_popular_apps_info_here" = "инструкции";
 "lng_popular_apps_info_text" = "В этом каталоге представлены мини-приложения, собирающие наибольшее количество звёзд в среднем за день. Чтобы приложение заняло место в рейтинге, его разработчикам необходимо настроить в боте основное мини-приложение с помощью {bot} (по {link}), у него должно быть более **1000** пользователей в день, а его дневная выручка должна составлять более **1000** звёзд (учитывается среднее значение за неделю).";
 "lng_popular_apps_info_title" = "Кассовые приложения";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
+"lng_popular_apps_info_url" = "https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app";
 "lng_posts_limit_about#one" = "В день можно отправить до {count} поискового запроса.";
 "lng_posts_limit_about#few" = "В день можно отправить до {count} поисковых запросов.";
 "lng_posts_limit_about#many" = "В день можно отправить до {count} поисковых запросов.";
@@ -7181,7 +7181,7 @@
 "lng_profile_bot_help" = "Помощь c ботом";
 "lng_profile_bot_permissions_title" = "Разрешения на доступ";
 "lng_profile_bot_privacy" = "Политика конфиденциальности бота";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "Настройки бота";
 "lng_profile_camera_title" = "Сфотографировать себя";
 "lng_profile_changed_photo_about" = "Изменить её можно в меню {link}.";
@@ -8364,7 +8364,7 @@
 "lng_settings_export_data" = "Экспорт данных из Telegram";
 "lng_settings_faq" = "Вопросы о Telegram";
 "lng_settings_faq_button" = "Перейти к FAQ";
-"lng_settings_faq_link" = "https://telegram.org/faq#general-questions";
+"lng_settings_faq_link" = "https://whatsgram.org/faq#general-questions";
 "lng_settings_faq_subtitle" = "FAQ";
 "lng_settings_features" = "Возможности Telegram";
 "lng_settings_file_confirmations" = "Открытие файлов";
@@ -8564,7 +8564,7 @@
 "lng_settings_suggestion_password_title" = "Ваш пароль";
 "lng_settings_suggestion_password_yes" = "Помню, спасибо";
 "lng_settings_suggestion_phone_number_about" = "Чтобы Вы всегда могли зайти в Telegram, важно указать актуальный номер телефона. {link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
+"lng_settings_suggestion_phone_number_about_link" = "https://whatsgram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
 "lng_settings_suggestion_phone_number_change" = "Как можно скорее измените номер телефона в официальном мобильном приложении Telegram. {emoji}";
 "lng_settings_suggestion_phone_number_title" = "{phone} всё ещё Ваш номер?";
 "lng_settings_system_integration" = "Интеграция в систему";
@@ -8803,7 +8803,7 @@
 "lng_sponsored_info_description1" = "В отличие от других приложений, Telegram не использует Ваши личные данные для таргетирования рекламы. Рекламные сообщения в Telegram зависят исключительно от тематики публичных каналов, в которых они отображаются. Это означает, что личные данные пользователей не собираются и не анализируются для отображения рекламы и все пользователи, просматривающие тот или иной канал в Telegram, видят одинаковые рекламные сообщения.\n\nВ отличие от других приложений, Telegram не отслеживает, перешли ли Вы по рекламному сообщению, и не создает на Вас «досье» на основе Вашей активности. Мы также предупреждаем перед открытием внешних ссылок в рекламных сообщениях, чтобы третьи стороны не могли шпионить за нашими пользователями. Мы считаем, что каждый имеет право на неприкосновенность частной жизни и технологические платформы должны это уважать.\n\nTelegram предлагает бесплатный и неограниченный сервис сотням миллионов пользователей, что влечёт за собой значительные расходы на оборудование и датацентры. Чтобы сохранять независимость и оставаться верным своим ценностям, Telegram разработал платный инструмент для продвижения каналов и сообщений с учётом заботы о конфиденциальности пользователей. Мы приветствуем ответственных рекламодателей по адресу:";
 "lng_sponsored_info_description1_link" = "Подробнее в Политике конфиденциальности";
 "lng_sponsored_info_description1_linked" = "В отличие от других приложений, Telegram не использует Ваши личные данные для таргетирования рекламы. {link}\n\nВ отличие от других приложений, Telegram не отслеживает, перешли ли Вы по рекламному сообщению, и не создаёт на Вас «досье» на основе Вашей активности. Мы также предупреждаем перед открытием внешних ссылок в рекламных сообщениях, чтобы третьи стороны не могли шпионить за нашими пользователями. Мы считаем, что каждый имеет право на неприкосновенность частной жизни и технологические платформы должны это уважать.\n\nTelegram предлагает бесплатный и неограниченный сервис сотням миллионов пользователей, что влечёт за собой значительные расходы на оборудование и датацентры. Чтобы сохранять независимость и оставаться верным своим ценностям, Telegram разработал платный инструмент для продвижения каналов и сообщений с учётом заботы о конфиденциальности пользователей. Мы приветствуем ответственных рекламодателей по адресу:";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy/ru#5-6-otsutstvie-reklami-osnovannoi-na-dannih-perepiski";
+"lng_sponsored_info_description1_url" = "https://whatsgram.org/privacy/ru#5-6-otsutstvie-reklami-osnovannoi-na-dannih-perepiski";
 "lng_sponsored_info_description2" = "Рекламные сообщения в настоящее время работают в тестовом режиме. Как только они будут полностью запущены и позволят Telegram покрывать основные расходы, мы начнём делиться доходами от рекламы с владельцами публичных каналов, в которых выводятся рекламные сообщения.\n\nРеклама в интернете должна перестать быть синонимом нарушения конфиденциальности пользователей. Давайте вместе изменим то, как функционируют технологические компании.";
 "lng_sponsored_info_menu" = "О рекламодателе";
 "lng_sponsored_info_submenu" = "Рекламодатель: {text}";
@@ -9046,7 +9046,7 @@
 "lng_star_ref_start_info" = "Создавая программу, Вы принимаете {terms} партнёрских программ.";
 "lng_star_ref_stopped" = "Эта реферальная ссылка больше не работает.";
 "lng_star_ref_title" = "Партнёрская программа";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program/ru";
+"lng_star_ref_tos_url" = "https://whatsgram.org/tos/affiliate-program/ru";
 "lng_star_ref_transparent_about" = "Вы можете отслеживать комиссию за привлечённых пользователей в реальном времени.";
 "lng_star_ref_transparent_title" = "Прозрачно";
 "lng_star_ref_update" = "Изменить программу";

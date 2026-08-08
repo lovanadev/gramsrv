@@ -163,7 +163,7 @@
 "cloud_lng_passport_in_uk" = "украјинском";
 "cloud_lng_passport_in_uz" = "узбечком";
 "cloud_lng_passport_in_vi" = "вијетнамском";
-"cloud_lng_tooltip_psa_covid" = "Ово је порука од јавног значаја у вези са текућом пандемијом COVID-19. Сазнајте више о овој иницијативи на https://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "Ово је порука од јавног значаја у вези са текућом пандемијом COVID-19. Сазнајте више о овој иницијативи на https://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "Ово је званична порука генералног директора Telegram-а у вези са текућим сукобом.";
 "cloud_lng_topup_purpose_subs" = "Купите **звездице** да бисте задржали претплате на канале.";
 "cloud_lng_translate_to_ar" = "арапски";
@@ -221,7 +221,7 @@
 "lng_about_text2" = "Овај софтвер је лиценциран под {gpl_link} верзија 3.\nИзворни кôд је доступан на {github_link}.";
 "lng_about_text3" = "За више информација посетите {faq_link}.";
 "lng_about_text3_faq" = "Често постављана питања";
-"lng_about_text_1" = "Званична бесплатна апликација за размену порука заснована на [a href=\"https://core.telegram.org/api\"]Telegram API-ју[/a] ради брзине и сигурности.";
+"lng_about_text_1" = "Званична бесплатна апликација за размену порука заснована на [a href=\"https://core.whatsgram.org/api\"]Telegram API-ју[/a] ради брзине и сигурности.";
 "lng_about_text_2" = "Овај софтвер је лиценциран под [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] верзија 3.\nИзворни кôд је доступан на [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub-у[/a].";
 "lng_about_text_3" = "За више информација посетите {faq_open}Често постављана питања о Telegram-у{faq_close}.";
 "lng_about_version" = "верзија {version}";
@@ -1498,7 +1498,7 @@
 "lng_bot_download_starting" = "Покретање...";
 "lng_bot_earn_available" = "Доступно стање";
 "lng_bot_earn_balance_about" = "Звездице са укупног стања могу се користити за огласе или повући као награде 21 дан након што су зарађене.";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
+"lng_bot_earn_balance_about_url" = "https://whatsgram.org/tos/stars";
 "lng_bot_earn_balance_button#one" = "Повуци {emoji} {count}";
 "lng_bot_earn_balance_button#few" = "Повуци {emoji} {count}";
 "lng_bot_earn_balance_button#other" = "Повуци {emoji} {count}";
@@ -1644,7 +1644,7 @@
 "lng_business_about_quick_replies" = "Подесите пречице са обликованим текстом и медијима да бисте брже одговарали на поруке.";
 "lng_business_about_sponsored" = "Као Premium претплатник не видите никакве огласе на Telegram-у, али можете их укључити да бисте, на пример, видели сопствене огласе које сте покренули на {link}";
 "lng_business_about_sponsored_link" = "Telegram платформи за оглашавање {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
+"lng_business_about_sponsored_url" = "https://ads.whatsgram.org";
 "lng_business_button_sponsored" = "Прикажи огласе";
 "lng_business_edit_messages" = "Уреди поруке";
 "lng_business_limit_reached#one" = "Достигнуто ограничење од {count} поруке.";
@@ -1833,7 +1833,7 @@
 "lng_channel_earn_learn_bot_in_about" = "Telegram може приказивати огласе у вашем боту.";
 "lng_channel_earn_learn_close" = "У реду";
 "lng_channel_earn_learn_coin_about" = "Грам (Gram) је криптовалута TON блокчејн платформе коју Telegram користи због велике брзине и ниских провизија на трансакције. {link}";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels";
+"lng_channel_earn_learn_coin_link" = "https://whatsgram.org/blog/monetization-for-channels";
 "lng_channel_earn_learn_coin_title" = "Шта је {emoji} грам?";
 "lng_channel_earn_learn_in_about" = "Telegram може приказивати огласе на вашем каналу.";
 "lng_channel_earn_learn_in_subtitle" = "Telegram огласи";
@@ -2005,7 +2005,7 @@
 "lng_chatbots_gift_settings" = "Промена подешавања поклона";
 "lng_chatbots_include_button" = "Изабери ћаскања";
 "lng_chatbots_included_title" = "Обухваћена ћаскања";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"lng_chatbots_info_url" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "lng_chatbots_leave_without_added_text" = "Нисте додали бота за управљање вашим налогом. Ипак напуштате?";
 "lng_chatbots_leave_without_added_title" = "Бот није додат";
 "lng_chatbots_manage_gifts" = "Управљање поклонима и звездицама";
@@ -2625,7 +2625,7 @@
 "lng_credits_box_history_entry_floodskip_row" = "Поруке";
 "lng_credits_box_history_entry_fragment" = "Fragment-а";
 "lng_credits_box_history_entry_gift_about_link" = "Погледај примере {emoji}";
-"lng_credits_box_history_entry_gift_about_url" = "https://telegram.org/blog/telegram-stars";
+"lng_credits_box_history_entry_gift_about_url" = "https://whatsgram.org/blog/telegram-stars";
 "lng_credits_box_history_entry_gift_bought" = "Куповина поклона";
 "lng_credits_box_history_entry_gift_bought_from" = "Од";
 "lng_credits_box_history_entry_gift_converted" = "Претворени поклон";
@@ -2664,7 +2664,7 @@
 "lng_credits_box_history_entry_via" = "Преко";
 "lng_credits_box_history_entry_via_premium_bot" = "Premium Bot";
 "lng_credits_box_out_about" = "Прочитајте {link} звездица.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars";
 "lng_credits_box_out_both" = "{photo} и {video}";
 "lng_credits_box_out_confirm#one" = "Потврди и плати {emoji} {count} звездицу";
 "lng_credits_box_out_confirm#few" = "Потврди и плати {emoji} {count} звездице";
@@ -2779,7 +2779,7 @@
 "lng_credits_summary_in_toast_title" = "Звездице купљене";
 "lng_credits_summary_options_about" = "Наставком и куповином звездица прихватате {link}.";
 "lng_credits_summary_options_about_link" = "Услове коришћења";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars";
+"lng_credits_summary_options_about_url" = "https://whatsgram.org/tos/stars";
 "lng_credits_summary_options_credits#one" = "{count} звездица";
 "lng_credits_summary_options_credits#few" = "{count} звездице";
 "lng_credits_summary_options_credits#other" = "{count} звездица";
@@ -4742,7 +4742,7 @@
 "lng_group_invite_subscription" = "Захтева месечну накнаду";
 "lng_group_invite_subscription_about" = "Наплатите претплату од корисника који се придруже вашем каналу путем ове везе. {link}";
 "lng_group_invite_subscription_about_link" = "Сазнај више {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "добијате око {total} месечно";
 "lng_group_invite_subscription_info_subtitle" = "Износ претплате";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} месечно {multiplier} {total}";
@@ -5576,7 +5576,7 @@
 "lng_mini_apps_disclaimer_link" = "Услове коришћења";
 "lng_mini_apps_disclaimer_text" = "Користићете мини-апликацију којом управља независна страна **која није повезана с Telegram-ом**. Да бисте наставили, морате прихватити Услове коришћења мини-апликација.";
 "lng_mini_apps_disclaimer_title" = "Упозорење";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "Спусти на системску траку";
 "lng_minimize_window" = "Умањи";
 "lng_minutes#one" = "{count} минут";
@@ -5771,7 +5771,7 @@
 "lng_owner_badge" = "власник";
 "lng_paid_about" = "Корисници ће моћи да виде овај садржај тек након што пренесу овај износ звездица на ваш канал. {link}";
 "lng_paid_about_link" = "Више о звездицама >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars";
 "lng_paid_admin_about" = "Гледаоци вам могу слати реакције звездицама.";
 "lng_paid_admin_title" = "Примање звездица од гледалаца";
 "lng_paid_comment_about" = "Истакните и закачите поруку слањем звездица примаоцу {name}.";
@@ -6305,7 +6305,7 @@
 "lng_popular_apps_info_here" = "овде";
 "lng_popular_apps_info_text" = "Овај каталог рангира мини-апликације на основу њиховог дневног прихода израженог у звездицама. Да би била на овом списку, програмери морају подесити своју главну мини-апликацију у {bot} (као што је описано {link}), да има преко **1.000** корисника дневно и да остварује дневни приход већи од **1.000** звездица на основу недељног просека.";
 "lng_popular_apps_info_title" = "Најбоље мини-апликације";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
+"lng_popular_apps_info_url" = "https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app";
 "lng_posts_limit_about#one" = "Можете обавити до {count} претрагу дневно.";
 "lng_posts_limit_about#few" = "Можете обавити до {count} претраге дневно.";
 "lng_posts_limit_about#other" = "Можете обавити до {count} претрага дневно.";
@@ -6699,7 +6699,7 @@
 "lng_profile_bot_help" = "Помоћ за бота";
 "lng_profile_bot_permissions_title" = "Дозвољавање приступа";
 "lng_profile_bot_privacy" = "Политика приватности бота";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "Подешавање бота";
 "lng_profile_camera_title" = "Снимите себе";
 "lng_profile_changed_photo_about" = "Можете променити у {link}.";
@@ -7832,7 +7832,7 @@
 "lng_settings_export_data" = "Извези податке из Telegram-а";
 "lng_settings_faq" = "Често постављана питања";
 "lng_settings_faq_button" = "Иди на ЧПП";
-"lng_settings_faq_link" = "https://telegram.org/faq#general-questions";
+"lng_settings_faq_link" = "https://whatsgram.org/faq#general-questions";
 "lng_settings_faq_subtitle" = "ЧПП";
 "lng_settings_features" = "Telegram функције";
 "lng_settings_file_confirmations" = "Потврда отварања датотека";
@@ -8031,7 +8031,7 @@
 "lng_settings_suggestion_password_title" = "Ваша лозинка";
 "lng_settings_suggestion_password_yes" = "Да, сигурно";
 "lng_settings_suggestion_phone_number_about" = "Ажурирајте свој број да бисте увек могли да се пријавите на Telegram. {link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
+"lng_settings_suggestion_phone_number_about_link" = "https://whatsgram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
 "lng_settings_suggestion_phone_number_change" = "Молимо вас да што пре промените свој број телефона у званичној апликацији Telegram на свом телефону. {emoji}";
 "lng_settings_suggestion_phone_number_title" = "Да ли је {phone} и даље ваш број?";
 "lng_settings_system_integration" = "Интеграција са системом";
@@ -8255,7 +8255,7 @@
 "lng_sponsored_info_description1" = "За разлику од других апликација, Telegram никада не користи ваше личне податке за циљање огласа. Спонзорисане поруке на Telegram-у засноване су искључиво на теми јавних канала на којима се приказују. То значи да се никакви кориснички подаци не прикупљају нити анализирају за приказивање огласа, а сваки корисник који гледа канал на Telegram-у види исте спонзорисане поруке.\n\nЗа разлику од других апликација, Telegram не прати да ли сте кликнули на спонзорисану поруку и не прави профил на основу ваших активности. Такође спречавамо спољне везе у спонзорисаним порукама како бисмо осигурали да трећа лица не могу шпијунирати наше кориснике. Верујемо да свако има право на приватност и технолошке платформе то треба да поштују.\n\nTelegram нуди бесплатну и неограничену услугу стотинама милиона корисника, што подразумева значајне трошкове за сервере и саобраћај. Да би остао независан и веран својим вредностима, Telegram је развио плаћени алат за промоцију порука имајући на уму приватност корисника. Одговорним оглашавачима желимо добродошлицу на:";
 "lng_sponsored_info_description1_link" = "Сазнај више у Политици приватности";
 "lng_sponsored_info_description1_linked" = "За разлику од других апликација, Telegram никада не користи ваше личне податке за циљане огласе. {link}\n\nЗа разлику од других апликација, Telegram не прати да ли сте кликнули на спонзорисану поруку и не прави профил на основу ваших активности. Такође спречавамо спољне везе у спонзорисаним порукама како бисмо осигурали да трећа лица не могу шпијунирати наше кориснике. Верујемо да свако има право на приватност и технолошке платформе то треба да поштују.\n\nTelegram нуди бесплатну и неограничену услугу стотинама милиона корисника, што подразумева значајне трошкове за сервере и саобраћај. Да би остао независан и веран својим вредностима, Telegram је развио плаћени алат за промоцију порука имајући на уму приватност корисника. Одговорним оглашавачима желимо добродошлицу на:";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy#5-6-no-ads-based-on-user-data";
+"lng_sponsored_info_description1_url" = "https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data";
 "lng_sponsored_info_description2" = "Спонзорисане поруке су тренутно у режиму тестирања. Када буду у потпуности покренуте и омогуће Telegram-у да покрије своје основне трошкове, почећемо да делимо приход од огласа са власницима јавних канала на којима се приказују спонзорисане поруке.\n\nОгласи на мрежи више не би требало да буду синоним за злоупотребу приватности корисника. Хајде да заједно редефинишемо како технолошка компанија треба да функционише.";
 "lng_sponsored_info_menu" = "Подаци о оглашавачу";
 "lng_sponsored_info_submenu" = "Оглашавач: {text}";
@@ -8490,7 +8490,7 @@
 "lng_star_ref_start_info" = "Покретањем сарадничког програма прихватате {terms} сарадничких програма.";
 "lng_star_ref_stopped" = "Ова сарадничка веза више није активна.";
 "lng_star_ref_title" = "Сараднички програм";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program";
+"lng_star_ref_tos_url" = "https://whatsgram.org/tos/affiliate-program";
 "lng_star_ref_transparent_about" = "Пратите провизије од препоручених корисника у стварном времену.";
 "lng_star_ref_transparent_title" = "Транспарентно";
 "lng_star_ref_update" = "Ажурирај сараднички програм";

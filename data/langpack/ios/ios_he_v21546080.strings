@@ -63,7 +63,7 @@
 "AdsInfo.Bot.Split.Title" = "עוזרות ליוצר הבוט";
 "AdsInfo.Info" = "מודעות טלגרם שונות מאוד ממודעות בפלטפורמות אחרות. מודעות כמו זו:";
 "AdsInfo.Launch.Text" = "כל אחד יכול ליצור מודעה שתוצג בערוץ הזה - בתקציבים מינימליים. בדוק את פלטפורמת המודעות של טלגרם לפרטים. [למד עוד >]()";
-"AdsInfo.Launch.Text_URL" = "https://ads.telegram.org";
+"AdsInfo.Launch.Text_URL" = "https://ads.whatsgram.org";
 "AdsInfo.Launch.Title" = "האם אני יכול להשיק מודעה?";
 "AdsInfo.Respect.Text" = "מודעות בטלגרם אינן משתמשות במידע האישי שלך והן מבוססות על הערוץ שבו הן מופיעות.";
 "AdsInfo.Respect.Title" = "מכבדות את הפרטיות שלך";
@@ -88,7 +88,7 @@
 "AffiliateProgram.JoinSubtitleYears#two" = "**\u2068{bot}\u2069** ישתף **\u2068{commission}\u2069** מההכנסות מכל משתמש שהפנית אליו למשך **שנתיים**.";
 "AffiliateProgram.JoinSubtitleYears#many" = "**\u2068{bot}\u2069** ישתף **\u2068{commission}\u2069** מההכנסות מכל משתמש שהפנית אליו למשך **\u2068%d\u2069 שנים**.";
 "AffiliateProgram.JoinSubtitleYears#other" = "**\u2068{bot}\u2069** ישתף **\u2068{commission}\u2069** מההכנסות מכל משתמש שהפנית אליו למשך **\u2068%d\u2069 שנים**.";
-"AffiliateProgram.JoinTerms" = "על ידי הצטרפות לתוכנית, הינך מסכים ל[תנאים ולהגדרות](https://telegram.org/tos/affiliate-program) של תוכניות שותפים.";
+"AffiliateProgram.JoinTerms" = "על ידי הצטרפות לתוכנית, הינך מסכים ל[תנאים ולהגדרות](https://whatsgram.org/tos/affiliate-program) של תוכניות שותפים.";
 "AffiliateProgram.JoinTitle" = "תוכנית שותפים";
 "AffiliateProgram.LinkSubtitleLifetime" = "שתף קישור זה עם המשתמשים שלך כדי להרוויח עמלה של **\u2068{commission}\u2069** על ההוצאות שלהם ב**\u2068{bot}\u2069** **לנצח** לאחר שהם עוקבים באמצעות הקישור שלך.";
 "AffiliateProgram.LinkSubtitleMonths#one" = "שתף קישור זה עם משתמשים כדי להרוויח עמלה של **\u2068{commission}\u2069** מההוצאות שלהם ב**\u2068{bot}\u2069** למשך **חודש \u2068%d\u2069** אחרי שיצטרפו באמצעות הקישור שלך.";
@@ -168,7 +168,7 @@
 "AffiliateSetup.StartTitle" = "התחל תוכנית שותפים";
 "AffiliateSetup.SuggestedSectionEmpty" = "אין עדיין תוכניות זמינות.\nאנא בדוק את העמוד מאוחר יותר.";
 "AffiliateSetup.SuggestedSectionTitle" = "תוכניות";
-"AffiliateSetup.TermsFooter" = "על ידי יצירת תוכנית שותפים, הינך מסכים ל[תנאים ולהגבלות](https://telegram.org/terms) של תוכניות שותפים.";
+"AffiliateSetup.TermsFooter" = "על ידי יצירת תוכנית שותפים, הינך מסכים ל[תנאים ולהגבלות](https://whatsgram.org/terms) של תוכניות שותפים.";
 "AffiliateSetup.TextJoin" = "הרווח עמלה בכל פעם שמשתמש ניגש לראשונה למיני אפליקציה דרך קישור ההפניה שלך ומשלם בה באמצעות **כוכבים**.";
 "AffiliateSetup.TextNew" = "תגמל את אלה שעוזרים להגדיל את כמות המשתמשים שלך.";
 "AffiliateSetup.TitleJoin" = "תוכניות שותפים";
@@ -543,11 +543,11 @@
 "AuthSessions.AddDevice" = "סרוק קוד QR";
 "AuthSessions.AddDevice.InvalidQRCode" = "קוד QR לא תקין";
 "AuthSessions.AddDevice.ScanInfo" = "סרוק קוד QR כדי להתחבר\nלחשבון זה ממכשיר אחר";
-"AuthSessions.AddDevice.ScanInstallInfo" = "עבור ל[getdesktop.telegram.org](desktop) או [web.telegram.org](web) כדי לקבל קוד QR";
+"AuthSessions.AddDevice.ScanInstallInfo" = "עבור ל[getdesktop.whatsgram.org](desktop) או [web.whatsgram.org](web) כדי לקבל קוד QR";
 "AuthSessions.AddDevice.ScanTitle" = "סרוק קוד QR";
 "AuthSessions.AddDevice.UrlLoginHint" = "קוד זה מאפשר התחברות לחשבון הטלגרם שלך.\n\nכדי לאשר את ההתחברות לטלגרם, גש להגדרות > מכשירים > הוסף מכשיר וסרוק את הקוד.";
 "AuthSessions.AddDeviceIntro.Action" = "סרוק קוד QR";
-"AuthSessions.AddDeviceIntro.Text1" = "הורד את טלגרם למחשב שלך מ [desktop.telegram.org]()";
+"AuthSessions.AddDeviceIntro.Text1" = "הורד את טלגרם למחשב שלך מ [desktop.whatsgram.org]()";
 "AuthSessions.AddDeviceIntro.Text2" = "הפעל את טלגרם במחשב כדי לקבל קוד QR";
 "AuthSessions.AddDeviceIntro.Text3" = "סרוק את קוד הQR כדי להתחבר לחשבון שלך.";
 "AuthSessions.AddDeviceIntro.Title" = "התחבר באמצעות קוד QR";
@@ -1022,7 +1022,7 @@
 "Business.AddPost" = "הוסף פרסום";
 "Business.AddPostInfo" = "פרסם תמונות וסרטונים של המוצרים או השירותים שלך בעמוד שלך.";
 "Business.AdsInfo" = "כמנוי Premium, לא תראה מודעות בטלגרם, אך באפשרותך להפעיל אותם, לדוגמא בשביל להציג את המודעות שלך שהשקת ב[פלטפורמת המודעות של טלגרם>]()";
-"Business.AdsInfo_URL" = "https://ads.telegram.org";
+"Business.AdsInfo_URL" = "https://ads.whatsgram.org";
 "Business.AdsTitle" = "מודעות בערוצים";
 "Business.AwayMessages" = "הודעות לא זמין";
 "Business.AwayMessagesInfo" = "הגדר הודעות שישלחו אוטומטית כשאינך מחובר.";
@@ -2832,7 +2832,7 @@
 "Chat.PrivateMessageSentTimestamp.Date" = "נשלח \u2068%@\u2069";
 "Chat.PrivateMessageSentTimestamp.TodayAt" = "נשלח היום ב\u2068%@\u2069";
 "Chat.PrivateMessageSentTimestamp.YesterdayAt" = "נשלח אתמול ב\u2068%@\u2069";
-"Chat.PsaTooltip.covid" = "הודעה זו מספקת לך שירות הודעות ציבורי בנוגע למגיפת הקורונה הנוכחית. ניתן ללמוד על היוזמה הזאת בכתובת https://telegram.org/blog/coronavirus";
+"Chat.PsaTooltip.covid" = "הודעה זו מספקת לך שירות הודעות ציבורי בנוגע למגיפת הקורונה הנוכחית. ניתן ללמוד על היוזמה הזאת בכתובת https://whatsgram.org/blog/coronavirus";
 "Chat.PsaTooltip.psa" = "זוהי הודעה רשמית ממנכ\"ל טלגרם אודות העימות הנוכחי.";
 "Chat.QuickReply.ServiceHeader1" = "כדי לערוך או למחוק הודעה מהירה, לחץ עליה לחיצה ארוכה.";
 "Chat.QuickReply.ServiceHeader2" = "כדי להשתמש בתגובה מהירה זו, הקלד / ובחר את קיצור הדרך מהרשימה.";
@@ -3298,7 +3298,7 @@
 "ChatList.PremiumRestoreDiscountTitle" = "קבל בחזרה מנוי Premium עם הנחה של עד \u2068%@\u2069";
 "ChatList.PremiumXmasGiftText" = "שלח פריטי אספנות במהדורה מוגבלת לחברים!";
 "ChatList.PremiumXmasGiftTitle" = "🎁 מתנות מסנופ דוג 👑";
-"ChatList.PsaAlert.covid" = "הודעה זו מספקת לך שירות הודעות ציבורי בנוגע למגיפת הקורונה הנוכחית. ניתן ללמוד על היוזמה הזאת בכתובת https://telegram.org/blog/coronavirus";
+"ChatList.PsaAlert.covid" = "הודעה זו מספקת לך שירות הודעות ציבורי בנוגע למגיפת הקורונה הנוכחית. ניתן ללמוד על היוזמה הזאת בכתובת https://whatsgram.org/blog/coronavirus";
 "ChatList.PsaAlert.psa" = "זוהי הודעה רשמית ממנכ\"ל טלגרם אודות העימות הנוכחי.";
 "ChatList.PsaLabel.covid" = "קורונה";
 "ChatList.PsaLabel.psa" = "הכרזה";
@@ -3587,7 +3587,7 @@
 "ChatbotSetup.SetupNotCompleted.Text" = "לא הוספת בוט לניהול החשבון שלך. לעזוב בכל זאת?";
 "ChatbotSetup.SetupNotCompleted.Title" = "לא נוסף בוט";
 "ChatbotSetup.Text" = "הוסף בוט שיגיב להודעות בשמך.";
-"ChatbotSetup.TextLink" = "https://telegram.org/blog/telegram-business/he#39";
+"ChatbotSetup.TextLink" = "https://whatsgram.org/blog/telegram-business/he#39";
 "ChatbotSetup.Title" = "בקרוב";
 "ChatbotSetup.TitleItem" = "אוטומצית צ'אט";
 "Checkout.Email" = "דוא\"ל";
@@ -4600,7 +4600,7 @@
 "Conversation.Unpin" = "בטל נעיצה להתחלה";
 "Conversation.UnpinMessageAlert" = "לבטל נעיצה של הודעה זו?";
 "Conversation.UnreadMessages" = "הודעות שלא נקראו";
-"Conversation.UnsupportedMedia" = "הודעה זו לא נתמכת בגרסת הטלגרם הנוכחית. לצפייה יש לעדכן את האפליקציה:\nhttp://telegram.org/update";
+"Conversation.UnsupportedMedia" = "הודעה זו לא נתמכת בגרסת הטלגרם הנוכחית. לצפייה יש לעדכן את האפליקציה:\nhttp://whatsgram.org/update";
 "Conversation.UnsupportedMediaPlaceholder" = "הודעה זו אינה נתמכת בגרסת הטלגרם שלך. נא לעדכן לגרסה האחרונה.";
 "Conversation.UnvotePoll" = "בטל הצבעה";
 "Conversation.UpdateTelegram" = "עדכון טלגרם";
@@ -4823,7 +4823,7 @@
 "DeleteAccount.ConfirmationAlertText" = "מחיקת החשבון שלך תמחק לצמיתות את כל המידע שלך!\n\nלא ניתן לבטל פעולה זו!";
 "DeleteAccount.ConfirmationAlertTitle" = "להמשיך למחיקת החשבון שלך?";
 "DeleteAccount.Continue" = "המשך";
-"DeleteAccount.DeleteMessagesURL" = "https://telegram.org/faq#q-can-i-delete-my-messages";
+"DeleteAccount.DeleteMessagesURL" = "https://whatsgram.org/faq#q-can-i-delete-my-messages";
 "DeleteAccount.DeleteMyAccount" = "מחק את החשבון שלי";
 "DeleteAccount.DeleteMyAccountTitle" = "מחק את החשבון שלי";
 "DeleteAccount.EnterPassword" = "הכנס את הסיסמה שלך";
@@ -5084,7 +5084,7 @@
 "EnableSharing.SendRequest" = "שלח בקשה";
 "EnableSharing.Text" = "יש צורך באישור של **\u2068%@\u2069** כדי לאפשר שיתוף. לשלוח בקשה?";
 "EnableSharing.Title" = "אפשר שיתוף";
-"EncryptionKey.Description" = "התמונה והטקסט נגזרים ממפתח ההצפנה של הצ'אט הסודי שלך עם \u2068%1$@\u2069.\n\nאם הם זהים גם בהתקן של \u2068%2$@\u2069, מובטחת לכם הצפנה מקצה לקצה.\n\nלמידע נוסף בקר ב- telegram.org";
+"EncryptionKey.Description" = "התמונה והטקסט נגזרים ממפתח ההצפנה של הצ'אט הסודי שלך עם \u2068%1$@\u2069.\n\nאם הם זהים גם בהתקן של \u2068%2$@\u2069, מובטחת לכם הצפנה מקצה לקצה.\n\nלמידע נוסף בקר ב- whatsgram.org";
 "EncryptionKey.Title" = "מפתח הצפנה";
 "EnterPasscode.ChangeTitle" = "החלף קוד";
 "EnterPasscode.EnterCurrentPasscode" = "הזן את קוד הגישה הנוכחי שלך";
@@ -5361,7 +5361,7 @@
 "FrozenAccount.Understood" = "הבנתי";
 "FrozenAccount.Violation.Text" = "החשבון שלך הוקפא בעקבות הפרה של תנאי השימוש של טלגרם.";
 "FrozenAccount.Violation.TextNew" = "החשבון שלך הוקפא בעקבות הפרה של [תנאי השימוש]() של טלגרם.";
-"FrozenAccount.Violation.TextNew_URL" = "https://telegram.org/tos";
+"FrozenAccount.Violation.TextNew_URL" = "https://whatsgram.org/tos";
 "FrozenAccount.Violation.Title" = "הפרת התנאים";
 "Gallery.Ad" = "מודעה";
 "Gallery.AirPlay" = "AirPlay";
@@ -6792,7 +6792,7 @@
 "InviteText.ContactsCountText#many" = "היי, אני משתמש בטלגרם כדי להתכתב – וכך גם \u2068%@\u2069 מאנשי הקשר שלנו. הצטרף אלינו! הורד אותו כאן: \u2068{url}\u2069";
 "InviteText.ContactsCountText#other" = "היי, אני משתמש בטלגרם כדי להתכתב – וכך גם \u2068%@\u2069 מאנשי הקשר שלנו. הצטרף אלינו! הורד אותו כאן: \u2068{url}\u2069";
 "InviteText.SingleContact" = "היי, אני משתמש בטלגרם כדי להתכתב. הצטרף אלי! ניתן להוריד מכאן: \u2068%@\u2069";
-"InviteText.URL" = "https://telegram.org/dl";
+"InviteText.URL" = "https://whatsgram.org/dl";
 "Items.NOfM" = "\u2068%1$@\u2069 מתוך \u2068%2$@\u2069";
 "Join.ChannelsTooMuch" = "מצטערים, הינך נמצא ביותר מדי קבוצות וערוצים. נא לעזוב כמה מהם לפני הצטרפות לאחד חדש.";
 "KeyCommand.ChatInfo" = "פרטי הצ'אט";
@@ -7090,7 +7090,7 @@
 "Login.NewNumber" = "מספר חדש";
 "Login.OpenFragment" = "פתח את Fragment";
 "Login.Or" = "או";
-"Login.PRIVACY_URL" = "https://telegram.org/privacy";
+"Login.PRIVACY_URL" = "https://whatsgram.org/privacy";
 "Login.PadPhoneHelp" = "ניתן להשתמש במספר העיקרי שלך בכדי להיכנס לטלגרם מכל המכשירים. \nאל תשתמש כאן במספר של הסים המותקן באייפד שלך - אנו נשלח לך SMS.\n\nהמספר הזה נכון?\n\u2068{number}\u2069";
 "Login.PadPhoneHelpTitle" = "מספר הטלפון שלך";
 "Login.Paste" = "הדבק";
@@ -7712,9 +7712,9 @@
 "Monetization.Balance.ComingLaterInfo" = "בשבועות הקרובים תוכל לאסוף את התגמול שלך באמצעות Fragment, פלטפורמת צד שלישי המשמשת מפרסמים לתשלום פרסומות. [למד עוד >]()";
 "Monetization.Balance.StarsInfo" = "באפשרותך לאסוף רווחים עבור כוכבים באמצעות Fragment, או להשתמש בכוכבים כדי לפרסם את הערוץ שלך. לא ניתן למשוך פחות מ1000 כוכבים. [למד עוד >]()";
 "Monetization.Balance.StarsInfoGroup" = "באפשרותך לאסוף פרסים עבור כוכבים באמצעות Fragment. לא ניתן למשוך פחות מ1000 כוכבים. [למידע נוסף >]()";
-"Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
+"Monetization.Balance.StarsInfo_URL" = "https://whatsgram.org/tos/stars";
 "Monetization.Balance.ZeroInfo" = "תוכל לאסוף תגמולים באמצעות Fragment, פלטפורמת צד שלישי המשמשת מפרסמים לתשלום עבור מודעות. [מדיניות ותנאים >]()";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceStarsBuyAds" = "קנה מודעות";
 "Monetization.BalanceStarsWithdraw" = "משוך דרך Fragment";
 "Monetization.BalanceStarsWithdrawShort" = "משוך";
@@ -7731,7 +7731,7 @@
 "Monetization.Intro.Bot.Ads.Text" = "טלגרם יכול להציג מודעות בתוך הבוט שלך.";
 "Monetization.Intro.Bot.Title" = "הרווח מהבוט שלך";
 "Monetization.Intro.Info.Text" = "Gram הוא המטבע הקריפטוגרפי של פלטפורמת הבלוקצ'יין TON שטלגרם משתמשת בה בגלל המהירות הגבוהה והעמלות הנמוכות שלה על עסקאות. [למד עוד >]()";
-"Monetization.Intro.Info.Text_URL" = "https://telegram.org/blog/monetization-for-channels/he";
+"Monetization.Intro.Info.Text_URL" = "https://whatsgram.org/blog/monetization-for-channels/he";
 "Monetization.Intro.Info.Title" = "מה זה #Gram?";
 "Monetization.Intro.Split.Text" = "באפשרותך לקבל 50% מההכנסות ממודעות כתגמולים בGram.";
 "Monetization.Intro.Split.Title" = "חלוקת הכנסות 50:50";
@@ -9306,7 +9306,7 @@
 "Passport.Identity.TypePassportUploadScan" = "העלה סריקה של הדרכון שלך";
 "Passport.Identity.TypePersonalDetails" = "פרטים אישיים";
 "Passport.Identity.UploadOneOfScan" = "העלה סריקה של ה\u2068%@\u2069 שלך";
-"Passport.InfoFAQ_URL" = "https://telegram.org/faq#passport";
+"Passport.InfoFAQ_URL" = "https://whatsgram.org/faq#passport";
 "Passport.InfoLearnMore" = "למד עוד";
 "Passport.InfoText" = "עם **דרכון טלגרם** אתה יכול להירשם בקלות לאתרים ושירותים המחייבים זהות מאומתת.\n\nהמידע שלך, נתונים אישיים והמסמכים מאובטחים עם הצפנה מקצה לקצה. אף אחד, כולל טלגרם, לא יכול לגשת אליהם בלי רשותך.";
 "Passport.InfoTitle" = "מהו דרכון טלגרם?";
@@ -9416,10 +9416,10 @@
 "PeerInfo.AllowedReactions.OptionSomeReactions" = "חלק מהרגשונים";
 "PeerInfo.AllowedReactions.ReactionListHeader" = "רגשונים זמינים";
 "PeerInfo.AllowedReactions.StarReactions" = "אפשר רגשונים בתשלום";
-"PeerInfo.AllowedReactions.StarReactionsFooter" = "הפעל כפתור זה כדי לאפשר למנויים להגיב להודעות עם רגשונים של כוכבי טלגרם, אשר תוכל למשוך מאוחר יותר כGram. [למד עוד >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"PeerInfo.AllowedReactions.StarReactionsFooter" = "הפעל כפתור זה כדי לאפשר למנויים להגיב להודעות עם רגשונים של כוכבי טלגרם, אשר תוכל למשוך מאוחר יותר כGram. [למד עוד >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "PeerInfo.AllowedReactions.Title" = "רגשונים";
-"PeerInfo.AppFooter" = "בפתיחת מיני-אפליקציה זו, הינך מסכים ל[תנאי השימוש של מיני-אפליקציות](https://telegram.org/tos/mini-apps).";
-"PeerInfo.AppFooterAdmin" = "ידי פרסום המיני אפליקציה הזו, הינך מסכים ל[תנאים ולהגבלות של טלגרם למפתחים](https://telegram.org/tos/bot-developers).";
+"PeerInfo.AppFooter" = "בפתיחת מיני-אפליקציה זו, הינך מסכים ל[תנאי השימוש של מיני-אפליקציות](https://whatsgram.org/tos/mini-apps).";
+"PeerInfo.AppFooterAdmin" = "ידי פרסום המיני אפליקציה הזו, הינך מסכים ל[תנאים ולהגבלות של טלגרם למפתחים](https://whatsgram.org/tos/bot-developers).";
 "PeerInfo.AutoDeleteDisable" = "כבה";
 "PeerInfo.AutoDeleteInfo" = "מחק אוטומטית הודעות חדשות שנשלחות בצ'אט זה לאחר פרק זמן מסוים.";
 "PeerInfo.AutoDeleteSettingOther" = "אחר...";
@@ -10606,7 +10606,7 @@
 "Report.Title.Story" = "דווח על הסטורי";
 "Report.Title.User" = "דווח על משתמש";
 "ReportAd.Help" = "למידע נוסף על [מדיניות המודעות וההנחיות]().";
-"ReportAd.Help_URL" = "https://ads.telegram.org/guidelines";
+"ReportAd.Help_URL" = "https://ads.whatsgram.org/guidelines";
 "ReportAd.Hidden" = "לא תראה יותר מודעות מטלגרם.";
 "ReportAd.Reported" = "אנו נבדוק מודעה זו כדי לוודא שהיא תואמת את [מדיניות המודעות וההנחיות שלנו]().";
 "ReportAd.Title" = "דווח על מודעה";
@@ -10881,7 +10881,7 @@
 "SendStarReactions.ShowMyselfInTop" = "הצג אותי ברשימת השולחים המובילים";
 "SendStarReactions.SliderTop" = "המובילים";
 "SendStarReactions.SubtitleFrom" = "מאת \u2068%@\u2069";
-"SendStarReactions.TermsOfServiceFooter" = "באמצעות שליחת כוכבים הינך מסכים ל[תנאי השימוש](https://telegram.org/tos/stars).";
+"SendStarReactions.TermsOfServiceFooter" = "באמצעות שליחת כוכבים הינך מסכים ל[תנאי השימוש](https://whatsgram.org/tos/stars).";
 "SendStarReactions.TextGeneric" = "בחר כמה כוכבים לשלוח ל**\u2068%@\u2069** כדי לתמוך בפוסט.";
 "SendStarReactions.TextSentStars#one" = "שלחת כוכב **\u2068%d\u2069** כדי לתמוך בהודעה זו.";
 "SendStarReactions.TextSentStars#two" = "שלחת **\u2068%d\u2069** כוכבים כדי לתמוך בהודעה זו.";
@@ -10999,7 +10999,7 @@
 "Settings.FAQ" = "שאלות נפוצות על טלגרם";
 "Settings.FAQ_Button" = "שו\"ת";
 "Settings.FAQ_Intro" = "נא לשים לב כי התמיכה של טלגרם נעשית על ידי מתנדבים. אנו מנסים להגיב במהירות האפשרית, אך ייתכן שיחלוף זמן מה. \n\nנא לעיין בשאלות הנפוצות של טלגרם: יש שם טיפים חשובים לפתרון בעיות ותשובות לרוב השאלות.";
-"Settings.FAQ_URL" = "https://telegram.org/faq#general-questions";
+"Settings.FAQ_URL" = "https://whatsgram.org/faq#general-questions";
 "Settings.FrequentlyAskedQuestions" = "שאלות נפוצות";
 "Settings.KeepPassword" = "כן, בוודאות";
 "Settings.KeepPhoneNumber" = "השאר את \u2068%@\u2069";
@@ -11039,7 +11039,7 @@
 "Settings.Privacy.ReadTimePremiumActive" = "הירשם לTelegram Premium";
 "Settings.Privacy.ReadTimePremiumActiveFooter" = "מכיוון שהנך מנוי לTelegram Premium, תוכל לראות מתי משתמשים אחרים נראו לאחרונה ואת זמני הקריאה שלהם – אפילו אם שלך מוסתרים.";
 "Settings.Privacy.ReadTimePremiumFooter" = "אם תירשם לTelegram Premium, תוכל לראות מתי משתמשים אחרים נראו לאחרונה ואת זמני הקריאה שלהם אפילו אם תסתיר את שלך מהם (אלא אם הם הגבילו את האפשרות במיוחד).";
-"Settings.PrivacyPolicy_URL" = "https://telegram.org/privacy";
+"Settings.PrivacyPolicy_URL" = "https://whatsgram.org/privacy";
 "Settings.PrivacySettings" = "פרטיות ואבטחה";
 "Settings.Proxy" = "פרוקסי";
 "Settings.ProxyConnected" = "מחובר";
@@ -11078,7 +11078,7 @@
 "Settings.SuggestSetupPasswordText" = "הגדר סיסמה שתידרש בכל פעם שתתחבר עם המספר הזה.";
 "Settings.SuggestSetupPasswordTitle" = "הגן על החשבון שלך";
 "Settings.Support" = "שאל שאלה";
-"Settings.Terms_URL" = "https://telegram.org/tos";
+"Settings.Terms_URL" = "https://whatsgram.org/tos";
 "Settings.Tips" = "תכונות טלגרם";
 "Settings.TipsUsername" = "TelegramTips";
 "Settings.Title" = "הגדרות";
@@ -11390,9 +11390,9 @@
 "SocksProxySetup.Warning.Text" = "זה יחשוף את כתובת הIP שלך לשרת הפרוקסי.";
 "SocksProxySetup.Warning.Title" = "אזהרה";
 "SponsoredMessageInfo.Action" = "למד עוד";
-"SponsoredMessageInfo.ActionUrl" = "https://ads.telegram.org";
-"SponsoredMessageInfo.Text" = "ראה https://telegram.org";
-"SponsoredMessageInfo.Url" = "https://ads.telegram.org";
+"SponsoredMessageInfo.ActionUrl" = "https://ads.whatsgram.org";
+"SponsoredMessageInfo.Text" = "ראה https://whatsgram.org";
+"SponsoredMessageInfo.Url" = "https://ads.whatsgram.org";
 "SponsoredMessageInfoScreen.MarkdownText" = "בניגוד לאפליקציות אחרות, טלגרם לעולם לא משתמש בנתונים הפרטיים שלך כדי להתאים פרסומות. פרטי המשתמש אינם נכרים או מנותחים כדי להציג פרסומות, וכל המשתמשים שצופים בערוץ בטלגרם רואים את אותה ההודעה הממומנת.\n\nבניגוד לאפליקציות אחרות, טלגרם לא עוקבת האם לחצת על הודעה ממומנת, ואינה מכוונת אותן אליך בהתאם לפעילות שלך. אנו חוסמים קישורים חיצוניים בהודעות ממומנות כדי לוודא שגופים צד שלישי לא יוכלו לרגל אחרי המשתמשים שלנו. אאנחנו מאמינים שלכולם יש את הזכות לפרטיות, ופלטפורמות טכנולוגיות צריכות לכבד זאת.\n\nטלגרם מספקת שירות חינמי ובלתי מוגבל למאות מליוני משתמשים, הכולל עלויות שרתים ותעבורה משמעותיות. כדי להישאר עצמאיים ונאמנים לערכים שלנו, טלגרם פיתחה כלי כדי לקדם הודעות שמתחשבות בפרטיות המשתמש. אנו מזמינים מפרסמים אחראיים כאן:\n[url]\nמודעות לא צריכות להיות שם נרדף להפרת פרטיות המשתמש. הבה נגדיר כיצד חברה טכנולוגית צריכה לפעול – ביחד.";
 "SponsoredMessageInfoScreen.Text" = "בניגוד לאפליקציות אחרות, טלגרם לעולם לא משתמש בנתונים הפרטיים שלך כדי להתאים פרסומות. פרטי המשתמש אינם נכרים או מנותחים כדי להציג פרסומות, וכל המשתמשים שצופים בערוץ בטלגרם רואים את אותה ההודעה הממומנת.\n\nבניגוד לאפליקציות אחרות, טלגרם לא עוקבת האם לחצת על הודעה ממומנת, ואינה מכוונת אותן אליך בהתאם לפעילות שלך. אנו חוסמים קישורים חיצוניים בהודעות ממומנות כדי לוודא שגופים צד שלישי לא יוכלו לרגל אחרי המשתמשים שלנו. אאנחנו מאמינים שלכולם יש את הזכות לפרטיות, ופלטפורמות טכנולוגיות צריכות לכבד זאת.\n\nטלגרם מספקת שירות חינמי ובלתי מוגבל למאות מליוני משתמשים, הכולל עלויות שרתים ותעבורה משמעותיות. כדי להישאר עצמאיים ונאמנים לערכים שלנו, טלגרם פיתחה כלי כדי לקדם הודעות שמתחשבות בפרטיות המשתמש. אנו מזמינים מפרסמים אחראיים כאן:\n[url]\nהודעות ממומנות נמצאות כרגע במצב בדיקה. ברגע שהן יושרו במלואן ויאפשרו לטלגרם לכסות את העלויות הבסיסיות שלה, נתחיל לחלוק את ההכנסה מהפרסומות עם בעלי הערוצים בהן הן מוצגות.\n\nמודעות באינטרנט לא צריכות להיות שם נרדף להפרת פרטיות המשתמש. הבה נגדיר כיצד חברה טכנולוגית צריכה לפעול – ביחד.";
 "SponsoredMessageInfoScreen.Title" = "מהן הודעות ממומנות?";
@@ -11411,7 +11411,7 @@
 "Stars.BotRevenue.Withdraw.Balance" = "יתרה זמינה";
 "Stars.BotRevenue.Withdraw.BuyAds" = "קנה מודעות";
 "Stars.BotRevenue.Withdraw.Info" = "באפשרותך למשוך כוכבים באמצעות Fragment, או להשתמש בכוכבים כדי לפרסם את הבוט שלך. לא ניתן למשוך פחות מ1000 כוכבים. [למד עוד >]()";
-"Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Stars.BotRevenue.Withdraw.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "Stars.BotRevenue.Withdraw.Withdraw" = "משוך דרך Fragment";
 "Stars.BotRevenue.Withdraw.WithdrawShort" = "משוך";
 "Stars.Gift.Received.Text" = "השתמש בכוכבים כדי לפתוח תוכן ושירותים בטלגרם. [ראה דוגמאות >]()";
@@ -11511,7 +11511,7 @@
 "Stars.Intro.Withdraw" = "משוך";
 "Stars.Intro.YourBalance" = "היתרה שלך";
 "Stars.PaidContent.AmountInfo" = "משתמשים יצטרכו להעביר את כמות הכוכבים הזו לערוץ שלך כדי לצפות במדיה זו. [למד עוד >]()";
-"Stars.PaidContent.AmountInfo_URL" = "https://telegram.org/tos/stars";
+"Stars.PaidContent.AmountInfo_URL" = "https://whatsgram.org/tos/stars";
 "Stars.PaidContent.AmountPlaceholder" = "כוכבים לפתיחה";
 "Stars.PaidContent.AmountTitle" = "הכנס מחיר לפתיחה";
 "Stars.PaidContent.Create" = "הפוך למדיה בתשלום";
@@ -11546,7 +11546,7 @@
 "Stars.Purchase.StarsReactionsNeededInfo" = "קנה כוכבים כדי לשלוח רגשונים בתשלום ל**\u2068%@\u2069** ולערוצים אחרים.";
 "Stars.Purchase.SubscriptionInfo" = "קנה כוכבים כדי להירשם ל**\u2068%@\u2069**.";
 "Stars.Purchase.SubscriptionRenewInfo" = "קנה **כוכבים** כדי להשאיר את המינוי שלך ל**\u2068%@\u2069**.";
-"Stars.Purchase.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Purchase.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Purchase.TransferStarGiftInfo" = "קנה כוכבים כדי להעביר בעלות של פריטי האיסוף היחודיים שלך.";
 "Stars.Purchase.UpgradeStarGiftInfo" = "קנה כוכבים כדי לשדרג את המתנה שלך לפריט אספנות ייחודי.";
 "Stars.SellGift.AmountInfo" = "תקבל **\u2068%@\u2069**.";
@@ -11578,7 +11578,7 @@
 "Stars.SendStars.SendStars" = "אשר ושלח";
 "Stars.SendStars.Title" = "שלח כוכבים";
 "Stars.Subscription.Terms" = "על ידי הרשמה הינך מסכים ל[תנאים ולהגבלות]().";
-"Stars.Subscription.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Subscription.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Ton.Description" = "השתמש בGram כדי לקנות מתנות ולהציע פוסטים בערוצי טלגרם.";
 "Stars.Ton.Title" = "יתרת Gram";
 "Stars.Transaction.AppleTopUp.Subtitle" = "App Store";
@@ -11694,7 +11694,7 @@
 "Stars.Transaction.TelegramPremium#many" = "Premium למשך \u2068%@\u2069 חודשים";
 "Stars.Transaction.TelegramPremium#other" = "Premium למשך \u2068%@\u2069 חודשים";
 "Stars.Transaction.Terms" = "צפה ב[תנאי השימוש]() של הכוכבים.";
-"Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transaction.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transaction.To" = "אל";
 "Stars.Transaction.Unsupported.Title" = "לא נתמך";
 "Stars.Transaction.Via" = "באמצעות";
@@ -11735,7 +11735,7 @@
 "Stars.Transfer.SubscribeInfo" = "להירשם ל**\u2068%1$@\u2069** ב**\u2068%2$@\u2069** לחודש?";
 "Stars.Transfer.SubscribePerMonth" = "לחודש";
 "Stars.Transfer.Terms" = "בעצם הרכישה הינך מסכים ל[תנאי השימוש]().";
-"Stars.Transfer.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transfer.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transfer.Title" = "אשר את הקניה";
 "Stars.Transfer.Unavailable" = "מצטערים, קניית כוכבים לא זמינה במדינה שלך.";
 "Stars.Transfer.UnlockBotInfo" = "לפתוח \u2068%1$@\u2069 מ**\u2068%2$@\u2069** ב**\u2068%3$@\u2069**?";
@@ -12862,9 +12862,9 @@
 "Ton.ProceedsOverview" = "סקירת רווחים";
 "Ton.WithdrawViaFragment" = "משוך דרך Fragment";
 "Ton.WithdrawViaFragment.Info" = "אסוף את הGram שלך באמצעות Fragment. [למד עוד >]()";
-"Ton.WithdrawViaFragment.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Ton.WithdrawViaFragment.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "TopApps.Info.Done" = "הבנתי";
-"TopApps.Info.Text" = "קטלוג זה מדרג מיני אפליקציות על סמך ההכנסות היומיות שלהן, הנמדדות בכוכבים.  כדי להופיע ברשימה, מפתחים חייבים להגדיר את האפליקציות המיני העיקריות שלהם ב[@botfather]() (כמתואר [כאן](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)), להחזיק יותר מ**1,000** משתמשים יומיים ולהרוויח הכנסה יומית של מעל **1,000** כוכבים, בהתבסס על הממוצע השבועי.";
+"TopApps.Info.Text" = "קטלוג זה מדרג מיני אפליקציות על סמך ההכנסות היומיות שלהן, הנמדדות בכוכבים.  כדי להופיע ברשימה, מפתחים חייבים להגדיר את האפליקציות המיני העיקריות שלהם ב[@botfather]() (כמתואר [כאן](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app)), להחזיק יותר מ**1,000** משתמשים יומיים ולהרוויח הכנסה יומית של מעל **1,000** כוכבים, בהתבסס על הממוצע השבועי.";
 "TopApps.Info.Title" = "מיני אפליקציות מובילות";
 "Tour.StartButton" = "התחל להתכתב";
 "Tour.Text1" = "יישום ההודעות **המהיר** בעולם.\nהוא **חינמי** ו**מאובטח**.";
@@ -13826,7 +13826,7 @@
 "WebApp.DisclaimerContinue" = "המשך";
 "WebApp.DisclaimerText" = "הינך עומד להשתמש באפליקציית מיני שמופעלת על ידי גורם בלתי תלוי שאינו שותף לטלגרם. עליך להסכים לתנאי השימוש באפלקציות מיני כדי להמשיך.";
 "WebApp.DisclaimerTitle" = "תנאי השימוש";
-"WebApp.Disclaimer_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.Disclaimer_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.Download.Cancel" = "ביטול";
 "WebApp.Download.Document" = "הורד מסמך";
 "WebApp.Download.Download" = "הורד";
@@ -13856,7 +13856,7 @@
 "WebApp.LaunchMoreInfo" = "עוד אודות בוט זה";
 "WebApp.LaunchOpenApp" = "פתח";
 "WebApp.LaunchTermsConfirmation" = "בפתיחת המיני-אפליקציה, הינך מסכים ל[תנאי השימוש של מיני אפליקציות]().";
-"WebApp.LaunchTermsConfirmation_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.LaunchTermsConfirmation_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.LocationPermission.Allow" = "אשר";
 "WebApp.LocationPermission.Decline" = "סרב";
 "WebApp.LocationPermission.Succeed" = "**\u2068%@\u2069** יכול עכשיו לגשת למיקום שלך.";
@@ -13878,7 +13878,7 @@
 "WebApp.OpenWebViewAlertText" = "\"\u2068%@\u2069\" רוצה לפתוח את אפליקציית הווב שלו כדי להמשיך.\n\nהוא יוכל לגשת ל**כתובת הIP** שלך ולפרטי המכשיר הבסיסיים.";
 "WebApp.OpenWebViewAlertTitle" = "פתח אפליקציה";
 "WebApp.PrivacyPolicy" = "מדיניות הפרטיות";
-"WebApp.PrivacyPolicy_URL" = "https://telegram.org/privacy-tpa";
+"WebApp.PrivacyPolicy_URL" = "https://whatsgram.org/privacy-tpa";
 "WebApp.ReloadPage" = "טען עמוד מחדש";
 "WebApp.RemoveAllConfirmationText" = "פעולה זו תסיר את קיצורי הדרך ל**\u2068%@\u2069** מכל התפריטים.";
 "WebApp.RemoveBot" = "הסר מהתפריט";
@@ -13900,7 +13900,7 @@
 "WebApp.ShortcutsAdded" = "הקישור ל**\u2068%@\u2069** התווסף לתפריט הצרופות.";
 "WebApp.ShortcutsSettingsAdded" = "קיצורי הדרך של **\u2068%@\u2069** התווספו לתפריט הצרופות ולתפריט הצד.";
 "WebApp.TermsOfUse" = "תנאי השימוש";
-"WebApp.TermsOfUse_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.TermsOfUse_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebBrowser.AddBookmark" = "הוסף סימניות";
 "WebBrowser.AddressBar.Bookmarks" = "סימניות";
 "WebBrowser.AddressBar.RecentlyVisited" = "ביקרת לאחרונה";

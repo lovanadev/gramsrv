@@ -138,6 +138,42 @@ func (s *StarGiftLifecycleStore) ConvertStarGift(ctx context.Context, req domain
 			saved.Owner.ID, amount, balanceAfter, req.Date); err != nil {
 			return fmt.Errorf("record star gift conversion command: %w", err)
 		}
+
+		if saved.PrepaidUpgradeStars > 0 && from.Type == domain.PeerTypeUser && from.ID > 0 {
+			if err := s.creditLifecycleAmount(ctx, tx, from.ID,
+				domain.StarGiftAmount{Currency: domain.StarGiftCurrencyStars, Amount: saved.PrepaidUpgradeStars},
+				domain.StarsReasonGiftPrepaid, saved.Owner, req.Date, "Star gift upgrade refunded"); err != nil {
+				return err
+			}
+		}
+
+		if saved.UpgradeMsgID > 0 {
+			if saved.Owner.Type == domain.PeerTypeChannel {
+				if _, err := tx.Exec(ctx, `UPDATE channel_messages SET media = jsonb_set(media, '{service_action,star_gift,refunded}', 'true'::jsonb, true) WHERE channel_id=$1 AND id=$2`, saved.Owner.ID, saved.UpgradeMsgID); err != nil {
+					return fmt.Errorf("update star gift upgrade message: %w", err)
+				}
+			}
+		}
+
+		if saved.MsgID > 0 {
+			if saved.Owner.Type == domain.PeerTypeUser {
+				if err := s.markPrivateStarGiftSourceConvertedTx(ctx, tx, req, saved); err != nil {
+					return fmt.Errorf("update star gift base message: %w", err)
+				}
+			} else if saved.Owner.Type == domain.PeerTypeChannel {
+				if _, err := tx.Exec(ctx, `UPDATE channel_messages SET media = 
+					media #- '{service_action,star_gift,prepaid_upgrade_hash}' || jsonb_build_object(
+						'service_action', jsonb_build_object(
+							'star_gift', (media->'service_action'->'star_gift') 
+								|| '{"converted":true,"can_upgrade":false,"prepaid_upgrade":false,"saved":false}'::jsonb
+						)
+					)
+					WHERE channel_id=$1 AND id=$2`, saved.Owner.ID, saved.MsgID); err != nil {
+					return fmt.Errorf("update star gift base message: %w", err)
+				}
+			}
+		}
+
 		saved.Converted = true
 		saved.LifecycleStatus = domain.StarGiftLifecycleConverted
 		saved.Unsaved = true
@@ -1768,6 +1804,139 @@ func sortedUniqueInt64(values []int64) []int64 {
 	out := append([]int64(nil), values...)
 	sort.Slice(out, func(i, j int) bool { return out[i] < out[j] })
 	return out
+}
+
+func (s *StarGiftLifecycleStore) markPrivateStarGiftSourceConvertedTx(ctx context.Context, tx pgx.Tx, req domain.StarGiftConvertRequest, saved domain.SavedStarGift) error {
+	q := sqlcgen.New(tx)
+	messageIDs, err := userStarGiftSourceMessageIDs(ctx, tx, saved)
+	if err != nil {
+		return err
+	}
+	seenPrivateMessages := make(map[string]struct{}, len(messageIDs))
+	for _, sourceMessageID := range messageIDs {
+		var peerType string
+		var peerID int64
+		err := tx.QueryRow(ctx, `
+SELECT peer_type,peer_id FROM message_boxes
+WHERE owner_user_id=$1 AND box_id=$2 AND NOT deleted
+FOR UPDATE`, req.ActorUserID, sourceMessageID).Scan(&peerType, &peerID)
+		if errors.Is(err, pgx.ErrNoRows) {
+			continue
+		}
+		if err != nil {
+			return fmt.Errorf("lock star gift source ref %d: %w", sourceMessageID, err)
+		}
+		if peerType != string(domain.PeerTypeUser) || peerID <= 0 {
+			return fmt.Errorf("star gift source ref %d is not private", sourceMessageID)
+		}
+		target, err := q.GetMessageBoxForEdit(ctx, sqlcgen.GetMessageBoxForEditParams{
+			OwnerUserID: req.ActorUserID, BoxID: int32(sourceMessageID), PeerType: peerType, PeerID: peerID,
+		})
+		if err != nil {
+			return fmt.Errorf("load star gift source ref %d: %w", sourceMessageID, err)
+		}
+		ownerMedia, err := decodeMessageMedia(target.MediaJson)
+		if err != nil {
+			return fmt.Errorf("decode star gift source ref %d: %w", sourceMessageID, err)
+		}
+		ownerAction := privateStarGiftAction(ownerMedia)
+		if ownerAction == nil {
+			return fmt.Errorf("star gift source ref %d has invalid media", sourceMessageID)
+		}
+		if ownerAction.GiftID != saved.GiftID {
+			return fmt.Errorf("star gift source ref %d points to gift %d", sourceMessageID, ownerAction.GiftID)
+		}
+		logicalKey := fmt.Sprintf("%d:%d", target.MessageSenderID, target.PrivateMessageID)
+		if _, duplicate := seenPrivateMessages[logicalKey]; duplicate {
+			continue
+		}
+		seenPrivateMessages[logicalKey] = struct{}{}
+		boxes, err := q.ListVisibleMessageBoxesByPrivateMessage(ctx, sqlcgen.ListVisibleMessageBoxesByPrivateMessageParams{
+			OwnerUserIds: privateMessageOwnerIDs(req.ActorUserID, peerID), MessageSenderID: target.MessageSenderID,
+			PrivateMessageID: target.PrivateMessageID,
+		})
+		if err != nil {
+			return fmt.Errorf("list star gift source ref %d boxes: %w", sourceMessageID, err)
+		}
+		if len(boxes) == 0 {
+			return domain.ErrStarGiftInvalid
+		}
+		var privateMediaJSON []byte
+		for _, box := range boxes {
+			media, err := decodeMessageMedia(box.MediaJson)
+			if err != nil {
+				return fmt.Errorf("decode star gift source media: %w", err)
+			}
+			action := privateStarGiftAction(media)
+			if action == nil || action.GiftID != saved.GiftID {
+				return fmt.Errorf("star gift source message %d has invalid media", box.BoxID)
+			}
+			
+			if action.UpgradeSeparate {
+				action.Refunded = true
+			} else {
+				action.Converted = true
+				action.Saved = false
+				action.CanUpgrade = false
+				action.PrepaidUpgrade = false
+				action.PrepaidUpgradeHash = ""
+			}
+
+			mediaJSON, err := encodeMessageMedia(media)
+			if err != nil {
+				return fmt.Errorf("encode converted star gift source media: %w", err)
+			}
+			pts, err := s.messages.reservePts(ctx, tx, box.OwnerUserID)
+			if err != nil {
+				return fmt.Errorf("allocate star gift source edit pts: %w", err)
+			}
+			tag, err := tx.Exec(ctx, `
+UPDATE message_boxes SET media=$3, pts=$4
+WHERE owner_user_id=$1 AND box_id=$2 AND NOT deleted`, box.OwnerUserID, box.BoxID, mediaJSON, int32(pts))
+			if err != nil {
+				return fmt.Errorf("update star gift source message box: %w", err)
+			}
+			if tag.RowsAffected() != 1 {
+				return fmt.Errorf("update star gift source message box lost row")
+			}
+			msg, err := messageFromVisibleBoxRow(box)
+			if err != nil {
+				return err
+			}
+			msg.Media = media
+			msg.Pts = pts
+			if err := replaceMessageBoxMediaIndexTx(ctx, tx, msg.OwnerUserID, msg.Peer.ID, msg.ID, msg.Date, msg.Media, msg.Entities); err != nil {
+				return err
+			}
+			event := domain.UpdateEvent{UserID: msg.OwnerUserID, Type: domain.UpdateEventEditMessage,
+				Pts: pts, PtsCount: 1, Date: req.Date, Message: msg}
+			if err := appendUserUpdateEvent(ctx, tx, q, msg.OwnerUserID, event); err != nil {
+				return fmt.Errorf("append star gift source edit event: %w", err)
+			}
+			
+			if err := enqueueDispatch(ctx, q, sqlcgen.EnqueueDispatchParams{
+				TargetUserID: msg.OwnerUserID, Pts: int32(pts), EventType: string(domain.UpdateEventEditMessage),
+				ExcludeAuthKeyID: 0, ExcludeSessionID: 0,
+			}); err != nil {
+				return fmt.Errorf("enqueue star gift source edit: %w", err)
+			}
+			if box.OwnerUserID == box.MessageSenderID || len(privateMediaJSON) == 0 {
+				privateMediaJSON, err = encodeSharedPrivateStarGiftMedia(media)
+				if err != nil {
+					return err
+				}
+			}
+		}
+		if len(privateMediaJSON) == 0 {
+			return fmt.Errorf("convert source message missing private media projection")
+		}
+		if _, err := tx.Exec(ctx, `
+UPDATE private_messages SET media=$3
+WHERE sender_user_id=$1 AND id=$2`, target.MessageSenderID, target.PrivateMessageID, privateMediaJSON); err != nil {
+			return fmt.Errorf("update star gift source private message: %w", err)
+		}
+	}
+	return nil
 }
 
 var _ store.StarGiftLifecycleStore = (*StarGiftLifecycleStore)(nil)

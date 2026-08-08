@@ -162,7 +162,7 @@
 "cloud_lng_passport_in_uk" = "Oekraïens";
 "cloud_lng_passport_in_uz" = "Oezbeeks";
 "cloud_lng_passport_in_vi" = "Vietnamees";
-"cloud_lng_tooltip_psa_covid" = "Dit bericht is een openbare mededeling in verband met de huidige COVID-19-pandemie. Lees meer over dit initiatief op https://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "Dit bericht is een openbare mededeling in verband met de huidige COVID-19-pandemie. Lees meer over dit initiatief op https://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "Dit is een officieel bericht van de CEO van Telegram over het lopende conflict.";
 "cloud_lng_topup_purpose_subs" = "Koop **sterren** om je abonnementen op kanalen te behouden.";
 "cloud_lng_translate_to_ar" = "Arabisch";
@@ -220,7 +220,7 @@
 "lng_about_text2" = "Deze software valt onder{gpl_link} versie 3.\nDe broncode is beschikbaar via {github_link}.";
 "lng_about_text3" = "Bezoek de {faq_link} voor meer informatie.";
 "lng_about_text3_faq" = "Veelgestelde vragen";
-"lng_about_text_1" = "Officiële, gratis Telegram app gebaseerd op de [a href=\"https://core.telegram.org/api\"]Telegram API[/a] voor snelheid en veiligheid.";
+"lng_about_text_1" = "Officiële, gratis Telegram app gebaseerd op de [a href=\"https://core.whatsgram.org/api\"]Telegram API[/a] voor snelheid en veiligheid.";
 "lng_about_text_2" = "Deze software valt onder [a  href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] versie 3.\nDe broncode is beschikbaar via [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a].";
 "lng_about_text_3" = "Bezoek de {faq_open}Telegram FAQ{faq_close} voor meer informatie.";
 "lng_about_version" = "versie {version}";
@@ -1312,7 +1312,7 @@
 "lng_bot_download_starting" = "Wordt gestart...";
 "lng_bot_earn_available" = "Beschikbaar saldo";
 "lng_bot_earn_balance_about" = "Wanneer je sterren hebt verdiend, kun je ze na 21 dagen voor advertenties gebruiken of als beloning verzilveren.";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
+"lng_bot_earn_balance_about_url" = "https://whatsgram.org/tos/stars";
 "lng_bot_earn_balance_button#one" = "{emoji} {count} opnemen";
 "lng_bot_earn_balance_button#other" = "{emoji} {count} opnemen";
 "lng_bot_earn_balance_button_all" = "Alle sterren opnemen";
@@ -1453,7 +1453,7 @@
 "lng_business_about_quick_replies" = "Maak snelkoppelingen aan met tekstopmaak en media om berichten sneller te beantwoorden.";
 "lng_business_about_sponsored" = "Als premium-abonnee zie je standaard geen advertenties op Telegram, maar je kunt ze wel handmatig inschakelen, om bijvoorbeeld je eigen advertenties te zien op het {link}";
 "lng_business_about_sponsored_link" = "advertentieplatform van Telegram {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
+"lng_business_about_sponsored_url" = "https://ads.whatsgram.org";
 "lng_business_button_sponsored" = "Advertenties niet verbergen";
 "lng_business_edit_messages" = "Berichten bewerken";
 "lng_business_limit_reached#one" = "Limiet van {count} bericht bereikt.";
@@ -1635,7 +1635,7 @@
 "lng_channel_earn_learn_bot_in_about" = "Telegram kan advertenties tonen in je bot.";
 "lng_channel_earn_learn_close" = "Begrepen";
 "lng_channel_earn_learn_coin_about" = "Gram is de cryptovaluta van de TON-blockchain, die door Telegram wordt gebruikt vanwege de hoge snelheid en lage commissie op transacties. {link}";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels/nl?ln=a";
+"lng_channel_earn_learn_coin_link" = "https://whatsgram.org/blog/monetization-for-channels/nl?ln=a";
 "lng_channel_earn_learn_coin_title" = "Wat is {emoji} Gram?";
 "lng_channel_earn_learn_in_about" = "Telegram kan advertenties tonen op je kanaal.";
 "lng_channel_earn_learn_in_subtitle" = "Telegram-advertenties";
@@ -1799,7 +1799,7 @@
 "lng_chatbots_gift_settings" = "Cadeau-instellingen wijzigen";
 "lng_chatbots_include_button" = "Chats selecteren";
 "lng_chatbots_included_title" = "Inbegrepen chats";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business/nl?ln=a#chatbots-voor-bedrijven";
+"lng_chatbots_info_url" = "https://whatsgram.org/blog/telegram-business/nl?ln=a#chatbots-voor-bedrijven";
 "lng_chatbots_leave_without_added_text" = "Je hebt geen bot toegevoegd om je account te beheren. Wil je dit menu toch sluiten?";
 "lng_chatbots_leave_without_added_title" = "Geen bot toegevoegd";
 "lng_chatbots_manage_gifts" = "Cadeaus en sterren beheren";
@@ -2277,7 +2277,7 @@
 "lng_credits_box_history_entry_floodskip_row" = "Berichten";
 "lng_credits_box_history_entry_fragment" = "Fragment";
 "lng_credits_box_history_entry_gift_about_link" = "Voorbeelden tonen {emoji}";
-"lng_credits_box_history_entry_gift_about_url" = "https://telegram.org/blog/telegram-stars/nl";
+"lng_credits_box_history_entry_gift_about_url" = "https://whatsgram.org/blog/telegram-stars/nl";
 "lng_credits_box_history_entry_gift_bought" = "Aankoop van cadeau";
 "lng_credits_box_history_entry_gift_bought_from" = "Van";
 "lng_credits_box_history_entry_gift_converted" = "Omgezet cadeau";
@@ -2316,7 +2316,7 @@
 "lng_credits_box_history_entry_via" = "Via";
 "lng_credits_box_history_entry_via_premium_bot" = "Premium-bot";
 "lng_credits_box_out_about" = "Bekijk de {link} voor sterren.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars";
 "lng_credits_box_out_both" = "{photo} en {video}";
 "lng_credits_box_out_confirm#one" = "Bevestigen en {emoji} {count} ster betalen";
 "lng_credits_box_out_confirm#other" = "Bevestigen en {emoji} {count} sterren betalen";
@@ -2417,7 +2417,7 @@
 "lng_credits_summary_in_toast_title" = "Sterren verkregen";
 "lng_credits_summary_options_about" = "Door verder te gaan en sterren te kopen, ga je akkoord met de {link}.";
 "lng_credits_summary_options_about_link" = "voorwaarden";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars";
+"lng_credits_summary_options_about_url" = "https://whatsgram.org/tos/stars";
 "lng_credits_summary_options_credits#one" = "{count} ster";
 "lng_credits_summary_options_credits#other" = "{count} sterren";
 "lng_credits_summary_options_more" = "Meer opties";
@@ -4207,7 +4207,7 @@
 "lng_group_invite_subscription" = "Abonnement vereisen";
 "lng_group_invite_subscription_about" = "Breng abonnementskosten in rekening bij personen die zich via deze link bij je kanaal aanmelden. {link}";
 "lng_group_invite_subscription_about_link" = "Lees meer {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "je krijgt ongeveer {total} per maand";
 "lng_group_invite_subscription_info_subtitle" = "Abonnementskosten";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} / maand {multiplier} {total}";
@@ -4960,7 +4960,7 @@
 "lng_mini_apps_disclaimer_link" = "Gebruiksvoorwaarden";
 "lng_mini_apps_disclaimer_text" = "Je staat op het punt om een mini-app van derden te gebruiken, die **niet gelieerd is aan Telegram**. Je dient akkoord te gaan met de gebruiksvoorwaarden voor mini-apps om verder te gaan.";
 "lng_mini_apps_disclaimer_title" = "Waarschuwing";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "Minimaliseer naar systeemvak";
 "lng_minimize_window" = "Minimaliseren";
 "lng_minutes#one" = "{count} minuut";
@@ -5140,7 +5140,7 @@
 "lng_owner_badge" = "eigenaar";
 "lng_paid_about" = "Gebruikers moeten deze hoeveelheid sterren aan je kanaal overdragen om deze media te bekijken. {link}";
 "lng_paid_about_link" = "Meer info over sterren >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars/nl";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars/nl";
 "lng_paid_admin_about" = "Kijkers kunnen sterren naar je sturen.";
 "lng_paid_admin_title" = "Sterren van kijkers ontvangen";
 "lng_paid_comment_about" = "Je kunt je bericht markeren en vastzetten door sterren toe te voegen voor {name}.";
@@ -5645,7 +5645,7 @@
 "lng_popular_apps_info_here" = "hier";
 "lng_popular_apps_info_text" = "Deze catalogus rangschikt mini-apps op basis van hun dagelijkse omzet in sterren. Om op de lijst te komen, moeten ontwikkelaars hun primaire mini-app instellen via {bot} (volgens de stappen {link}). Daarnaast moeten ze meer dan **1000** dagelijkse gebruikers en een dagomzet boven de **1000** sterren hebben, op basis van het wekelijks gemiddelde.";
 "lng_popular_apps_info_title" = "Top mini-apps";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
+"lng_popular_apps_info_url" = "https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app";
 "lng_posts_limit_about#one" = "Je kunt maximaal {count} zoekopdracht per dag uitvoeren.";
 "lng_posts_limit_about#other" = "Je kunt maximaal {count} zoekopdrachten per dag uitvoeren.";
 "lng_posts_limit_reached" = "Limiet bereikt";
@@ -5982,7 +5982,7 @@
 "lng_profile_bot_help" = "Help";
 "lng_profile_bot_permissions_title" = "Toegang geven tot";
 "lng_profile_bot_privacy" = "Privacybeleid van bot";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "Instellingen";
 "lng_profile_camera_title" = "Leg jezelf vast";
 "lng_profile_changed_photo_about" = "Je kunt dit wijzigen via {link}.";
@@ -7054,7 +7054,7 @@
 "lng_settings_export_data" = "Telegram-gegevens exporteren";
 "lng_settings_faq" = "Veelgestelde vragen";
 "lng_settings_faq_button" = "Veelgestelde vragen";
-"lng_settings_faq_link" = "https://telegram.org/faq?setln=nl#algemene-vragen";
+"lng_settings_faq_link" = "https://whatsgram.org/faq?setln=nl#algemene-vragen";
 "lng_settings_faq_subtitle" = "Veelgestelde vragen";
 "lng_settings_features" = "Telegram-functies";
 "lng_settings_file_confirmations" = "Bevestiging bij het openen van bestanden";
@@ -7250,7 +7250,7 @@
 "lng_settings_suggestion_password_title" = "Je wachtwoord";
 "lng_settings_suggestion_password_yes" = "Ja, zeker weten";
 "lng_settings_suggestion_phone_number_about" = "Houd je nummer actueel zodat je altijd op Telegram kunt inloggen. {link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq?setln=nl#q-ik-heb-een-nieuw-nummer-wat-moet-ik-doen";
+"lng_settings_suggestion_phone_number_about_link" = "https://whatsgram.org/faq?setln=nl#q-ik-heb-een-nieuw-nummer-wat-moet-ik-doen";
 "lng_settings_suggestion_phone_number_change" = "Verander zo snel mogelijk je telefoonnummer in de officiële Telegram-app op je telefoon. {emoji}";
 "lng_settings_suggestion_phone_number_title" = "Is {phone} nog steeds je nummer?";
 "lng_settings_system_integration" = "Systeemintegratie";
@@ -7460,7 +7460,7 @@
 "lng_sponsored_info_description1" = "In tegenstelling tot andere apps, gebruikt Telegram je persoonlijke gegevens nooit om gerichte advertenties te tonen. Gesponsorde berichten op Telegram zijn uitsluitend gebaseerd op de onderwerpen van de openbare kanalen waarin ze worden weergegeven. Dit betekent dat er geen gegevens van gebruikers worden verzameld of geanalyseerd voor advertentiedoeleinden, en dat elke bezoeker van een kanaal op Telegram hetzelfde gesponsorde bericht ziet.\n\nIn tegenstelling tot andere apps, houdt Telegram niet bij of je op een gesponsord bericht hebt geklikt en wordt er ook geen profiel van je aangemaakt op basis van je activiteit. Daarnaast verbieden we externe links in gesponsorde berichten, om zeker te zijn dat derde partijen onze gebruikers niet in de gaten kunnen houden. We geloven dat iedereen het recht heeft op privacy en we zijn van mening dat technologieplatforms dit moeten respecteren.\n\nTelegram biedt een gratis en onbeperkte dienst aan honderden miljoenen gebruikers, wat voor aanzienlijke onderhouds- en serverkosten zorgt. Om onafhankelijk te blijven en onze waarden hoog in het vaandel te houden, heeft Telegram een betaalde tool ontwikkeld om berichten te promoten zonder de privacy van onze gebruikers te schaden. We heten verantwoordelijke adverteerders van harte welkom op: [url]";
 "lng_sponsored_info_description1_link" = "Lees meer in het privacybeleid";
 "lng_sponsored_info_description1_linked" = "In tegenstelling tot andere apps, gebruikt Telegram je persoonlijke gegevens nooit om gerichte advertenties te tonen. {link}\n\nIn tegenstelling tot andere apps, houdt Telegram niet bij of je op een gesponsord bericht hebt getikt en wordt er ook geen profiel van je aangemaakt op basis van je activiteit. Daarnaast verbieden we externe links in gesponsorde berichten, om zeker te zijn dat derde partijen onze gebruikers niet in de gaten kunnen houden. We geloven dat iedereen het recht heeft op privacy en we zijn van mening dat technologieplatforms dit moeten respecteren.\n\nTelegram biedt een gratis en onbeperkte dienst aan honderden miljoenen gebruikers, wat voor aanzienlijke onderhouds- en serverkosten zorgt. Om onafhankelijk te blijven en onze waarden hoog in het vaandel te houden, heeft Telegram een betaalde tool ontwikkeld om berichten te promoten zonder de privacy van onze gebruikers te schaden. We heten verantwoordelijke adverteerders van harte welkom op:";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy#5-6-no-ads-based-on-user-data";
+"lng_sponsored_info_description1_url" = "https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data";
 "lng_sponsored_info_description2" = "Gesponsorde berichten zijn momenteel nog in de testfase. Zodra ze volledig zijn gelanceerd en zodra Telegram zijn kosten eruit kan halen, zullen we de opbrengst van advertenties in openbare kanalen delen met de eigenaren van de kanalen waarin ze worden weergegeven.\n\nOnline adverteren zou geen synoniem meer moeten zijn voor het aan je laars lappen van de privacy van gebruikers. Laten we samen opnieuw invullen hoe een technologiebedrijf zich zou moeten gedragen.";
 "lng_sponsored_info_menu" = "Info over adverteerder";
 "lng_sponsored_info_submenu" = "Adverteerder: {text}";
@@ -7685,7 +7685,7 @@
 "lng_star_ref_start_info" = "Door een partnerprogramma te starten, ga je akkoord met de {terms} van partnerprogramma's.";
 "lng_star_ref_stopped" = "Deze verwijzingslink is niet meer actief.";
 "lng_star_ref_title" = "Partnerprogramma";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program";
+"lng_star_ref_tos_url" = "https://whatsgram.org/tos/affiliate-program";
 "lng_star_ref_transparent_about" = "Volg in realtime hoeveel commissie je hebt verdiend.";
 "lng_star_ref_transparent_title" = "Transparant";
 "lng_star_ref_update" = "Partnerprogramma aanpassen";

@@ -303,7 +303,7 @@
 "AdminRights.Other" = "其他";
 "AdminRights.PostStories" = "發表動態";
 "Administrators" = "管理員";
-"Ads.Reported" = "我們將審查此廣告，以確保其符合我們的**[廣告政策和指南](https://ads.telegram.org/guidelines)**。";
+"Ads.Reported" = "我們將審查此廣告，以確保其符合我們的**[廣告政策和指南](https://ads.whatsgram.org/guidelines)**。";
 "AgeVerification.Action" = "驗證我的年齡";
 "AgeVerification.Failed" = "抱歉，您無法查看 18+ 內容。";
 "AgeVerification.Text" = "要存取此類內容，您必須確認您已年滿 18 歲。 \n\n這是透過使用手機相機的一次性操作。Telegram 不會儲存您的自拍照。";
@@ -943,7 +943,7 @@
 "Chat.Message.Ad.Text" = "與其他應用程式不同，Telegram 從不使用您的私人數據來投放廣告。Telegram 上的贊助商廣告訊息完全是基於公開頻道其所顯示的主題。這意味著不會挖掘或分析用戶數據來顯示廣告，並且每個在 Telegram 上瀏覽某頻道的用戶所看到的贊助商廣告訊息都是一樣的。\n\n與其他應用程式不同，Telegram 不會在您點擊贊助商廣告訊息時追蹤您，不會根據您的活動來描述您。除此之外，我們也會避免贊助商廣告訊息中有外部連結，藉以確保我們的用戶不會被第三方所監視。我們相信，每個人都擁有隱私權，而科技平台應該重視這點。\n\nTelegram 為數億用戶提供免費且無限制的服務，這涉及大量的伺服器和流量成本。為了保持獨立並忠於自己的價值觀，在考慮用戶隱私的情況下，Telegram 開發了一種付費可宣傳訊息的工具。我們歡迎可信賴的廣告刊登者：\n\n%@\n\n贊助商廣告訊息目前處於測試模式。一旦完全啟用並使 Telegram 可以支付其基本費用，我們將開始分享廣告收入給顯示贊助商廣告訊息的公開頻道擁有者。\n\n線上廣告不應再等同於濫用用戶隱私。讓我們一起重新定義一家科技公司應該如何運作。";
 "Chat.Message.RequestToJoin" = "申請加入";
 "Chat.Message.SendMessage" = "傳送訊息";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "什麼是贊助商廣告訊息？";
 "Chat.Message.ViewApp" = "開啟 App";
 "Chat.Message.ViewBot" = "查看機器人";
@@ -1099,7 +1099,7 @@
 "ChatList.Filter.NonContacts" = "非聯絡人";
 "ChatList.Filter.ReadChats" = "已讀";
 "ChatList.Main.EmptyPlaceholder.Subtitle" = "您在 Telegram 上有 %s";
-"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "在 [Android](https://telegram.org/android) 或 [iOS](https://telegram.org/dl/ios) 裝置上使用 Telegram 應用程式來同步您的聯絡人";
+"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "在 [Android](https://whatsgram.org/android) 或 [iOS](https://whatsgram.org/dl/ios) 裝置上使用 Telegram 應用程式來同步您的聯絡人";
 "ChatList.Main.EmptyPlaceholder.Title" = "您的聊天將顯示在此處";
 "ChatList.Menu.SwitchTo.A" = "切換到 A 版本";
 "ChatList.Menu.SwitchTo.Webogram" = "切換到舊版本";
@@ -1772,7 +1772,7 @@
 "InviteLink.Observe.Fee.Subtitle" = "您每月約可獲得 %s";
 "InviteLink.Observe.Fee.Title" = "%s / 月 x %d";
 "InviteLink.Sticker.TimeLeft" = "%@後過期";
-"InviteLink.Subscription.Caption" = "向透過此連結加入您頻道的人收取訂閱費用。 [了解更多 >](https://telegram.org/)";
+"InviteLink.Subscription.Caption" = "向透過此連結加入您頻道的人收取訂閱費用。 [了解更多 >](https://whatsgram.org/)";
 "InviteLink.Subscription.Edit" = "若要變更訂閱費用，請建立具有不同價格的新邀請連結。";
 "InviteLink.Subscription.Placeholder" = "每月星星數量";
 "InviteLink.Subscription.Price" = "~%s / 月";
@@ -2170,8 +2170,8 @@
 "Message.Context.Selection.SendNow" = "立即傳送所選";
 "Message.Context.Unpin" = "取消置頂";
 "Message.ReplyActionButtonShowReceipt" = "顯示收據";
-"Message.Unsupported.Desktop" = "__Telegram Web 目前不支持此訊息。嘗試 [getdesktop.telegram.org](https://getdesktop.telegram.org/)__";
-"Message.Unsupported.Mobile" = "__Telegram Web 目前不支持此訊息。嘗試 [telegram.org/dl](https://telegram.org/dl/)__";
+"Message.Unsupported.Desktop" = "__Telegram Web 目前不支持此訊息。嘗試 [getdesktop.whatsgram.org](https://getdesktop.whatsgram.org/)__";
+"Message.Unsupported.Mobile" = "__Telegram Web 目前不支持此訊息。嘗試 [whatsgram.org/dl](https://whatsgram.org/dl/)__";
 "MessageContainsEmojiPack" = "此訊息包含表情包 %s 的表情符號。";
 "MessageContainsEmojiPacks#other" = "此訊息包含來自 **%d 個表情包**的表情符號。";
 "MessageContainsReactionPack" = "此表情符號反應來自 %s 表情包。";
@@ -2547,8 +2547,8 @@
 "PeerInfo.Action.LiveStream" = "直播";
 "PeerInfo.Action.VoiceChat" = "視訊聊天";
 "PeerInfo.Administrators" = "管理員";
-"PeerInfo.AppFooter" = "啟動此迷你程式，即表示您同意[迷你程式服務條款](https://telegram.org/tos/mini-apps)。";
-"PeerInfo.AppFooterAdmin" = "發布此迷你程式，即表示您同意 [Telegram 開發人員服務條款](https://telegram.org/tos/bot-developers)。";
+"PeerInfo.AppFooter" = "啟動此迷你程式，即表示您同意[迷你程式服務條款](https://whatsgram.org/tos/mini-apps)。";
+"PeerInfo.AppFooterAdmin" = "發布此迷你程式，即表示您同意 [Telegram 開發人員服務條款](https://whatsgram.org/tos/bot-developers)。";
 "PeerInfo.DeleteChannel" = "刪除頻道";
 "PeerInfo.DeleteContact" = "刪除聯絡人";
 "PeerInfo.Discussion" = "討論";
@@ -2929,7 +2929,7 @@
 "Report2CommentOptional" = "寫則評論（選填）";
 "Report2Send" = "傳送檢舉報告";
 "ReportAd" = "檢舉廣告";
-"ReportAdLearnMore" = "了解更多有關我們的[廣告政策和指南](https://ads.telegram.org/guidelines)。";
+"ReportAdLearnMore" = "了解更多有關我們的[廣告政策和指南](https://ads.whatsgram.org/guidelines)。";
 "ReportBug" = "報告錯誤";
 "ReportChat" = "檢舉";
 "ReportChatChild" = "危害兒童";
@@ -2989,7 +2989,7 @@
 "RevenueSharingAdsInfo3Subtitle" = "您可以透過訂閱 **Telegram Premium** 關閉廣告，並且 %1$s 級頻道管理員可以為其訂閱者移除廣告。";
 "RevenueSharingAdsInfo3Title" = "可以移除";
 "RevenueSharingAdsInfo4Subtitle2" = "任何人都可以建立廣告並在此頻道中展示 - 只需最少的預算。查看 **Telegram 廣告平台**以了解詳細資訊。%1$s";
-"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[了解更多 >](https://ads.telegram.org/)**";
+"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[了解更多 >](https://ads.whatsgram.org/)**";
 "RevenueSharingAdsInfo4Title" = "我可以投放廣告嗎？";
 "RevokeAlert" = "您確定要撤銷此連結？一旦連結被撤銷，沒有人可以利用原先的連結加入。";
 "RevokeButton" = "撤銷";
@@ -3502,7 +3502,7 @@
 "Stars.Subscribe.Button" = "訂閱";
 "Stars.Subscribe.Description" = "您想以每月 **%s**的價格訂閲 **%s** 嗎？";
 "Stars.Subscribe.Need" = "購買**星星**並使用它們訂閱頻道。";
-"Stars.Subscribe.Terms" = "訂閱即表示您同意[服務條款](https://telegram.org)。";
+"Stars.Subscribe.Terms" = "訂閱即表示您同意[服務條款](https://whatsgram.org)。";
 "Stars.Subscribe.Title" = "訂閱頻道";
 "Stars.Subscription" = "訂閱";
 "Stars.Subscription.Active" = "如果您現在取消訂閲，您仍然可以在 %s 之前存取您的訂閱内容。";
@@ -3522,13 +3522,13 @@
 "Stars.Subscriptions.Expires" = "將於 %s 到期";
 "Stars.Subscriptions.PerMonth" = "每月";
 "Stars.Subscriptions.Renews" = "將於 %s 續訂";
-"Stars.TOS" = "繼續操作並購買星星即表示您同意[條款和條件](https://telegram.org/tos)。";
+"Stars.TOS" = "繼續操作並購買星星即表示您同意[條款和條件](https://whatsgram.org/tos)。";
 "Stars.TopUp" = "星星儲值";
 "Stars.TopUp.Enough" = "現在您已經有足夠的星星了。[仍然購買]()";
 "Stars.TopUp.Label_default" = "購買星星以解鎖 \nTelegram 迷你程式的內容和服務。";
 "Stars.TopUp.Label_stargift" = "購買**星星**來贈送禮物。";
 "Stars.TopUp.Reaction" = "購買**星星**並送給 **%s** 以支持他們的貼文。";
-"Stars.TransactionTOS" = "查看 Telegram 星星的**[服務條款](https://telegram.org/tos)**。";
+"Stars.TransactionTOS" = "查看 Telegram 星星的**[服務條款](https://whatsgram.org/tos)**。";
 "Stars.Unlock" = "您想以 **%s** 解鎖 **%s** 中的%s嗎？";
 "Stars.Unlock.FromBot" = "您想以 **%s**的價格解鎖 **%s** 中的%s嗎？";
 "Stars.Unlock.Media" = "%s 和 %s";
@@ -4000,8 +4000,8 @@
 "Verified.Channel" = "此頻道已經通過 Telegram 驗證。";
 "Verified.Group" = "此群組已經通過 Telegram 驗證。";
 "ViaBot" = "透過";
-"Video.Unsupported.Desktop" = "__很抱歉，這部影片無法在 Telegram Web 上播放。嘗試使用我們的[桌面應用程式](https://getdesktop.telegram.org/) 開啟它。__";
-"Video.Unsupported.Mobile" = "__很抱歉，這部影片無法在 Telegram Web 上播放。嘗試使用我們的[移動應用程式](https://telegram.org/dl/) 開啟它。__";
+"Video.Unsupported.Desktop" = "__很抱歉，這部影片無法在 Telegram Web 上播放。嘗試使用我們的[桌面應用程式](https://getdesktop.whatsgram.org/) 開啟它。__";
+"Video.Unsupported.Mobile" = "__很抱歉，這部影片無法在 Telegram Web 上播放。嘗試使用我們的[移動應用程式](https://whatsgram.org/dl/) 開啟它。__";
 "VideoCall" = "視訊通話";
 "Videos#other" = "%d 個影片";
 "ViewAllReplies" = "查看所有回覆";
@@ -4065,7 +4065,7 @@
 "WebApp.InstallBot" = "安裝機器人";
 "WebApp.WriteAccess.Description" = "允許 %s 傳送訊息嗎？";
 "WebApp.WriteAccess.Title" = "允許傳送訊息";
-"WebAppDisclaimerUrl" = "https://telegram.org/tos/mini-apps";
+"WebAppDisclaimerUrl" = "https://whatsgram.org/tos/mini-apps";
 "WebPage.InstantView" = "即時瀏覽";
 "WebPage.OpenLink" = "開啟連結";
 "WebPage.RemovePreview" = "移除連結預覽";

@@ -1598,7 +1598,7 @@
 "ShowSendersName" = "Паказваць імя адпраўніка";
 "SomethingWentWrong" = "Нешта пайшло не так";
 "Speaking" = "гаворыць";
-"SponsoredMessageAlertLearnMoreUrl" = "https://promote.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://promote.whatsgram.org";
 "SponsoredMessageInfo" = "Што значыць «паведамленні ад спонсара»?";
 "SponsoredMessageInfoDescription1" = "У адрозненне ад іншых праграм, Telegram ніколі не выкарыстоўвае вашы асабістыя даныя для мэтавай рэкламы. Паведамленні ад спонсара ў Telegram грунтуюцца выключна на тэме публічных каналаў, на якіх яны паказваюцца. Гэта азначае, што даныя карыстальнікаў не збіраюцца і не аналізуюцца для паказу рэкламы, і кожны карыстальнік, які праглядае канал у Telegram, бачыць аднолькавыя паведамленні ад спонсара.";
 "SponsoredMessageInfoDescription3" = "Telegram прапануе бясплатны і неабмежаваны сэрвіс для соцень мільёнаў карыстальнікаў, які ўключае значныя выдаткі на сервер і трафік. Каб заставацца незалежным і заставацца верным сваім каштоўнасцям, Telegram распрацаваў платны інструмент для прасоўвання паведамленняў з улікам прыватнасці карыстальнікаў. Мы вітаем адказных рэкламадаўцаў па спасылцы:";
@@ -1637,7 +1637,7 @@
 "StarsGiftHeaderSelf" = "Купіць падарунак";
 "StarsPay" = "Пацвердзіць і заплаціць {amount}";
 "StarsPerMonth" = "{amount}⭐️/месяц";
-"StarsReactionLink" = "https://telegram.org/tos/stars";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars";
 "StarsReactionTerms" = "Адпраўляючы зоркі, вы згаджаецеся з {link}";
 "StarsSubscribeBotButtonMonth" = "Падпісацца за {amount} / на месяц";
 "StarsSubscribeBotText#one" = "Хочаце падпісацца на **{name}** у **{bot}** за **{amount}** зорку на месяц?";
@@ -1649,7 +1649,7 @@
 "StarsSubscribeText#few" = "Хочаце падпісацца на **{chat}** за **{amount} зоркі** на месяц?";
 "StarsSubscribeText#many" = "Хочаце падпісацца на **{chat}** за **{amount} зорак** на месяц?";
 "StarsSubscribeText#other" = "Хочаце падпісацца на **{chat}** за **{amount} зоркі** на месяц?";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars";
 "StarsTransactionsAll" = "Усе транзакцыі";
 "StarsTransactionsIncoming" = "Уваходныя";
 "StarsTransactionsOutgoing" = "Выходныя";

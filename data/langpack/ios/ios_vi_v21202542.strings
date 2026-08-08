@@ -60,7 +60,7 @@
 "AdsInfo.Bot.Split.Title" = "Ủng hộ người tạo bot";
 "AdsInfo.Info" = "Quảng cáo Telegram rất khác với quảng cáo ở những nền tảng khác. Quảng cáo này sẽ:";
 "AdsInfo.Launch.Text" = "Ai cũng có thể tạo và chạy quảng cáo ở kênh này – với chi phí tối thiểu. Xem thêm chi tiết ở Nền tảng Quảng cáo Telegram. [Xem thêm >]()";
-"AdsInfo.Launch.Text_URL" = "https://ads.telegram.org";
+"AdsInfo.Launch.Text_URL" = "https://ads.whatsgram.org";
 "AdsInfo.Launch.Title" = "Tôi muốn chạy quảng cáo";
 "AdsInfo.Respect.Text" = "Quảng cáo trên Telegram không dùng thông tin cá nhân của bạn mà dựa vào nội dung của kênh bạn đang xem.";
 "AdsInfo.Respect.Title" = "Tôn trọng quyền riêng tư";
@@ -79,7 +79,7 @@
 "AffiliateProgram.JoinSubtitleLifetime" = "**{bot}** sẽ **liên tục* chia **{commission}** doanh thu từ mỗi người mà bạn giới thiệu cho họ.";
 "AffiliateProgram.JoinSubtitleMonths#other" = "**{bot}** sẽ chia **{commission}** doanh thu từ mỗi người mà bạn giới thiệu cho họ trong **%d tháng.**";
 "AffiliateProgram.JoinSubtitleYears#other" = "**{bot}** sẽ chia **{commission}** doanh thu từ mỗi người mà bạn giới thiệu cho họ trong **%d năm.**";
-"AffiliateProgram.JoinTerms" = "Khi tham gia, bạn đồng ý với [điều khoản và điều kiện](https://telegram.org/tos/affiliate-program) của Chương trình Liên kết.";
+"AffiliateProgram.JoinTerms" = "Khi tham gia, bạn đồng ý với [điều khoản và điều kiện](https://whatsgram.org/tos/affiliate-program) của Chương trình Liên kết.";
 "AffiliateProgram.JoinTitle" = "Chương trình Liên kết";
 "AffiliateProgram.LinkSubtitleLifetime" = "Chia sẻ link này với người dùng để nhận hoa hồng **{commission}** mỗi khi họ chi tiêu ở **{bot}** kể từ khi họ nhấn vào link.";
 "AffiliateProgram.LinkSubtitleMonths#other" = "Chia sẻ link này với người dùng để nhận hoa hồng **{commission}** mỗi khi họ chi tiêu ở **{bot}** trong **%d tháng** kể từ khi họ nhấn vào link.";
@@ -138,7 +138,7 @@
 "AffiliateSetup.StartTitle" = "Bắt đầu Chương trình Liên kết";
 "AffiliateSetup.SuggestedSectionEmpty" = "Chưa có chương trình nào.\nVui lòng quay lại sau.";
 "AffiliateSetup.SuggestedSectionTitle" = "CHƯƠNG TRÌNH";
-"AffiliateSetup.TermsFooter" = "Khi tạo chương trình liên kết, bạn đồng ý với [điều khoản và điều kiện](https://telegram.org/terms) của Chương trình Liên kết.";
+"AffiliateSetup.TermsFooter" = "Khi tạo chương trình liên kết, bạn đồng ý với [điều khoản và điều kiện](https://whatsgram.org/terms) của Chương trình Liên kết.";
 "AffiliateSetup.TextJoin" = "Nhận hoa hồng khi người dùng lần đầu truy cập mini app qua link giới thiệu của bạn và dùng **Sao** trong mini app.";
 "AffiliateSetup.TextNew" = "Trả thưởng người giúp tăng người dùng cho bạn.";
 "AffiliateSetup.TitleJoin" = "Chương trình Liên kết";
@@ -480,11 +480,11 @@
 "AuthSessions.AddDevice" = "Quét mã QR";
 "AuthSessions.AddDevice.InvalidQRCode" = "Mã QR không hợp lệ";
 "AuthSessions.AddDevice.ScanInfo" = "Quét mã QR để đăng nhập\nvào tài khoản này trên thiết bị khác.";
-"AuthSessions.AddDevice.ScanInstallInfo" = "Truy cập [getdesktop.telegram.org](desktop) hoặc [web.telegram.org](web) để lấy mã QR";
+"AuthSessions.AddDevice.ScanInstallInfo" = "Truy cập [getdesktop.whatsgram.org](desktop) hoặc [web.whatsgram.org](web) để lấy mã QR";
 "AuthSessions.AddDevice.ScanTitle" = "Quét mã QR";
 "AuthSessions.AddDevice.UrlLoginHint" = "Người khác có thể dùng mã này để đăng nhập vào tài khoản Telegram của bạn.\n\nĐể xác nhận đăng nhập Telegram, vui lòng vào Cài đặt > Thiết bị > Kết nối Máy tính và quét mã.";
 "AuthSessions.AddDeviceIntro.Action" = "Quét mã QR";
-"AuthSessions.AddDeviceIntro.Text1" = "Tải Telegram trên máy tính từ [desktop.telegram.org]()";
+"AuthSessions.AddDeviceIntro.Text1" = "Tải Telegram trên máy tính từ [desktop.whatsgram.org]()";
 "AuthSessions.AddDeviceIntro.Text2" = "Chạy Telegram trên máy tính để nhận mã QR";
 "AuthSessions.AddDeviceIntro.Text3" = "Quét mã QR để kết nối tài khoản của bạn";
 "AuthSessions.AddDeviceIntro.Title" = "Đăng nhập bằng mã QR";
@@ -891,7 +891,7 @@
 "Business.AddPost" = "Đăng bài";
 "Business.AddPostInfo" = "Đăng ảnh và video các sản phẩm hoặc dịch vụ của bạn lên trang.";
 "Business.AdsInfo" = "Là người đăng ký Premium, bạn sẽ không thấy quảng cáo trên Telegram, nhưng bạn có thể bật để xem, ví dụ quảng cáo của chính bạn đăng trên [Nền tảng Quảng cáo Telegram >]()";
-"Business.AdsInfo_URL" = "https://ads.telegram.org";
+"Business.AdsInfo_URL" = "https://ads.whatsgram.org";
 "Business.AdsTitle" = "QUẢNG CÁO TRONG KÊNH";
 "Business.AwayMessages" = "Tin nhắn vắng mặt";
 "Business.AwayMessagesInfo" = "Soạn tin nhắn để tự động gửi khi bạn không có mặt ngay lúc đó.";
@@ -2439,7 +2439,7 @@
 "Chat.PrivateMessageSeenTimestamp.Date" = "đã đọc %@";
 "Chat.PrivateMessageSeenTimestamp.TodayAt" = "đã đọc %@";
 "Chat.PrivateMessageSeenTimestamp.YesterdayAt" = "đã đọc hôm qua lúc %@";
-"Chat.PsaTooltip.covid" = "Tin nhắn này cung cấp các thông báo cộng đồng liên quan tới dịch COVID-19. Tìm hiểu thêm tại https://telegram.org/blog/coronavirus";
+"Chat.PsaTooltip.covid" = "Tin nhắn này cung cấp các thông báo cộng đồng liên quan tới dịch COVID-19. Tìm hiểu thêm tại https://whatsgram.org/blog/coronavirus";
 "Chat.PsaTooltip.psa" = "Đây là tin nhắn chính thức từ CEO của Telegram về cuộc xung đột đang diễn ra.";
 "Chat.QuickReply.ServiceHeader1" = "Để sửa hoặc xóa trả lời nhanh, bấm và giữ vào nó.";
 "Chat.QuickReply.ServiceHeader2" = "Để dùng trả lời nhanh trong chat, gõ / và chọn mẫu tin nhắn từ danh sách.";
@@ -2809,7 +2809,7 @@
 "ChatList.PremiumRestoreDiscountTitle" = "Đăng ký lại Premium và được giảm %@";
 "ChatList.PremiumXmasGiftText" = "Tặng đồ sưu tầm phiên bản giới hạn cho bạn bè!";
 "ChatList.PremiumXmasGiftTitle" = "👑 Snoop Dogg Gift Drop 🎁";
-"ChatList.PsaAlert.covid" = "Tin nhắn này cung cấp các thông báo cộng đồng liên quan tới dịch COVID-19. Tìm hiểu thêm tại https://telegram.org/blog/coronavirus";
+"ChatList.PsaAlert.covid" = "Tin nhắn này cung cấp các thông báo cộng đồng liên quan tới dịch COVID-19. Tìm hiểu thêm tại https://whatsgram.org/blog/coronavirus";
 "ChatList.PsaAlert.psa" = "Đây là tin nhắn chính thức từ CEO của Telegram về cuộc xung đột đang diễn ra.";
 "ChatList.PsaLabel.covid" = "COVID-19";
 "ChatList.PsaLabel.psa" = "Thông báo";
@@ -3069,7 +3069,7 @@
 "ChatbotSetup.SetupNotCompleted.Text" = "Bạn chưa thêm bot nào để quản lý tài khoản của bạn. Vẫn rời bỏ?";
 "ChatbotSetup.SetupNotCompleted.Title" = "Chưa thêm bot";
 "ChatbotSetup.Text" = "Thêm bot vào tài khoản của bạn để nó tự động xử lý và trả lời tin nhắn của khách gửi đến. [Tìm hiểu thêm >]()";
-"ChatbotSetup.TextLink" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"ChatbotSetup.TextLink" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "ChatbotSetup.Title" = "Sẽ có sau";
 "ChatbotSetup.TitleItem" = "Chatbot";
 "Checkout.Email" = "Email";
@@ -3881,7 +3881,7 @@
 "Conversation.Unpin" = "Bỏ ghim";
 "Conversation.UnpinMessageAlert" = "Bạn có muốn bỏ ghim tin nhắn này?";
 "Conversation.UnreadMessages" = "TIn nhắn chưa đọc";
-"Conversation.UnsupportedMedia" = "Phiên bản Telegram này chưa hỗ trợ tin nhắn này. Cập nhật ứng dụng để xem: https://telegram.org/update";
+"Conversation.UnsupportedMedia" = "Phiên bản Telegram này chưa hỗ trợ tin nhắn này. Cập nhật ứng dụng để xem: https://whatsgram.org/update";
 "Conversation.UnsupportedMediaPlaceholder" = "Tin nhắn này không hỗ trợ xem ở phiên bản Telegram này. Vui lòng cập nhật phiên bản mới nhất.";
 "Conversation.UnvotePoll" = "Rút phiếu";
 "Conversation.UpdateTelegram" = "CẬP NHẬT";
@@ -4050,7 +4050,7 @@
 "DeleteAccount.ConfirmationAlertText" = "Xóa tài khoản sẽ xóa vĩnh viễn dữ liệu của bạn!\n\nThật sự không thể đảo ngược hành động này!";
 "DeleteAccount.ConfirmationAlertTitle" = "Vẫn tiếp tục xóa tài khoản?";
 "DeleteAccount.Continue" = "Tiếp tục";
-"DeleteAccount.DeleteMessagesURL" = "https://telegram.org/faq#q-can-i-delete-my-messages";
+"DeleteAccount.DeleteMessagesURL" = "https://whatsgram.org/faq#q-can-i-delete-my-messages";
 "DeleteAccount.DeleteMyAccount" = "Xóa tài khoản của tôi";
 "DeleteAccount.DeleteMyAccountTitle" = "Xóa tài khoản của tôi";
 "DeleteAccount.EnterPassword" = "Nhập mật khẩu của bạn";
@@ -4290,7 +4290,7 @@
 "EnableSharing.SendRequest" = "Gửi yêu cầu";
 "EnableSharing.Text" = "Bạn cần **%@** phê duyệt để bật chia sẻ. Gửi yêu cầu?";
 "EnableSharing.Title" = "Bật Chia sẻ";
-"EncryptionKey.Description" = "Ảnh và chữ này được dịch ra từ mã số mã hóa chat bí mật với %1$@.\n\nNếu những ký tự trên thiết bị của %2$@ giống như thế này, mã hóa đầu cuối được đảm bảo an toàn.\n\nTìm hiểu thêm tại telegram.org";
+"EncryptionKey.Description" = "Ảnh và chữ này được dịch ra từ mã số mã hóa chat bí mật với %1$@.\n\nNếu những ký tự trên thiết bị của %2$@ giống như thế này, mã hóa đầu cuối được đảm bảo an toàn.\n\nTìm hiểu thêm tại whatsgram.org";
 "EncryptionKey.Title" = "Mã số mã hóa";
 "EnterPasscode.ChangeTitle" = "Đổi mã PIN";
 "EnterPasscode.EnterCurrentPasscode" = "Nhập mã PIN hiện tại";
@@ -4462,7 +4462,7 @@
 "FrozenAccount.Understood" = "Tôi đã hiểu";
 "FrozenAccount.Violation.Text" = "Tài khoản bị đóng băng vì đã vi phạm Điều khoản Dịch vụ Telegram.";
 "FrozenAccount.Violation.TextNew" = "Tài khoản bị đóng băng vì đã vi phạm [Điều khoản dịch vụ]() Telegram.";
-"FrozenAccount.Violation.TextNew_URL" = "https://telegram.org/tos";
+"FrozenAccount.Violation.TextNew_URL" = "https://whatsgram.org/tos";
 "FrozenAccount.Violation.Title" = "Vi phạm điều khoản";
 "Gallery.Ad" = "Quảng cáo";
 "Gallery.AirPlay" = "AirPlay";
@@ -5623,7 +5623,7 @@
 "InviteText.ContactsCount#other" = "Chào. Tôi đang dùng Telegram cùng %@ người bạn của chúng ta. Tham gia cùng chúng tôi! Tải về tại: %@";
 "InviteText.ContactsCountText#other" = "Hey, tôi đang sử dụngng Telegram cùng %@ bạn bè khác. Tham gia cùng chúng tôi đi! Tải về tại: {url}";
 "InviteText.SingleContact" = "Hey, tôi đang sử dụng Telegram. Tham gia đi! Tải về tại: %@";
-"InviteText.URL" = "https://telegram.org/dl";
+"InviteText.URL" = "https://whatsgram.org/dl";
 "Items.NOfM" = "%1$@ / %2$@";
 "Join.ChannelsTooMuch" = "Rất tiếc, bạn là thành viên của quá nhiều nhóm và kênh. Vui lòng rời một số trước khi tham gia.";
 "KeyCommand.ChatInfo" = "Thông tin chat";
@@ -5877,7 +5877,7 @@
 "Login.NewNumber" = "Số mới";
 "Login.OpenFragment" = "Mở Fragment";
 "Login.Or" = "hoặc";
-"Login.PRIVACY_URL" = "https://telegram.org/privacy";
+"Login.PRIVACY_URL" = "https://whatsgram.org/privacy";
 "Login.PadPhoneHelp" = "Bạn có thể dùng số điện thoại chính để đăng nhập Telegram trên tất cả thiết bị.\nĐừng sử dụng số SIM của iPad – chúng tôi cần gửi SMS cho bạn.\n\nSố này đã đúng chưa?\n{number}";
 "Login.PadPhoneHelpTitle" = "Số điện thoại";
 "Login.Paste" = "Dán";
@@ -6345,9 +6345,9 @@
 "Monetization.Balance.ComingLaterInfo" = "Vài tuần tới, bạn sẽ có thể thu thập thưởng qua Fragment, nền tảng bên thứ ba được nhà quảng cáo dùng để trả tiền cho quảng cáo. [Xem thêm >]()";
 "Monetization.Balance.StarsInfo" = "Bạn có thể thu thập thưởng Sao bằng Fragment, hoặc dùng Sao để quảng cáo kênh của bạn. Bạn không thể rút ít hơn 1000 Sao. [Tìm hiểu thêm >]()";
 "Monetization.Balance.StarsInfoGroup" = "Bạn có thể thu thập thưởng Sao bằng Fragment. Bạn không thể rút ít hơn 1000 Sao. [Tìm hiểu thêm >]()";
-"Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
+"Monetization.Balance.StarsInfo_URL" = "https://whatsgram.org/tos/stars";
 "Monetization.Balance.ZeroInfo" = "Bạn thu thập thưởng qua Fragment, nền tảng bên thứ ba được nhà quảng cáo dùng để trả tiền cho quảng cáo. [Điều khoản & Điều kiện >]()";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceStarsBuyAds" = "Mua quảng cáo";
 "Monetization.BalanceStarsWithdraw" = "Rút bằng Fragment";
 "Monetization.BalanceStarsWithdrawShort" = "Rút";
@@ -6364,7 +6364,7 @@
 "Monetization.Intro.Bot.Ads.Text" = "Telegram có thể hiện QC ở bot của bạn.";
 "Monetization.Intro.Bot.Title" = "Kiếm tiền từ bot";
 "Monetization.Intro.Info.Text" = "TON là nền tảng blockchain và tiền mã hóa mà Telegram dùng vì tốc độ cao và phí giao dịch thấp. [Xem thêm >]()";
-"Monetization.Intro.Info.Text_URL" = "https://telegram.org/blog/monetization-for-channels";
+"Monetization.Intro.Info.Text_URL" = "https://whatsgram.org/blog/monetization-for-channels";
 "Monetization.Intro.Info.Title" = "#TON là gì?";
 "Monetization.Intro.Split.Text" = "Bạn có thể nhận 50% doanh thu QC ở dạng thưởng bằng TON.";
 "Monetization.Intro.Split.Title" = "Chia lợi nhuận 50:50";
@@ -7604,7 +7604,7 @@
 "Passport.Identity.TypePassportUploadScan" = "Tải bản scan hộ chiếu của bạn";
 "Passport.Identity.TypePersonalDetails" = "Thông tin cá nhân";
 "Passport.Identity.UploadOneOfScan" = "Tải bản scan %@ của bạn";
-"Passport.InfoFAQ_URL" = "https://telegram.org/faq#passport";
+"Passport.InfoFAQ_URL" = "https://whatsgram.org/faq#passport";
 "Passport.InfoLearnMore" = "TÌm hiểu thêm";
 "Passport.InfoText" = "Với **Hộ chiếu Telegram**, bạn có thể dễ dàng đăng ký website và dịch vụ cần xác thực danh tính.\n\nThông tin, dữ liệu và tài liệu cá nhân của bạn được bảo mật bởi mã hóa đầu cuối. Không ai, kể cả Telegram, có thể truy cập được khi chưa được bạn cho phép.";
 "Passport.InfoTitle" = "Hộ chiếu Telegram là gì?";
@@ -7711,10 +7711,10 @@
 "PeerInfo.AllowedReactions.OptionSomeReactions" = "Vài biểu cảm";
 "PeerInfo.AllowedReactions.ReactionListHeader" = "BIỂU CẢM CÓ SẴN";
 "PeerInfo.AllowedReactions.StarReactions" = "Bật Biểu cảm trả phí";
-"PeerInfo.AllowedReactions.StarReactionsFooter" = "Bật lên để người đăng ký có thể biểu cảm vào bài viết bằng Sao Telegram, rồi sau đó bạn có thể rút về thành TON. [Tìm hiểu thêm >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"PeerInfo.AllowedReactions.StarReactionsFooter" = "Bật lên để người đăng ký có thể biểu cảm vào bài viết bằng Sao Telegram, rồi sau đó bạn có thể rút về thành TON. [Tìm hiểu thêm >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "PeerInfo.AllowedReactions.Title" = "Biểu cảm";
-"PeerInfo.AppFooter" = "Khi khởi chạy mini app này, bạn đồng ý với [Điều khoản Dịch vụ cho Mini App](https://telegram.org/privacy).";
-"PeerInfo.AppFooterAdmin" = "Khi phát hành mini app, bạn đồng ý với [Điều khoản Dịch vụ Telegram cho Nhà phát triển](https://telegram.org/tos/bot-developers).";
+"PeerInfo.AppFooter" = "Khi khởi chạy mini app này, bạn đồng ý với [Điều khoản Dịch vụ cho Mini App](https://whatsgram.org/privacy).";
+"PeerInfo.AppFooterAdmin" = "Khi phát hành mini app, bạn đồng ý với [Điều khoản Dịch vụ Telegram cho Nhà phát triển](https://whatsgram.org/tos/bot-developers).";
 "PeerInfo.AutoDeleteDisable" = "Tắt";
 "PeerInfo.AutoDeleteInfo" = "Tự động xóa mọi tin nhắn mới gửi vào chat này sau khoảng thời gian đặt trước.";
 "PeerInfo.AutoDeleteSettingOther" = "Khác...";
@@ -8745,7 +8745,7 @@
 "Report.Title.Story" = "Báo cáo Tin";
 "Report.Title.User" = "Báo cáo người dùng";
 "ReportAd.Help" = "Tìm hiểu [Chính sách và Quy định Quảng cáo Telegram]().";
-"ReportAd.Help_URL" = "https://ads.telegram.org/guidelines";
+"ReportAd.Help_URL" = "https://ads.whatsgram.org/guidelines";
 "ReportAd.Hidden" = "Bạn sẽ không thấy quảng cáo từ Telegram nữa.";
 "ReportAd.Reported" = "Chúng tôi sẽ xem qua để đảm bảo đúng với [Chính sách & Quy định Quảng cáo]().";
 "ReportAd.Title" = "Báo cáo quảng cáo";
@@ -8948,7 +8948,7 @@
 "SendStarReactions.ShowMyselfInTop" = "Hiện tôi ở Top người gửi";
 "SendStarReactions.SliderTop" = "TOP";
 "SendStarReactions.SubtitleFrom" = "từ %@";
-"SendStarReactions.TermsOfServiceFooter" = "Khi gửi Sao bạn đồng ý với [Điều khoản Dịch vụ](https://telegram.org/tos/stars).";
+"SendStarReactions.TermsOfServiceFooter" = "Khi gửi Sao bạn đồng ý với [Điều khoản Dịch vụ](https://whatsgram.org/tos/stars).";
 "SendStarReactions.TextGeneric" = "Chọn bao nhiêu Sao mà bạn muốn gửi đến **%@** để ủng hộ bài đăng này.";
 "SendStarReactions.TextSentStars#other" = "Đã gửi **%d** Sao để ủng hộ bài đăng này.";
 "SendStarReactions.Title" = "Biểu cảm với Sao";
@@ -9035,7 +9035,7 @@
 "Settings.FAQ" = "Telegram Hỏi & Đáp";
 "Settings.FAQ_Button" = "FAQ";
 "Settings.FAQ_Intro" = "Lưu ý rằng Telegram Hỗ trợ được tình nguyện viên thực hiện. Chúng tôi sẽ cố gắng phản hồi sớm nhất có thể, nhưng cũng mất một thời gian.\n\nHãy xem Telegram Hỏi & Đáp: Tại đây có nhiều mẹo gỡ lỗi quan trọng và đã trả lời đa số câu hỏi.";
-"Settings.FAQ_URL" = "https://telegram.org/faq#general-questions";
+"Settings.FAQ_URL" = "https://whatsgram.org/faq#general-questions";
 "Settings.FrequentlyAskedQuestions" = "Câu hỏi thường gặp";
 "Settings.KeepPassword" = "Có, chắc chắn";
 "Settings.KeepPhoneNumber" = "Giữ số %@";
@@ -9075,7 +9075,7 @@
 "Settings.Privacy.ReadTimePremiumActive" = "Đăng ký Telegram Premium";
 "Settings.Privacy.ReadTimePremiumActiveFooter" = "Bởi vì bạn là người dùng Telegram Premium, bạn sẽ thấy được thời gian truy cập và đọc tin nhắn của mọi người dùng mà có mở chia sẻ – dù cho bạn đã ẩn của bạn.";
 "Settings.Privacy.ReadTimePremiumFooter" = "Nếu đăng ký Premium, bạn sẽ thấy thời gian người khác truy cập và đọc tin nhắn dù cho bạn đã ẩn thời gian của bạn khỏi họ (trừ khi họ đặt hạn chế rất cụ thể).";
-"Settings.PrivacyPolicy_URL" = "https://telegram.org/privacy";
+"Settings.PrivacyPolicy_URL" = "https://whatsgram.org/privacy";
 "Settings.PrivacySettings" = "Riêng tư và Bảo mật";
 "Settings.Proxy" = "Proxy";
 "Settings.ProxyConnected" = "Đã kết nối";
@@ -9113,7 +9113,7 @@
 "Settings.SuggestSetupPasswordText" = "Đặt mật khẩu sẽ yêu cầu mỗi khi bạn đăng nhập bằng số điện thoại này.";
 "Settings.SuggestSetupPasswordTitle" = "Bảo vệ tài khoản của bạn";
 "Settings.Support" = "Hỏi một câu hỏi";
-"Settings.Terms_URL" = "https://telegram.org/tos";
+"Settings.Terms_URL" = "https://whatsgram.org/tos";
 "Settings.Tips" = "Tính năng Telegram";
 "Settings.TipsUsername" = "TelegramTips";
 "Settings.Title" = "Cài đặt";
@@ -9356,10 +9356,10 @@
 "SocksProxySetup.Warning.Text" = "Hành động này sẽ làm lộ địa chỉ IP của bạn với admin của máy chủ proxy.";
 "SocksProxySetup.Warning.Title" = "Chú ý";
 "SponsoredMessageInfo.Action" = "Tìm hiểu thêm";
-"SponsoredMessageInfo.ActionUrl" = "https://ads.telegram.org";
-"SponsoredMessageInfo.Text" = "Xem https://telegram.org";
-"SponsoredMessageInfo.Url" = "https://ads.telegram.org";
-"SponsoredMessageInfoScreen.MarkdownText" = "Khác các ứng dụng khác, Telegram không bao giờ dùng dữ liệu riêng tư để làm mục tiêu quảng cáo. [Xem thêm Chính sách Riêng tư](https://telegram.org/privacy#5-6-no-ads-based-on-user-data) Bạn thấy tin nhắn này chỉ vì ai đó chọn kênh công khai này làm nơi quảng bá tin nhắn này. Nghĩa là không có dữ liệu cá nhân nào được dùng hay phân tích để hiện quảng cáo, và mọi người trong kênh Telegram đều xem tin nhắn tài trợ giống nhau.\n\nKhác những ứng dụng khác, Telegram không theo dõi bạn có bấm vào tin nhắn tài trợ chưa và lập hồ sơ dựa trên hoạt động đó. Chúng tôi cũng không cho liên kết ngoài trong tin nhắn tài trợ theo dõi người dùng. Chúng tôi tin mọi người đều có quyền riêng tư, và các nền tảng công nghệ nên tôn trọng điều đó.\n\nTelegram cung cấp dịch vụ miễn phí và không giới hạn cho hàng triệu người dùng, khiến chi phí máy chủ và lưu lượng truy cập tăng đáng kể. Để có thể độc lập và giữ vững các giá trị, Telegram phát triển công cụ trả phí để quảng cáo qua tin nhắn. Chúng tôi chào đón các nhà quảng cáo có trách nhiệm ở:\n[url]\nQuảng cáo trực tuyến không còn đồng nghĩa với xâm phạm quyền riêng tư của người dùng nữa. Hãy cùng nhau tái định nghĩa cách thức hoạt động của một công ty công nghệ.";
+"SponsoredMessageInfo.ActionUrl" = "https://ads.whatsgram.org";
+"SponsoredMessageInfo.Text" = "Xem https://whatsgram.org";
+"SponsoredMessageInfo.Url" = "https://ads.whatsgram.org";
+"SponsoredMessageInfoScreen.MarkdownText" = "Khác các ứng dụng khác, Telegram không bao giờ dùng dữ liệu riêng tư để làm mục tiêu quảng cáo. [Xem thêm Chính sách Riêng tư](https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data) Bạn thấy tin nhắn này chỉ vì ai đó chọn kênh công khai này làm nơi quảng bá tin nhắn này. Nghĩa là không có dữ liệu cá nhân nào được dùng hay phân tích để hiện quảng cáo, và mọi người trong kênh Telegram đều xem tin nhắn tài trợ giống nhau.\n\nKhác những ứng dụng khác, Telegram không theo dõi bạn có bấm vào tin nhắn tài trợ chưa và lập hồ sơ dựa trên hoạt động đó. Chúng tôi cũng không cho liên kết ngoài trong tin nhắn tài trợ theo dõi người dùng. Chúng tôi tin mọi người đều có quyền riêng tư, và các nền tảng công nghệ nên tôn trọng điều đó.\n\nTelegram cung cấp dịch vụ miễn phí và không giới hạn cho hàng triệu người dùng, khiến chi phí máy chủ và lưu lượng truy cập tăng đáng kể. Để có thể độc lập và giữ vững các giá trị, Telegram phát triển công cụ trả phí để quảng cáo qua tin nhắn. Chúng tôi chào đón các nhà quảng cáo có trách nhiệm ở:\n[url]\nQuảng cáo trực tuyến không còn đồng nghĩa với xâm phạm quyền riêng tư của người dùng nữa. Hãy cùng nhau tái định nghĩa cách thức hoạt động của một công ty công nghệ.";
 "SponsoredMessageInfoScreen.Text" = "Không giống các ứng dụng khác, Telegram không bao giờ dùng dữ liệu riêng tư để định hướng quảng cáo. Tin nhắn tài trợ trên Telegram dựa trên chủ đề của kênh công khai. Điều này nghĩa là không có dữ liệu riêng tư nào được dùng hay phân tích để hiện quảng cáo, và mọi người trong một kênh trên Telegram đều xem tin nhắn tài trợ giống nhau.\n\nKhông giống những ứng dụng khác, Telegram không theo dõi bạn có bấm vào tin nhắn tài trợ chưa và lập hồ sơ dựa trên hoạt động đó. Chúng tôi cũng không cho liên kết ngoài trong tin nhắn tài trợ theo dõi người dùng. Chúng tôi tin mọi người đều có quyền riêng tư, và các nền tảng công nghệ nên tôn trọng điều đó.\n\nTelegram cung cấp dịch vụ miễn phí và không giới hạn cho hàng triệu người dùng, khiến chi phí máy chủ và lưu lượng truy cập tăng đáng kể. Để có thể độc lập và giữ vững các giá trị, Telegram phát triển công cụ trả phí để quảng cáo qua tin nhắn. Chúng tôi chào đón các nhà quảng cáo có trách nhiệm ở:\n[url]\nTin nhắn tài trợ hiện đang được thử nghiệm. Khi vận hành chính thức và giúp Telegram trang trải chi phí cơ bản, chúng tôi sẽ chia sẻ tiền quảng cáo cho chủ các kênh công khai mà có hiển thị tin nhắn tài trợ ở đó.\n\nQuảng cáo trực tuyến không còn đồng nghĩa với xâm phạm quyền riêng tư của người dùng nữa. Chúng ta hãy cùng nhau tái định nghĩa cách thức hoạt động của một công ty công nghệ.";
 "SponsoredMessageInfoScreen.Title" = "Tin nhắn tài trợ là gì?";
 "SponsoredMessageMenu.Hide" = "Ẩn";
@@ -9377,7 +9377,7 @@
 "Stars.BotRevenue.Withdraw.Balance" = "Số dư hiện có";
 "Stars.BotRevenue.Withdraw.BuyAds" = "Mua quảng cáo";
 "Stars.BotRevenue.Withdraw.Info" = "Bạn có thể thu thập thưởng Sao bằng Fragment, hoặc dùng Sao để quảng cáo bot của bạn. Bạn không thể rút ít hơn 1.000 Sao. [Xem thêm >]()";
-"Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Stars.BotRevenue.Withdraw.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "Stars.BotRevenue.Withdraw.Withdraw" = "Rút qua Fragment";
 "Stars.BotRevenue.Withdraw.WithdrawShort" = "Rút Sao";
 "Stars.Gift.Received.Text" = "Dùng Sao để mở khóa nội dung và dịch vụ trên Telegram. [Xem ví dụ >]()";
@@ -9458,7 +9458,7 @@
 "Stars.Intro.Withdraw" = "Rút về";
 "Stars.Intro.YourBalance" = "số dư của bạn";
 "Stars.PaidContent.AmountInfo" = "Người dùng cần chuyển khoản số lượng Sao này vào kênh của bạn để xem media này. [Tìm hiểu thêm về Sao >]";
-"Stars.PaidContent.AmountInfo_URL" = "https://telegram.org/tos/stars";
+"Stars.PaidContent.AmountInfo_URL" = "https://whatsgram.org/tos/stars";
 "Stars.PaidContent.AmountPlaceholder" = "Số Sao để mở khóa";
 "Stars.PaidContent.AmountTitle" = "NHẬP GIÁ ĐỂ MỞ KHÓA";
 "Stars.PaidContent.Create" = "Đặt giá cho media";
@@ -9487,7 +9487,7 @@
 "Stars.Purchase.StarsReactionsNeededInfo" = "Mua Sao để gửi biểu cảm trả phí tới **%@** và những kênh khác.";
 "Stars.Purchase.SubscriptionInfo" = "Mua Sao để đăng ký **%@**.";
 "Stars.Purchase.SubscriptionRenewInfo" = "Mua Sao để duy trì gói đăng ký đến **%@**.";
-"Stars.Purchase.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Purchase.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Purchase.TransferStarGiftInfo" = "Mua Sao để chuyển quyền sở hữu món đồ sưu tầm hiếm có.";
 "Stars.Purchase.UpgradeStarGiftInfo" = "Mua Sao để nâng cấp quà của bạn thành đồ sưu tầm hiếm có.";
 "Stars.SellGift.AmountInfo" = "Bạn sẽ nhận được **%@**.";
@@ -9516,7 +9516,7 @@
 "Stars.SendStars.SendStars" = "Xác nhận và Gửi";
 "Stars.SendStars.Title" = "Gửi Sao";
 "Stars.Subscription.Terms" = "Khi đăng ký, bạn đồng ý với [Điều khoản Dịch vụ]().";
-"Stars.Subscription.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Subscription.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Ton.Description" = "Dùng TON để mua quà và đề xuất bài viết ở các kênh.";
 "Stars.Ton.Title" = "TON";
 "Stars.Transaction.AppleTopUp.Subtitle" = "App Store";
@@ -9602,7 +9602,7 @@
 "Stars.Transaction.TelegramBotApi.Title" = "Tin phát trả phí";
 "Stars.Transaction.TelegramPremium#other" = "Premium cho %@ tháng";
 "Stars.Transaction.Terms" = "Xem [Điều khoản dịch vụ]() cho Sao.";
-"Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transaction.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transaction.To" = "Đến";
 "Stars.Transaction.Unsupported.Title" = "Không hỗ trợ";
 "Stars.Transaction.Via" = "Qua";
@@ -9628,7 +9628,7 @@
 "Stars.Transfer.SubscribeInfo" = "Bạn có muốn đăng ký **%1$@** với giá **%2$@** mỗi tháng?";
 "Stars.Transfer.SubscribePerMonth" = "/ tháng";
 "Stars.Transfer.Terms" = "Khi thanh toán bạn đồng ý với [Điều khoản Dịch vụ]().";
-"Stars.Transfer.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transfer.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transfer.Title" = "Xác nhận giao dịch";
 "Stars.Transfer.Unavailable" = "Rất tiếc, giao dịch Sao chưa có sẵn ở quốc gia của bạn.";
 "Stars.Transfer.UnlockBotInfo" = "Bạn có muốn mở khóa %1$@ từ **%2$@** với giá **%3$@**?";
@@ -10462,9 +10462,9 @@
 "Ton.ProceedsOverview" = "TỔNG QUAN THU NHẬP";
 "Ton.WithdrawViaFragment" = "Rút về qua Fragment";
 "Ton.WithdrawViaFragment.Info" = "Thu thập TON bằng Fragment. [Tìm hiểu thêm >]()";
-"Ton.WithdrawViaFragment.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Ton.WithdrawViaFragment.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "TopApps.Info.Done" = "Đã hiểu";
-"TopApps.Info.Text" = "Danh mục này xếp hạng các mini app dựa trên doanh thu Sao hàng ngày. Để được xếp hạng, nhà phát triển phải thiết đặt mini app chính ở [@botfather]() (xem [ở đây](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)), có hơn **1.000** người dùng mỗi ngày, và có doanh thu hàng ngày hơn **1.000** Sao, tính theo mức trung bình tuần.";
+"TopApps.Info.Text" = "Danh mục này xếp hạng các mini app dựa trên doanh thu Sao hàng ngày. Để được xếp hạng, nhà phát triển phải thiết đặt mini app chính ở [@botfather]() (xem [ở đây](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app)), có hơn **1.000** người dùng mỗi ngày, và có doanh thu hàng ngày hơn **1.000** Sao, tính theo mức trung bình tuần.";
 "TopApps.Info.Title" = "Top Mini App";
 "Tour.StartButton" = "Bắt đầu nhắn tin";
 "Tour.Text1" = "Ứng dụng nhắn tin **nhanh nhất** thế giới.\n**Miễn phí** và **bảo mật**.";
@@ -11292,7 +11292,7 @@
 "WebApp.DisclaimerContinue" = "Tiếp tục";
 "WebApp.DisclaimerText" = "Bạn sắp dùng một mini app được phát triển bởi một bên thứ ba không liên kết với Telegram. Bạn phải đồng ý với Điều khoản sử dụng của mini app để tiếp tục.";
 "WebApp.DisclaimerTitle" = "Điều khoản sử dụng";
-"WebApp.Disclaimer_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.Disclaimer_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.Download.Cancel" = "Hủy bỏ";
 "WebApp.Download.Document" = "Tải tài liệu";
 "WebApp.Download.Download" = "Tải về";
@@ -11321,7 +11321,7 @@
 "WebApp.LaunchMoreInfo" = "Thông tin về bot này";
 "WebApp.LaunchOpenApp" = "Chạy app";
 "WebApp.LaunchTermsConfirmation" = "Khi khởi chạy mini app này, bạn đồng ý với [Điều khoản Dịch vụ cho Mini App]().";
-"WebApp.LaunchTermsConfirmation_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.LaunchTermsConfirmation_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.LocationPermission.Allow" = "Cho phép";
 "WebApp.LocationPermission.Decline" = "Từ chối";
 "WebApp.LocationPermission.Succeed" = "**%@** có thể truy cập vị trí của bạn.";
@@ -11337,7 +11337,7 @@
 "WebApp.OpenWebViewAlertText" = "**%@** muốn mở web app để thực hiện thao tác.\n\nNó sẽ lấy được **địa chỉ IP** và thông tin cơ bản về thiết bị của bạn.";
 "WebApp.OpenWebViewAlertTitle" = "Chạy app";
 "WebApp.PrivacyPolicy" = "Chính sách Riêng tư";
-"WebApp.PrivacyPolicy_URL" = "https://telegram.org/privacy-tpa";
+"WebApp.PrivacyPolicy_URL" = "https://whatsgram.org/privacy-tpa";
 "WebApp.ReloadPage" = "Tải lại trang";
 "WebApp.RemoveAllConfirmationText" = "Việc này sẽ xóa lối tắt **%@** khỏi tất cả menu.";
 "WebApp.RemoveBot" = "Xóa khỏi menu";
@@ -11359,7 +11359,7 @@
 "WebApp.ShortcutsAdded" = "Lối tắt của **%@** đã được thêm vào menu.";
 "WebApp.ShortcutsSettingsAdded" = "Đã thêm lối tắt **%@** ở menu đính kèm và menu bên trái.";
 "WebApp.TermsOfUse" = "Điều khoản sử dụng";
-"WebApp.TermsOfUse_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.TermsOfUse_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebBrowser.AddBookmark" = "Thêm Dấu trang";
 "WebBrowser.AddressBar.Bookmarks" = "DẤU TRANG";
 "WebBrowser.AddressBar.RecentlyVisited" = "TRUY CẬP GẦN ĐÂY";

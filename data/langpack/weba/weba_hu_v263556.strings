@@ -919,7 +919,7 @@
 "GiftPeerUpgradeTransferableDescription" = "{user} bárkinek elküldheti az ajándékot a Telegramon.";
 "GiftPeerUpgradeUniqueDescription" = "{user} egyedi számot, modellt, hátteret és szimbólumot kap az ajándékhoz.";
 "GiftPremiumDescription" = "Adj {user} számára hozzáférést exkluzív funkciókhoz a Telegram Prémiummal. {link}";
-"GiftPremiumDescriptionLink" = "https://telegram.org/faq_premium";
+"GiftPremiumDescriptionLink" = "https://whatsgram.org/faq_premium";
 "GiftPremiumDescriptionLinkCaption" = "Funkciók megtekintése >";
 "GiftPremiumDescriptionYourBalance" = "Az egyenleged **{stars}**. {link}";
 "GiftPremiumHeader" = "Prémium ajándékozása";
@@ -1460,7 +1460,7 @@
 "PrivateChatsSearchContext" = "Privát csevegések";
 "Profile" = "Profil";
 "ProfileBirthday" = "Születésnap";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps";
 "ProfileCopyPhone" = "Telefonszám másolása";
 "ProfileJoinChannel" = "Csatlakozás a csatornához";
 "ProfileJoinGroup" = "Belépés a csoportba";
@@ -1716,7 +1716,7 @@
 "SpeakingWithVolume" = "{volume}% beszél";
 "SponsoredMessageAd" = "Reklám";
 "SponsoredMessageAdWhatIsThis" = "mi ez?";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "Mik azok a szponzorált\nüzenetek?";
 "SponsoredMessageInfoDescription1" = "Más alkalmazásokkal ellentétben a Telegram soha nem használja a személyes adataidat hirdetések célzására. A Telegramban a szponzorált üzenetek kizárólag azon nyilvános csatornák témáján alapulnak, amelyeken megjelennek. Ez azt jelenti, hogy a felhasználói adatokat nem gyűjtik vagy elemzik a hirdetések megjelenítéséhez, és minden felhasználó, aki megnéz egy csatornát a Telegramban, ugyanazokat a szponzorált üzeneteket látja.";
 "SponsoredMessageInfoDescription2" = "Más alkalmazásokkal ellentétben a Telegram nem követi nyomon, hogy rákattintottál-e egy szponzorált üzenetre, és nem készít profilokat az aktivitásod alapján. A szponzorált üzenetekben a külső linkeket is korlátozzuk, hogy harmadik felek ne kémkedhessenek a felhasználóink után. Hisszük, hogy mindenkinek joga van a magánélethez, és a technológiai platformoknak ezt tiszteletben kell tartaniuk.";
@@ -1751,17 +1751,17 @@
 "StarsNeededTextSendPaidMessages" = "Vásárolj **Csillagokat** üzenetek küldéséhez.";
 "StarsPay" = "Megerősítés és {amount} ⭐️ Csillag kifizetése";
 "StarsPerMonth" = "⭐️{amount}/hó";
-"StarsReactionLink" = "https://telegram.org/tos/stars";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars";
 "StarsReactionLinkText" = "Szolgáltatási feltételek";
 "StarsReactionTerms" = "A Csillagok elküldésével elfogadod a **{link}**et.";
 "StarsSubscribeBotButtonMonth" = "Előfizetés {amount} / hónap";
 "StarsSubscribeInfo" = "A feliratkozással elfogadod a {link}et";
-"StarsSubscribeInfoLink" = "https://telegram.org/tos/stars";
+"StarsSubscribeInfoLink" = "https://whatsgram.org/tos/stars";
 "StarsSubscribeInfoLinkText" = "Szolgáltatási feltételek";
 "StarsSubscribeText#one" = "Szeretnél előfizetni erre: **{chat}** havi **{amount} Csillagért**?";
 "StarsSubscribeText#other" = "Szeretnél előfizetni erre: **{chat}** havi **{amount} Csillagért**?";
 "StarsTransactionTOS" = "Tekintsd át a Csillagok {link}t.";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars";
 "StarsTransactionTOSLinkText" = "Szolgáltatási feltételei";
 "StarsTransactionsAll" = "Összes tranzakció";
 "StarsTransactionsIncoming" = "Bejövő";

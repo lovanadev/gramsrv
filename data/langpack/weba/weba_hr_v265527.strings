@@ -1488,7 +1488,7 @@
 "GiftPeerUpgradeTransferableDescription" = "{user} će moći poslati poklon bilo kome na Telegramu.";
 "GiftPeerUpgradeUniqueDescription" = "{user} će dobiti jedinstveni broj, model, pozadinu i simbol za poklon.";
 "GiftPremiumDescription" = "Omogućite pristup ekskluzivnim značajkama za {user} uz Telegram Premium. {link} ";
-"GiftPremiumDescriptionLink" = "https://telegram.org/faq_premium";
+"GiftPremiumDescriptionLink" = "https://whatsgram.org/faq_premium";
 "GiftPremiumDescriptionLinkCaption" = "Pogledajte značajke >";
 "GiftPremiumDescriptionYourBalance" = "Na stanju imate **{stars}**. {link}";
 "GiftPremiumHeader" = "Pokloni Premium";
@@ -2358,7 +2358,7 @@
 "ProfileBirthdayValueAge#one" = "{date} ({age} godina)";
 "ProfileBirthdayValueAge#few" = "{date} ({age} godine)";
 "ProfileBirthdayValueAge#other" = "{date} ({age} godina)";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps";
 "ProfileCopyPhone" = "Kopiraj broj telefona";
 "ProfileItemSubscribers" = "Pretplatnici";
 "ProfileJoinChannel" = "Pridruži se";
@@ -2715,7 +2715,7 @@
 "SpeakingWithVolume" = "{volume}% govori";
 "SponsoredMessageAd" = "Oglas";
 "SponsoredMessageAdWhatIsThis" = "što je ovo?";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "Što su sponzorirane\nporuke?";
 "SponsoredMessageInfoDescription1" = "Za razliku od drugih aplikacija, Telegram nikada ne koristi vaše privatne podatke za ciljane oglase. Sponzorirane poruke na Telegramu temelje se isključivo na temi javnog kanala na kojem su prikazane. To znači da se za prikaz oglasa ne traže niti analiziraju korisnički podaci, a svaki korisnik koji gleda kanal na Telegramu vidi istu sponzoriranu poruku.";
 "SponsoredMessageInfoDescription2" = "Za razliku od drugih aplikacija, Telegram nikada ne prati koju ste sponzoriranu poruku otvorili i ne profilira vas na temelju vaše aktivnosti. Također sprječavamo vanjske linkove u sponzoriranim porukama kako bismo osigurali da treće strane ne mogu špijunirati naše korisnike. Smatramo da svatko ima pravo na privatnost, a tehnološke platforme bi to trebale poštivati.";
@@ -2757,7 +2757,7 @@
 "StarsNeededTextSendPaidMessages" = "Kupite **zvjezdice** za slanje poruka.";
 "StarsPay" = "Potvrdi i plati {amount}";
 "StarsPerMonth" = "⭐️{amount}/mjesečno";
-"StarsReactionLink" = "https://telegram.org/tos/stars";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars";
 "StarsReactionLinkText" = "Uvjete korištenja";
 "StarsReactionTerms" = "Slanjem zvjezdica pristajte na {link}.";
 "StarsSubscribeBotButtonMonth" = "Pretplati me za {amount} / mjesečno";
@@ -2765,13 +2765,13 @@
 "StarsSubscribeBotText#few" = "Želite li se pretplatiti na **{name}** u **{bot}** za **{amount}** zvjezdice mjesečno?";
 "StarsSubscribeBotText#other" = "Želite li se pretplatiti na **{name}** u **{bot}** za **{amount}** zvjezdica mjesečno?";
 "StarsSubscribeInfo" = "Pretplatom pristajte na {link}";
-"StarsSubscribeInfoLink" = "https://telegram.org/tos/stars";
+"StarsSubscribeInfoLink" = "https://whatsgram.org/tos/stars";
 "StarsSubscribeInfoLinkText" = "Uvjete korištenja";
 "StarsSubscribeText#one" = "Želite li se pretplatiti na **{chat}** za **{amount} zvjezdicu** mjesečno?";
 "StarsSubscribeText#few" = "Želite li se pretplatiti na **{chat}** za **{amount} zvjezdice** mjesečno?";
 "StarsSubscribeText#other" = "Želite li se pretplatiti na **{chat}** za **{amount} zvjezdica** mjesečno?";
 "StarsTransactionTOS" = "Pregledajte {link} za zvjezdice.";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars";
 "StarsTransactionTOSLinkText" = "Uvjete korištenja";
 "StarsTransactionsAll" = "Sve transakcije";
 "StarsTransactionsIncoming" = "Dolazne";

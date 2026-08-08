@@ -1564,7 +1564,7 @@
 "GiftPeerUpgradeTransferableDescription" = "Użytkownik {user} będzie mógł wysłać prezent komukolwiek na Telegramie.";
 "GiftPeerUpgradeUniqueDescription" = "{user} otrzyma unikalny numer, model, tło i symbol prezentu.";
 "GiftPremiumDescription" = "Daj użytkownikowi {user} dostęp do ekskluzywnych funkcji dzięki Telegram Premium. {link}";
-"GiftPremiumDescriptionLink" = "https://telegram.org/faq_premium";
+"GiftPremiumDescriptionLink" = "https://whatsgram.org/faq_premium";
 "GiftPremiumDescriptionLinkCaption" = "Pokaż funkcje »";
 "GiftPremiumDescriptionYourBalance" = "Twoje saldo to **{stars}**. {link}";
 "GiftPremiumHeader" = "Podaruj Premium";
@@ -2495,7 +2495,7 @@
 "ProfileBirthdayValueAge#few" = "{date} ({age} lata)";
 "ProfileBirthdayValueAge#many" = "{date} ({age} lat)";
 "ProfileBirthdayValueAge#other" = "{date} ({age} roku)";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps";
 "ProfileCopyPhone" = "Kopiuj numer telefonu";
 "ProfileItemSubscribers" = "Subskrybenci";
 "ProfileJoinChannel" = "Dołącz do kanału";
@@ -2859,7 +2859,7 @@
 "SpeakingWithVolume" = "{volume}% mówi";
 "SponsoredMessageAd" = "Reklama";
 "SponsoredMessageAdWhatIsThis" = "co to jest?";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "Czym są wiadomości\nsponsorowane?";
 "SponsoredMessageInfoDescription1" = "W przeciwieństwie do innych aplikacji Telegram nigdy nie wykorzystuje Twoich prywatnych danych do kierowania reklam. Wiadomości sponsorowane na Telegramie są oparte wyłącznie na tematyce kanałów publicznych, na których są wyświetlane. Oznacza to, że żadne dane użytkownika nie są wydobywane ani analizowane w celu wyświetlania reklam, a każdy użytkownik oglądający kanał na Telegramie widzi tę samą sponsorowaną wiadomość.";
 "SponsoredMessageInfoDescription2" = "W przeciwieństwie do innych aplikacji Telegram nie śledzi, czy dotknąłeś sponsorowaną wiadomość, i nie profiluje Cię na podstawie Twojej aktywności. Zapobiegamy również umieszczaniu linków zewnętrznych w wiadomościach sponsorowanych, aby zapewnić, że osoby trzecie nie będą mogły szpiegować naszych użytkowników. Wierzymy, że każdy ma prawo do prywatności, a platformy technologiczne powinny to szanować.";
@@ -2902,7 +2902,7 @@
 "StarsNeededTextSendPaidMessages" = "Kup **Gwiazdki**, aby wysyłać wiadomości.";
 "StarsPay" = "Potwierdzam i płacę {amount}";
 "StarsPerMonth" = "⭐️{amount}/miesiąc";
-"StarsReactionLink" = "https://telegram.org/tos/stars";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars";
 "StarsReactionLinkText" = "Warunki świadczenia usługi";
 "StarsReactionTerms" = "Wysyłając Gwiazdki, akceptujesz {link}";
 "StarsSubscribeBotButtonMonth" = "Subskrybuj za {amount} / miesiąc";
@@ -2911,14 +2911,14 @@
 "StarsSubscribeBotText#many" = "Chcesz subskrybować **{name}** w **{bot}** za **{amount}** Gwiazdek na miesiąc?";
 "StarsSubscribeBotText#other" = "Chcesz subskrybować **{name}** w **{bot}** za **{amount}** Gwiazdki na miesiąc?";
 "StarsSubscribeInfo" = "Subskrybując, akceptujesz {link}";
-"StarsSubscribeInfoLink" = "https://telegram.org/tos/stars";
+"StarsSubscribeInfoLink" = "https://whatsgram.org/tos/stars";
 "StarsSubscribeInfoLinkText" = "Warunki świadczenia usługi";
 "StarsSubscribeText#one" = "Chcesz subskrybować **{chat}** za **{amount} Gwiazdkę** miesięcznie?";
 "StarsSubscribeText#few" = "Chcesz subskrybować **{chat}** za **{amount} Gwiazdki** miesięcznie?";
 "StarsSubscribeText#many" = "Chcesz subskrybować **{chat}** za **{amount} Gwiazdek** miesięcznie?";
 "StarsSubscribeText#other" = "Chcesz subskrybować **{chat}** za **{amount} Gwiazdki** miesięcznie?";
 "StarsTransactionTOS" = "Zapoznaj się z {link} dla Gwiazdek.";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars";
 "StarsTransactionTOSLinkText" = "Warunkami świadczenia usługi";
 "StarsTransactionsAll" = "Wszystkie";
 "StarsTransactionsIncoming" = "Przychodzące";

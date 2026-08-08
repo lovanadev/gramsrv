@@ -1486,7 +1486,7 @@
 "GiftPeerUpgradeTransferableDescription" = "{user} va putea să trimită cadoul oricui pe Telegram.";
 "GiftPeerUpgradeUniqueDescription" = "{user} va primi un număr unic, model, fundal și simbol pentru cadou.";
 "GiftPremiumDescription" = "Oferă-i lui {user} acces la funcționalități exclusive cu Telegram Premium. {link}";
-"GiftPremiumDescriptionLink" = "https://telegram.org/faq_premium";
+"GiftPremiumDescriptionLink" = "https://whatsgram.org/faq_premium";
 "GiftPremiumDescriptionLinkCaption" = "Vezi Funcționalitățile >";
 "GiftPremiumDescriptionYourBalance" = "Soldul tău este **{stars}**. {link}";
 "GiftPremiumHeader" = "Dăruiește Premium";
@@ -2356,7 +2356,7 @@
 "ProfileBirthdayValueAge#one" = "{date} ({age} an)";
 "ProfileBirthdayValueAge#few" = "{date} ({age} ani)";
 "ProfileBirthdayValueAge#other" = "{date} ({age} de ani)";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps";
 "ProfileCopyPhone" = "Copiază Numărul de Telefon";
 "ProfileItemSubscribers" = "Abonați";
 "ProfileJoinChannel" = "Alătură-te Canalului";
@@ -2713,7 +2713,7 @@
 "SpeakingWithVolume" = "{volume}% vorbește";
 "SponsoredMessageAd" = "Reclamă";
 "SponsoredMessageAdWhatIsThis" = "ce e asta?";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "Ce sunt mesajele\nsponsorizate?";
 "SponsoredMessageInfoDescription1" = "Spre deosebire de alte aplicații, Telegram nu folosește niciodată datele tale private pentru reclame personalizate. Mesajele sponsorizate pe Telegram sunt bazate doar pe subiectele canalelor în care ele sunt afișate. Asta înseamnă că niciun fel de date ale utilizatorilor nu sunt extrase sau analizate pentru a afișa reclame, și toți utilizatorii care vizionează un canal pe Telegram văd exact aceleași mesaje sponsorizate.";
 "SponsoredMessageInfoDescription2" = "Spre deosebire de alte aplicații, Telegram nu urmărește dacă ai atins un mesaj sponsorizat și nu te profilează bazat pe activitatea ta. Prevenim de asemenea linkurile externe în mesajele sponsorizate pentru a ne asigura că terțe părți nu pot spiona utilizatorii noștri. Credem că toată lumea are dreptul la confidențialitate, și platformele tehnologice ar trebui să respecte asta.";
@@ -2755,7 +2755,7 @@
 "StarsNeededTextSendPaidMessages" = "Cumpără **Stele** pt. a trimite mesaje.";
 "StarsPay" = "Confirmă și Plătește {amount}";
 "StarsPerMonth" = "⭐️{amount}/lună";
-"StarsReactionLink" = "https://telegram.org/tos/stars";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars";
 "StarsReactionLinkText" = "Termenii de Utilizare";
 "StarsReactionTerms" = "Trimițând Stele ești de accord cu {link}";
 "StarsSubscribeBotButtonMonth" = "Abonează-te pentru {amount} / lună";
@@ -2763,13 +2763,13 @@
 "StarsSubscribeBotText#few" = "Vrei să te abonezi la **{name}** în **{bot}** pentru **{amount}** stele pe lună?";
 "StarsSubscribeBotText#other" = "Vrei să te abonezi la **{name}** în **{bot}** pentru **{amount}** de stele pe lună?";
 "StarsSubscribeInfo" = "Abonându-te ești de acord cu {link}";
-"StarsSubscribeInfoLink" = "https://telegram.org/tos/stars";
+"StarsSubscribeInfoLink" = "https://whatsgram.org/tos/stars";
 "StarsSubscribeInfoLinkText" = "Termenii de Utilizare";
 "StarsSubscribeText#one" = "Vrei să te abonezi la **{chat}** pentru **{amount} Stea** pe lună?";
 "StarsSubscribeText#few" = "Vrei să te abonezi la **{chat}** pentru **{amount} Stele** pe lună?";
 "StarsSubscribeText#other" = "Vrei să te abonezi la **{chat}** pentru **{amount} de Stele** pe lună?";
 "StarsTransactionTOS" = "Revizuiește {link} pentru Stele.";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars";
 "StarsTransactionTOSLinkText" = "Termenii de Utilizare";
 "StarsTransactionsAll" = "Toate Tranzacțiile";
 "StarsTransactionsIncoming" = "Cumpărate";

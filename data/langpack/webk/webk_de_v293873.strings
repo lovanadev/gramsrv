@@ -516,7 +516,7 @@
 "Chat.Message.Ad.ReadMore" = "Mehr Infos";
 "Chat.Message.Ad.Text" = "Im Gegensatz zu anderen Apps nutzt Telegram niemals deine privaten Daten, um Werbung zu schalten. Gesponserte Nachrichten auf Telegram basieren ausschließlich auf dem Thema der öffentlichen Kanäle, in denen sie angezeigt werden. Das bedeutet, dass keine Nutzerdaten gesammelt oder analysiert werden, um Werbung anzuzeigen, und dass jeder Nutzer, der einen Kanal auf Telegram besucht, die gleichen gesponserten Nachrichten sieht.\n\nIm Gegensatz zu anderen Apps verfolgt Telegram nicht, ob du auf eine gesponserte Nachricht getippt hast, und erstellt auch kein Profil von dir auf der Grundlage deiner Aktivitäten. Wir verhindern auch externe Links in gesponserten Nachrichten, um sicherzustellen, dass Dritte unsere Nutzer nicht ausspionieren können. Wir sind der Meinung, dass jeder Mensch das Recht auf Privatsphäre hat und dass Technologieunternehmen dies respektieren sollten.\n\nTelegram bietet hunderten Millionen Nutzern einen kostenlosen und unbegrenzten Dienst, der mit erheblichen Server- und Datenverkehrskosten verbunden ist. Um unabhängig zu bleiben und unseren Werten treu zu bleiben, hat Telegram ein kostenpflichtiges Werkzeug entwickelt, um Nachrichten unter Berücksichtigung der Privatsphäre der Nutzer zu bewerben. Verantwortungsbewusste Werbetreibende sind bei uns willkommen:\n\n%@\n\nGesponserte Nachrichten befinden sich derzeit im Testmodus. Sobald sie vollständig eingeführt sind und Telegram seine Grundkosten decken kann, werden wir damit beginnen, die Werbeeinnahmen mit den Eigentümern der öffentlichen Kanäle, in denen gesponserte Nachrichten angezeigt werden, zu teilen.\n\nWerbung sollte nicht länger ein Synonym für den Missbrauch der Privatsphäre von Nutzern sein. Lasst uns gemeinsam neu definieren, wie ein Technologieunternehmen arbeiten sollte.";
 "Chat.Message.SendMessage" = "NACHRICHT SENDEN";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Was sind gesponserte Nachrichten?";
 "Chat.Message.ViewApp" = "APP ÖFFNEN";
 "Chat.Message.ViewBot" = "BOT ANZEIGEN";
@@ -1816,7 +1816,7 @@
 "Report2CommentOptional" = "Kommentar (optional)";
 "Report2Send" = "Meldung senden";
 "ReportAd" = "Werbung melden";
-"ReportAdLearnMore" = "Erfahre mehr über unsere [Werbebestimmungen und Richtlinien](https://ads.telegram.org/guidelines).";
+"ReportAdLearnMore" = "Erfahre mehr über unsere [Werbebestimmungen und Richtlinien](https://ads.whatsgram.org/guidelines).";
 "ReportBug" = "Fehler melden";
 "ReportChat" = "Melden";
 "ReportChatChild" = "Kindesmissbrauch";
@@ -2485,7 +2485,7 @@
 "WebApp.AttachRemove.SuccessSide" = "\"%@\" wurde aus der Seitenleiste entfernt.";
 "WebApp.Disclaimer.Check" = "Ich akzeptiere die **[Nutzungsbedingungen]**";
 "WebApp.InstallBot" = "Bot installieren";
-"WebAppDisclaimerUrl" = "https://telegram.org/tos/mini-apps";
+"WebAppDisclaimerUrl" = "https://whatsgram.org/tos/mini-apps";
 "WebSessionsTitle" = "Mit Telegram angemeldet";
 "Weeks#one" = "%1$d Woche";
 "Weeks#other" = "%1$d Wochen";

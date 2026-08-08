@@ -62,7 +62,7 @@
 "AdsInfo.Bot.Split.Title" = "Pomáhajú autorom robotov";
 "AdsInfo.Info" = "Telegramové reklamy sa veľmi líšia od reklám na iných platformách. Reklamy, ako je táto:";
 "AdsInfo.Launch.Text" = "Reklamu pre tento kanál môže vytvoriť ktokoľvek – s minimálnym rozpočtom. Viac informácií na **Reklamná platforma Telegram**. [Zistiť viac >]()";
-"AdsInfo.Launch.Text_URL" = "https://ads.telegram.org";
+"AdsInfo.Launch.Text_URL" = "https://ads.whatsgram.org";
 "AdsInfo.Launch.Title" = "Môžem spustiť reklamu?";
 "AdsInfo.Respect.Text" = "Reklamy na Telegrame nepoužívajú vaše osobné údaje a sú založené na kanáli, v ktorom ich vidíte.";
 "AdsInfo.Respect.Title" = "Rešpektujú vaše súkromie";
@@ -87,7 +87,7 @@
 "AffiliateProgram.JoinSubtitleYears#few" = "**{bot}** sa podelí o **{commission}** z príjmov od každého používateľa, ktorého k nemu odporučíte na **%d**.";
 "AffiliateProgram.JoinSubtitleYears#many" = "**{bot}** sa podelí o **{commission}** z príjmov od každého používateľa, ktorého k nemu odporučíte na **%d**.";
 "AffiliateProgram.JoinSubtitleYears#other" = "**{bot}** sa podelí o **{commission}** z príjmov od každého používateľa, ktorého k nemu odporučíte na **%d**.";
-"AffiliateProgram.JoinTerms" = "Vstupom do tohto programu súhlasíte s [obchodnými podmienkami](https://telegram.org/tos/affiliate-program) partnerských programov.";
+"AffiliateProgram.JoinTerms" = "Vstupom do tohto programu súhlasíte s [obchodnými podmienkami](https://whatsgram.org/tos/affiliate-program) partnerských programov.";
 "AffiliateProgram.JoinTitle" = "Partnerský program";
 "AffiliateProgram.LinkSubtitleLifetime" = "Zdieľajte tento odkaz so svojimi používateľmi a získajte províziu **{commission}** z ich výdavkov v **{bot}** **navždy** po tom, čo kliknú na váš odkaz.";
 "AffiliateProgram.LinkSubtitleMonths#one" = "Zdieľajte tento odkaz so svojimi používateľmi a získajte províziu **{commission}** z ich výdavkov v **{bot}** počas **1 mesiaca** po tom, čo kliknú na váš odkaz.";
@@ -167,7 +167,7 @@
 "AffiliateSetup.StartTitle" = "Spustiť partnerský program";
 "AffiliateSetup.SuggestedSectionEmpty" = "Zatiaľ nie sú k dispozícii žiadne programy.\nSkontrolujte stránku neskôr.";
 "AffiliateSetup.SuggestedSectionTitle" = "PROGRAMY";
-"AffiliateSetup.TermsFooter" = "Vytvorením partnerského programu súhlasíte s [obchodnými podmienkami](https://telegram.org/terms) partnerských programov.";
+"AffiliateSetup.TermsFooter" = "Vytvorením partnerského programu súhlasíte s [obchodnými podmienkami](https://whatsgram.org/terms) partnerských programov.";
 "AffiliateSetup.TextJoin" = "Získajte províziu vždy, keď používateľ, ktorý prvýkrát vstúpil do miniaplikácie cez váš odporúčací odkaz, a v nej minie **hviezdičky**.";
 "AffiliateSetup.TextNew" = "Odmeňte tých, ktorí pomáhajú rozširovať základňu používateľov.";
 "AffiliateSetup.TitleJoin" = "Partnerské programy";
@@ -537,11 +537,11 @@
 "AuthSessions.AddDevice" = "Skenovať QR kód";
 "AuthSessions.AddDevice.InvalidQRCode" = "Neplatný QR kód";
 "AuthSessions.AddDevice.ScanInfo" = "Naskenujte QR kód a prihláste sa\ndo tohto účtu na inom zariadení.";
-"AuthSessions.AddDevice.ScanInstallInfo" = "Prejsť na [getdesktop.telegram.org](desktop) alebo [web.telegram.org](web) a získať QR kód";
+"AuthSessions.AddDevice.ScanInstallInfo" = "Prejsť na [getdesktop.whatsgram.org](desktop) alebo [web.whatsgram.org](web) a získať QR kód";
 "AuthSessions.AddDevice.ScanTitle" = "Skenovať QR kód";
 "AuthSessions.AddDevice.UrlLoginHint" = "Tento kód môže byť použitý na to, aby sa niekto mohol prihlásiť do vášho Telegram účtu.\n\nAk chcete potvrdiť prihlásenie do Telegramu, prejdite do časti Nastavenia> Zariadenia > Pridať zariadenie a naskenujte kód.";
 "AuthSessions.AddDeviceIntro.Action" = "Skenovať QR kód";
-"AuthSessions.AddDeviceIntro.Text1" = "Stiahnuť Telegram do vášho počítača z [desktop.telegram.org]()";
+"AuthSessions.AddDeviceIntro.Text1" = "Stiahnuť Telegram do vášho počítača z [desktop.whatsgram.org]()";
 "AuthSessions.AddDeviceIntro.Text2" = "Spustite Telegram na vašom počítači pre získanie QR kódu";
 "AuthSessions.AddDeviceIntro.Text3" = "Naskenujte tento QR kód pre pripojenie k vašemu účtu";
 "AuthSessions.AddDeviceIntro.Title" = "Prihlásiť sa pomocou QR kódu";
@@ -992,7 +992,7 @@
 "Business.AddPost" = "Pridať príspevok";
 "Business.AddPostInfo" = "Zverejnite na svojej stránke fotky a videá svojho tovaru alebo služieb.";
 "Business.AdsInfo" = "Ako predplatiteľ Prémia nevidíte na Telegram žiadne reklamy, ale môžete si ich zapnúť, napríklad na zobrazenie vlastných reklám, ktoré ste zadali na [Reklamnú platformu Telegramu >]()";
-"Business.AdsInfo_URL" = "https://ads.telegram.org";
+"Business.AdsInfo_URL" = "https://ads.whatsgram.org";
 "Business.AdsTitle" = "REKLAMY V KANÁLOCH";
 "Business.AwayMessages" = "Správy v neprítomnosti";
 "Business.AwayMessagesInfo" = "Nastavte správy, ktoré sa budú automaticky odosielať, keď ste odpojený.";
@@ -2717,7 +2717,7 @@
 "Chat.PrivateMessageSeenTimestamp.YesterdayAt" = "prečítaná včera o %@";
 "Chat.PrivateMessageSentTimestamp.Date" = "odoslaná o %@";
 "Chat.PrivateMessageSentTimestamp.YesterdayAt" = "odoslané včera o %@";
-"Chat.PsaTooltip.covid" = "Táto správa vám poskytuje oznámenie o verejnej službe týkajúcej sa prebiehajúcej pandémie COVID-19. Viac informácií o tejto iniciatíve nájdete na stránke:\nhttps://telegram.org/blog/coronavirus";
+"Chat.PsaTooltip.covid" = "Táto správa vám poskytuje oznámenie o verejnej službe týkajúcej sa prebiehajúcej pandémie COVID-19. Viac informácií o tejto iniciatíve nájdete na stránke:\nhttps://whatsgram.org/blog/coronavirus";
 "Chat.PsaTooltip.psa" = "Toto je oficiálna správa od generálneho riaditeľa Telegramu týkajúca sa prebiehajúceho konfliktu.";
 "Chat.QuickReply.ServiceHeader1" = "Podržaním vašej rýchlej odpovede môžete ju upraviť alebo odstrániť.";
 "Chat.QuickReply.ServiceHeader2" = "Ak chcete použiť túto rýchlu odpoveď v konverzácii, zadajte / a vyberte skratku zo zoznamu.";
@@ -3157,7 +3157,7 @@
 "ChatList.PremiumRestoreDiscountTitle" = "Získajte Prémium späť so zľavou až %@";
 "ChatList.PremiumXmasGiftText" = "Pošlite priateľom zberateľské predmety z limitovanej edície!";
 "ChatList.PremiumXmasGiftTitle" = "👑 Darčeky od Snoop Dogga 🎁";
-"ChatList.PsaAlert.covid" = "Táto správa vám poskytuje oznámenie o verejnej službe týkajúcej sa prebiehajúcej pandémie COVID-19. Viac informácií o tejto iniciatíve nájdete na stránke:\nhttps://telegram.org/blog/coronavirus";
+"ChatList.PsaAlert.covid" = "Táto správa vám poskytuje oznámenie o verejnej službe týkajúcej sa prebiehajúcej pandémie COVID-19. Viac informácií o tejto iniciatíve nájdete na stránke:\nhttps://whatsgram.org/blog/coronavirus";
 "ChatList.PsaAlert.psa" = "Toto je oficiálna správa od generálneho riaditeľa Telegramu týkajúca sa prebiehajúceho konfliktu.";
 "ChatList.PsaLabel.covid" = "COVID-19";
 "ChatList.PsaLabel.psa" = "Oznámenie";
@@ -3432,7 +3432,7 @@
 "ChatbotSetup.SetupNotCompleted.Text" = "Nepridali ste žiadneho robota na spravovanie vášho účtu. Chcete aj tak odísť?";
 "ChatbotSetup.SetupNotCompleted.Title" = "Nepridaný žiadny robot";
 "ChatbotSetup.Text" = "Pridajte si do vášho účtu robota, ktorý vám pomôže automaticky spracovať prijaté správy a odpovedať na ne. [Viac informácií >]()";
-"ChatbotSetup.TextLink" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"ChatbotSetup.TextLink" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "ChatbotSetup.Title" = "Roboti konverzácii";
 "ChatbotSetup.TitleItem" = "Konverzačné roboty";
 "Checkout.Email" = "Email";
@@ -4319,7 +4319,7 @@
 "Conversation.Unpin" = "Odopnúť";
 "Conversation.UnpinMessageAlert" = "Chcete odopnúť túto správu?";
 "Conversation.UnreadMessages" = "Neprečítané správy";
-"Conversation.UnsupportedMedia" = "Táto správa nie je podporovaná vašou verziou Telegramu. Pre zobrazenie správy aktualizujte aplikáciu: https://telegram.org/update";
+"Conversation.UnsupportedMedia" = "Táto správa nie je podporovaná vašou verziou Telegramu. Pre zobrazenie správy aktualizujte aplikáciu: https://whatsgram.org/update";
 "Conversation.UnsupportedMediaPlaceholder" = "Táto správa nie je podporovaná vašou verziou Telegramu. Prosím aktualizujte na najnovšiu verziu.";
 "Conversation.UnvotePoll" = "Odvolať hlas";
 "Conversation.UpdateTelegram" = "AKTUALIZUJTE TELEGRAM";
@@ -4539,7 +4539,7 @@
 "DeleteAccount.ConfirmationAlertText" = "Odstránením vášho účtu sa natrvalo vymažú vaše údaje!\n\nTúto akciu nie je možné vrátiť späť!";
 "DeleteAccount.ConfirmationAlertTitle" = "Chcete pokračovať v odstránení vášho účtu?";
 "DeleteAccount.Continue" = "Pokračovať";
-"DeleteAccount.DeleteMessagesURL" = "https://telegram.org/faq#q-can-i-delete-my-messages";
+"DeleteAccount.DeleteMessagesURL" = "https://whatsgram.org/faq#q-can-i-delete-my-messages";
 "DeleteAccount.DeleteMyAccount" = "Vymazať môj účet";
 "DeleteAccount.DeleteMyAccountTitle" = "Odstránenie môjho účtu";
 "DeleteAccount.EnterPassword" = "Zadajte vaše heslo";
@@ -5027,7 +5027,7 @@
 "FrozenAccount.Understood" = "Rozumiem";
 "FrozenAccount.Violation.Text" = "Váš účet bol zmrazený pre porušenie zmluvných podmienok Telegramu.";
 "FrozenAccount.Violation.TextNew" = "Váš účet bol zmrazený z dôvodu porušenia [Zmluvných podmienok]() služby Telegram.";
-"FrozenAccount.Violation.TextNew_URL" = "https://telegram.org/tos";
+"FrozenAccount.Violation.TextNew_URL" = "https://whatsgram.org/tos";
 "FrozenAccount.Violation.Title" = "Porušenie podmienok";
 "Gallery.Ad" = "Reklama";
 "Gallery.AirPlay" = "AirPlay";
@@ -6298,7 +6298,7 @@
 "InviteText.ContactsCountText#one" = "Ahoj, používam na konverzáciu Telegram. Pridaj sa ku mne! Stiahni si ho tu: {url}";
 "InviteText.ContactsCountText#other" = "Ahoj, používam na konverzáciu Telegram – a takže našich ďalších %@ kontaktov. Pripoj sa k nám! Stiahni si ho tu: {url}";
 "InviteText.SingleContact" = "Ahoj, na komunikáciu používam Telegram. Pridaj sa! Stiahneš ho tu: %@";
-"InviteText.URL" = "https://telegram.org/dl";
+"InviteText.URL" = "https://whatsgram.org/dl";
 "Items.NOfM" = "%1$@ z %2$@";
 "Join.ChannelsTooMuch" = "Ľutujeme, ste členom príliš veľkého počtu skupín a kanálov. Pred pripojením sa k inému jeden opustite.";
 "KeyCommand.ChatInfo" = "Informácie o konverzácii";
@@ -6572,7 +6572,7 @@
 "Login.NewNumber" = "Nové číslo";
 "Login.OpenFragment" = "Otvoriť Fragment";
 "Login.Or" = "alebo";
-"Login.PRIVACY_URL" = "https://telegram.org/privacy";
+"Login.PRIVACY_URL" = "https://whatsgram.org/privacy";
 "Login.PadPhoneHelp" = "Môžete použiť vaše telefónne číslo na prihlásenie sa do Telegramu na všetkých zariadeniach.\nNepoužívajte SIM kartu na iPade — potrebujem vám odoslať SMS.\n\nJe toto číslo správne?\n{number}";
 "Login.PadPhoneHelpTitle" = "Vaše telefónne číslo";
 "Login.Paste" = "Prilepiť";
@@ -7168,9 +7168,9 @@
 "Monetization.AdRevenueTitle" = "ODMENY Z REKLAMY";
 "Monetization.Balance.StarsInfo" = "Hviezdičky môžete vybrať cez Fragment, alebo ich použiť na reklamu pre váš kanál. Minimálny výber je 1000 hviezdičiek. [Zistiť viac]()";
 "Monetization.Balance.StarsInfoGroup" = "Odmeny za hviezdičky môžete zbierať pomocou Fragmentu. Nemôžete si vybrať menej ako 1000 hviezdičiek. [Zistiť viac >]()";
-"Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
+"Monetization.Balance.StarsInfo_URL" = "https://whatsgram.org/tos/stars";
 "Monetization.Balance.ZeroInfo" = "Odmeny budete môcť zbierať pomocou služby Fragment, platformy tretej strany, ktorú používajú inzerenti na platenie za reklamy. [Zmluvné podmienky >]()";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceStarsBuyAds" = "Kúpiť reklamu";
 "Monetization.BalanceStarsWithdraw" = "Vybrať cez Fragment";
 "Monetization.BalanceStarsWithdrawShort" = "Vybrať";
@@ -7186,7 +7186,7 @@
 "Monetization.Intro.Bot.Ads.Text" = "Telegram môže zobrazovať reklamy vo vašom robotovi.";
 "Monetization.Intro.Bot.Title" = "Zarábajte od vášho robota";
 "Monetization.Intro.Info.Text" = "**TON** je blockchainová platforma a kryptomena, ktorú Telegram používa pre svoju vysokú rýchlosť a nízke poplatky za transakcie. [Zistiť viac >]()";
-"Monetization.Intro.Info.Text_URL" = "https://telegram.org/blog/monetization-for-channels";
+"Monetization.Intro.Info.Text_URL" = "https://whatsgram.org/blog/monetization-for-channels";
 "Monetization.Intro.Info.Title" = "Čo je #GRAM?";
 "Monetization.Intro.Split.Text" = "Môžete získať 50 % príjmov z reklamy ako odmenu v GRAM.";
 "Monetization.Intro.Split.Title" = "Rozdelenie príjmov 50:50";
@@ -8625,7 +8625,7 @@
 "Passport.Identity.TypePassportUploadScan" = "Nahrať váš naskenovaný cestovný pas";
 "Passport.Identity.TypePersonalDetails" = "Osobné údaje";
 "Passport.Identity.UploadOneOfScan" = "Nahrať váš naskenovaný %@";
-"Passport.InfoFAQ_URL" = "https://telegram.org/faq#passport";
+"Passport.InfoFAQ_URL" = "https://whatsgram.org/faq#passport";
 "Passport.InfoLearnMore" = "Zistiť viac";
 "Passport.InfoText" = "S **Telegram pasom** sa môžete jednoducho zaregistrovať na webové stránky a služby, ktoré vyžadujú overenie totožnosti.\n\nVaše informácie, osobné údaje a dokumenty sú chránené end-to-end šifrovaním. Nikto, vrátane Telegramu, k nim nemá prístup bez vášho dovolenia.";
 "Passport.InfoTitle" = "Čo je Telegramový pas?";
@@ -8735,10 +8735,10 @@
 "PeerInfo.AllowedReactions.OptionSomeReactions" = "Niektoré reakcie";
 "PeerInfo.AllowedReactions.ReactionListHeader" = "REAKCIE K DISPOZÍCII";
 "PeerInfo.AllowedReactions.StarReactions" = "Povoliť platené reakcie";
-"PeerInfo.AllowedReactions.StarReactionsFooter" = "Zapnite túto funkciu, aby vaši predplatitelia mohli reagovať na príspevky pomocou telegramových hviezdičiek, ktoré budete môcť neskôr vybrať ako GRAM. [Zistiť viac >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"PeerInfo.AllowedReactions.StarReactionsFooter" = "Zapnite túto funkciu, aby vaši predplatitelia mohli reagovať na príspevky pomocou telegramových hviezdičiek, ktoré budete môcť neskôr vybrať ako GRAM. [Zistiť viac >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "PeerInfo.AllowedReactions.Title" = "Reakcie";
-"PeerInfo.AppFooter" = "Spustením tejto miniaplikácie súhlasíte s [Podmienkami služby pre miniaplikácie](https://telegram.org/tos/mini-apps).";
-"PeerInfo.AppFooterAdmin" = "Publikovaním tejto miniaplikácie súhlasíte s [Podmienkami Telegramu pre vývojárov](https://telegram.org/tos/bot-developers).";
+"PeerInfo.AppFooter" = "Spustením tejto miniaplikácie súhlasíte s [Podmienkami služby pre miniaplikácie](https://whatsgram.org/tos/mini-apps).";
+"PeerInfo.AppFooterAdmin" = "Publikovaním tejto miniaplikácie súhlasíte s [Podmienkami Telegramu pre vývojárov](https://whatsgram.org/tos/bot-developers).";
 "PeerInfo.AutoDeleteDisable" = "Vypnúť";
 "PeerInfo.AutoDeleteInfo" = "Automaticky odstráni nové správy odoslané v tejto konverzácii po určitom čase.";
 "PeerInfo.AutoDeleteSettingOther" = "Ostatné...";
@@ -9813,7 +9813,7 @@
 "Report.Title.Story" = "Nahlásiť príbeh";
 "Report.Title.User" = "Nahlásiť používateľa";
 "ReportAd.Help" = "Zistiť viac o [Pravidlá a pokyny pre Telegramové reklamy]().";
-"ReportAd.Help_URL" = "https://ads.telegram.org/guidelines";
+"ReportAd.Help_URL" = "https://ads.whatsgram.org/guidelines";
 "ReportAd.Hidden" = "Už sa vám nebudú zobrazovať reklamy z Telegramu.";
 "ReportAd.Title" = "Nahlásenie reklamy";
 "ReportGroupLocation.Report" = "Nahlásiť";
@@ -10034,7 +10034,7 @@
 "SendStarReactions.ShowMyselfInTop" = "Zobraziť ma v Naj odosielateľoch";
 "SendStarReactions.SliderTop" = "NAJ";
 "SendStarReactions.SubtitleFrom" = "od %@";
-"SendStarReactions.TermsOfServiceFooter" = "Odoslaním hviezdičiek súhlasíte s [Podmienkami služby](https://telegram.org/tos/stars).";
+"SendStarReactions.TermsOfServiceFooter" = "Odoslaním hviezdičiek súhlasíte s [Podmienkami služby](https://whatsgram.org/tos/stars).";
 "SendStarReactions.TextGeneric" = "Vyberte koľko hviezdičiek chcete poslať adresátovi **%@**, aby ste podporili tento príspevok.";
 "SendStarReactions.TextSentStars#one" = "Na podporu tohto príspevku ste poslali **%d** hviezdičku.";
 "SendStarReactions.TextSentStars#few" = "Na podporu tohto príspevku ste poslali **%d** hviezdičky.";
@@ -10145,7 +10145,7 @@
 "Settings.FAQ" = "Najčastejšie otázky";
 "Settings.FAQ_Button" = "ČASTO KLADENÉ OTÁZKY";
 "Settings.FAQ_Intro" = "Majte na pamäti, že podpora Telegramu je vykonávaná dobrovoľníkmi. Snažíme sa odpovedať čo najrýchlejšie, no môže to chvíľu trvať.\n\nProsím navštívte \"Telegram často kladené otázky\": obsahuje dôležité tipy na riešenie problémov a odpovede na väčšinu otázok.";
-"Settings.FAQ_URL" = "https://telegram.org/faq#general-questions";
+"Settings.FAQ_URL" = "https://whatsgram.org/faq#general-questions";
 "Settings.FrequentlyAskedQuestions" = "Často kladené otázky";
 "Settings.KeepPassword" = "Áno, určite";
 "Settings.KeepPhoneNumber" = "Ponechať %@";
@@ -10185,7 +10185,7 @@
 "Settings.Privacy.ReadTimePremiumActive" = "Predplatiť Telegram Prémium";
 "Settings.Privacy.ReadTimePremiumActiveFooter" = "Keďže ste predplatiteľom Telegram Prémium, uvidíte čas poslednej aktivity a prečítania všetkých používateľov, ktorí ho zdieľajú s vami – aj keď vy ho skrývate.";
 "Settings.Privacy.ReadTimePremiumFooter" = "Ak si predplatíte Telegram Prémium, stále uvidíte čas posledného zobrazenia a čítania ostatných používateľov, aj keď ste pred nimi skryli ten svoj (pokiaľ to oni výslovne neobmedzili).";
-"Settings.PrivacyPolicy_URL" = "https://telegram.org/privacy";
+"Settings.PrivacyPolicy_URL" = "https://whatsgram.org/privacy";
 "Settings.PrivacySettings" = "Súkromie a zabezpečenie";
 "Settings.Proxy" = "Proxy";
 "Settings.ProxyConnected" = "Pripojené";
@@ -10223,7 +10223,7 @@
 "Settings.SuggestSetupPasswordText" = "Nastavte heslo, ktoré sa bude vyžadovať pri každom prihlásení pomocou tohto telefónneho čísla.";
 "Settings.SuggestSetupPasswordTitle" = "Zabezpečenie vášho účtu";
 "Settings.Support" = "Položiť otázku";
-"Settings.Terms_URL" = "https://telegram.org/tos";
+"Settings.Terms_URL" = "https://whatsgram.org/tos";
 "Settings.Tips" = "Funkcie Telegramu";
 "Settings.TipsUsername" = "TelegramTips";
 "Settings.Title" = "Nastavenia";
@@ -10527,9 +10527,9 @@
 "SocksProxySetup.Warning.Text" = "Takto bude vaša IP adresa viditeľná pre správcu proxy servera.";
 "SocksProxySetup.Warning.Title" = "Varovanie";
 "SponsoredMessageInfo.Action" = "Zistiť viac";
-"SponsoredMessageInfo.ActionUrl" = "https://ads.telegram.org";
-"SponsoredMessageInfo.Text" = "Pozri https://telegram.org";
-"SponsoredMessageInfo.Url" = "https://ads.telegram.org";
+"SponsoredMessageInfo.ActionUrl" = "https://ads.whatsgram.org";
+"SponsoredMessageInfo.Text" = "Pozri https://whatsgram.org";
+"SponsoredMessageInfo.Url" = "https://ads.whatsgram.org";
 "SponsoredMessageInfoScreen.Text" = "Na rozdiel od iných aplikácií, Telegram nikdy nepoužíva vaše súkromné \u200b\u200búdaje na zacielenie reklám. Sponzorované správy na Telegrame sú založené výlučne na téme verejných kanálov, v ktorých sú zobrazené. To znamená, že na zobrazenie reklám nie sú ťažené ani analyzované žiadne údaje o používateľoch a každý používateľ, ktorý si prezerá kanál na Telegrame, vidí rovnaké sponzorované správy.\n\nNa rozdiel od iných aplikácií Telegram nesleduje, či ste klepli na sponzorovanú správu, a neprofiluje vás na základe vašej aktivity. V sponzorovaných správach taktiež zabraňujeme externým odkazom, aby sme zaistili, že tretie strany nebudú môcť špehovať našich používateľov. Sme presvedčení, že každý má právo na súkromie, a technologické platformy by to mali rešpektovať.\n\nTelegram ponúka stovkám miliónov používateľov bezplatnú a neobmedzenú službu, ktorá zahŕňa značné náklady na servery a prenos. Aby zostal nezávislý a zostal verný svojim hodnotám, vyvinul Telegram platený nástroj na podporu správ s ohľadom na súkromie používateľov. Vítame zodpovedných inzerentov na adrese:\n[url]\nSponzorované správy sú momentálne v testovacom režime. Hneď ako budú úplne spustené a umožnia Telegramu pokryť jeho základné náklady, začneme zdieľať výnosy z reklamy s vlastníkmi verejných kanálov, v ktorých sa zobrazujú sponzorované správy.\n\nOnline reklamy by už nemali byť synonymom zneužívania súkromia používateľov. Predefinujme, ako by mala technologická spoločnosť fungovať - \u200b\u200bspoločne.";
 "SponsoredMessageInfoScreen.Title" = "Čo sú sponzorované správy?";
 "SponsoredMessageMenu.Hide" = "Skryť";
@@ -10541,7 +10541,7 @@
 "Stars.BotRevenue.Title" = "Zostatok hviezdičiek";
 "Stars.BotRevenue.Withdraw.Balance" = "Dostupný zostatok";
 "Stars.BotRevenue.Withdraw.BuyAds" = "Kúpiť reklamu";
-"Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Stars.BotRevenue.Withdraw.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "Stars.Gift.Received.Text" = "Na odomknutie obsahu a služieb na Telegrame použite hviezdičky. [Pozrieť príklady >]()";
 "Stars.Gift.Received.Title" = "Prijatý darček";
 "Stars.Gift.Sent.Text" = "Vďaka hviezdičkám bude môcť %@ odomknúť obsah a služby na Telegrame. [Pozrieť príklady >]()";
@@ -10612,7 +10612,7 @@
 "Stars.Intro.Withdraw" = "Vybrať";
 "Stars.Intro.YourBalance" = "váš zostatok";
 "Stars.PaidContent.AmountInfo" = "Používatelia budú musieť preniesť tento počet hviezdičiek na váš kanál, aby si mohli pozrieť toto médium.\n[Viac o Hviezdičkách >]()";
-"Stars.PaidContent.AmountInfo_URL" = "https://telegram.org/tos/stars";
+"Stars.PaidContent.AmountInfo_URL" = "https://whatsgram.org/tos/stars";
 "Stars.PaidContent.AmountPlaceholder" = "Hviezdičky na odomknutie";
 "Stars.PaidContent.AmountTitle" = "ZADAJTE CENU ODOMKNUTIA";
 "Stars.PaidContent.Create" = "Nastaviť toto médium ako platené";
@@ -10642,7 +10642,7 @@
 "Stars.Purchase.StarsNeededUnlockInfo" = "Kúpte si hviezdičky, aby ste odomkli médiá a používali ich v miniaplikáciách.";
 "Stars.Purchase.StarsReactionsNeededInfo" = "Kúpte si Hviezdičky a posielajte platené reakcie na **%@** a ďalšie kanály.";
 "Stars.Purchase.SubscriptionInfo" = "Kúpiť hviezdičky a prihlásiť sa na odber **%@**.";
-"Stars.Purchase.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Purchase.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.SellGift.AmountInfo" = "Dostanete **%@**.";
 "Stars.SellGift.AmountInfo.Stars#one" = "%@ hviezdičku";
 "Stars.SellGift.AmountInfo.Stars#few" = "%@ hviezdičky";
@@ -10669,7 +10669,7 @@
 "Stars.SendStars.SendStars" = "Potvrdiť a odoslať";
 "Stars.SendStars.Title" = "Odoslať hviezdičky";
 "Stars.Subscription.Terms" = "Predplatením súhlasíte s [Podmienkami služby].";
-"Stars.Subscription.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Subscription.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Ton.Description" = "Použite GRAM na nákup darčekov a navrhovanie príspevkov kanálom.";
 "Stars.Ton.Title" = "Zostatok GRAM";
 "Stars.Transaction.AppleTopUp.Subtitle" = "App Store";
@@ -10754,7 +10754,7 @@
 "Stars.Transaction.SubscriptionFee" = "Mesačný poplatok za predplatné";
 "Stars.Transaction.TelegramBotApi.Title" = "Platené vysielanie";
 "Stars.Transaction.Terms" = "Prečítať si [Podmienky poskytovania služby]() hviezdičiek.";
-"Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transaction.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transaction.To" = "Komu";
 "Stars.Transaction.Via" = "Cez";
 "Stars.Transaction.Videos#one" = "%@ video";
@@ -10789,7 +10789,7 @@
 "Stars.Transfer.SubscribeInfo" = "Chcete si predplatiť **%1$@** za **%2$@** mesačne?";
 "Stars.Transfer.SubscribePerMonth" = "/ mesačne";
 "Stars.Transfer.Terms" = "Kúpou súhlasíte s [Podmienkami služby]().";
-"Stars.Transfer.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transfer.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transfer.Title" = "Potvrďte váš nákup";
 "Stars.Transfer.Unavailable" = "Ľutujeme, nákup Hviezdičiek nie je vo vašej krajine dostupný.";
 "Stars.Transfer.UnlockBotInfo" = "Chcete odomknúť %1$@ od **%2$@** za **%3$@**?";
@@ -11894,9 +11894,9 @@
 "Ton.ProceedsOverview" = "PREHĽAD VÝNOSOV";
 "Ton.WithdrawViaFragment" = "Vybrať cez Fragment";
 "Ton.WithdrawViaFragment.Info" = "Zbierajte svoj GRAM pomocou Fragmentu. [Zistiť viac >]()";
-"Ton.WithdrawViaFragment.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Ton.WithdrawViaFragment.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "TopApps.Info.Done" = "Rozumiem";
-"TopApps.Info.Text" = "Tento katalóg hodnotí miniaplikácie na základe ich denných príjmov meraných v hviezdičkách. Aby boli vývojári zaradení do zoznamu, musia nastaviť svoje hlavné miniaplikácie v [@botfather]() (ako je popísané [tu](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)), mať vyše **1 000** používateľov denne a dosahovať denný príjem vyšší ako **1 000** hviezdičiek na základe týždenného priemeru.";
+"TopApps.Info.Text" = "Tento katalóg hodnotí miniaplikácie na základe ich denných príjmov meraných v hviezdičkách. Aby boli vývojári zaradení do zoznamu, musia nastaviť svoje hlavné miniaplikácie v [@botfather]() (ako je popísané [tu](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app)), mať vyše **1 000** používateľov denne a dosahovať denný príjem vyšší ako **1 000** hviezdičiek na základe týždenného priemeru.";
 "TopApps.Info.Title" = "Naj miniaplikácie";
 "Tour.StartButton" = "Začať komunikovať";
 "Tour.Text1" = "**Najrýchlejšia** komunikačná aplikácia na svete.\nJe **zadarmo** a  je **bezpečná**.";
@@ -12784,7 +12784,7 @@
 "WebApp.DisclaimerContinue" = "Pokračovať";
 "WebApp.DisclaimerText" = "Chystáte sa použiť miniaplikáciu prevádzkovanú nezávislou stranou, ktorá nie je spojená s Telegramom. Ak chcete pokračovať, musíte súhlasiť s podmienkami používania miniaplikácií.";
 "WebApp.DisclaimerTitle" = "Podmienky používania";
-"WebApp.Disclaimer_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.Disclaimer_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.Download.Cancel" = "Zrušiť";
 "WebApp.Download.Document" = "Stiahnuť dokument";
 "WebApp.Download.Download" = "Stiahnuť";
@@ -12813,7 +12813,7 @@
 "WebApp.LaunchMoreInfo" = "Viac o tomto robotovi";
 "WebApp.LaunchOpenApp" = "Spustiť";
 "WebApp.LaunchTermsConfirmation" = "Spustením tejto miniaplikácie súhlasíte s [Podmienkami poskytovania služby pre miniaplikácie]().";
-"WebApp.LaunchTermsConfirmation_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.LaunchTermsConfirmation_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.LocationPermission.Allow" = "Povoliť";
 "WebApp.LocationPermission.Decline" = "Zamietnuť";
 "WebApp.LocationPermission.Succeed" = "**%@** má teraz prístup k vašej polohe.";
@@ -12835,7 +12835,7 @@
 "WebApp.OpenWebViewAlertText" = "**%@** chce otvoriť svoju webovú aplikáciu, aby mohol pokračovať.\n\nBude mať prístup k vašej **IP adrese** a základným informáciám o zariadení.";
 "WebApp.OpenWebViewAlertTitle" = "Spustiť aplikáciu";
 "WebApp.PrivacyPolicy" = "Zásady ochrany osobných údajov";
-"WebApp.PrivacyPolicy_URL" = "https://telegram.org/privacy-tpa";
+"WebApp.PrivacyPolicy_URL" = "https://whatsgram.org/privacy-tpa";
 "WebApp.ReloadPage" = "Znovu načítať stránku";
 "WebApp.RemoveAllConfirmationText" = "Týmto odstránite skratky **%@** zo všetkých ponúk.";
 "WebApp.RemoveBot" = "Odstrániť z ponuky";
@@ -12855,7 +12855,7 @@
 "WebApp.ShortcutsAdded" = "V ponuke príloh pribudla skratka **%@**.";
 "WebApp.ShortcutsSettingsAdded" = "Skratky **%@** pridané do ponuky príloh a Nastavení.";
 "WebApp.TermsOfUse" = "Podmienky používania";
-"WebApp.TermsOfUse_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.TermsOfUse_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebBrowser.AddBookmark" = "Pridať záložku";
 "WebBrowser.AddressBar.Bookmarks" = "ZÁLOŽKY";
 "WebBrowser.AddressBar.RecentlyVisited" = "NEDÁVNO NAVŠTÍVENÉ";

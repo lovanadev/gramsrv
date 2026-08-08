@@ -162,7 +162,7 @@
 "cloud_lng_passport_in_uk" = "Ukraynaca";
 "cloud_lng_passport_in_uz" = "Özbekçe";
 "cloud_lng_passport_in_vi" = "Vietnamca";
-"cloud_lng_tooltip_psa_covid" = "Bu mesaj, size devam eden COVID-19 salgını ile ilgili olarak bir kamu hizmeti duyurusu sağlar. Bu girişim hakkında daha fazla bilgi için: https://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "Bu mesaj, size devam eden COVID-19 salgını ile ilgili olarak bir kamu hizmeti duyurusu sağlar. Bu girişim hakkında daha fazla bilgi için: https://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "Bu, Telegram CEO'sunun devam eden tartışmalarla ilgili resmi bir mesajıdır.";
 "cloud_lng_topup_purpose_subs" = "Kanal aboneliklerinizi sürdürmek için **Yıldız** satın alın.";
 "cloud_lng_translate_to_ar" = "Arapça";
@@ -220,7 +220,7 @@
 "lng_about_text2" = "Bu yazılım {gpl_link} sürüm 3 altında lisanslanmıştır.\nKaynak kodu {github_link} adresinde mevcuttur.";
 "lng_about_text3" = "Daha fazla bilgi için {faq_link} ziyaret edin.";
 "lng_about_text3_faq" = "Telegram SSS";
-"lng_about_text_1" = "Hız ve güvenlik için  [a href=\"https://core.telegram.org/api\"]Telegram API[/a]'sine dayalı resmi ücretsiz mesajlaşma uygulaması.";
+"lng_about_text_1" = "Hız ve güvenlik için  [a href=\"https://core.whatsgram.org/api\"]Telegram API[/a]'sine dayalı resmi ücretsiz mesajlaşma uygulaması.";
 "lng_about_text_2" = "Bu yazılım [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL sürüm 3[/a] altında lisanslanmıştır.\nKaynak kodu [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a]'da mevcuttur.";
 "lng_about_text_3" = "Daha fazla bilgi için {faq_open}Telegram SSS{faq_close} adresini ziyaret edin.";
 "lng_about_version" = "sürüm {version}";
@@ -1301,7 +1301,7 @@
 "lng_bot_download_starting" = "Başlıyor...";
 "lng_bot_earn_available" = "Mevcut bakiye";
 "lng_bot_earn_balance_about" = "Toplam bakiyenizdeki yıldızları reklamlarda kullanabilir veya kazandıktan 21 gün sonra ödül olarak çekebilirsiniz.";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
+"lng_bot_earn_balance_about_url" = "https://whatsgram.org/tos/stars";
 "lng_bot_earn_balance_button#one" = "{count} {emoji} çek";
 "lng_bot_earn_balance_button#other" = "{count} {emoji} çek";
 "lng_bot_earn_balance_button_all" = "Tümünü Çek";
@@ -1442,7 +1442,7 @@
 "lng_business_about_quick_replies" = "Mesajlara daha hızlı yanıt vermek için metin ve medya içeren kısayollar ayarlayın.";
 "lng_business_about_sponsored" = "Premium abonesi olarak Telegram'da herhangi bir reklam görmezsiniz ancak bunları, örneğin {link} üzerinde yayınladığınız kendi reklamlarınızı görüntülemek için açabilirsiniz.";
 "lng_business_about_sponsored_link" = "Telegram Reklam Platformu {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
+"lng_business_about_sponsored_url" = "https://ads.whatsgram.org";
 "lng_business_button_sponsored" = "Reklamları Göster";
 "lng_business_edit_messages" = "Mesajları düzenle";
 "lng_business_limit_reached#one" = "{count} mesaj sınırına ulaşıldı.";
@@ -1623,7 +1623,7 @@
 "lng_channel_earn_learn_bot_in_about" = "Telegram, botunuzda reklam gösterebilir.";
 "lng_channel_earn_learn_close" = "Anladım";
 "lng_channel_earn_learn_coin_about" = "Gram, Telegram’ın yüksek hızı ve düşük işlem komisyonları nedeniyle kullandığı TON blok zinciri platformunun kripto para birimidir. {link}";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels/tr?ln=a";
+"lng_channel_earn_learn_coin_link" = "https://whatsgram.org/blog/monetization-for-channels/tr?ln=a";
 "lng_channel_earn_learn_coin_title" = "{emoji} Gram Nedir?";
 "lng_channel_earn_learn_in_about" = "Telegram, kanalınızda reklam yayınlayabilir.";
 "lng_channel_earn_learn_in_subtitle" = "Telegram Reklamları";
@@ -1787,7 +1787,7 @@
 "lng_chatbots_gift_settings" = "Hediye Ayarlarını Değiştir";
 "lng_chatbots_include_button" = "Sohbetleri Seçin";
 "lng_chatbots_included_title" = "Dahil edilen sohbetler";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business#chatbots-for-business/tr";
+"lng_chatbots_info_url" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business/tr";
 "lng_chatbots_leave_without_added_text" = "Hesabınızı yönetmek için bir bot eklemediniz. Yine de ayrılmak ister misiniz?";
 "lng_chatbots_leave_without_added_title" = "Bot Eklenmedi";
 "lng_chatbots_manage_gifts" = "Hediyeleri ve Yıldızları Yönet";
@@ -2247,7 +2247,7 @@
 "lng_credits_box_history_entry_floodskip_row" = "Mesajlar";
 "lng_credits_box_history_entry_fragment" = "Fragment";
 "lng_credits_box_history_entry_gift_about_link" = "Örnekler {emoji}";
-"lng_credits_box_history_entry_gift_about_url" = "https://telegram.org/blog/telegram-stars/tr";
+"lng_credits_box_history_entry_gift_about_url" = "https://whatsgram.org/blog/telegram-stars/tr";
 "lng_credits_box_history_entry_gift_bought" = "Hediye Satın Alma";
 "lng_credits_box_history_entry_gift_bought_from" = "Gönderen";
 "lng_credits_box_history_entry_gift_converted" = "Dönüştürülmüş Hediye";
@@ -2286,7 +2286,7 @@
 "lng_credits_box_history_entry_via" = "Kaynak";
 "lng_credits_box_history_entry_via_premium_bot" = "Premium Bot";
 "lng_credits_box_out_about" = "Yıldızlar için {link} inceleyin.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars";
 "lng_credits_box_out_both" = "{photo} ve {video}";
 "lng_credits_box_out_confirm#one" = "Onayla ve {emoji} {count} Yıldız Öde";
 "lng_credits_box_out_confirm#other" = "Onayla ve {emoji} {count} Yıldız Öde";
@@ -2387,7 +2387,7 @@
 "lng_credits_summary_in_toast_title" = "Yıldızlar Kazanıldı";
 "lng_credits_summary_options_about" = "Devam ederek ve Yıldızlar satın alarak {link} kabul etmiş olursunuz.";
 "lng_credits_summary_options_about_link" = "Şartlar ve Koşulları";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars/tr";
+"lng_credits_summary_options_about_url" = "https://whatsgram.org/tos/stars/tr";
 "lng_credits_summary_options_credits#one" = "{count} Yıldız";
 "lng_credits_summary_options_credits#other" = "{count} Yıldız";
 "lng_credits_summary_options_more" = "Diğer Seçenekler";
@@ -4177,7 +4177,7 @@
 "lng_group_invite_subscription" = "Aylık Ücret Gerektirir";
 "lng_group_invite_subscription_about" = "Bu bağlantı aracılığıyla kanalınıza katılan kişilerden abonelik ücreti alın. {link}";
 "lng_group_invite_subscription_about_link" = "Daha fazla bilgi {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "aylık yaklaşık olarak {total} alırsınız";
 "lng_group_invite_subscription_info_subtitle" = "Abonelik ücreti";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} / ay {multiplier} {total}";
@@ -4922,7 +4922,7 @@
 "lng_mini_apps_disclaimer_link" = "Kullanım Koşulları";
 "lng_mini_apps_disclaimer_text" = "**Telegram'a bağlı olmayan** bağımsız bir tarafça işletilen bir mini uygulamayı kullanmak üzeresiniz. Devam etmek için mini uygulamaların Kullanım Koşullarını kabul etmelisiniz.";
 "lng_mini_apps_disclaimer_title" = "Dikkat";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "Tepsi Durumuna Küçült";
 "lng_minimize_window" = "Küçült";
 "lng_minutes#one" = "{count} dakika";
@@ -5102,7 +5102,7 @@
 "lng_owner_badge" = "kurucu";
 "lng_paid_about" = "Kullanıcıların bu medyayı görüntülemek için bu miktarda Yıldız'ı kanalınıza aktarması gerekecek. {link}";
 "lng_paid_about_link" = "Yıldızlar hakkında bilgi >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars/tr";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars/tr";
 "lng_paid_admin_about" = "İzleyiciler size Yıldız Tepkileri gönderebilir.";
 "lng_paid_admin_title" = "İzleyicilerden Yıldızlar Alın";
 "lng_paid_comment_about" = "{name} için Yıldızlar ekleyerek mesajınızı vurgulayın ve sabitleyin.";
@@ -5607,7 +5607,7 @@
 "lng_popular_apps_info_here" = "burada";
 "lng_popular_apps_info_text" = "Bu katalog, mini uygulamaları günlük gelirlerine göre sıralar ve gelirleri Yıldızlarla ölçülür. Listeye girmek için, geliştiriciler ana mini uygulamalarını {bot} içinde ayarlamalı ({link} açıklanıldığı gibi), günlük **1.000**'den fazla kullanıcıya sahip olmalı ve haftalık ortalamaya göre günlük **1.000** Yıldızın üzerinde gelir elde etmelidir.";
 "lng_popular_apps_info_title" = "En İyi Mini Uygulamalar";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
+"lng_popular_apps_info_url" = "https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app";
 "lng_posts_limit_about#one" = "Günde en fazla {count} arama sorgusu yapabilirsiniz.";
 "lng_posts_limit_about#other" = "Günde en fazla {count} arama sorgusu yapabilirsiniz.";
 "lng_posts_limit_reached" = "Sınıra Ulaşıldı";
@@ -5943,7 +5943,7 @@
 "lng_profile_bot_help" = "Bot Yardımı";
 "lng_profile_bot_permissions_title" = "Erişime izin ver";
 "lng_profile_bot_privacy" = "Bot Gizlilik Politikası";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "Bot Ayarları";
 "lng_profile_camera_title" = "Kendini çek";
 "lng_profile_changed_photo_about" = "Bunu {link}'dan değiştirebilirsiniz.";
@@ -7014,7 +7014,7 @@
 "lng_settings_export_data" = "Telegram verisini dışarı aktar";
 "lng_settings_faq" = "Telegram SSS";
 "lng_settings_faq_button" = "SSS GİT";
-"lng_settings_faq_link" = "https://telegram.org/faq?setln=tr";
+"lng_settings_faq_link" = "https://whatsgram.org/faq?setln=tr";
 "lng_settings_faq_subtitle" = "SSS";
 "lng_settings_features" = "Telegram Özellikleri";
 "lng_settings_file_confirmations" = "Dosya açma onayları";
@@ -7210,7 +7210,7 @@
 "lng_settings_suggestion_password_title" = "Parolanız";
 "lng_settings_suggestion_password_yes" = "Evet, kesinlikle";
 "lng_settings_suggestion_phone_number_about" = "Telegram'da oturum açabilmek için numaranızı\u00a0her zaman güncel tutun. {link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq?setln=tr#s-yeni-bir-telefon-numaram-var-ne-yapmaliyim";
+"lng_settings_suggestion_phone_number_about_link" = "https://whatsgram.org/faq?setln=tr#s-yeni-bir-telefon-numaram-var-ne-yapmaliyim";
 "lng_settings_suggestion_phone_number_change" = "Lütfen telefonunuzdaki resmi Telegram uygulamasındaki telefon numaranızı en kısa sürede değiştirin. {emoji}";
 "lng_settings_suggestion_phone_number_title" = "{phone} hâlâ sizin numaranız mı?";
 "lng_settings_system_integration" = "Sistem bütünleşmesi";
@@ -7419,7 +7419,7 @@
 "lng_sponsored_info_description1" = "Diğer uygulamalardan farklı olarak Telegram, reklam hedeflemeleri için asla özel verilerinizi kullanmaz. Telegram'daki sponsorlu mesajlar, yalnızca gösterildikleri genel kanalların konusuna dayanmaktadır. Bu, reklamları görüntülemek için hiçbir kullanıcı verisinin çıkarılmadığı veya analiz edilmediği ve Telegram'da bir kanalı görüntüleyen her kullanıcının aynı sponsorlu mesajı gördüğü anlamına gelir.\n\nDiğer uygulamalardan farklı olarak Telegram, sponsorlu bir mesaja dokunup tıklamadığınızı izlemez ve etkinliğinize göre profilinizi çıkarmaz. Ayrıca, üçüncü tarafların kullanıcılarımızı gözetlememesini sağlamak için sponsorlu mesajlardaki harici bağlantıları da engelleriz. Herkesin mahremiyet hakkına sahip olduğuna ve teknolojik platformların buna saygı duyması gerektiğine inanıyoruz.\n\nTelegram, önemli sunucu ve trafik maliyetleri içeren hizmetini yüz milyonlarca kullanıcıya ücretsiz ve sınırsız olarak sunuyor. Telegram, bağımsız ve değerlerine sadık kalmak amacıyla mesajları tanıtmak için kullanıcı gizliliğini de göz önünde bulunduran ücretli bir araç geliştirdi. Sorumlu reklamverenleri memnuniyetle karşılıyoruz:";
 "lng_sponsored_info_description1_link" = "Gizlilik Politikasında daha fazla bilgi edinebilirsiniz";
 "lng_sponsored_info_description1_linked" = "Diğer uygulamaların aksine, Telegram özel verilerinizi asla reklam hedeflemesi için kullanmaz. {link}\n\nDiğer uygulamaların aksine, Telegram sponsorlu bir mesaja dokunup dokunmadığınızı takip etmez ve etkinliğinize göre sizi profillemez. Ayrıca, üçüncü tarafların kullanıcılarımızı gözetlemesini önlemek için sponsorlu mesajlardaki harici bağlantıları da engelliyoruz. Herkesin gizlilik hakkına sahip olduğuna ve teknolojik platformların buna saygı duyması gerektiğine inanıyoruz.\n\nTelegram, yüz milyonlarca kullanıcıya ücretsiz ve sınırsız hizmet sunmaktadır; bu da önemli sunucu ve trafik maliyetlerine yol açmaktadır. Bağımsız kalmak ve değerlerine sadık kalmak için Telegram, kullanıcı gizliliğini göz önünde bulundurarak mesajları tanıtmak için ücretli bir araç geliştirdi. Sorumlu reklamverenleri şu adreste ağırlıyoruz:";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy#5-6-no-ads-based-on-user-data";
+"lng_sponsored_info_description1_url" = "https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data";
 "lng_sponsored_info_description2" = "Sponsorlu Mesajlar şu anda test modunda. Reklamlar, tamamen kullanıma sunulduğunda ve Telegram'ın temel maliyetlerini karşılamaya başladığında, sponsorlu mesajların görüntülendiği genel kanalların sahipleriyle reklam gelirlerini paylaşmaya başlayacağız.\n\nÇevrimiçi reklamlar artık kullanıcı gizliliğinin kötüye kullanılmasıyla eş anlamlı olmamalı. Bir teknoloji şirketinin nasıl çalışması gerektiğini hep birlikte yeniden tanımlayalım.";
 "lng_sponsored_info_menu" = "Reklamveren hakkında";
 "lng_sponsored_info_submenu" = "Reklamveren: {text}";
@@ -7646,7 +7646,7 @@
 "lng_star_ref_start_info" = "Bir ortaklık programı oluşturarak, Ortaklık Programlarının {terms} kabul etmiş olursunuz.";
 "lng_star_ref_stopped" = "Bu ortaklık bağlantısı artık aktif değil.";
 "lng_star_ref_title" = "Ortaklık Programı";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program";
+"lng_star_ref_tos_url" = "https://whatsgram.org/tos/affiliate-program";
 "lng_star_ref_transparent_about" = "Yönlendirdiğiniz kullanıcılardan gelen komisyonlarınızı gerçek zamanlı olarak takip edin.";
 "lng_star_ref_transparent_title" = "Şeffaf";
 "lng_star_ref_update" = "Ortaklık Programını Güncelle";

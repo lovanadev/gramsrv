@@ -164,7 +164,7 @@
 "cloud_lng_passport_in_uk" = "Ukrajinština";
 "cloud_lng_passport_in_uz" = "Uzbekština";
 "cloud_lng_passport_in_vi" = "Vietnamština";
-"cloud_lng_tooltip_psa_covid" = "Tyto zprávy poskytuje veřejná služba, v návaznosti na COVID-19 situaci. Další informace se dozvíte na https://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "Tyto zprávy poskytuje veřejná služba, v návaznosti na COVID-19 situaci. Další informace se dozvíte na https://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "Toto je oficiální zpráva od generálního ředitele Telegramu ohledně probíhajícího konfliktu.";
 "cloud_lng_topup_purpose_subs" = "Koupí **hvězd** si zachováte předplatné kanálu.";
 "cloud_lng_translate_to_ar" = "arabštiny";
@@ -222,7 +222,7 @@
 "lng_about_text2" = "Tento software je licencován {gpl_link} verze 3.\nZdrojový kód dostupný na {github_link}.";
 "lng_about_text3" = "Pro více informací navštivte {faq_link}.";
 "lng_about_text3_faq" = "Časté otázky";
-"lng_about_text_1" = "Bezplatná oficiální aplikace pro zasílání zpráv, založená na [a href=\"https://core.telegram.org/api\"]Telegram API[/a] pro rychlost a bezpečnost.";
+"lng_about_text_1" = "Bezplatná oficiální aplikace pro zasílání zpráv, založená na [a href=\"https://core.whatsgram.org/api\"]Telegram API[/a] pro rychlost a bezpečnost.";
 "lng_about_text_2" = "Tento software je licencován pod [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] verze 3.\nZdrojový kód je k dispozici na [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a]";
 "lng_about_text_3" = "Navštivte {faq_open}Časté otázky{faq_close} pro více informací.";
 "lng_about_version" = "verze {version}";
@@ -1509,7 +1509,7 @@
 "lng_bot_download_starting" = "Začínáme...";
 "lng_bot_earn_available" = "Dostupný zůstatek";
 "lng_bot_earn_balance_about" = "Hvězdy z celkového zůstatku můžete použít na reklamy nebo si je vybrat jako odměnu 21 dní po jejich získání.";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
+"lng_bot_earn_balance_about_url" = "https://whatsgram.org/tos/stars";
 "lng_bot_earn_balance_button#one" = "Vybrat {emoji} {count}";
 "lng_bot_earn_balance_button#few" = "Vybrat {emoji} {count}";
 "lng_bot_earn_balance_button#many" = "Vybrat {emoji} {count}";
@@ -1660,7 +1660,7 @@
 "lng_business_about_quick_replies" = "Nastavte si zkratky s textem a médii, abyste mohli rychleji reagovat na zprávy.";
 "lng_business_about_sponsored" = "Jako předplatitelé Premium nevidíte na Telegramu žádné reklamy, ale můžete si je zapnout, například pro zobrazení vlastních reklam, které jste spustili na {link}";
 "lng_business_about_sponsored_link" = "Telegram Ad Platform {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
+"lng_business_about_sponsored_url" = "https://ads.whatsgram.org";
 "lng_business_button_sponsored" = "Neskrývat reklamy";
 "lng_business_edit_messages" = "Upravit zprávy";
 "lng_business_limit_reached#one" = "Dosažen limit {count} zprávy";
@@ -1857,7 +1857,7 @@
 "lng_channel_earn_learn_bot_in_about" = "Telegram může ve vašem botovi zobrazovat reklamy.";
 "lng_channel_earn_learn_close" = "Rozumím";
 "lng_channel_earn_learn_coin_about" = "Gram je blockchainová platforma a kryptoměna, kterou Telegram používá pro svou vysokou rychlost a nízké poplatky za transakce. {link}";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels";
+"lng_channel_earn_learn_coin_link" = "https://whatsgram.org/blog/monetization-for-channels";
 "lng_channel_earn_learn_coin_title" = "Co je {emoji} Gram?";
 "lng_channel_earn_learn_in_about" = "Telegram může ve vašem kanálu zobrazovat reklamy.";
 "lng_channel_earn_learn_in_subtitle" = "Reklamy Telegramu";
@@ -2037,7 +2037,7 @@
 "lng_chatbots_gift_settings" = "Měnit nastavení dárků";
 "lng_chatbots_include_button" = "Vybrat konverzace";
 "lng_chatbots_included_title" = "Zahrnuté konverzace";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"lng_chatbots_info_url" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "lng_chatbots_leave_without_added_text" = "Ještě jste si k správě účtu nepřidali žádného bota. Přesto opustit?";
 "lng_chatbots_leave_without_added_title" = "Žádný bot nebyl přidán";
 "lng_chatbots_manage_gifts" = "Spravovat dárky a hvězdy";
@@ -2536,7 +2536,7 @@
 "lng_credits_box_history_entry_floodskip_row" = "Zprávy";
 "lng_credits_box_history_entry_fragment" = "Fragment";
 "lng_credits_box_history_entry_gift_about_link" = "Viz příklady {emoji}";
-"lng_credits_box_history_entry_gift_about_url" = "https://telegram.org/blog/telegram-stars";
+"lng_credits_box_history_entry_gift_about_url" = "https://whatsgram.org/blog/telegram-stars";
 "lng_credits_box_history_entry_gift_bought" = "Nákup dárků";
 "lng_credits_box_history_entry_gift_bought_from" = "Od";
 "lng_credits_box_history_entry_gift_converted" = "Převedený dárek";
@@ -2575,7 +2575,7 @@
 "lng_credits_box_history_entry_via" = "Skrze";
 "lng_credits_box_history_entry_via_premium_bot" = "Premium Bot";
 "lng_credits_box_out_about" = "Přečtěte si {link} pro hvězdy.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars";
 "lng_credits_box_out_both" = "{photo} a {video}";
 "lng_credits_box_out_confirm#one" = "Potvrdit a zaplatit {emoji} {count} hvězdu";
 "lng_credits_box_out_confirm#few" = "Potvrdit a zaplatit {emoji} {count} hvězdy";
@@ -2704,7 +2704,7 @@
 "lng_credits_summary_in_toast_title" = "Získané hvězdy";
 "lng_credits_summary_options_about" = "Pokračováním a nákupem hvězd souhlasíte s {link}.";
 "lng_credits_summary_options_about_link" = "Podmínkami služby";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars";
+"lng_credits_summary_options_about_url" = "https://whatsgram.org/tos/stars";
 "lng_credits_summary_options_credits#one" = "{count} hvězda";
 "lng_credits_summary_options_credits#few" = "{count} hvězdy";
 "lng_credits_summary_options_credits#many" = "{count} hvězd";
@@ -4790,7 +4790,7 @@
 "lng_group_invite_subscription" = "Vyžadovat měsíční poplatek";
 "lng_group_invite_subscription_about" = "Vybírejte poplatek za předplatné od lidí, kteří se k vašemu kanálu připojí prostřednictvím tohoto odkazu. {link}";
 "lng_group_invite_subscription_about_link" = "Další informace {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "měsíčně získáte přibližně {total}";
 "lng_group_invite_subscription_info_subtitle" = "Poplatek za předplatné";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} / měsíc {multiplier} {total}";
@@ -5655,7 +5655,7 @@
 "lng_mini_apps_disclaimer_link" = "Podmínkami používání";
 "lng_mini_apps_disclaimer_text" = "Chystáte se používat miniaplikaci provozovanou nezávislou stranou, která **není spojena s Telegramem**. Abyste mohli pokračovat v používání mini aplikací, musíte souhlasit s podmínkami používání.";
 "lng_mini_apps_disclaimer_title" = "Varování";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "Minimalizovat do ozn. oblasti";
 "lng_minimize_window" = "Minimalizovat";
 "lng_minutes#one" = "{count} minuta";
@@ -5865,7 +5865,7 @@
 "lng_owner_badge" = "vlastník";
 "lng_paid_about" = "Uživatelé budou muset přenést toto množství hvězd do vašeho kanálu, aby mohli tato média zobrazit. {link}";
 "lng_paid_about_link" = "Více o hvězdách >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars";
 "lng_paid_admin_about" = "Sledující vám mohou posílat hvězdné reakce.";
 "lng_paid_admin_title" = "Získejte hvězdy od sledujících";
 "lng_paid_comment_about" = "Zvýrazněte a připněte svou zprávu přidáním hvězd uživateli {name}.";
@@ -6428,7 +6428,7 @@
 "lng_popular_apps_info_here" = "zde";
 "lng_popular_apps_info_text" = "Tento katalog řadí miniaplikace podle jejich denních příjmů měřených ve hvězdách. Aby mohli být vývojáři zařazeni do seznamu, musí mít svou hlavní miniaplikaci nastavenou v {bot} (jak je popsáno zde {link}), mít více než **1000** uživatelů denně a dosahovat denního příjmu vyššího než **1000** hvězd na základě týdenního průměru.";
 "lng_popular_apps_info_title" = "Nejlepší miniaplikace";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
+"lng_popular_apps_info_url" = "https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app";
 "lng_posts_limit_about#one" = "Můžete provést {count} vyhledávací dotaz denně.";
 "lng_posts_limit_about#few" = "Můžete provést až {count} vyhledávací dotazy denně.";
 "lng_posts_limit_about#many" = "Můžete provést až {count} vyhledávacích dotazů denně.";
@@ -6873,7 +6873,7 @@
 "lng_profile_bot_help" = "Nápověda k botu";
 "lng_profile_bot_permissions_title" = "Povolit přístup k";
 "lng_profile_bot_privacy" = "Zásady ochrany osobních údajů bota";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "Nastavení bota";
 "lng_profile_camera_title" = "Vyfoťte se";
 "lng_profile_changed_photo_about" = "Můžete ji změnit v {link}.";
@@ -8042,7 +8042,7 @@
 "lng_settings_export_data" = "Exportovat data telegramu";
 "lng_settings_faq" = "Časté otázky";
 "lng_settings_faq_button" = "Zobrazit FAQ";
-"lng_settings_faq_link" = "https://telegram.org/faq#general-questions";
+"lng_settings_faq_link" = "https://whatsgram.org/faq#general-questions";
 "lng_settings_faq_subtitle" = "FAQ";
 "lng_settings_features" = "Funkce Telegramu";
 "lng_settings_file_confirmations" = "Potvrzení o otevření souboru";
@@ -8242,7 +8242,7 @@
 "lng_settings_suggestion_password_title" = "Vaše heslo";
 "lng_settings_suggestion_password_yes" = "Ano, opravdu";
 "lng_settings_suggestion_phone_number_about" = "Udržujte číslo aktuální pro zachování možnosti přihlášení do Telegramu. {link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
+"lng_settings_suggestion_phone_number_about_link" = "https://whatsgram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
 "lng_settings_suggestion_phone_number_change" = "Co nejdříve změňte své telefonní číslo v oficiální aplikaci Telegram ve svém telefonu. {emoji}";
 "lng_settings_suggestion_phone_number_title" = "Je {phone} stále vaše číslo?";
 "lng_settings_system_integration" = "Integrace do systému";
@@ -8481,7 +8481,7 @@
 "lng_sponsored_info_description1" = "Narozdíl od jiných aplikací, Telegram nikdy nevyužívá vaše osobní data pro cílení reklamy. Sponzorované zprávy na Telegramu jsou zvolené čistě podle zaměření veřejných kanálů, kde se zobrazují. Toto znamená, že žádná vaše data nejsou shromažďována nebo analyzována k zobrazení reklam, a každý uživatel Telegramu, prohlížející kanál vidí stejné sponzorované zprávy.\n\nNarozdíl od jiných aplikací, Telegram nezjišťuje, zda jste klepli na sponzorovanou zprávu, a neprofiluje vás podle toho. Zajišťujeme také, že externí odkazy ve sponzorovaných zprávách nesledují uživatele. Věříme, že každý má právo na soukromí, a technologická platforma by to měla respektovat.\n\nTelegram nabízí zdarma neomezenou službu pro stovky milionů uživatelů, což generuje nemalé náklady na server a propustnost. Abychom byli schopni zůstat nezávislí a věrni svým hodnotám, vyvinuli jsme placený nástroj pro zvýraznění zpráv s ohledem na soukromí našich uživatelů. Vítáme případné inzerenty zde:\n[url]\nSponzorované zprávy jsou momentálně v testovacím módu. Jakmile budou plně spuštěny a budou pokrývat základní náklady Telegramu, budeme sdílet revenue s vlastníky veřejných kanálů, ve kterých byly tyto zprávy zobrazeny\n\nOnline reklamy by už neměly být synonymem zneužití soukromí uživatelů. Snažíme se o to, aby se tento pohled změnil a jak by měly být vnímány technologickými společnostmi - společně.";
 "lng_sponsored_info_description1_link" = "Další informace najdete v Zásadách ochrany osobních údajů";
 "lng_sponsored_info_description1_linked" = "Na rozdíl od jiných aplikací, Telegram nikdy nepoužívá vaše soukromé údaje k cílení reklamy. {link}\n\nNa rozdíl od jiných aplikací, Telegram nesleduje, zda jste klepli na sponzorovanou zprávu, a neprofiluje vás na základě vaší aktivity. Ve sponzorovaných zprávách také zabraňujeme externím odkazům, abychom zajistili, že třetí strany nebudou moci špehovat naše uživatele. Věříme, že každý má právo na soukromí a technologické platformy by to měly respektovat.\n\nTelegram nabízí bezplatnou a neomezenou službu stovkám milionů uživatelů, což s sebou nese značné náklady na server a provoz. Aby Telegram zůstal nezávislý a zůstal věrný svým hodnotám, vyvinul placený nástroj na propagaci zpráv s ohledem na soukromí uživatelů. Zodpovědné inzerenty vítáme na adrese:";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy#5-6-no-ads-based-on-user-data";
+"lng_sponsored_info_description1_url" = "https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data";
 "lng_sponsored_info_description2" = "Sponzorované zprávy jsou v současnosti v testovacím provozu. Až budou plně spuštěny a umožní Telegramu pokrývat jeho náklady, umožníme sdílení příjmu z reklam s majiteli veřejných kanálů, ve kterých se sponzorované zprávy zobrazují.\n\nOnline reklamy by už neměly být synonymem pro narušování uživatelského soukromí. Pojďme předefinovat chování technologických společností – společně.";
 "lng_sponsored_info_menu" = "Informace o inzerentech";
 "lng_sponsored_info_submenu" = "Inzerent: {text}";
@@ -8722,7 +8722,7 @@
 "lng_star_ref_start_info" = "Vytvořením partnerského programu souhlasíte s {terms} partnerských programů.";
 "lng_star_ref_stopped" = "Tento partnerský odkaz již není aktivní.";
 "lng_star_ref_title" = "Partnerský program";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program";
+"lng_star_ref_tos_url" = "https://whatsgram.org/tos/affiliate-program";
 "lng_star_ref_transparent_about" = "Sledujte své provize od doporučených uživatelů v reálném čase.";
 "lng_star_ref_transparent_title" = "Transparentnost";
 "lng_star_ref_update" = "Aktualizovat partnerský program";

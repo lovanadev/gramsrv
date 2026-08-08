@@ -62,7 +62,7 @@
 "AdsInfo.Bot.Split.Title" = "Pomažu vlasniku bota";
 "AdsInfo.Info" = "Oglasi na Telegramu uvelike se razlikuju od oglasa na drugim platformama. Oglasi kao što je ovaj:";
 "AdsInfo.Launch.Text" = "Svatko može izraditi oglas za prikazivanje na ovom kanalu — uz minimalne troškove. Za detalje posjetite **Telegramovu platformu za oglase**. [Saznajte više >]()";
-"AdsInfo.Launch.Text_URL" = "https://ads.telegram.org";
+"AdsInfo.Launch.Text_URL" = "https://ads.whatsgram.org";
 "AdsInfo.Launch.Title" = "Mogu li ja postaviti oglas?";
 "AdsInfo.Respect.Text" = "Oglasi na Telegramu ne koriste vaše osobne podatke i temelje se na kanalu na kojem ih vidite.";
 "AdsInfo.Respect.Title" = "Poštuju vašu privatnost";
@@ -85,7 +85,7 @@
 "AffiliateProgram.JoinSubtitleYears#one" = "**{bot}** će **%d godinu** dijeliti **{commission}** prihoda od svakog korisnika kojeg dovedete.";
 "AffiliateProgram.JoinSubtitleYears#few" = "**{bot}** će **%d godine** dijeliti **{commission}** prihoda od svakog korisnika kojeg dovedete.";
 "AffiliateProgram.JoinSubtitleYears#other" = "**{bot}** će **%d godina** dijeliti **{commission}** prihoda od svakog korisnika kojeg dovedete.";
-"AffiliateProgram.JoinTerms" = "Pridruživanjem ovom programu pristajete na [Uvjete i odredbe](https://telegram.org/tos/affiliate-program) partnerskih programa.";
+"AffiliateProgram.JoinTerms" = "Pridruživanjem ovom programu pristajete na [Uvjete i odredbe](https://whatsgram.org/tos/affiliate-program) partnerskih programa.";
 "AffiliateProgram.JoinTitle" = "Partnerski program";
 "AffiliateProgram.LinkSubtitleLifetime" = "Podijelite ovaj link svojim prijateljima kako biste **zauvijek** dobivali proviziju od **{commission}** na njihovu potrošnju u **{bot}**.";
 "AffiliateProgram.LinkSubtitleMonths#one" = "Podijelite ovaj link svojim prijateljima kako biste **%d mjesec** dobivali proviziju od **{commission}** na njihovu potrošnju u **{bot}**.";
@@ -158,7 +158,7 @@
 "AffiliateSetup.StartTitle" = "Pokreni partnerski program";
 "AffiliateSetup.SuggestedSectionEmpty" = "Nema dostupnih programa.\nProvjerite kasnije.";
 "AffiliateSetup.SuggestedSectionTitle" = "PROGRAMI";
-"AffiliateSetup.TermsFooter" = "Pokretanjem partnerskog programa pristajete na [Uvjete i odredbe](https://telegram.org/terms) partnerskih programa.";
+"AffiliateSetup.TermsFooter" = "Pokretanjem partnerskog programa pristajete na [Uvjete i odredbe](https://whatsgram.org/terms) partnerskih programa.";
 "AffiliateSetup.TextJoin" = "Zaradite proviziju svaki put kada korisnik koji je prvi put pristupio mini-aplikaciji preko vašeg linka potroši **zvjezdice** unutar nje.";
 "AffiliateSetup.TextNew" = "Nagradite one koji pomažu povećati vašu bazu korisnika.";
 "AffiliateSetup.TitleJoin" = "Partnerski programi";
@@ -528,11 +528,11 @@
 "AuthSessions.AddDevice" = "Skenirajte QR kod";
 "AuthSessions.AddDevice.InvalidQRCode" = "Neispravan QR kod";
 "AuthSessions.AddDevice.ScanInfo" = "Skenirajte QR kod kako biste se prijavili na drugom uređaju.";
-"AuthSessions.AddDevice.ScanInstallInfo" = "Otvorite [getdesktop.telegram.org](desktop) ili [web.telegram.org](web) da biste dobili QR kod";
+"AuthSessions.AddDevice.ScanInstallInfo" = "Otvorite [getdesktop.whatsgram.org](desktop) ili [web.whatsgram.org](web) da biste dobili QR kod";
 "AuthSessions.AddDevice.ScanTitle" = "Skenirajte QR kod";
 "AuthSessions.AddDevice.UrlLoginHint" = "Ovaj kod možete koristiti ako želite dopustiti nekome da se prijavi na vaš Telegram račun.\n\nZa potvrdu prijave idite na Postavke > Uređaji > Dodaj uređaj.";
 "AuthSessions.AddDeviceIntro.Action" = "Skeniraj QR kod";
-"AuthSessions.AddDeviceIntro.Text1" = "Preuzmite Telegram na računalo sa stranice [desktop.telegram.org]()";
+"AuthSessions.AddDeviceIntro.Text1" = "Preuzmite Telegram na računalo sa stranice [desktop.whatsgram.org]()";
 "AuthSessions.AddDeviceIntro.Text2" = "Pokrenite Telegram na računalu kako biste dobili QR kod";
 "AuthSessions.AddDeviceIntro.Text3" = "Skenirajte QR kod i povežite svoj račun";
 "AuthSessions.AddDeviceIntro.Title" = "Skenirajte QR kod";
@@ -985,7 +985,7 @@
 "Business.AddPost" = "Dodajte objave";
 "Business.AddPostInfo" = "Objavite slike i videozapise svojih proizvoda ili usluga na svojoj stranici.";
 "Business.AdsInfo" = "Kao Premium pretplatnik, ne vidite nikakve oglase na Telegramu, ali ih možete uključiti, na primjer, da vidite vlastite oglase koje ste pokrenuli na [Telegramovoj platformi za oglase >]()";
-"Business.AdsInfo_URL" = "https://ads.telegram.org";
+"Business.AdsInfo_URL" = "https://ads.whatsgram.org";
 "Business.AdsTitle" = "OGLASI U KANALIMA";
 "Business.AwayMessages" = "Poruke o odsutnosti";
 "Business.AwayMessagesInfo" = "Postavite poruke koje se automatski šalju kada ste odsutni.";
@@ -2720,7 +2720,7 @@
 "Chat.PrivateMessageSentTimestamp.Date" = "poslano %@";
 "Chat.PrivateMessageSentTimestamp.TodayAt" = "poslano danas u %@";
 "Chat.PrivateMessageSentTimestamp.YesterdayAt" = "poslano jučer u %@";
-"Chat.PsaTooltip.covid" = "Ovaj razgovor vam pruža objave javnih tijela koje se odnose na COVID-19 pandemiju. Saznajte više o ovoj inicijativi na https://telegram.org/blog/coronavirus";
+"Chat.PsaTooltip.covid" = "Ovaj razgovor vam pruža objave javnih tijela koje se odnose na COVID-19 pandemiju. Saznajte više o ovoj inicijativi na https://whatsgram.org/blog/coronavirus";
 "Chat.PsaTooltip.psa" = "Ovo je službeno priopćenje izvršnog direktora Telegrama u vezi sukoba koji je u tijeku.";
 "Chat.QuickReply.ServiceHeader1" = "Za uređivanje ili brisanje brzog odgovora dodirnite ga i zadržite.";
 "Chat.QuickReply.ServiceHeader2" = "Za korištenje ovog brzog odgovora, upišite / i odaberite prečac s popisa.";
@@ -3156,7 +3156,7 @@
 "ChatList.PremiumRestoreDiscountTitle" = "Vratite Premium uz %@ popusta";
 "ChatList.PremiumXmasGiftText" = "Pošaljite limitirane poklone prijateljima!";
 "ChatList.PremiumXmasGiftTitle" = "👑 Snoop Dogg pokloni 🎁";
-"ChatList.PsaAlert.covid" = "Ovaj razgovor vam pruža objave javnih tijela koje se odnose na COVID-19 pandemiju. Saznajte više o ovoj inicijativi na https://telegram.org/blog/coronavirus";
+"ChatList.PsaAlert.covid" = "Ovaj razgovor vam pruža objave javnih tijela koje se odnose na COVID-19 pandemiju. Saznajte više o ovoj inicijativi na https://whatsgram.org/blog/coronavirus";
 "ChatList.PsaAlert.psa" = "Ovo je službeno priopćenje izvršnog direktora Telegrama u vezi sukoba koji je u tijeku.";
 "ChatList.PsaLabel.covid" = "COVID-19";
 "ChatList.PsaLabel.psa" = "Priopćenje";
@@ -3437,7 +3437,7 @@
 "ChatbotSetup.SetupNotCompleted.Text" = "Niste dodali bot za upravljanje svojim računom. Svejedno napustiti?";
 "ChatbotSetup.SetupNotCompleted.Title" = "Bot nije dodan";
 "ChatbotSetup.Text" = "Dodajte bot koji će u vaše ime odgovarati na poruke.";
-"ChatbotSetup.TextLink" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"ChatbotSetup.TextLink" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "ChatbotSetup.Title" = "Dolazi uskoro!";
 "ChatbotSetup.TitleItem" = "Automatizacija razgovora";
 "Checkout.Email" = "E-pošta";
@@ -4410,7 +4410,7 @@
 "Conversation.Unpin" = "Otkvači";
 "Conversation.UnpinMessageAlert" = "Želite li otkvačiti ovu poruku?";
 "Conversation.UnreadMessages" = "Nepročitane poruke";
-"Conversation.UnsupportedMedia" = "Ova poruka nije podržana na vašoj verziji Telegrama. Ažurirajte aplikaciju kako biste ju vidjeli: http://telegram.org/update";
+"Conversation.UnsupportedMedia" = "Ova poruka nije podržana na vašoj verziji Telegrama. Ažurirajte aplikaciju kako biste ju vidjeli: http://whatsgram.org/update";
 "Conversation.UnsupportedMediaPlaceholder" = "Ova poruka nije podržana na vašoj verziji telegrama. Ažurirajte Telegram na najnoviju verziju.";
 "Conversation.UnvotePoll" = "Ukloni odgovor";
 "Conversation.UpdateTelegram" = "AŽURIRAJ TELEGRAM";
@@ -4625,7 +4625,7 @@
 "DeleteAccount.ConfirmationAlertText" = "Brisanjem računa trajno ćete izbrisati svoje podatke!\n\nOva radnja se ne može poništiti!";
 "DeleteAccount.ConfirmationAlertTitle" = "Želite li nastaviti s brisanjem svog računa?";
 "DeleteAccount.Continue" = "Nastavi";
-"DeleteAccount.DeleteMessagesURL" = "https://telegram.org/faq#q-can-i-delete-my-messages";
+"DeleteAccount.DeleteMessagesURL" = "https://whatsgram.org/faq#q-can-i-delete-my-messages";
 "DeleteAccount.DeleteMyAccount" = "Izbriši moj račun";
 "DeleteAccount.DeleteMyAccountTitle" = "Brisanje računa";
 "DeleteAccount.EnterPassword" = "Unesite svoju lozinku";
@@ -4879,7 +4879,7 @@
 "EnableSharing.SendRequest" = "Pošaljite zahtjev";
 "EnableSharing.Text" = "**%@** treba dopustiti kopiranje sadržaja. Poslati zahtjev?";
 "EnableSharing.Title" = "Dopusti kopiranje";
-"EncryptionKey.Description" = "Ova slika i tekst dobiveni su iz ključa za šifriranje tajnog razgovora s korisnikom %1$@.\n\nAko izgleda isto kao i na uređaju korisnika %2$@, end-to-end enkripcija je zajamčena.\n\nSaznajte više na telegram.org";
+"EncryptionKey.Description" = "Ova slika i tekst dobiveni su iz ključa za šifriranje tajnog razgovora s korisnikom %1$@.\n\nAko izgleda isto kao i na uređaju korisnika %2$@, end-to-end enkripcija je zajamčena.\n\nSaznajte više na whatsgram.org";
 "EncryptionKey.Title" = "Enkripcijski ključ";
 "EnterPasscode.ChangeTitle" = "Promijeni lozinku";
 "EnterPasscode.EnterCurrentPasscode" = "Unesite trenutnu lozinku";
@@ -5121,7 +5121,7 @@
 "FrozenAccount.Understood" = "U redu";
 "FrozenAccount.Violation.Text" = "Vaš račun je zamrznut zbog kršenja uvjeta i odredbi Telegrama.";
 "FrozenAccount.Violation.TextNew" = "Vaš račun je zamrznut zbog kršenja [uvjeta korištenja Telegrama]().";
-"FrozenAccount.Violation.TextNew_URL" = "https://telegram.org/tos";
+"FrozenAccount.Violation.TextNew_URL" = "https://whatsgram.org/tos";
 "FrozenAccount.Violation.Title" = "Kršenje uvjeta";
 "Gallery.Ad" = "Dodaj";
 "Gallery.AirPlay" = "AirPlay";
@@ -6468,7 +6468,7 @@
 "InviteText.ContactsCountText#few" = "Hej, ja koristim Telegram za dopisivanje kao i naša %@ zajednička kontakta. Pridruži nam se! Preuzmi ga ovdje: {url}";
 "InviteText.ContactsCountText#other" = "Hej, ja koristim Telegram za dopisivanje kao i naših %@ zajedničkih kontakata. Pridruži nam se! Preuzmi ga ovdje: {url}";
 "InviteText.SingleContact" = "Hej, ja koristim Telegram za dopisivanje. Pridruži mi se! Preuzmi ga ovdje: %@";
-"InviteText.URL" = "https://telegram.org/dl";
+"InviteText.URL" = "https://whatsgram.org/dl";
 "Items.NOfM" = "%1$@ od %2$@";
 "Join.ChannelsTooMuch" = "Nažalost, član ste previše grupa i kanala. Napustite neki razgovor kako biste se mogli pridružiti.";
 "KeyCommand.ChatInfo" = "Info o razgovoru";
@@ -6754,7 +6754,7 @@
 "Login.NewNumber" = "Novi broj";
 "Login.OpenFragment" = "Otvori Fragment";
 "Login.Or" = "ili";
-"Login.PRIVACY_URL" = "https://telegram.org/privacy";
+"Login.PRIVACY_URL" = "https://whatsgram.org/privacy";
 "Login.PadPhoneHelp" = "\nMožete koristiti svoj glavni broj telefona kako biste se prijavili na Telegram sa svih uređaja.\nNemojte koristiti broj u iPad-u jer vam trebamo poslati SMS.\n\nJe li ovaj broj točan?\n{number}";
 "Login.PadPhoneHelpTitle" = "Vaš broj telefona";
 "Login.Paste" = "Zalijepi";
@@ -7332,9 +7332,9 @@
 "Monetization.Balance.ComingLaterInfo" = "U nadolazećim tjednima moći ćete isplatiti svoju nagradu koristeći Fragment, platformu treće strane koju koriste oglašivači za plaćanje oglasa. [Saznajte više >]()";
 "Monetization.Balance.StarsInfo" = "Nagrade od zvjezdica možete podići preko Fragmenta ili ih iskoristiti za reklamiranje svog bota. Ne možete isplatiti manje od 1000 zvjezdica. [Saznajte više >]()";
 "Monetization.Balance.StarsInfoGroup" = "Možete preuzeti nagrade od zvjezdica preko Fragmenta. Ne možete isplatiti manje od 1000 zvjezdica. [Saznajte više >]()";
-"Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
+"Monetization.Balance.StarsInfo_URL" = "https://whatsgram.org/tos/stars";
 "Monetization.Balance.ZeroInfo" = "Moći ćete isplatiti svoju nagradu koristeći Fragment, platformu treće strane koju koriste oglašivači za plaćanje oglasa. [Odredbe i uvjeti >]()";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceStarsBuyAds" = "Kupi oglase";
 "Monetization.BalanceStarsWithdraw" = "Isplata preko Fragmenta";
 "Monetization.BalanceStarsWithdrawShort" = "Isplata";
@@ -7351,7 +7351,7 @@
 "Monetization.Intro.Bot.Ads.Text" = "Telegram može prikazivati \u200b\u200boglase u vašem botu.";
 "Monetization.Intro.Bot.Title" = "Zaradite preko svog bota";
 "Monetization.Intro.Info.Text" = "Gram je kriptovaluta TON blockchain platforme, koju Telegram koristi zbog velike brzine i niskih provizija na transakcije. [Saznajte više >]()";
-"Monetization.Intro.Info.Text_URL" = "https://telegram.org/blog/monetization-for-channels";
+"Monetization.Intro.Info.Text_URL" = "https://whatsgram.org/blog/monetization-for-channels";
 "Monetization.Intro.Info.Title" = "Što je #Gram?";
 "Monetization.Intro.Split.Text" = "Možete dobiti 50% prihoda od oglasa u obliku Grama.";
 "Monetization.Intro.Split.Title" = "50:50 podjela prihoda";
@@ -8824,7 +8824,7 @@
 "Passport.Identity.TypePassportUploadScan" = "Prenesite kopiju vaše putovnice";
 "Passport.Identity.TypePersonalDetails" = "Osobni podaci";
 "Passport.Identity.UploadOneOfScan" = "Prenesite kopiju %@";
-"Passport.InfoFAQ_URL" = "https://telegram.org/faq#passport";
+"Passport.InfoFAQ_URL" = "https://whatsgram.org/faq#passport";
 "Passport.InfoLearnMore" = "Saznajte više";
 "Passport.InfoText" = "Pomoću **Telegram putovnice** se možete registrirati na web stranice i servise koji zahtijevaju potvrdu identiteta.\n\nVaše informacije, osobni podaci i dokumenti su zaštićeni end-to-end enkripcijom. Nitko, uključujući i Telegram, ne može im pristupiti bez vaše dozvole.";
 "Passport.InfoTitle" = "Što je Telegram putovnica?";
@@ -8933,10 +8933,10 @@
 "PeerInfo.AllowedReactions.OptionSomeReactions" = "Neke reakcije";
 "PeerInfo.AllowedReactions.ReactionListHeader" = "DOSTUPNE REAKCIJE";
 "PeerInfo.AllowedReactions.StarReactions" = "Omogući plaćene reakcije";
-"PeerInfo.AllowedReactions.StarReactionsFooter" = "Uključite ako želite svojim pretplatnicima omogućiti reagiranje s Telegram zvjezdicama, koje ćete moći isplatiti kao Grame. [Saznajte više >](https://telegram.org/tos/content-creator-rewards)";
+"PeerInfo.AllowedReactions.StarReactionsFooter" = "Uključite ako želite svojim pretplatnicima omogućiti reagiranje s Telegram zvjezdicama, koje ćete moći isplatiti kao Grame. [Saznajte više >](https://whatsgram.org/tos/content-creator-rewards)";
 "PeerInfo.AllowedReactions.Title" = "Reakcije";
-"PeerInfo.AppFooter" = "Pokretanjem ove mini-aplikacije pristajete na [Uvjete korištenja za mini-aplikacije](https://telegram.org/tos/mini-apps).";
-"PeerInfo.AppFooterAdmin" = "Objavljivanjem ove mini aplikacije pristajete na [Telegramove uvjete pružanja usluge za programere](https://telegram.org/tos/bot-developers).";
+"PeerInfo.AppFooter" = "Pokretanjem ove mini-aplikacije pristajete na [Uvjete korištenja za mini-aplikacije](https://whatsgram.org/tos/mini-apps).";
+"PeerInfo.AppFooterAdmin" = "Objavljivanjem ove mini aplikacije pristajete na [Telegramove uvjete pružanja usluge za programere](https://whatsgram.org/tos/bot-developers).";
 "PeerInfo.AutoDeleteDisable" = "Isključi";
 "PeerInfo.AutoDeleteInfo" = "Automatski briše nove poruke nakon određenog vremenskog perioda.";
 "PeerInfo.AutoDeleteSettingOther" = "Ostalo...";
@@ -10079,7 +10079,7 @@
 "Report.Title.Story" = "Prijavite priču";
 "Report.Title.User" = "Prijavite korisnika";
 "ReportAd.Help" = "Saznajte više o [Telegramovim pravilima i smjernicama za oglase]().";
-"ReportAd.Help_URL" = "https://ads.telegram.org/guidelines";
+"ReportAd.Help_URL" = "https://ads.whatsgram.org/guidelines";
 "ReportAd.Hidden" = "Više nećete vidjeti oglase na Telegramu.";
 "ReportAd.Reported" = "Pregledat ćemo ovaj oglas kako bismo bili sigurni da je u skladu s našim [pravilima i smjernicama za oglase]().";
 "ReportAd.Title" = "Prijavi oglas";
@@ -10341,7 +10341,7 @@
 "SendStarReactions.ShowMyselfInTop" = "Prikaži me u top pošiljateljima";
 "SendStarReactions.SliderTop" = "TOP";
 "SendStarReactions.SubtitleFrom" = "od %@";
-"SendStarReactions.TermsOfServiceFooter" = "Slanjem zvjezdica pristajte na [Uvjete korištenja](https://telegram.org/tos/stars).";
+"SendStarReactions.TermsOfServiceFooter" = "Slanjem zvjezdica pristajte na [Uvjete korištenja](https://whatsgram.org/tos/stars).";
 "SendStarReactions.TextGeneric" = "Odaberite koliko zvjezdica želite poslati **%@* da podržite ovu objavu.";
 "SendStarReactions.TextSentStars#one" = "Poslali ste **%d** zvjezdicu kako biste podržali ovu objavu.";
 "SendStarReactions.TextSentStars#few" = "Poslali ste **%d** zvjezdice kako biste podržali ovu objavu.";
@@ -10451,7 +10451,7 @@
 "Settings.FAQ" = "Česta pitanja o Telegramu";
 "Settings.FAQ_Button" = "ČPP";
 "Settings.FAQ_Intro" = "Imajte na umu da podršku za Telegram rade volonteri. Nastojimo odgovoriti što je brže moguće, ali to može ponekad potrajati.\n\nNajprije pogledajte Česta pitanja o Telegramu. Tamo možete pronaći neke odgovore i korisne savjete za rješavanje problema.";
-"Settings.FAQ_URL" = "https://telegram.org/faq#general-questions";
+"Settings.FAQ_URL" = "https://whatsgram.org/faq#general-questions";
 "Settings.FrequentlyAskedQuestions" = "Česta pitanja";
 "Settings.KeepPassword" = "Da, naravno";
 "Settings.KeepPhoneNumber" = "Zadrži %@";
@@ -10491,7 +10491,7 @@
 "Settings.Privacy.ReadTimePremiumActive" = "Pretplaćeni ste na Telegram Premium";
 "Settings.Privacy.ReadTimePremiumActiveFooter" = "Budući da ste pretplaćeni na Telegram Premium, vidjet ćete vrijeme zadnjeg posjeta i čitanja poruka svih korisnika koji to dijele s vama – čak i ako ste svoje vrijeme sakrili.";
 "Settings.Privacy.ReadTimePremiumFooter" = "Ako se pretplatite na Premium, vidjet ćete vrijeme zadnjeg posjeta i vrijeme čitanja drugih korisnika čak i ako ste svoje vrijeme sakrili od njih (osim ako to nisu izričito ograničili).";
-"Settings.PrivacyPolicy_URL" = "https://telegram.org/privacy";
+"Settings.PrivacyPolicy_URL" = "https://whatsgram.org/privacy";
 "Settings.PrivacySettings" = "Privatnost i sigurnost";
 "Settings.Proxy" = "Proxy";
 "Settings.ProxyConnected" = "Povezano";
@@ -10530,7 +10530,7 @@
 "Settings.SuggestSetupPasswordText" = "Postavite lozinku koja će biti potrebna svaki put kada se prijavite s ovim brojem telefona.";
 "Settings.SuggestSetupPasswordTitle" = "Zaštitite svoj račun";
 "Settings.Support" = "Postavi pitanje";
-"Settings.Terms_URL" = "https://telegram.org/tos";
+"Settings.Terms_URL" = "https://whatsgram.org/tos";
 "Settings.Tips" = "Značajke Telegrama";
 "Settings.TipsUsername" = "TelegramTips";
 "Settings.Title" = "Postavke";
@@ -10820,10 +10820,10 @@
 "SocksProxySetup.Warning.Text" = "Ovo će otkriti vašu IP adresu administratoru proxy servera.";
 "SocksProxySetup.Warning.Title" = "Upozorenje";
 "SponsoredMessageInfo.Action" = "Saznajte više";
-"SponsoredMessageInfo.ActionUrl" = "https://ads.telegram.org";
-"SponsoredMessageInfo.Text" = "Pogledajte https://telegram.org";
-"SponsoredMessageInfo.Url" = "https://ads.telegram.org";
-"SponsoredMessageInfoScreen.MarkdownText" = "\nZa razliku od drugih aplikacija, Telegram nikada ne koristi vaše privatne podatke za ciljane oglase. [Saznajte više u pravilima o privatnosti](https://telegram.org/privacy#5-6-no-ads-based-on-user-data)\nOvu poruku vidite samo zato što je netko odabrao ovaj javni kanal kao prostor za promicanje svojih poruka. To znači da se za prikaz oglasa ne traže niti analiziraju korisnički podaci, a svaki korisnik koji gleda kanal na Telegramu vidi istu sponzoriranu poruku.\n\nZa razliku od drugih aplikacija, Telegram nikada ne prati koju ste sponzoriranu poruku otvorili i ne profilira vas na temelju vaše aktivnosti. Također sprječavamo vanjske linkove u sponzoriranim porukama kako bismo osigurali da treće strane ne mogu špijunirati naše korisnike. Smatramo da svatko ima pravo na privatnost, a tehnološke platforme bi to trebale poštivati.\n\nTelegram nudi besplatne i neograničene usluge stotinama milijuna korisnika, što uključuje značajne troškove za podatkovni promet i održavanje servera. Kako bi ostao neovisan i vjeran svojim vrijednostima, Telegram je razvio alat za promociju poruka imajući na umu privatnost korisnika. Pozivamo odgovorne oglašivače da posjete:\n[url]\nOglasi više ne smiju biti sinonim za zlouporabu privatnosti korisnika. Zajedno ćemo pokazati kako bi to sve tehnološke tvrtke trebale raditi.";
+"SponsoredMessageInfo.ActionUrl" = "https://ads.whatsgram.org";
+"SponsoredMessageInfo.Text" = "Pogledajte https://whatsgram.org";
+"SponsoredMessageInfo.Url" = "https://ads.whatsgram.org";
+"SponsoredMessageInfoScreen.MarkdownText" = "\nZa razliku od drugih aplikacija, Telegram nikada ne koristi vaše privatne podatke za ciljane oglase. [Saznajte više u pravilima o privatnosti](https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data)\nOvu poruku vidite samo zato što je netko odabrao ovaj javni kanal kao prostor za promicanje svojih poruka. To znači da se za prikaz oglasa ne traže niti analiziraju korisnički podaci, a svaki korisnik koji gleda kanal na Telegramu vidi istu sponzoriranu poruku.\n\nZa razliku od drugih aplikacija, Telegram nikada ne prati koju ste sponzoriranu poruku otvorili i ne profilira vas na temelju vaše aktivnosti. Također sprječavamo vanjske linkove u sponzoriranim porukama kako bismo osigurali da treće strane ne mogu špijunirati naše korisnike. Smatramo da svatko ima pravo na privatnost, a tehnološke platforme bi to trebale poštivati.\n\nTelegram nudi besplatne i neograničene usluge stotinama milijuna korisnika, što uključuje značajne troškove za podatkovni promet i održavanje servera. Kako bi ostao neovisan i vjeran svojim vrijednostima, Telegram je razvio alat za promociju poruka imajući na umu privatnost korisnika. Pozivamo odgovorne oglašivače da posjete:\n[url]\nOglasi više ne smiju biti sinonim za zlouporabu privatnosti korisnika. Zajedno ćemo pokazati kako bi to sve tehnološke tvrtke trebale raditi.";
 "SponsoredMessageInfoScreen.Text" = "Za razliku od drugih aplikacija, Telegram nikada ne koristi vaše privatne podatke za ciljane oglase. Sponzorirane poruke na Telegramu temelje se isključivo na temi javnog kanala na kojem su prikazane. To znači da se za prikaz oglasa ne traže niti analiziraju korisnički podaci, a svaki korisnik koji gleda kanal na Telegramu vidi istu sponzoriranu poruku.\n\nZa razliku od drugih aplikacija, Telegram nikada ne prati koju ste sponzoriranu poruku otvorili i ne profilira vas na temelju vaše aktivnosti. Također sprječavamo vanjske linkove u sponzoriranim porukama kako bismo osigurali da treće strane ne mogu špijunirati naše korisnike. Smatramo da svatko ima pravo na privatnost, a tehnološke platforme bi to trebale poštivati.\n\nTelegram nudi besplatne i neograničene usluge stotinama milijuna korisnika, što uključuje značajne troškove za podatkovni promet i održavanje servera. Kako bi ostao neovisan i vjeran svojim vrijednostima, Telegram je razvio alat za promociju poruka imajući na umu privatnost korisnika. Pozivamo odgovorne oglašivače da posjete:\n[url]\nSponzorirane poruke trenutno su u testnom načinu rada. Nakon što u potpunosti budu dostupne i omoguće Telegramu da pokrije svoje osnovne troškove, počet ćemo dijeliti prihod od oglasa s vlasnicima javnih kanala na kojima se prikazuju sponzorirane poruke.\n\nOglasi više ne smiju biti sinonim za zlouporabu privatnosti korisnika. Zajedno ćemo pokazati kako bi to sve tehnološke tvrtke trebale raditi.";
 "SponsoredMessageInfoScreen.Title" = "Što su sponzorirane poruke?";
 "SponsoredMessageMenu.Hide" = "Sakrij";
@@ -10841,7 +10841,7 @@
 "Stars.BotRevenue.Withdraw.Balance" = "Dostupno stanje";
 "Stars.BotRevenue.Withdraw.BuyAds" = "Kupi oglase";
 "Stars.BotRevenue.Withdraw.Info" = "Nagrade od zvjezdica možete podići preko Fragmenta ili ih iskoristiti za reklamiranje svog bota. Ne možete isplatiti manje od 1000 zvjezdica. [Saznajte više >]()";
-"Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Stars.BotRevenue.Withdraw.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "Stars.BotRevenue.Withdraw.Withdraw" = "Isplata preko Fragmenta";
 "Stars.BotRevenue.Withdraw.WithdrawShort" = "Isplata";
 "Stars.Gift.Received.Text" = "Koristite zvjezdice za otključavanje sadržaja i usluga na Telegramu. [Pogledaj primjere >]()";
@@ -10935,7 +10935,7 @@
 "Stars.Intro.Withdraw" = "Isplati";
 "Stars.Intro.YourBalance" = "vaše stanje";
 "Stars.PaidContent.AmountInfo" = "Korisnici će morati poslati ovu količinu zvjezdica na vaš kanal kako bi mogli vidjeti ovaj medij. [Više o zvjezdicama >]()";
-"Stars.PaidContent.AmountInfo_URL" = "https://telegram.org/tos/stars";
+"Stars.PaidContent.AmountInfo_URL" = "https://whatsgram.org/tos/stars";
 "Stars.PaidContent.AmountPlaceholder" = "Zvjezdice za otključavanje";
 "Stars.PaidContent.AmountTitle" = "UNESITE CIJENU OTKLJUČAVANJA";
 "Stars.PaidContent.Create" = "Napravi plaćeni medij";
@@ -10968,7 +10968,7 @@
 "Stars.Purchase.StarsReactionsNeededInfo" = "Kupite zvjezdice za slanje plaćenih reakcija prema **%@* i drugim kanalima.";
 "Stars.Purchase.SubscriptionInfo" = "Kupite zvjezdice kako biste se pretplatili na **%@**.";
 "Stars.Purchase.SubscriptionRenewInfo" = "Kupite zvjezdice kako biste zadržali svoju pretplatu na **%@**.";
-"Stars.Purchase.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Purchase.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Purchase.TransferStarGiftInfo" = "Kupite zvjezdice kako biste prenijeli vlasništvo nad kolekcionarskim primjerkom.";
 "Stars.Purchase.UpgradeStarGiftInfo" = "Kupite zvjezdice kako biste nadogradili svoje poklone u kolekcionarske primjerke.";
 "Stars.SellGift.AmountInfo" = "Dobit ćete **%@**.";
@@ -10999,7 +10999,7 @@
 "Stars.SendStars.SendStars" = "Potvrdi i pošalji";
 "Stars.SendStars.Title" = "Pošaljite zvjezdice";
 "Stars.Subscription.Terms" = "Pretplatom pristajte na [Uvjete korištenja]().";
-"Stars.Subscription.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Subscription.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Ton.Description" = "Koristite Gram za kupnju poklona i predlaganje objava kanalima.";
 "Stars.Ton.Title" = "Gram stanje";
 "Stars.Transaction.AppleTopUp.Subtitle" = "App Store";
@@ -11105,7 +11105,7 @@
 "Stars.Transaction.TelegramPremium#few" = "Premium za %@ mjeseca";
 "Stars.Transaction.TelegramPremium#other" = "Premium za %@ mjeseci";
 "Stars.Transaction.Terms" = "Pregledajte [Uvjete korištenja]() za zvjezdice.";
-"Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transaction.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transaction.To" = "Za";
 "Stars.Transaction.Unsupported.Title" = "Nije podržano";
 "Stars.Transaction.Via" = "Preko";
@@ -11141,7 +11141,7 @@
 "Stars.Transfer.SubscribeInfo" = "Želite li se pretplatiti na **%1$@** za **%2$@** mjesečno?";
 "Stars.Transfer.SubscribePerMonth" = "/ mjesečno";
 "Stars.Transfer.Terms" = "Kupnjom pristajte na [Uvjete korištenja]().";
-"Stars.Transfer.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transfer.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transfer.Title" = "Potvrdite svoju kupnju";
 "Stars.Transfer.Unavailable" = "Nažalost, kupnja zvjezdica \u200b\u200bnije dostupna u vašoj zemlji.";
 "Stars.Transfer.UnlockBotInfo" = "Želite li otključati %1$@ od **%2$@** za **%3$@**?";
@@ -12177,9 +12177,9 @@
 "Ton.ProceedsOverview" = "PREGLED PRIHODA";
 "Ton.WithdrawViaFragment" = "Isplata preko Fragmenta";
 "Ton.WithdrawViaFragment.Info" = "Isplatite svoje Grame preko Fragmenta. [Saznajte više >]()";
-"Ton.WithdrawViaFragment.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Ton.WithdrawViaFragment.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "TopApps.Info.Done" = "U redu";
-"TopApps.Info.Text" = "Ovaj katalog rangira mini-aplikacije na temelju njihovog dnevnog prihoda koji se mjeri u zvjezdicama. Da bi bili navedeni, programeri moraju postaviti svoju glavnu mini-aplikaciju u [@botfather]() (kako je opisano [ovdje](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)), aplikacija mora imati više od **1000** korisnika dnevno i zarađivati više od **1000** zvjezdica dnevno, na temelju tjednog prosjeka.";
+"TopApps.Info.Text" = "Ovaj katalog rangira mini-aplikacije na temelju njihovog dnevnog prihoda koji se mjeri u zvjezdicama. Da bi bili navedeni, programeri moraju postaviti svoju glavnu mini-aplikaciju u [@botfather]() (kako je opisano [ovdje](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app)), aplikacija mora imati više od **1000** korisnika dnevno i zarađivati više od **1000** zvjezdica dnevno, na temelju tjednog prosjeka.";
 "TopApps.Info.Title" = "Top mini-aplikacije";
 "Tour.StartButton" = "Započnite dopisivanje";
 "Tour.Text1" = "**Najbrža** aplikacija za dopisivanje.\n **Besplatna** i **sigurna**.";
@@ -13118,7 +13118,7 @@
 "WebApp.DisclaimerContinue" = "Nastavi";
 "WebApp.DisclaimerText" = "Upravo ćete koristiti mini-aplikaciju kojom upravlja neovisna strana koja nije povezana s Telegramom. Za nastavak morate prihvatiti Uvjete korištenja mini-aplikacija.";
 "WebApp.DisclaimerTitle" = "Uvjeti korištenja";
-"WebApp.Disclaimer_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.Disclaimer_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.Download.Cancel" = "Odustani";
 "WebApp.Download.Document" = "Preuzimanje datoteke";
 "WebApp.Download.Download" = "Preuzmi";
@@ -13148,7 +13148,7 @@
 "WebApp.LaunchMoreInfo" = "Više o ovom botu";
 "WebApp.LaunchOpenApp" = "Pokreni";
 "WebApp.LaunchTermsConfirmation" = "Pokretanjem ove mini-aplikacije pristajete na [Uvjete pružanja usluga za mini-aplikacije]().";
-"WebApp.LaunchTermsConfirmation_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.LaunchTermsConfirmation_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.LocationPermission.Allow" = "Dopusti";
 "WebApp.LocationPermission.Decline" = "Odbij";
 "WebApp.LocationPermission.Succeed" = "**%@** sada ima pristup vašoj lokaciji.";
@@ -13168,7 +13168,7 @@
 "WebApp.OpenWebViewAlertText" = "**%@** želi otvoriti svoju web aplikaciju za nastavak.\n\nMoći će pristupiti vašoj **IP adresi** i osnovnim podacima o uređaju.";
 "WebApp.OpenWebViewAlertTitle" = "Pokretanje aplikacije";
 "WebApp.PrivacyPolicy" = "Pravila privatnosti ";
-"WebApp.PrivacyPolicy_URL" = "https://telegram.org/privacy-tpa";
+"WebApp.PrivacyPolicy_URL" = "https://whatsgram.org/privacy-tpa";
 "WebApp.ReloadPage" = "Ponovno učitaj";
 "WebApp.RemoveAllConfirmationText" = "Ovo će ukloniti prečace za **%@** iz svih izbornika.";
 "WebApp.RemoveBot" = "Ukloni iz izbornika";
@@ -13190,7 +13190,7 @@
 "WebApp.ShortcutsAdded" = "Prečac za **%@** je dodan u izbornik privitaka.";
 "WebApp.ShortcutsSettingsAdded" = "Prečaci za **%@** su dodani u izbornik privitaka i bočni izbornik.";
 "WebApp.TermsOfUse" = "Uvjeti korištenja";
-"WebApp.TermsOfUse_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.TermsOfUse_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebBrowser.AddBookmark" = "Knjižna oznaka";
 "WebBrowser.AddressBar.Bookmarks" = "KNJIŽNE OZNAKE";
 "WebBrowser.AddressBar.RecentlyVisited" = "NEDAVNA PRETRAŽIVANJA";

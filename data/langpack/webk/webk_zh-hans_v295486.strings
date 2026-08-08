@@ -192,7 +192,7 @@
 "AdminRights.ManageStories" = "管理动态";
 "AdminRights.Other" = "其他";
 "AdminRights.PostStories" = "发布动态";
-"Ads.Reported" = "我们将审核此广告，以保证其符合 **[广告政策与准则](https://ads.telegram.org/guidelines)**。";
+"Ads.Reported" = "我们将审核此广告，以保证其符合 **[广告政策与准则](https://ads.whatsgram.org/guidelines)**。";
 "AgeVerification.Title" = "年龄验证";
 "Alert.BotAppDoesntExist" = "抱歉，该应用不存在。";
 "Alert.Confirm.Discard" = "舍弃";
@@ -638,7 +638,7 @@
 "Chat.Message.Ad.ReadMore" = "阅读更多";
 "Chat.Message.Ad.Text" = "与其他应用不同，Telegram 不会将您的隐私数据用于投放定向广告。赞助商消息的投放完全基于公开频道内所发布的内容。这意味着 Telegram 不会通过挖掘和分析用户画像来投放广告，查看频道的所有用户都会看到同样的赞助商消息。\n\n与其他应用不同，Telegram 不会追踪您是否点击赞助商消息，也不会基于您的活跃数据生成用户画像。为了避免来自第三方的窥探，我们还禁止在赞助商消息中插入外部链接。我们相信每个人都有保护隐私的权利，而科技平台应该尊重用户的隐私权。\n\nTelegram 向数以亿计的用户提供免费服务的同时，也需要承担由此产生的高昂运营成本，包括服务器和流量开销。为了保持独立并延续其价值观，Telegram 将用户隐私权谨记于心，开发了这套付费工具。欢迎有责任的广告商与我们取得联系：\n\n%@\n\n赞助商消息目前仍然处于测试阶段。全面启动赞助商消息系统，并且 Telegram 能够平衡运营成本之后，我们将与显示赞助商消息的频道所有者共同分享广告收入。\n\n线上广告不应再是滥用用户隐私的代名词。让我们共同携手，重新定义科技公司的运营模式。";
 "Chat.Message.SendMessage" = "发送消息";
-"Chat.Message.Sponsored.Link" = "https://promote.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://promote.whatsgram.org";
 "Chat.Message.Sponsored.What" = "什么是赞助消息？";
 "Chat.Message.ViewApp" = "打开应用";
 "Chat.Message.ViewBot" = "查看机器人";
@@ -763,7 +763,7 @@
 "ChatList.Filter.NonContacts" = "非联系人";
 "ChatList.Filter.ReadChats" = "已读";
 "ChatList.Main.EmptyPlaceholder.Subtitle" = "您在 Telegram 有 %s";
-"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "在您的 [Android](https://telegram.org/android) 或者 [iOS](https://telegram.org/dl/ios) 设备上使用 Telegram 应用程序以同步联系人";
+"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "在您的 [Android](https://whatsgram.org/android) 或者 [iOS](https://whatsgram.org/dl/ios) 设备上使用 Telegram 应用程序以同步联系人";
 "ChatList.Main.EmptyPlaceholder.Title" = "您的聊天将显示在此处";
 "ChatList.Menu.SwitchTo.A" = "切换到 A 版本";
 "ChatList.Menu.SwitchTo.Webogram" = "切换至老版本";
@@ -1443,8 +1443,8 @@
 "Message.Context.Selection.SendNow" = "现在发送选中的消息";
 "Message.Context.Unpin" = "取消置顶";
 "Message.ReplyActionButtonShowReceipt" = "显示收据";
-"Message.Unsupported.Desktop" = "__Telegram Web 目前不支持此消息。请尝试 [Telegram Desktop](https://getdesktop.telegram.org/)__";
-"Message.Unsupported.Mobile" = "__Telegram Web 目前不支持此消息。请尝试 [Telegram Desktop](https://telegram.org/dl/)__";
+"Message.Unsupported.Desktop" = "__Telegram Web 目前不支持此消息。请尝试 [Telegram Desktop](https://getdesktop.whatsgram.org/)__";
+"Message.Unsupported.Mobile" = "__Telegram Web 目前不支持此消息。请尝试 [Telegram Desktop](https://whatsgram.org/dl/)__";
 "MessageContainsEmojiPack" = "此消息包含来自 %s 表情包的表情。";
 "MessageContainsEmojiPacks#other" = "这条消息包含了来自 **%d 个表情包** 的表情。";
 "MessageContainsReactionPack" = "此表情回应是 %s 表情包中的一个表情。";
@@ -1996,7 +1996,7 @@
 "Report2CommentOptional" = "添加评论 (可选)";
 "Report2Send" = "发送举报";
 "ReportAd" = "举报广告";
-"ReportAdLearnMore" = "了解更多有关我们的[广告政策和指南](https://ads.telegram.org/guidelines)。";
+"ReportAdLearnMore" = "了解更多有关我们的[广告政策和指南](https://ads.whatsgram.org/guidelines)。";
 "ReportBug" = "举报错误";
 "ReportChat" = "举报";
 "ReportChatChild" = "虐待儿童";
@@ -2294,7 +2294,7 @@
 "Stars.Subscription.Title" = "订阅月费";
 "Stars.TopUp" = "星星充值";
 "Stars.TopUp.Label_default" = "购买星星，解锁 Telegram \n小程序中的内容和服务。";
-"Stars.TransactionTOS" = "查看星星的 **[服务条款] (https://telegram.org/tos)**。";
+"Stars.TransactionTOS" = "查看星星的 **[服务条款] (https://whatsgram.org/tos)**。";
 "Stars.Via" = "通过";
 "Stars.Via.App" = "应用内购买";
 "Stars.Via.Bot" = "星星充值机器人";
@@ -2574,8 +2574,8 @@
 "Users#other" = "%1$d 位用户";
 "UsesLimitHelp" = "您可以设定链接在使用一定次数后自动失效。";
 "ViaBot" = "通过";
-"Video.Unsupported.Desktop" = "__很遗憾，此视频无法在 Telegram Web 上播放。请尝试使用 [Telegram 桌面应用程序](https://getdesktop.telegram.org/) 打开。__";
-"Video.Unsupported.Mobile" = "__很遗憾，此视频无法在 Telegram Web 上播放。请尝试使用 [Telegram 桌面应用程序](https://telegram.org/dl/) 打开。__";
+"Video.Unsupported.Desktop" = "__很遗憾，此视频无法在 Telegram Web 上播放。请尝试使用 [Telegram 桌面应用程序](https://getdesktop.whatsgram.org/) 打开。__";
+"Video.Unsupported.Mobile" = "__很遗憾，此视频无法在 Telegram Web 上播放。请尝试使用 [Telegram 桌面应用程序](https://whatsgram.org/dl/) 打开。__";
 "VideoCall" = "视频电话";
 "ViewAllReplies" = "查看所有回复";
 "ViewDiscussion" = "查看讨论";
@@ -2635,7 +2635,7 @@
 "WebApp.InstallBot" = "安装机器人";
 "WebApp.WriteAccess.Description" = "允许 %s 发送消息？";
 "WebApp.WriteAccess.Title" = "允许发送消息";
-"WebAppDisclaimerUrl" = "https://telegram.org/tos/mini-apps";
+"WebAppDisclaimerUrl" = "https://whatsgram.org/tos/mini-apps";
 "WebPage.RemovePreview" = "取消链接内容预览";
 "WebSessionsTitle" = "使用 Telegram 账号登录的网站";
 "Weeks#other" = "%1$d 周";

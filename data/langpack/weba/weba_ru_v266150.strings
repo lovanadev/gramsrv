@@ -1578,7 +1578,7 @@
 "GiftPeerUpgradeTransferableDescription" = "{user} сможет отправить подарок любому пользователю Telegram.";
 "GiftPeerUpgradeUniqueDescription" = "Подарку {user} будут присвоены уникальный номер, модель, фон и узор.";
 "GiftPremiumDescription" = "Подарите {user} доступ к эксклюзивным функциям Telegram. {link}";
-"GiftPremiumDescriptionLink" = "https://telegram.org/faq_premium";
+"GiftPremiumDescriptionLink" = "https://whatsgram.org/faq_premium";
 "GiftPremiumDescriptionLinkCaption" = "Подробнее о Premium >";
 "GiftPremiumDescriptionYourBalance" = "У Вас **{stars}**. {link}";
 "GiftPremiumHeader" = "Подарить Premium";
@@ -2513,7 +2513,7 @@
 "ProfileBirthdayValueAge#few" = "{date} ({age} года)";
 "ProfileBirthdayValueAge#many" = "{date} ({age} лет)";
 "ProfileBirthdayValueAge#other" = "{date} ({age} года)";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps/ru";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps/ru";
 "ProfileCopyPhone" = "Копировать телефон";
 "ProfileItemSubscribers" = "Подписчики";
 "ProfileJoinChannel" = "Присоединиться";
@@ -2882,7 +2882,7 @@
 "SpeakingWithVolume" = "{volume}% говорит";
 "SponsoredMessageAd" = "Реклама";
 "SponsoredMessageAdWhatIsThis" = "что это?";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "Как работают рекламные сообщения?";
 "SponsoredMessageInfoDescription1" = "В отличие от других приложений, Telegram не использует Ваши личные данные для таргетирования рекламы. Рекламные сообщения в Telegram зависят исключительно от тематики публичных каналов, в которых они отображаются. Это означает, что личные данные пользователей не собираются и не анализируются для отображения рекламы, и все пользователи, просматривающие тот или иной канал в Telegram, видят одинаковые рекламные сообщения.";
 "SponsoredMessageInfoDescription2" = "В отличие от других приложений, Telegram не отслеживает, перешли ли Вы по рекламному сообщению, и не создаёт на Вас «досье» на основе Вашей активности. Мы также предупреждаем перед открытием внешних ссылок в рекламных сообщениях, чтобы третьи стороны не могли шпионить за нашими пользователями. Мы считаем, что каждый имеет право на неприкосновенность частной жизни и технологические платформы должны это уважать.";
@@ -2925,7 +2925,7 @@
 "StarsNeededTextSendPaidMessages" = "Купите **звёзды**, чтобы отправлять сообщения.";
 "StarsPay" = "Подтвердить и заплатить {amount}";
 "StarsPerMonth" = "{amount} ⭐️ в месяц";
-"StarsReactionLink" = "https://telegram.org/tos/stars";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars";
 "StarsReactionLinkText" = "условия";
 "StarsReactionTerms" = "Отправляя звёзды, Вы принимаете {link} их покупки и использования";
 "StarsSubscribeBotButtonMonth" = "Подписаться за {amount} в месяц";
@@ -2934,14 +2934,14 @@
 "StarsSubscribeBotText#many" = "Оформить подписку «**{name}**» в **{bot}** за **{amount}** звёзд в месяц?";
 "StarsSubscribeBotText#other" = "Оформить подписку «**{name}**» в **{bot}** за **{amount}** звезды в месяц?";
 "StarsSubscribeInfo" = "Оформляя подписку, Вы принимаете {link} Telegram.";
-"StarsSubscribeInfoLink" = "https://telegram.org/tos/stars";
+"StarsSubscribeInfoLink" = "https://whatsgram.org/tos/stars";
 "StarsSubscribeInfoLinkText" = "условия";
 "StarsSubscribeText#one" = "Подписаться на **{chat}** за **{amount} звезду** в месяц?";
 "StarsSubscribeText#few" = "Подписаться на **{chat}** за **{amount} звезды** в месяц?";
 "StarsSubscribeText#many" = "Подписаться на **{chat}** за **{amount} звёзд** в месяц?";
 "StarsSubscribeText#other" = "Подписаться на **{chat}** за **{amount} звезды** в месяц?";
 "StarsTransactionTOS" = "Применяются {link} покупки и использования звёзд.";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars/ru";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars/ru";
 "StarsTransactionTOSLinkText" = "условия";
 "StarsTransactionsAll" = "Все операции";
 "StarsTransactionsIncoming" = "Зачисления";

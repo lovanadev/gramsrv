@@ -302,7 +302,7 @@
 "AdminRights.ManageStories" = "مدیریت استوری\u200cها";
 "AdminRights.Other" = "سایر";
 "AdminRights.PostStories" = "پست کردن استوری";
-"Ads.Reported" = "ما این تبلیغ را بررسی می\u200cکنیم تا اطمینان حاصل کنیم که با **[سیاست\u200cها و دستورالعمل\u200cهای تبلیغات](https://ads.telegram.org/guidelines)** ما مطابقت داشته باشد.";
+"Ads.Reported" = "ما این تبلیغ را بررسی می\u200cکنیم تا اطمینان حاصل کنیم که با **[سیاست\u200cها و دستورالعمل\u200cهای تبلیغات](https://ads.whatsgram.org/guidelines)** ما مطابقت داشته باشد.";
 "AgeVerification.Action" = "تأیید سن من";
 "AgeVerification.Failed" = "متأسفانه نمی\u200cتوانید محتوای 18+ را مشاهده کنید.";
 "AgeVerification.Text" = "برای دسترسی به چنین محتوایی، باید تأیید کنید که حداقل **18** سال سن دارید.\n\nاین فرآیند تنها یک بار و با استفاده از دوربین تلفن همراه شما انجام می\u200cشود. سلفی شما توسط تلگرام ذخیره نخواهد شد.";
@@ -903,7 +903,7 @@
 "Chat.Message.Ad.Text" = "برخلاف سایر برنامه\u200cها، تلگرام هرگز از اطلاعات خصوصی شما برای اهداف تبلیغاتی استفاده نمی\u200cکند. پیام\u200cهای حمایت شده در تلگرام فقط مرتبط به موضوع کانال\u200cهای عمومی هستند که در آن\u200cها نمایش داده می\u200cشوند. این یعنی اطلاعات کاربران برای نمایش تبلیغات، مورد داده\u200cکاوی یا تحلیل قرار نمی\u200cگیرد، و هر کاربری که در حال مشاهده کانالی در تلگرام باشد، یک پیام حمایت شده یکسان را می\u200cبیند.\n\nبرخلاف سایر برنامه\u200cها، تلگرام اینکه شما بر روی یک پیام حمایت شده زده\u200cاید یا نه را ردیابی نمی\u200cکند و بر اساس فعالیت شما برایتان پروفایل\u200cسازی نمی\u200cکند. ما همچنین از لینک\u200cهای خارجی در پیام\u200cهای حمایت شده جلوگیری می\u200cکنیم تا اطمینان حاصل کنیم که اشخاص ثالث قادر به جاسوسی از کاربران ما نباشند. ما باور داریم که همه افراد حق داشتن حریم خصوصی را دارند، و پلتفرم\u200cهای مربوط به تکنولوژی باید به این حق احترام بگذارند.\n\nتلگرام به صدها میلیون کاربر خدمات رایگان و نامحدودی را ارائه می\u200cکند که هزینه\u200cهای قابل توجهی برای سرور و ترافیک را شامل می\u200cشود. تلگرام برای اینکه مستقل باقی مانده و به ارزش\u200cهای خود وفادار بماند، ابزار پرداخت شده\u200cای را برای تبلیغ پیام\u200cها با حفظ حریم خصوصی کاربر توسعه داده است. ما از تبلیغ کنندگان مربوطه در آدرس زیر استقبال می\u200cکنیم:\n\n\u2068%@\u2069\n\nپیام\u200cهای حمایت شده در حال حاضر در حالت آزمایشی قرار دارند. هنگامی که به طور کامل راه\u200cاندازی شوند و به تلگرام امکان پوشش هزینه\u200cهای پایه خود را بدهند، ما درآمد حاصل از تبلیغات را با مالکان کانال\u200cهای عمومی که تبلیغات حمایت شده در آن\u200cها نمایش داده می\u200cشوند، به اشتراک می\u200cگذاریم.\n\nتبلیغات آنلاین دیگر نباید به معنی سوء استفاده از حریم خصوصی کاربر باشند. بیایید با هم دوباره تعریف کنیم که یک شرکت فناوری باید چگونه فعالیت کند.";
 "Chat.Message.RequestToJoin" = "درخواست عضویت";
 "Chat.Message.SendMessage" = "ارسال پیام";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "پیام\u200cهای حمایت شده چه هستند؟";
 "Chat.Message.ViewApp" = "اجرای برنامه";
 "Chat.Message.ViewBot" = "مشاهده ربات";
@@ -1046,7 +1046,7 @@
 "ChatList.Filter.NonContacts" = "غیرمخاطبین";
 "ChatList.Filter.ReadChats" = "خوانده شده";
 "ChatList.Main.EmptyPlaceholder.Subtitle" = "شما \u2068%s\u2069 در تلگرام دارید";
-"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "برای همگام\u200cسازی مخاطبین خود، از برنامه تلگرام در دستگاه [اندروید](https://telegram.org/android) یا [iOS](https://telegram.org/dl/ios) خود استفاده کنید.";
+"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "برای همگام\u200cسازی مخاطبین خود، از برنامه تلگرام در دستگاه [اندروید](https://whatsgram.org/android) یا [iOS](https://whatsgram.org/dl/ios) خود استفاده کنید.";
 "ChatList.Main.EmptyPlaceholder.Title" = "گفتگوهای شما در اینجا نمایش داده خواهند شد";
 "ChatList.Menu.SwitchTo.A" = "تغییر به نسخه A";
 "ChatList.Menu.SwitchTo.Webogram" = "تغییر به نسخه قدیمی";
@@ -1730,7 +1730,7 @@
 "InviteLink.Observe.Fee.Subtitle" = "شما حدود \u2068%s\u2069 در ماه دریافت می\u200cکنید";
 "InviteLink.Observe.Fee.Title" = "\u2068%s\u2069 / ماه x \u2068%d\u2069";
 "InviteLink.Sticker.TimeLeft" = "ظرف \u2068%@\u2069 منقضی می\u200cشود";
-"InviteLink.Subscription.Caption" = "از افرادی که از طریق این لینک به کانال شما می\u200cپیوندند، هزینه اشتراک دریافت کنید. [بیشتر بدانید >](https://telegram.org/)";
+"InviteLink.Subscription.Caption" = "از افرادی که از طریق این لینک به کانال شما می\u200cپیوندند، هزینه اشتراک دریافت کنید. [بیشتر بدانید >](https://whatsgram.org/)";
 "InviteLink.Subscription.Edit" = "برای تغییر هزینه اشتراک، لینک دعوت جدیدی را با قیمت متفاوت ایجاد کنید.";
 "InviteLink.Subscription.Placeholder" = "تعداد ستاره\u200cها در ماه";
 "InviteLink.Subscription.Price" = "~\u2068%s\u2069 / ماه";
@@ -2088,8 +2088,8 @@
 "Message.Context.Selection.SendNow" = "ارسال موارد انتخاب شده همین الان";
 "Message.Context.Unpin" = "برداشتن سنجاق";
 "Message.ReplyActionButtonShowReceipt" = "مشاهده رسید";
-"Message.Unsupported.Desktop" = "__این پیام در حال حاضر توسط تلگرام وب پشتیبانی نمی\u200cشود. [getdesktop.telegram.org](https://getdesktop.telegram.org/) را امتحان کنید__";
-"Message.Unsupported.Mobile" = "__این پیام در حال حاضر توسط تلگرام وب پشتیبانی نمی\u200cشود. [telegram.org/dl](https://telegram.org/dl/) را امتحان کنید__";
+"Message.Unsupported.Desktop" = "__این پیام در حال حاضر توسط تلگرام وب پشتیبانی نمی\u200cشود. [getdesktop.whatsgram.org](https://getdesktop.whatsgram.org/) را امتحان کنید__";
+"Message.Unsupported.Mobile" = "__این پیام در حال حاضر توسط تلگرام وب پشتیبانی نمی\u200cشود. [whatsgram.org/dl](https://whatsgram.org/dl/) را امتحان کنید__";
 "MessageContainsEmojiPack" = "این پیام حاوی اموجی\u200cهایی از بسته \u2068%s\u2069 است.";
 "MessageContainsEmojiPacks#other" = "این پیام حاوی اموجی\u200cهایی از **\u2068%d\u2069 بسته** است.";
 "MessageContainsReactionPack" = "این واکنش، یک اموجی از بسته \u2068%s\u2069 است.";
@@ -2813,7 +2813,7 @@
 "Report2CommentOptional" = "دیدگاهی اضافه کنید (اختیاری)";
 "Report2Send" = "ارسال گزارش";
 "ReportAd" = "گزارش تبلیغ";
-"ReportAdLearnMore" = "درباره [سیاست\u200cها و دستورالعمل\u200cهای تبلیغات](https://ads.telegram.org/guidelines) ما بیشتر بدانید.";
+"ReportAdLearnMore" = "درباره [سیاست\u200cها و دستورالعمل\u200cهای تبلیغات](https://ads.whatsgram.org/guidelines) ما بیشتر بدانید.";
 "ReportBug" = "گزارش اشکال";
 "ReportChat" = "گزارش";
 "ReportChatChild" = "کودک آزاری";
@@ -2877,7 +2877,7 @@
 "RevenueSharingAdsInfo3Subtitle" = "شما می\u200cتوانید با خرید اشتراک **تلگرام پرمیوم**، تبلیغات را غیرفعال کنید، همچنین کانال\u200cهای سطح \u2068%1$s\u2069 می\u200cتوانند آن\u200cها را برای مشترکین خود حذف کنند.";
 "RevenueSharingAdsInfo3Title" = "قابل حذف";
 "RevenueSharingAdsInfo4Subtitle2" = "هر کسی می\u200cتواند با کمترین هزینه، تبلیغی را برای نمایش در این کانال ایجاد کند. برای جزئیات بیشتر، پلتفرم تبلیغات تلگرام را بررسی کنید. \u2068%1$s\u2069";
-"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[بیشتر بدانید >](https://ads.telegram.org/)**";
+"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[بیشتر بدانید >](https://ads.whatsgram.org/)**";
 "RevenueSharingAdsInfo4Title" = "آیا من می\u200cتوانم تبلیغی اجرا کنم؟";
 "RevokeAlert" = "آیا از باطل کردن این لینک اطمینان دارید؟ با این کار، هیچ\u200cکس قادر نخواهد بود با استفاده از آن بپیوندد.";
 "RevokeButton" = "باطل کردن";
@@ -3408,7 +3408,7 @@
 "Stars.Subscribe.Button" = "اشتراک";
 "Stars.Subscribe.Description" = "آیا می\u200cخواهید با پرداخت **\u2068%s\u2069** در ماه به **\u2068%s\u2069** بپیوندید؟";
 "Stars.Subscribe.Need" = "**ستاره\u200cهایی** خریداری نموده و از آن\u200cها برای اشتراک در کانال\u200cها استفاده کنید.";
-"Stars.Subscribe.Terms" = "در صورت اشتراک، شما با [شرایط و ضوابط خدمات](https://telegram.org) موافقت می\u200cکنید.";
+"Stars.Subscribe.Terms" = "در صورت اشتراک، شما با [شرایط و ضوابط خدمات](https://whatsgram.org) موافقت می\u200cکنید.";
 "Stars.Subscribe.Title" = "اشتراک در کانال";
 "Stars.Subscription" = "اشتراک";
 "Stars.Subscription.Active" = "در صورتی که الان لغو کنید، همچنان می\u200cتوانید به اشتراک خود تا \u2068%s\u2069 دسترسی داشته باشید.";
@@ -3428,13 +3428,13 @@
 "Stars.Subscriptions.Expires" = "در تاریخ \u2068%s\u2069 منقضی می\u200cشود";
 "Stars.Subscriptions.PerMonth" = "در ماه";
 "Stars.Subscriptions.Renews" = "در تاریخ \u2068%s\u2069 تمدید می\u200cشود";
-"Stars.TOS" = "با ادامه دادن و خریداری ستاره\u200cها، شما با [شرایط و ضوابط](https://telegram.org/tos) موافقت می\u200cکنید.";
+"Stars.TOS" = "با ادامه دادن و خریداری ستاره\u200cها، شما با [شرایط و ضوابط](https://whatsgram.org/tos) موافقت می\u200cکنید.";
 "Stars.TopUp" = "شارژ ستاره";
 "Stars.TopUp.Enough" = "شما در حال حاضر به اندازه کافی ستاره دارید. [خریداری]()";
 "Stars.TopUp.Label_default" = "با خرید ستاره، به محتوا و سرویس\u200cها\nدر مینی\u200cبرنامه\u200cهای تلگرام دسترسی پیدا کنید.";
 "Stars.TopUp.Label_stargift" = "با خرید **ستاره**، هدیه\u200cهایی ارسال کنید.";
 "Stars.TopUp.Reaction" = "با خرید **ستاره** و ارسال آن\u200cها به **\u2068%s\u2069**، از پست\u200cهای آن حمایت کنید.";
-"Stars.TransactionTOS" = "**[شرایط و ضوابط خدمات](https://telegram.org/tos)** ستاره\u200cها را بررسی کنید.";
+"Stars.TransactionTOS" = "**[شرایط و ضوابط خدمات](https://whatsgram.org/tos)** ستاره\u200cها را بررسی کنید.";
 "Stars.Unlock" = "آیا می\u200cخواهید با پرداخت **\u2068%s\u2069**، به \u2068%s\u2069 در **\u2068%s\u2069** دسترسی پیدا کنید؟";
 "Stars.Unlock.FromBot" = "آیا می\u200cخواهید با پرداخت **\u2068%s\u2069**، به \u2068%s\u2069 از **\u2068%s\u2069** دسترسی پیدا کنید؟";
 "Stars.Unlock.Media" = "\u2068%s\u2069 و \u2068%s\u2069";
@@ -3912,8 +3912,8 @@
 "Verified.Channel" = "این کانال توسط تلگرام تأیید شده است.";
 "Verified.Group" = "این گروه توسط تلگرام تأیید شده است.";
 "ViaBot" = "از طریق";
-"Video.Unsupported.Desktop" = "__متأسفانه این ویدیو نمی\u200cتواند در تلگرام وب پخش شود. در عوض، سعی کنید آن را با [برنامه دسکتاپ](https://getdesktop.telegram.org/) ما باز کنید.__";
-"Video.Unsupported.Mobile" = "__متأسفانه این ویدیو نمی\u200cتواند در تلگرام وب پخش شود. در عوض، سعی کنید آن را با [برنامه تلفن همراه](https://telegram.org/dl/) ما باز کنید.__";
+"Video.Unsupported.Desktop" = "__متأسفانه این ویدیو نمی\u200cتواند در تلگرام وب پخش شود. در عوض، سعی کنید آن را با [برنامه دسکتاپ](https://getdesktop.whatsgram.org/) ما باز کنید.__";
+"Video.Unsupported.Mobile" = "__متأسفانه این ویدیو نمی\u200cتواند در تلگرام وب پخش شود. در عوض، سعی کنید آن را با [برنامه تلفن همراه](https://whatsgram.org/dl/) ما باز کنید.__";
 "VideoCall" = "تماس ویدیویی";
 "Videos#one" = "\u2068%d\u2069 ویدیو";
 "Videos#other" = "\u2068%d\u2069 ویدیو";
@@ -3981,7 +3981,7 @@
 "WebApp.InstallBot" = "نصب ربات";
 "WebApp.WriteAccess.Description" = "به \u2068%s\u2069 اجازه ارسال پیام می\u200cدهید؟";
 "WebApp.WriteAccess.Title" = "اجازه ارسال پیام";
-"WebAppDisclaimerUrl" = "https://telegram.org/tos/mini-apps";
+"WebAppDisclaimerUrl" = "https://whatsgram.org/tos/mini-apps";
 "WebPage.InstantView" = "مشاهده فوری";
 "WebPage.OpenLink" = "باز کردن لینک";
 "WebPage.RemovePreview" = "حذف پیش\u200cنمایش لینک";

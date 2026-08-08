@@ -1338,7 +1338,7 @@
 "GiftPeerUpgradeTransferableDescription" = "{user} 能夠將禮物贈\u200b\u200b送給 Telegram 上的任何人。";
 "GiftPeerUpgradeUniqueDescription" = "{user} 將獲得禮物的獨家編號、型號、背景和符號。";
 "GiftPremiumDescription" = "讓 {user} 享有 Telegram Premium 的專屬功能。{link}";
-"GiftPremiumDescriptionLink" = "https://telegram.org/faq_premium";
+"GiftPremiumDescriptionLink" = "https://whatsgram.org/faq_premium";
 "GiftPremiumDescriptionLinkCaption" = "查看新功能 >";
 "GiftPremiumDescriptionYourBalance" = "您的餘額為 **{stars}** 顆星星。{link}";
 "GiftPremiumHeader" = "贈送 Premium";
@@ -2081,7 +2081,7 @@
 "ProfileBirthdayTodayValueAge#other" = "🎂 {date}（{age} 歲）";
 "ProfileBirthdayValue" = "{date}";
 "ProfileBirthdayValueAge#other" = "{date}（{age} 歲）";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps";
 "ProfileCopyPhone" = "複製電話號碼";
 "ProfileItemSubscribers" = "訂閱者";
 "ProfileJoinChannel" = "加入頻道";
@@ -2423,7 +2423,7 @@
 "SpeakingWithVolume" = "{volume}% 發言";
 "SponsoredMessageAd" = "廣告";
 "SponsoredMessageAdWhatIsThis" = "這是什麽？";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "什麼是贊助商廣告訊息？";
 "SponsoredMessageInfoDescription1" = "與其他應用程式不同，Telegram 從不使用您的私人數據來投放廣告。Telegram 上的贊助商廣告訊息完全是基於公開頻道其所顯示的主題。這意味著不會挖掘或分析用戶數據來顯示廣告，並且每個在 Telegram 上瀏覽某頻道的用戶所看到的贊助商廣告訊息都是一樣的。";
 "SponsoredMessageInfoDescription2" = "與其他應用程式不同，Telegram 不會在您點擊贊助商廣告訊息時追蹤您，也不會根據您的活動來描述您。除此之外，我們也會避免贊助商廣告訊息中有外部連結，藉以確保我們的用戶不會被第三方所監視。我們相信，每個人都擁有隱私權，而科技平台應該重視這點。";
@@ -2463,17 +2463,17 @@
 "StarsNeededTextSendPaidMessages" = "購買**星星**以傳送訊息。";
 "StarsPay" = "確認並支付 {amount}";
 "StarsPerMonth" = "⭐️{amount}/月";
-"StarsReactionLink" = "https://telegram.org/tos/stars";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars";
 "StarsReactionLinkText" = "服務條款";
 "StarsReactionTerms" = "送出星星即表示您同意{link}";
 "StarsSubscribeBotButtonMonth" = "以 {amount} /月訂閲";
 "StarsSubscribeBotText#other" = "您想每月以 **{amount}** 顆星星訂閱 **{bot}** 中的 **{name}** 嗎？";
 "StarsSubscribeInfo" = "訂閱即表示您同意 {link}。";
-"StarsSubscribeInfoLink" = "https://telegram.org/tos/stars";
+"StarsSubscribeInfoLink" = "https://whatsgram.org/tos/stars";
 "StarsSubscribeInfoLinkText" = "服務條款";
 "StarsSubscribeText#other" = "您想以每月 **{amount} 顆星星**的價格訂閲 **{chat}** 嗎？";
 "StarsTransactionTOS" = "查看 Telegram 星星的{link}。";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars";
 "StarsTransactionTOSLinkText" = "服務條款";
 "StarsTransactionsAll" = "全部交易";
 "StarsTransactionsIncoming" = "進帳";

@@ -1279,7 +1279,7 @@
 "ProfileBirthdayTodayValueAge#other" = "🎂 {date} ({age} yosh)";
 "ProfileBirthdayValueAge#one" = "{date} ({age} yosh)";
 "ProfileBirthdayValueAge#other" = "{date} ({age} yosh)";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps";
 "ProfileCopyPhone" = "Telefon raqamini nusxalash";
 "ProfileJoinChannel" = "Kanalga qoʻshilish";
 "ProfileJoinGroup" = "Guruhga qoʻshilish";
@@ -1474,7 +1474,7 @@
 "SomethingWentWrong" = "Qandaydir xatolik yuz berdi";
 "Speaking" = "gapirmoqda";
 "SpeakingWithVolume" = "{volume}% gapirmoqda";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "Reklama xabarlari nima?";
 "SponsoredMessageInfoDescription1" = "Boshqa ilovalardan farqli ravishda, Telegram hech qachon shaxsiy maʼlumotlaringizni reklamalarni target qilish uchun ishlatmaydi. Telegramdagi reklama xabarlari faqat ular namoyish qilinadigan ommaviy guruh mavzusiga asoslanadi. Bu shuni anglatadiki, reklamalarni namoyish qilish uchun hech qanday foydalanuvchi maʼlumotlari olinmaydi yoki tahlil qilinmaydi va Telegramda kanalni koʻrayotgan har bir foydalanuvchi bir xil reklama xabarlarini koʻradi.";
 "SponsoredMessageInfoDescription3" = "Telegram yuz millionlab foydalanuvchilarga server va trafik uchun katta xarajatlarni oʻz ichiga olgan bepul va cheksiz xizmatni taklif qiladi. Mustaqil boʻlish va oʻz qadriyatlariga sodiq qolish uchun Telegram foydalanuvchilar maxfiyligini hisobga olgan holda xabarlarni targʻib qilish uchun pulli vositani ishlab chiqdi. Biz masʼuliyatli reklama beruvchilarni quyidagi manzil orqali qabul qilamiz:";
@@ -1490,15 +1490,15 @@
 "StarGiftSaleTransaction" = "Hadya xaridi";
 "StarsAmount" = "⭐️{amount}";
 "StarsGiftHeaderSelf" = "Hadya sotib olish";
-"StarsReactionLink" = "https://telegram.org/tos/stars";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars";
 "StarsReactionTerms" = "Yulduzlar yuborish orqali siz {link}ga rozilik bildirasiz";
 "StarsSubscribeBotText#one" = "*{bot}**'da **{name}**ga oyiga **{amount}** yulduz evaziga obuna boʻlmoqchimisiz?";
 "StarsSubscribeBotText#other" = "*{bot}**'da **{name}**ga oyiga **{amount}** yulduz evaziga obuna boʻlmoqchimisiz?";
 "StarsSubscribeInfo" = "Siz obuna boʻlish orqali {link}ga rozilik berasiz.";
-"StarsSubscribeInfoLink" = "https://telegram.org/tos/stars";
+"StarsSubscribeInfoLink" = "https://whatsgram.org/tos/stars";
 "StarsSubscribeText#one" = "Oyiga **{amount} yulduz** evaziga **{chat}**ga obuna boʻlasizmi?";
 "StarsSubscribeText#other" = "Oyiga **{amount} yulduz** evaziga **{chat}**ga obuna boʻlasizmi?";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars";
 "StartText" = "Mamlakatingiz kodini tasdiqlang\nva telefon raqamingizni kiriting.";
 "StartVoipChat" = "Videochatni boshlash";
 "StartVoipChatPermission" = "Videochatlarni boshqarish";

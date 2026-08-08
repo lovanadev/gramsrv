@@ -131,7 +131,7 @@
 "AffiliateProgram.JoinSubtitleMonths_any" = "**{bot}** vil dele **{commission}** av inntekten fra hver bruker du henviser til den i **%d måneder**.";
 "AffiliateProgram.JoinSubtitleYears_1" = "**{bot}** vil dele **{commission}** av inntekten fra hver bruker du henviser til den i **1 år**.";
 "AffiliateProgram.JoinSubtitleYears_any" = "**{bot}** vil dele **{commission}** av inntekten fra hver bruker du henviser til den i **%d år**.";
-"AffiliateProgram.JoinTerms" = "Ved å bli med i dette programmet, godtar du [vilkår for bruk](https://telegram.org/tos/affiliate-program) av partnerprogrammer.";
+"AffiliateProgram.JoinTerms" = "Ved å bli med i dette programmet, godtar du [vilkår for bruk](https://whatsgram.org/tos/affiliate-program) av partnerprogrammer.";
 "AffiliateProgram.JoinTitle" = "Partnerprogram";
 "AffiliateProgram.LinkSubtitle" = "Del denne lenken med brukerne dine for å tjene **%1$d** provisjon på det de handler for i **%2$@** **%3$@** etter at de har benyttet lenken din.";
 "AffiliateProgram.LinkSubtitleLifetime" = "Del denne lenken med brukerne dine for å tjene **{commission}** provisjon på det de handler for i **{bot}** i **all evighet** etter at de har benyttet lenken din.";
@@ -200,7 +200,7 @@
 "AffiliateSetup.StartTitle" = "Start partnerprogram";
 "AffiliateSetup.SuggestedSectionEmpty" = "Ingen tilgjengelige programmer ennå.\nVennligst sjekk denne siden igjen senere.";
 "AffiliateSetup.SuggestedSectionTitle" = "PROGRAMMER";
-"AffiliateSetup.TermsFooter" = "Ved å opprette et partnerprogram, godtar du [vilkår for bruk](https://telegram.org/terms) av partnerprogrammer.";
+"AffiliateSetup.TermsFooter" = "Ved å opprette et partnerprogram, godtar du [vilkår for bruk](https://whatsgram.org/terms) av partnerprogrammer.";
 "AffiliateSetup.TextJoin" = "Tjen provisjon hver gang en bruker som besøker en miniapplikasjon for første gang gjennom din henvisningslenke bruker **stjerner** i den.";
 "AffiliateSetup.TextNew" = "Belønn de som hjelper deg med å øke brukerbasen din.";
 "AffiliateSetup.TitleJoin" = "Partnerprogrammer";
@@ -471,7 +471,7 @@
 "Bot.AllowSendMessages" = "Tillat **%@** å sende meg meldinger.";
 "Bot.Grossing.Disclaimer" = "Hvilke applikasjoner er inkludert her? [Les mer >](grossing)";
 "Bot.Grossing.Disclaimer.Alert.Header" = "Mest innbringende miniapplikasjoner";
-"Bot.Grossing.Disclaimer.Alert.Text" = "Denne katalogen rangerer miniapplikasjoner basert på deres daglige inntekter, målt i stjerner. For å bli oppført må utviklere angi sine hoved-miniapplikasjoner i [@botfather](https://t.me/botfather)(som beskrevet [her](https://core.telegram.org/bots/webapps)), ha over **1000** daglige brukere og en daglig inntekt på over **1000** stjerner basert på ukentlig gjennomsnitt.";
+"Bot.Grossing.Disclaimer.Alert.Text" = "Denne katalogen rangerer miniapplikasjoner basert på deres daglige inntekter, målt i stjerner. For å bli oppført må utviklere angi sine hoved-miniapplikasjoner i [@botfather](https://t.me/botfather)(som beskrevet [her](https://core.whatsgram.org/bots/webapps)), ha over **1000** daglige brukere og en daglig inntekt på over **1000** stjerner basert på ukentlig gjennomsnitt.";
 "Bot.Grossing.Disclaimer.Alert.ok" = "Jeg forstår";
 "Bot.InlineAuth.Header" = "Åpne lenke";
 "Bot.InlineAuth.Open" = "Åpne";
@@ -485,8 +485,8 @@
 "Bot.TransferOwner.Error.Title" = "Sikkerhetssjekk";
 "Bot.TransferOwnership.Password.Desc" = "Vennligst oppgi ditt totrinnsbekreftelsespassord for å gjennomføre.";
 "Bot.TransferOwnership.Password.Title" = "Totrinnsbekreftelse";
-"BotInfo.LaunchInfo" = "Ved å publisere denne miniapplikasjonen, godtar du [Telegrams tjenestevilkår for utviklere](https://telegram.org/tos/bot-developers).";
-"BotInfo.LaunchInfo.PrivacyUrl" = "https://telegram.org/privacy-tpa";
+"BotInfo.LaunchInfo" = "Ved å publisere denne miniapplikasjonen, godtar du [Telegrams tjenestevilkår for utviklere](https://whatsgram.org/tos/bot-developers).";
+"BotInfo.LaunchInfo.PrivacyUrl" = "https://whatsgram.org/privacy-tpa";
 "BotInfo.LaunchInfo.User" = "Ved å starte denne miniapplikasjonen, godtar du [Tjenestevilkår for miniapplikasjoner.](%@)";
 "BotInfo.OpenApp" = "Åpne app";
 "BotUsername.Activate.Info" = "Vil du vise denne lenken på robotens infoside?";
@@ -666,7 +666,7 @@
 "Business.ScheduleStart" = "Planlegg start";
 "Business.SelectPeers.Limit" = "Grense nådd";
 "Business.SwitchAd" = "Ikke skjul annonser";
-"Business.SwitchAd.Info" = "Som en abonnent på Premium vil du ikke se noen annonser på Telegram, men du kan slå på disse, for eksempel for å se annonser du selv har lansert på [Telegram Annonseplattform >](https://ads.telegram.org)";
+"Business.SwitchAd.Info" = "Som en abonnent på Premium vil du ikke se noen annonser på Telegram, men du kan slå på disse, for eksempel for å se annonser du selv har lansert på [Telegram Annonseplattform >](https://ads.whatsgram.org)";
 "Business.SwitchAd.Title" = "ANNONSER I KANALER";
 "Business.Updated" = "Ditt foretak har blitt oppdatert";
 "CHAT_MESSAGE_INVOICE" = "%1$@ sendte en faktura på %3$@ til gruppen %2$@";
@@ -1285,7 +1285,7 @@
 "ChannelReactions.EnableReactions" = "Aktiver reaksjoner";
 "ChannelReactions.EnableReactions.Info" = "Du kan legge til emoji fra en hvilken som helst emojipakke som reaksjoner.";
 "ChannelReactions.EnableStars" = "Aktiver betalte reaksjoner";
-"ChannelReactions.EnableStars.Info" = "Slå på dette for å la abonnentene dine reagere på innlegg med Telegram stjerner, som du vil kunne ta ut som Gram. [Les mer >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"ChannelReactions.EnableStars.Info" = "Slå på dette for å la abonnentene dine reagere på innlegg med Telegram stjerner, som du vil kunne ta ut som Gram. [Les mer >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "ChannelReactions.LevelRequired" = "Nivå %d nødvendig";
 "ChannelReactions.MaxCount.Info" = "Begrens antall forskjellige reaksjoner som kan legges til i både eksisterende og nye innlegg.";
 "ChannelReactions.MaxCount.Title" = "MAKS ANTALL REAKSJONER PR. INNLEGG";
@@ -1773,7 +1773,7 @@
 "Chat.ManageMessages.What_countable" = "%d";
 "Chat.Message.Ad.ReadMore" = "Les mer";
 "Chat.Message.Ad.Text" = "I motsetning til andre apper bruker aldri Telegram dine private data for å gi deg målrettede annonser. Sponsede meldinger på Telegram er basert utelukkende på emnet i den offentlige kanalen de vises i. Ingen brukerdata blir samlet eller analysert for å vise annonser, og alle brukere som ser på en kanal på Telegram ser den samme sponsede meldingen.\n\nI motsetning til andre apper sporer ikke Telegram om du har trykket på en sponset melding, og vi oppretter heller ikke profiler basert på aktiviteten din. Vi hindrer også eksterne lenker i sponsede meldinger for å sikre at tredjeparter ikke kan overvåke våre brukere. Vi mener at alle har rett til personvern, og teknologiske plattformer bør respektere det.\n\nTelegram tilbyr gratis og ubegrensede tjenester til hundrevis av millioner brukere, noe som innebærer betydelige server- og trafikkostnader. For å forbli uavhengig og holde fast ved sine verdier, har Telegram utviklet et betalt verktøy for å promotere meldinger med brukernes personvern i tankene. Vi ønsker ansvarlige annonsører velkommen på:\n%@\nSponsede meldinger er for tiden i testmodus. Så snart de er lansert for fullt og gjør det mulig for Telegram å dekke grunnleggende kostnader, vil vi begynne å dele reklameinntektene med eierne av de offentlige kanalene hvor sponsede meldinger vises.\n\nAnnonser bør ikke lenger være synonymt med misbruk av brukernes personvern. La oss sammen omdefinere hvordan et teknologiselskap bør operere.";
-"Chat.Message.Ad.Url" = "https://ads.telegram.org";
+"Chat.Message.Ad.Url" = "https://ads.whatsgram.org";
 "Chat.Message.Context.Quote" = "Siter";
 "Chat.Message.Context.Quote.LimitExceed" = "For mye tekst.";
 "Chat.Message.DeleteForAll" = "Slett for alle";
@@ -1819,7 +1819,7 @@
 "Chat.Message.Socks5.Config" = "SOCKS5 konfigurasjon";
 "Chat.Message.Sponsored" = "annonse";
 "Chat.Message.Sponsored.Advertiser" = "Annonsørinfo";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Hva er sponsede meldinger?";
 "Chat.Message.Suggest.Markup.Approve" = "Godta";
 "Chat.Message.Suggest.Markup.Decline" = "Avslå";
@@ -1833,7 +1833,7 @@
 "Chat.Message.Todo.Total" = "%1$@ av %2$@ fullført";
 "Chat.Message.UnsendMessages" = "Tilbakekall mine meldinger";
 "Chat.Message.UnsendMessages_countable" = "%d";
-"Chat.Message.Unsupported" = "Denne meldingen støttes ikke i din versjon av Telegram. Oppdater appen i AppStore eller installer den fra https://macos.telegram.org";
+"Chat.Message.Unsupported" = "Denne meldingen støttes ikke i din versjon av Telegram. Oppdater appen i AppStore eller installer den fra https://macos.whatsgram.org";
 "Chat.Message.UnsupportedNew" = "Denne meldingen støttes ikke i din versjon av Telegram. Vennligst oppdater appen til nyeste versjon.";
 "Chat.Message.Via" = "via";
 "Chat.Message.ViewBot" = "SE ROBOT";
@@ -2539,8 +2539,8 @@
 "ChatList.FolderUpdates.Title#one" = "%d ny samtale tilgjengelig";
 "ChatList.FolderUpdates.Title#other" = "%d nye samtaler tilgjengelige";
 "ChatList.FolderUpdates.Title_countable" = "%d";
-"ChatList.FreezeAccount" = "Kontoen din ble fryst på grunn av alvorlige brudd på Telegrams [vilkår for bruk](https://telegram.org/tos). Kontoen din er i lesemodus (siden %1$@). Du kan fortsatt levere en klage til [@SpamBot](%2$@) hvis du mener at det har blitt gjort en feil. Hvis vi ikke hører fra deg innen %3$@, vil kontoen din bli fullstendig deaktivert og slettet.";
-"ChatList.FreezeAccount.Alert" = "Kontoen din ble fryst på grunn av alvorlige brudd på Telegram sine [vilkår for bruk](https://telegram.org/tos). Kontoen din er i lesemodus (siden %1$@). Du kan fortsatt levere en klage til [@SpamBot](%2$@) hvis du mener at det har blitt gjort en feil. Hvis vi ikke hører fra deg innen %3$@, vil kontoen din bli fullstendig deaktivert og slettet.";
+"ChatList.FreezeAccount" = "Kontoen din ble fryst på grunn av alvorlige brudd på Telegrams [vilkår for bruk](https://whatsgram.org/tos). Kontoen din er i lesemodus (siden %1$@). Du kan fortsatt levere en klage til [@SpamBot](%2$@) hvis du mener at det har blitt gjort en feil. Hvis vi ikke hører fra deg innen %3$@, vil kontoen din bli fullstendig deaktivert og slettet.";
+"ChatList.FreezeAccount.Alert" = "Kontoen din ble fryst på grunn av alvorlige brudd på Telegram sine [vilkår for bruk](https://whatsgram.org/tos). Kontoen din er i lesemodus (siden %1$@). Du kan fortsatt levere en klage til [@SpamBot](%2$@) hvis du mener at det har blitt gjort en feil. Hvis vi ikke hører fra deg innen %3$@, vil kontoen din bli fullstendig deaktivert og slettet.";
 "ChatList.FreezeAccount.Alert.Appeal" = "Anke";
 "ChatList.FreezeAccount.Alert.Title" = "Kontoen din er fryst";
 "ChatList.FreezeAccount.Title" = "Kontoen din er fryst";
@@ -2652,7 +2652,7 @@
 "ChatMessage.Sponsored.About" = "Om denne annonsen";
 "ChatMessage.Sponsored.Report" = "Rapporter annonse";
 "ChatMessage.Sponsored.Report.Aready" = "Denne annonsen er allerede rapportert";
-"ChatMessage.Sponsored.Report.LearnMore" = "Les mer om [Telegrams retningslinjer for annonser](https://ads.telegram.org/guidelines).";
+"ChatMessage.Sponsored.Report.LearnMore" = "Les mer om [Telegrams retningslinjer for annonser](https://ads.whatsgram.org/guidelines).";
 "ChatMessage.Sponsored.Report.OptionTitle" = "HVA ER GALT MED DENNE ANNONSEN?";
 "ChatMessage.Sponsored.Report.Success" = "Telegrams moderatorer vil gå igjennom rapporten din. Takk.";
 "ChatMessage.Sponsored.Title" = "Annonse";
@@ -3458,7 +3458,7 @@
 "ForwardModalAction.description#one" = "Velg en bruker eller samtale for å videresende melding fra %@";
 "ForwardModalAction.description#other" = "Velg en bruker eller samtale for å videresende meldinger fra %@";
 "ForwardModalAction.description_countable" = "%d %@";
-"Fragment.AdsInfo.Block.Text" = "Alle kan opprette en annonse som skal vises i denne roboten, selv på små budsjett. Se Telegram Annonseplattform for mer informasjon. [Les mer >](https://ads.telegram.org)";
+"Fragment.AdsInfo.Block.Text" = "Alle kan opprette en annonse som skal vises i denne roboten, selv på små budsjett. Se Telegram Annonseplattform for mer informasjon. [Les mer >](https://ads.whatsgram.org)";
 "Fragment.AdsInfo.Block.Title" = "Kan jeg kjøre en annonse?";
 "Fragment.AdsInfo.OK" = "Jeg forstår";
 "Fragment.AdsInfo.Option1.Info" = "Annonser på Telegram bruker ikke dine personlige opplysninger og er basert på kanalen de vises i.";
@@ -3711,9 +3711,9 @@
 "Gift.Upgrade.Unique.Title" = "Unik";
 "Gift.Upgrade.Upgrade" = "Oppgrader";
 "Gift.View.DisplayedInfoHide" = "Denne gaven er synlig på profilen din. [Skjul >]()";
-"Gift.View.KeepOrConvertDescription.Channel" = "Kanalen din kan legge til denne gaven på profilen sin eller gjøre den om til %@. [Mer om stjerner >](https://telegram.org)";
+"Gift.View.KeepOrConvertDescription.Channel" = "Kanalen din kan legge til denne gaven på profilen sin eller gjøre den om til %@. [Mer om stjerner >](https://whatsgram.org)";
 "Gift.View.KeepUpgradeOrConvertDescription" = "Du kan beholde denne gaven, oppgradere den, eller selge den for %@. [Mer om stjerner >]()";
-"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "Kanalen din kan beholde denne gaven, oppgradere den, eller selge den for %@. [Mer om stjerner >](https://telegram.org)";
+"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "Kanalen din kan beholde denne gaven, oppgradere den, eller selge den for %@. [Mer om stjerner >](https://whatsgram.org)";
 "Gift.View.Status" = "Status";
 "Gift.View.Status.NonUnique" = "Ikke-unik";
 "Gift.View.Status.Upgrade" = "oppgrader";
@@ -4119,7 +4119,7 @@
 "InviteLink.Sticker.Revoked" = "• annullert";
 "InviteLink.Sticker.TimeLeft" = "utløper om %@";
 "InviteLink.Sub.Amount.Placeholder" = "Antall stjerner pr. måned";
-"InviteLink.Sub.Info" = "Krev abonnementsavgift fra personer som blir med i kanalen via denne lenken. [Les mer >](https://telegram.org/tos/stars)";
+"InviteLink.Sub.Info" = "Krev abonnementsavgift fra personer som blir med i kanalen via denne lenken. [Les mer >](https://whatsgram.org/tos/stars)";
 "InviteLink.Sub.Info.Editing" = "For å endre abonnementsavgiften, opprett en ny invitasjonslenke med en annen pris.";
 "InviteLink.Sub.ReqApproval" = "Du kan ikke aktivere administratorgodkjennelse for lenker som krever et månedlig beløp.";
 "InviteLink.Sub.Text" = "Krev månedlig beløp";
@@ -4479,9 +4479,9 @@
 "Modal.Share" = "Del";
 "Modal.Yes" = "JA";
 "Monetization.AdRevenueTitle" = "ANNONSEINNTEKTER";
-"Monetization.Balance.ComingLaterInfo" = "I de kommende ukene vil du få muligheten til å samle belønningen din via Fragment, en tredjepartsplattform som brukes av annonsører til å betale for annonser. [Les mer >](https://telegram.org/tos/content-creator-rewards)";
-"Monetization.BalanceInfo" = "Du kan hente inntekten din via Fragment, en tredjepartsplattform som brukes av annonsører til å betale for annonser. [Les mer >](https://telegram.org/blog/monetization-for-channels)";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.Balance.ComingLaterInfo" = "I de kommende ukene vil du få muligheten til å samle belønningen din via Fragment, en tredjepartsplattform som brukes av annonsører til å betale for annonser. [Les mer >](https://whatsgram.org/tos/content-creator-rewards)";
+"Monetization.BalanceInfo" = "Du kan hente inntekten din via Fragment, en tredjepartsplattform som brukes av annonsører til å betale for annonser. [Les mer >](https://whatsgram.org/blog/monetization-for-channels)";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceTitle" = "TILGJENGELIG SALDO";
 "Monetization.BalanceWithdraw" = "Uttak via Fragment";
 "Monetization.BalanceWithdraw.Stars" = "Uttak via Fragment";
@@ -4491,7 +4491,7 @@
 "Monetization.ImpressionsTitle" = "ANNONSEVISNINGER (ETTER TIMER)";
 "Monetization.Intro.Ads.Text" = "Telegram kan vise annonser i kanalen din.";
 "Monetization.Intro.Ads.Title" = "Telegram Annonser";
-"Monetization.Intro.Info.Text" = "Gram er en blokkjedeplattform og kryptovaluta som Telegram bruker for sine høye hastigheter og lave transaksjonsgebyrer. [Les mer >](https://telegram.org/blog/monetization-for-channels)";
+"Monetization.Intro.Info.Text" = "Gram er en blokkjedeplattform og kryptovaluta som Telegram bruker for sine høye hastigheter og lave transaksjonsgebyrer. [Les mer >](https://whatsgram.org/blog/monetization-for-channels)";
 "Monetization.Intro.Info.Title" = "Hva er %@ Gram?";
 "Monetization.Intro.Split.Text" = "Du kan motta 50%@ av annonseinntektene i Gram.";
 "Monetization.Intro.Split.Title" = "50:50 inntektsdeling";
@@ -4505,7 +4505,7 @@
 "Monetization.Overview.Current" = "Inntekter siden siste uttak";
 "Monetization.Overview.Total" = "Totale inntekter";
 "Monetization.OverviewTitle" = "INNTEKTSOVERSIKT";
-"Monetization.Stars.WithdrawInfo" = "Du kan få utbetaling for stjerner ved å bruke Fragment, eller bruke stjerner til å annonsere roboten din. [Les mer](https://telegram.org/tos/bot-developers#6-2-2-tpa-balance)";
+"Monetization.Stars.WithdrawInfo" = "Du kan få utbetaling for stjerner ved å bruke Fragment, eller bruke stjerner til å annonsere roboten din. [Les mer](https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance)";
 "Monetization.Stars.WithdrawTitle" = "STJERNESALDO";
 "Monetization.SwitchOffAds" = "Slå av annonser";
 "Monetization.SwitchOffAdsInfo" = "Du vil ikke være kvalifisert for inntekter hvis du slår av annonser.";
@@ -4788,7 +4788,7 @@
 "PHONE_NUMBER_INVALID" = "Ugyldig telefonnummer";
 "PINNED_INVOICE" = "%1$@ festet en faktura";
 "PaidMedia.Header" = "ANGI PRIS FOR OPPLÅSNING";
-"PaidMedia.Info" = "Brukere vil måtte overføre det angitte antallet stjerner til kanalen din for å kunne se dette innholdet. [Mer om stjerner >](https://telegram.org/blog/telegram-stars)";
+"PaidMedia.Info" = "Brukere vil måtte overføre det angitte antallet stjerner til kanalen din for å kunne se dette innholdet. [Mer om stjerner >](https://whatsgram.org/blog/telegram-stars)";
 "PaidMedia.Ok" = "Gjør til betalingsinnhold";
 "PaidMedia.Placeholder" = "Antall stjerner";
 "PaidMedia.Status.Purchased" = "Kjøpt";
@@ -5219,7 +5219,7 @@
 "PeerInfo.VerificationInfo.Bot" = "Denne roboten er verifisert av Telegram.";
 "PeerInfo.VerificationInfo.Channel" = "Denne kanalen er verifisert av Telegram.";
 "PeerInfo.VerificationInfo.Group" = "Denne gruppen er verifisert av Telegram.";
-"PeerInfo.VerificationInfo.URL" = "https://telegram.org/verify";
+"PeerInfo.VerificationInfo.URL" = "https://whatsgram.org/verify";
 "PeerInfo.Verified" = "%@ denne roboten er verifisert som offisiell av representanter for Telegram.";
 "PeerInfo.Verified.Tooltip" = "Bekreftet konto";
 "PeerInfo.VerifyAccounts" = "Verifiser kontoer";
@@ -6677,7 +6677,7 @@
 "Star.List.StarsNeeded_countable" = "%d";
 "Star.List.TelegramStars" = "Telegram stjerner";
 "Star.List.TopUp" = "Påfylling";
-"Star.List.Tos" = "Ved å fortsette med kjøp av stjerner, godtar du [Vilkår for bruk](https://telegram.org/tos/stars).";
+"Star.List.Tos" = "Ved å fortsette med kjøp av stjerner, godtar du [Vilkår for bruk](https://whatsgram.org/tos/stars).";
 "Star.List.Transaction.Ads" = "Annonseplattform";
 "Star.List.Transaction.AppStore" = "App Store";
 "Star.List.Transaction.Fragment" = "Fragment";
@@ -6761,7 +6761,7 @@
 "Star.Transaction.Availability.Of" = "%1$d av %2$@";
 "Star.Transaction.Availability.OfLeft" = "%1$@ av %2$@ gjenstår";
 "Star.Transaction.Availability.OfText" = "%1$@ av %2$@";
-"Star.Transaction.BotTos" = "Ved å abonnere godtar du [Tjenestevilkårene](https://telegram.org)";
+"Star.Transaction.BotTos" = "Ved å abonnere godtar du [Tjenestevilkårene](https://whatsgram.org)";
 "Star.Transaction.BroadcastMessages#one" = "%d melding";
 "Star.Transaction.BroadcastMessages#other" = "%d meldinger";
 "Star.Transaction.BroadcastMessages_countable" = "%d";
@@ -6814,7 +6814,7 @@
 "Star.Transaction.StarGift.ShownInProfile" = "Gaven er synlig på profilen din [Skjul >](hide)";
 "Star.Transaction.To" = "Til";
 "Star.Transaction.Ton.Description" = "Bruk Gram for å kjøpe gaver og sende forslag til innlegg i kanaler.";
-"Star.Transaction.Tos" = "Gjennomgå [Tjenestevilkårene](https://telegram.org/tos/stars) for stjerner.";
+"Star.Transaction.Tos" = "Gjennomgå [Tjenestevilkårene](https://whatsgram.org/tos/stars) for stjerner.";
 "Star.Transaction.TransactionUrl" = "Transaksjonslenke";
 "Star.Transaction.UnknwonUser" = "[Ukjent bruker](https://fragment.com/stars)";
 "Star.Transaction.Value" = "Verdi";
@@ -6919,7 +6919,7 @@
 "StarGift.Value.Source.Telegram" = "Telegram";
 "StarGift.ViewAllVariants" = "%1$@ Se alle varianter >";
 "StarList.Ton" = "Gram";
-"StarList.Ton.Withdraw.Info" = "Du kan gjøre uttak av dine Gram via Fragment. [Les mer >](telegram.org)";
+"StarList.Ton.Withdraw.Info" = "Du kan gjøre uttak av dine Gram via Fragment. [Les mer >](whatsgram.org)";
 "StarList.TonInfo" = "Bruk Gram for å sende forslag til innlegg i kanaler på Telegram.";
 "StarTransaction.GiftRefundedInfo" = "Denne gaven ble nedgradert fordi en forespørsel om å refundere betalingen ble gjort og pengene ble tilbakebetalt.";
 "Stars.Balance.BuyAds" = "Kjøp annonser";
@@ -6971,7 +6971,7 @@
 "Stars.Purchase.Subscribe.Success" = "Du abonnerer nå på **%@**";
 "Stars.Purchase.UpgradeStarGiftInfo" = "Kjøp stjerner for å oppgradere gavene dine til unike samleobjekter.";
 "Stars.ReactScreen.Anonymous" = "Anonym";
-"Stars.ReactScreen.Footer" = "Ved å sende stjerner, godtar du [Tjenestevilkårene](https://telegram.org/tos/stars).";
+"Stars.ReactScreen.Footer" = "Ved å sende stjerner, godtar du [Tjenestevilkårene](https://whatsgram.org/tos/stars).";
 "Stars.ReactScreen.Info" = "Velg hvor mange stjerner du vil sende til **%@** for å støtte dette innlegget.";
 "Stars.ReactScreen.Send#one" = "Send %d%@";
 "Stars.ReactScreen.Send#other" = "Send %d%@";
@@ -8254,7 +8254,7 @@
 "WebBot.Account.Desclaimer.Desc" = "**%@** snarveier vil bli lagt til i vedleggsmenyen og i innstillingene.";
 "WebBot.Account.Disclaimer.OK" = "Fortsett";
 "WebBot.Account.Disclaimer.Text" = "Du er i ferd med å bruke en mini-app som driftes av en uavhengig part som **ikke er tilknyttet Telegram**. Du må godta vilkårene for bruk av mini-apper for å fortsette.";
-"WebBot.Account.Disclaimer.Third" = "Jeg godtar [Vilkår for bruk](https://telegram.org/tos/mini-apps)";
+"WebBot.Account.Disclaimer.Third" = "Jeg godtar [Vilkår for bruk](https://whatsgram.org/tos/mini-apps)";
 "WebBot.Account.Disclaimer.Title" = "Vilkår for bruk";
 "WebBrowser.Error" = "**Beklager, noe gikk galt.**\nVennligst prøv igjen senere.";
 "WebBrowser.InstantView" = "Umiddelbar visning";
@@ -8343,14 +8343,14 @@
 "psa.chat.alert.learnmore" = "Les mer";
 "psa.chat.alert.learnmore.covid" = "Les mer";
 "psa.chat.alert.learnmore.psa" = "Les mer";
-"psa.chat.text.covid" = "Denne meldingen er en offentlig tjenestekunngjøring vedrørende den pågående COVID-19 pandemien. Lær mer om dette tiltaket på https://telegram.org/blog/coronavirus";
+"psa.chat.text.covid" = "Denne meldingen er en offentlig tjenestekunngjøring vedrørende den pågående COVID-19 pandemien. Lær mer om dette tiltaket på https://whatsgram.org/blog/coronavirus";
 "psa.chat.text.psa" = "Dette er en offisiell kunngjøring fra administrerende direktør ved Telegram angående den pågående konflikten.";
 "psa.chat.title" = "Offentlig tjenestekunngjøring";
 "psa.chatlist" = "Offentlig tjenestekunngjøring";
 "psa.chatlist.covid" = "COVID-19";
 "psa.chatlist.psa" = "Kunngjøring";
 "psa.text" = "Denne meldingen gir deg en offentlig tjenestekunngjøring i samtalelisten din";
-"psa.text.covid" = "Denne meldingen er en offentlig tjenestekunngjøring vedrørende den pågående COVID-19 pandemien. Lær mer om dette tiltaket på https://telegram.org/blog/coronavirus";
+"psa.text.covid" = "Denne meldingen er en offentlig tjenestekunngjøring vedrørende den pågående COVID-19 pandemien. Lær mer om dette tiltaket på https://whatsgram.org/blog/coronavirus";
 "psa.text.psa" = "Dette er en offisiell kunngjøring fra administrerende direktør ved Telegram angående den pågående konflikten.";
 "psa.title" = "Varsel om offentlig tjenestekunngjøring";
 "psa.title.bubbles" = "Offentlig tjenestekunngjøring\nfra: [%@]()";

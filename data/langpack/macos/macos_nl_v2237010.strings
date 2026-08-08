@@ -130,7 +130,7 @@
 "AffiliateProgram.JoinSubtitleMonths_any" = "**{bot}** zal voor **%d maanden** **{commission}** van de omzet delen van elke gebruiker die je ernaar verwijst.";
 "AffiliateProgram.JoinSubtitleYears_1" = "**{bot}** zal voor **1 jaar** **{commission}** van de omzet delen van elke gebruiker die je ernaar verwijst.";
 "AffiliateProgram.JoinSubtitleYears_any" = "**{bot}** zal voor **%d jaar** **{commission}** van de omzet delen van elke gebruiker die je ernaar verwijst.";
-"AffiliateProgram.JoinTerms" = "Door je aan te melden bij dit programma, ga je akkoord met de [algemene voorwaarden](https://telegram.org/tos/affiliate-program) van partnerprogramma's.";
+"AffiliateProgram.JoinTerms" = "Door je aan te melden bij dit programma, ga je akkoord met de [algemene voorwaarden](https://whatsgram.org/tos/affiliate-program) van partnerprogramma's.";
 "AffiliateProgram.JoinTitle" = "Partnerprogramma";
 "AffiliateProgram.LinkSubtitle" = "Deel deze link met je gebruikers om voor **%3$@** een commissie van **%1$d** te ontvangen op hun uitgaven in **%2$@** nadat ze je link hebben gevolgd.";
 "AffiliateProgram.LinkSubtitleLifetime" = "Deel deze link met je gebruikers om **voor altijd** een commissie van **{commission}** te ontvangen op hun uitgaven in **{bot}** nadat ze je link hebben gevolgd.";
@@ -199,7 +199,7 @@
 "AffiliateSetup.StartTitle" = "Partnerprogramma starten";
 "AffiliateSetup.SuggestedSectionEmpty" = "Nog geen beschikbare programma's.\nKijk later opnieuw.";
 "AffiliateSetup.SuggestedSectionTitle" = "Programma's";
-"AffiliateSetup.TermsFooter" = "Door een partnerprogramma te starten, ga je akkoord met de [voorwaarden](https://telegram.org/terms) van partnerprogramma's.";
+"AffiliateSetup.TermsFooter" = "Door een partnerprogramma te starten, ga je akkoord met de [voorwaarden](https://whatsgram.org/terms) van partnerprogramma's.";
 "AffiliateSetup.TextJoin" = "Verdien een commissie op elke aankoop die met **sterren** wordt gedaan door gebruikers die een mini-app voor het eerst via jouw link hebben geopend.";
 "AffiliateSetup.TextNew" = "Beloon degenen die bijdragen aan je groei.";
 "AffiliateSetup.TitleJoin" = "Partnerprogramma's";
@@ -470,7 +470,7 @@
 "Bot.AllowSendMessages" = "**%@** mag mij berichten sturen.";
 "Bot.Grossing.Disclaimer" = "Welke apps komen hier voor? [Info >](grossing)";
 "Bot.Grossing.Disclaimer.Alert.Header" = "Top mini-apps";
-"Bot.Grossing.Disclaimer.Alert.Text" = "Deze catalogus rangschikt mini-apps op basis van hun dagelijkse omzet in sterren. Om op de lijst te komen, moeten ontwikkelaars hun primaire mini-app instellen via [@botfather](https://t.me/botfather) (volgens de stappen [hier](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)). Daarnaast moeten ze meer dan **1000** dagelijkse gebruikers en een dagomzet boven de **1000** sterren hebben, op basis van het wekelijks gemiddelde.";
+"Bot.Grossing.Disclaimer.Alert.Text" = "Deze catalogus rangschikt mini-apps op basis van hun dagelijkse omzet in sterren. Om op de lijst te komen, moeten ontwikkelaars hun primaire mini-app instellen via [@botfather](https://t.me/botfather) (volgens de stappen [hier](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app)). Daarnaast moeten ze meer dan **1000** dagelijkse gebruikers en een dagomzet boven de **1000** sterren hebben, op basis van het wekelijks gemiddelde.";
 "Bot.Grossing.Disclaimer.Alert.ok" = "Begrepen";
 "Bot.InlineAuth.Header" = "Link openen";
 "Bot.InlineAuth.Open" = "Openen";
@@ -484,8 +484,8 @@
 "Bot.TransferOwner.Error.Title" = "Beveiligingscontrole";
 "Bot.TransferOwnership.Password.Desc" = "Voer je wachtwoord voor tweestapsverificatie in om verder te gaan.";
 "Bot.TransferOwnership.Password.Title" = "Tweestapsverificatie";
-"BotInfo.LaunchInfo" = "Door deze mini-app te publiceren, ga je akkoord met de [servicevoorwaarden van Telegram voor ontwikkelaars](https://telegram.org/tos/bot-developers).";
-"BotInfo.LaunchInfo.PrivacyUrl" = "https://telegram.org/privacy-tpa";
+"BotInfo.LaunchInfo" = "Door deze mini-app te publiceren, ga je akkoord met de [servicevoorwaarden van Telegram voor ontwikkelaars](https://whatsgram.org/tos/bot-developers).";
+"BotInfo.LaunchInfo.PrivacyUrl" = "https://whatsgram.org/privacy-tpa";
 "BotInfo.LaunchInfo.User" = "Door deze mini-app op te starten, ga je akkoord met de [servicevoorwaarden voor mini-apps.](%@)";
 "BotInfo.OpenApp" = "App openen";
 "BotUsername.Activate.Info" = "Wil je deze link bij de bot weergeven?";
@@ -665,7 +665,7 @@
 "Business.ScheduleStart" = "Starttijd plannen";
 "Business.SelectPeers.Limit" = "Limiet bereikt";
 "Business.SwitchAd" = "Advertenties niet verbergen";
-"Business.SwitchAd.Info" = "Als premium-abonnee zie je standaard geen advertenties op Telegram, maar je kunt ze wel handmatig inschakelen, om bijvoorbeeld je eigen advertenties te zien op het [advertentieplatform van Telegram >](https://ads.telegram.org)";
+"Business.SwitchAd.Info" = "Als premium-abonnee zie je standaard geen advertenties op Telegram, maar je kunt ze wel handmatig inschakelen, om bijvoorbeeld je eigen advertenties te zien op het [advertentieplatform van Telegram >](https://ads.whatsgram.org)";
 "Business.SwitchAd.Title" = "Advertenties in kanalen";
 "Business.Updated" = "Je bedrijf op Telegram is bijgewerkt";
 "CHAT_MESSAGE_INVOICE" = "%1$@ heeft een factuur van %3$@ gestuurd naar de groep %2$@";
@@ -1284,7 +1284,7 @@
 "ChannelReactions.EnableReactions" = "Reacties inschakelen";
 "ChannelReactions.EnableReactions.Info" = "Je kunt emoji uit elke bundel als reactie gebruiken.";
 "ChannelReactions.EnableStars" = "Betaalde reacties inschakelen";
-"ChannelReactions.EnableStars.Info" = "Als je dit inschakelt, kunnen je abonnees met Telegram-sterren op berichten reageren, die je als Grams kunt opnemen. [Lees meer >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"ChannelReactions.EnableStars.Info" = "Als je dit inschakelt, kunnen je abonnees met Telegram-sterren op berichten reageren, die je als Grams kunt opnemen. [Lees meer >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "ChannelReactions.LevelRequired" = "Niveau %d vereist";
 "ChannelReactions.MaxCount.Info" = "Stel een limiet in voor het aantal verschillende reacties per bericht (geldt ook voor oude berichten).";
 "ChannelReactions.MaxCount.Title" = "Maximumaantal reacties per bericht";
@@ -1772,7 +1772,7 @@
 "Chat.ManageMessages.What_countable" = "%d";
 "Chat.Message.Ad.ReadMore" = "Lees meer";
 "Chat.Message.Ad.Text" = "In tegenstelling tot andere apps, gebruikt Telegram je persoonlijke gegevens nooit om gerichte advertenties te tonen. Gesponsorde berichten op Telegram zijn uitsluitend gebaseerd op de onderwerpen van de openbare kanalen waarin ze worden weergegeven. Dit betekent dat er geen gegevens van gebruikers worden verzameld of geanalyseerd voor advertentiedoeleinden, en dat elke bezoeker van een kanaal op Telegram hetzelfde gesponsorde bericht ziet.\n\nIn tegenstelling tot andere apps, houdt Telegram niet bij of je op een gesponsord bericht hebt geklikt en wordt er ook geen profiel van je aangemaakt op basis van je activiteit. Daarnaast verbieden we externe links in gesponsorde berichten, om zeker te zijn dat derde partijen onze gebruikers niet in de gaten kunnen houden. We geloven dat iedereen het recht heeft op privacy en we zijn van mening dat technologieplatforms dit moeten respecteren.\n\nTelegram biedt een gratis en onbeperkte dienst aan honderden miljoenen gebruikers, wat voor aanzienlijke onderhouds- en serverkosten zorgt. Om onafhankelijk te blijven en onze waarden hoog in het vaandel te houden, heeft Telegram een betaalde tool ontwikkeld om berichten te promoten zonder de privacy van onze gebruikers te schaden. We heten verantwoordelijke adverteerders van harte welkom op: %@\n\nGesponsorde berichten zijn momenteel nog in de testfase. Zodra ze volledig zijn gelanceerd en zodra Telegram zijn operationele kosten hieruit kan dekken, zullen we beginnen met het delen van de opbrengst met de eigenaren van de openbare kanalen waarin er gesponsorde berichten worden weergegeven.\n\nOnline adverteren zou geen synoniem meer moeten zijn voor het schenden van de privacy van gebruikers. Laten we samen opnieuw invullen hoe een technologiebedrijf zich zou moeten gedragen.";
-"Chat.Message.Ad.Url" = "https://ads.telegram.org";
+"Chat.Message.Ad.Url" = "https://ads.whatsgram.org";
 "Chat.Message.Context.Quote" = "Citeren";
 "Chat.Message.Context.Quote.LimitExceed" = "Te lang.";
 "Chat.Message.DeleteForAll" = "Verwijderen voor iedereen";
@@ -1818,7 +1818,7 @@
 "Chat.Message.Socks5.Config" = "SOCKS5 configuratie";
 "Chat.Message.Sponsored" = "advertentie";
 "Chat.Message.Sponsored.Advertiser" = "Info over adverteerder";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Wat zijn gesponsorde berichten?";
 "Chat.Message.Suggest.Markup.Approve" = "Accepteren";
 "Chat.Message.Suggest.Markup.Decline" = "Weigeren";
@@ -1832,7 +1832,7 @@
 "Chat.Message.Todo.Total" = "%1$@ van de %2$@ voltooid";
 "Chat.Message.UnsendMessages" = "Mijn berichten intrekken";
 "Chat.Message.UnsendMessages_countable" = "%d";
-"Chat.Message.Unsupported" = "Dit bericht wordt niet ondersteund door jouw versie van Telegram. Werk Telegram bij via de Appstore of installeer via https://macos.telegram.org";
+"Chat.Message.Unsupported" = "Dit bericht wordt niet ondersteund door jouw versie van Telegram. Werk Telegram bij via de Appstore of installeer via https://macos.whatsgram.org";
 "Chat.Message.UnsupportedNew" = "Dit bericht wordt niet ondersteund door jouw versie van Telegram. Voer een update uit naar de nieuwste versie.";
 "Chat.Message.Via" = "via";
 "Chat.Message.ViewBot" = "Bot bekijken";
@@ -2539,8 +2539,8 @@
 "ChatList.FolderUpdates.Title#one" = "%d nieuwe chat beschikbaar";
 "ChatList.FolderUpdates.Title#other" = "%d nieuwe chats beschikbaar";
 "ChatList.FolderUpdates.Title_countable" = "%d";
-"ChatList.FreezeAccount" = "Je account is bevroren vanwege een ernstige schending van de [algemene voorwaarden](https://telegram.org/tos) van Telegram. Je account is nu in de 'alleen lezen'-modus (sinds %1$@). Als je gelooft dat dit onterecht is, kun je via [@SpamBot](%2$@) in beroep gaan. Als we tussen nu en %3$@ niets van je vernemen, wordt je account permanent gedeactiveerd en verwijderd.";
-"ChatList.FreezeAccount.Alert" = "Je account is bevroren vanwege een ernstige schending van de [algemene voorwaarden](https://telegram.org/tos) van Telegram. Je account is nu in de 'alleen lezen'-modus (sinds %1$@). Als je gelooft dat dit onterecht is, kun je via [@SpamBot](%2$@) in beroep gaan. Als we tussen nu en %3$@ niets van je vernemen, wordt je account permanent gedeactiveerd en verwijderd.";
+"ChatList.FreezeAccount" = "Je account is bevroren vanwege een ernstige schending van de [algemene voorwaarden](https://whatsgram.org/tos) van Telegram. Je account is nu in de 'alleen lezen'-modus (sinds %1$@). Als je gelooft dat dit onterecht is, kun je via [@SpamBot](%2$@) in beroep gaan. Als we tussen nu en %3$@ niets van je vernemen, wordt je account permanent gedeactiveerd en verwijderd.";
+"ChatList.FreezeAccount.Alert" = "Je account is bevroren vanwege een ernstige schending van de [algemene voorwaarden](https://whatsgram.org/tos) van Telegram. Je account is nu in de 'alleen lezen'-modus (sinds %1$@). Als je gelooft dat dit onterecht is, kun je via [@SpamBot](%2$@) in beroep gaan. Als we tussen nu en %3$@ niets van je vernemen, wordt je account permanent gedeactiveerd en verwijderd.";
 "ChatList.FreezeAccount.Alert.Appeal" = "Bezwaar maken";
 "ChatList.FreezeAccount.Alert.Title" = "Je account is bevroren";
 "ChatList.FreezeAccount.Title" = "Je account is bevroren";
@@ -2652,7 +2652,7 @@
 "ChatMessage.Sponsored.About" = "Over deze advertentie";
 "ChatMessage.Sponsored.Report" = "Advertentie rapporteren";
 "ChatMessage.Sponsored.Report.Aready" = "Deze advertentie is al gerapporteerd.";
-"ChatMessage.Sponsored.Report.LearnMore" = "Lees meer over het [advertentiebeleid en de richtlijnen](https://ads.telegram.org/guidelines) van Telegram.";
+"ChatMessage.Sponsored.Report.LearnMore" = "Lees meer over het [advertentiebeleid en de richtlijnen](https://ads.whatsgram.org/guidelines) van Telegram.";
 "ChatMessage.Sponsored.Report.OptionTitle" = "Wat is er mis met de advertentie?";
 "ChatMessage.Sponsored.Report.Success" = "De moderatoren van Telegram zullen je rapport beoordelen. Hartelijk dank.";
 "ChatMessage.Sponsored.Title" = "Advertentie";
@@ -3460,7 +3460,7 @@
 "ForwardModalAction.description#one" = "Kies een gebruiker of chat om het bericht van %@ naar door te sturen";
 "ForwardModalAction.description#other" = "Kies een gebruiker of chat om de berichten van %@ naar door te sturen";
 "ForwardModalAction.description_countable" = "%d %@";
-"Fragment.AdsInfo.Block.Text" = "Iedereen kan een advertentie opstellen om in dit kanaal weer te geven — ook met een klein budget. Bekijk het advertentieplatform van Telegram voor meer info. [Lees meer >](https://ads.telegram.org)";
+"Fragment.AdsInfo.Block.Text" = "Iedereen kan een advertentie opstellen om in dit kanaal weer te geven — ook met een klein budget. Bekijk het advertentieplatform van Telegram voor meer info. [Lees meer >](https://ads.whatsgram.org)";
 "Fragment.AdsInfo.Block.Title" = "Kan ik een advertentie aanmaken?";
 "Fragment.AdsInfo.OK" = "Begrepen";
 "Fragment.AdsInfo.Option1.Info" = "Advertenties op Telegram maken geen gebruik van je persoonlijke gegevens en zijn gebaseerd op het kanaal waarin ze verschijnen.";
@@ -3713,9 +3713,9 @@
 "Gift.Upgrade.Unique.Title" = "Uniek";
 "Gift.Upgrade.Upgrade" = "Upgraden";
 "Gift.View.DisplayedInfoHide" = "Dit cadeau is zichtbaar op je profiel. [Verbergen >]()";
-"Gift.View.KeepOrConvertDescription.Channel" = "Je kunt dit cadeau op het profiel van je kanaal plaatsen of het omzetten in %@. [Meer info over sterren >](https://telegram.org)";
+"Gift.View.KeepOrConvertDescription.Channel" = "Je kunt dit cadeau op het profiel van je kanaal plaatsen of het omzetten in %@. [Meer info over sterren >](https://whatsgram.org)";
 "Gift.View.KeepUpgradeOrConvertDescription" = "Je kunt dit cadeau bewaren, upgraden of verkopen voor %@. [Meer info over sterren >]()";
-"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "Je kanaal kan dit cadeau bewaren, upgraden of verkopen voor %@. [Meer info over sterren >](https://telegram.org)";
+"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "Je kanaal kan dit cadeau bewaren, upgraden of verkopen voor %@. [Meer info over sterren >](https://whatsgram.org)";
 "Gift.View.Status" = "Status";
 "Gift.View.Status.NonUnique" = "Niet uniek";
 "Gift.View.Status.Upgrade" = "upgraden";
@@ -4121,7 +4121,7 @@
 "InviteLink.Sticker.Revoked" = "• intrekken";
 "InviteLink.Sticker.TimeLeft" = "verloopt over %@";
 "InviteLink.Sub.Amount.Placeholder" = "Aantal sterren per maand";
-"InviteLink.Sub.Info" = "Breng abonnementskosten in rekening bij personen die zich via deze link bij je kanaal aanmelden. [Lees meer >](https://telegram.org/tos/stars)";
+"InviteLink.Sub.Info" = "Breng abonnementskosten in rekening bij personen die zich via deze link bij je kanaal aanmelden. [Lees meer >](https://whatsgram.org/tos/stars)";
 "InviteLink.Sub.Info.Editing" = "Om het abonnementstarief aan te passen, kun je een nieuwe uitnodigingslink met een andere prijs aanmaken.";
 "InviteLink.Sub.ReqApproval" = "Je kunt geen beheerdersgoedkeuring inschakelen bij links die een abonnement vereisen.";
 "InviteLink.Sub.Text" = "Abonnement vereisen";
@@ -4481,9 +4481,9 @@
 "Modal.Share" = "Delen";
 "Modal.Yes" = "JA";
 "Monetization.AdRevenueTitle" = "Advertentieopbrengsten";
-"Monetization.Balance.ComingLaterInfo" = "De komende weken kun je je beloning via Fragment verzilveren. Dat is een extern platform waarmee adverteerders voor advertenties betalen. [Algemene voorwaarden >](https://telegram.org/tos/content-creator-rewards)";
-"Monetization.BalanceInfo" = "Je kunt je beloning via Fragment verzilveren. Dat is een extern platform waarmee adverteerders voor advertenties betalen. [Algemene voorwaarden >](https://telegram.org/tos/content-creator-rewards)";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.Balance.ComingLaterInfo" = "De komende weken kun je je beloning via Fragment verzilveren. Dat is een extern platform waarmee adverteerders voor advertenties betalen. [Algemene voorwaarden >](https://whatsgram.org/tos/content-creator-rewards)";
+"Monetization.BalanceInfo" = "Je kunt je beloning via Fragment verzilveren. Dat is een extern platform waarmee adverteerders voor advertenties betalen. [Algemene voorwaarden >](https://whatsgram.org/tos/content-creator-rewards)";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceTitle" = "Beschikbare beloning";
 "Monetization.BalanceWithdraw" = "Verzilveren via Fragment";
 "Monetization.BalanceWithdraw.Stars" = "Opnemen via Fragment";
@@ -4493,7 +4493,7 @@
 "Monetization.ImpressionsTitle" = "Advertentieweergaven (per uur)";
 "Monetization.Intro.Ads.Text" = "Telegram kan advertenties tonen op je kanaal.";
 "Monetization.Intro.Ads.Title" = "Telegram-advertenties";
-"Monetization.Intro.Info.Text" = "Gram is de cryptovaluta van de TON-blockchain, die door Telegram wordt gebruikt vanwege de hoge snelheid en lage commissie op transacties. [Lees meer >](https://telegram.org/blog/monetization-for-channels/nl?ln=a)";
+"Monetization.Intro.Info.Text" = "Gram is de cryptovaluta van de TON-blockchain, die door Telegram wordt gebruikt vanwege de hoge snelheid en lage commissie op transacties. [Lees meer >](https://whatsgram.org/blog/monetization-for-channels/nl?ln=a)";
 "Monetization.Intro.Info.Title" = "Wat is %@ Gram?";
 "Monetization.Intro.Split.Text" = "Je ontvangt 50%@ van de opbrengst als beloning in Grams.";
 "Monetization.Intro.Split.Title" = "50:50 verdeling van de opbrengst";
@@ -4507,7 +4507,7 @@
 "Monetization.Overview.Current" = "Beloningen sinds vorige opname";
 "Monetization.Overview.Total" = "Totale opbrengsten";
 "Monetization.OverviewTitle" = "Overzicht van opbrengsten";
-"Monetization.Stars.WithdrawInfo" = "Je kunt sterren via Fragment verzilveren of gebruiken om je bot te promoten. [Lees meer >](https://telegram.org/tos/bot-developers#6-2-2-tpa-balance)";
+"Monetization.Stars.WithdrawInfo" = "Je kunt sterren via Fragment verzilveren of gebruiken om je bot te promoten. [Lees meer >](https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance)";
 "Monetization.Stars.WithdrawTitle" = "Sterrensaldo";
 "Monetization.SwitchOffAds" = "Advertenties uitzetten";
 "Monetization.SwitchOffAdsInfo" = "Zonder advertenties kom je niet in aanmerking voor beloningen.";
@@ -4788,7 +4788,7 @@
 "PHONE_NUMBER_INVALID" = "Ongeldig telefoonnummer";
 "PINNED_INVOICE" = "%1$@ heeft een factuur vastgezet";
 "PaidMedia.Header" = "Voer de prijs in";
-"PaidMedia.Info" = "Gebruikers moeten deze hoeveelheid sterren aan je kanaal overdragen om deze media te bekijken. [Meer info over sterren >](https://telegram.org/blog/telegram-stars/nl)";
+"PaidMedia.Info" = "Gebruikers moeten deze hoeveelheid sterren aan je kanaal overdragen om deze media te bekijken. [Meer info over sterren >](https://whatsgram.org/blog/telegram-stars/nl)";
 "PaidMedia.Ok" = "Maak deze media betaald";
 "PaidMedia.Placeholder" = "Prijs in sterren";
 "PaidMedia.Status.Purchased" = "Gekocht";
@@ -5219,7 +5219,7 @@
 "PeerInfo.VerificationInfo.Bot" = "Deze bot geverifieerd door Telegram.";
 "PeerInfo.VerificationInfo.Channel" = "Dit kanaal is geverifieerd door Telegram.";
 "PeerInfo.VerificationInfo.Group" = "Deze groep is geverifieerd door Telegram.";
-"PeerInfo.VerificationInfo.URL" = "https://telegram.org/verify?setln=nl";
+"PeerInfo.VerificationInfo.URL" = "https://whatsgram.org/verify?setln=nl";
 "PeerInfo.Verified" = "%@ Deze bot is als officieel geverifieerd door de vertegenwoordigers van Telegram.";
 "PeerInfo.Verified.Tooltip" = "Geverifieerd account";
 "PeerInfo.VerifyAccounts" = "Accounts verifiëren";
@@ -6678,7 +6678,7 @@
 "Star.List.StarsNeeded_countable" = "%d";
 "Star.List.TelegramStars" = "Telegram-sterren";
 "Star.List.TopUp" = "Opwaarderen";
-"Star.List.Tos" = "Door verder te gaan en sterren te kopen, ga je akkoord met de [voorwaarden](https://telegram.org/tos/stars).";
+"Star.List.Tos" = "Door verder te gaan en sterren te kopen, ga je akkoord met de [voorwaarden](https://whatsgram.org/tos/stars).";
 "Star.List.Transaction.Ads" = "Advertentieplatform";
 "Star.List.Transaction.AppStore" = "App Store";
 "Star.List.Transaction.Fragment" = "Fragment";
@@ -6762,7 +6762,7 @@
 "Star.Transaction.Availability.Of" = "%1$d van de %2$@";
 "Star.Transaction.Availability.OfLeft" = "%1$@ van de %2$@ over";
 "Star.Transaction.Availability.OfText" = "%1$@ van de %2$@";
-"Star.Transaction.BotTos" = "Door je te abonneren, ga je akkoord met de [servicevoorwaarden](https://telegram.org)";
+"Star.Transaction.BotTos" = "Door je te abonneren, ga je akkoord met de [servicevoorwaarden](https://whatsgram.org)";
 "Star.Transaction.BroadcastMessages#one" = "%d bericht";
 "Star.Transaction.BroadcastMessages#other" = "%d berichten";
 "Star.Transaction.BroadcastMessages_countable" = "%d";
@@ -6815,7 +6815,7 @@
 "Star.Transaction.StarGift.ShownInProfile" = "Het cadeau is zichtbaar op je profiel. [Verbergen >](hide)";
 "Star.Transaction.To" = "Aan";
 "Star.Transaction.Ton.Description" = "Met Grams kun je cadeaus kopen en berichten voorstellen aan kanalen.";
-"Star.Transaction.Tos" = "Bekijk de [servicevoorwaarden](https://telegram.org/tos/stars) voor sterren.";
+"Star.Transaction.Tos" = "Bekijk de [servicevoorwaarden](https://whatsgram.org/tos/stars) voor sterren.";
 "Star.Transaction.TransactionUrl" = "Transactielink";
 "Star.Transaction.UnknwonUser" = "[Onbekende gebruiker](https://fragment.com/stars)";
 "Star.Transaction.Value" = "Waarde";
@@ -6920,7 +6920,7 @@
 "StarGift.Value.Source.Telegram" = "Telegram";
 "StarGift.ViewAllVariants" = "%1$@ Alle varianten bekijken >";
 "StarList.Ton" = "Grams";
-"StarList.Ton.Withdraw.Info" = "Verzilver je Grams via Fragment. [Lees meer >](telegram.org)";
+"StarList.Ton.Withdraw.Info" = "Verzilver je Grams via Fragment. [Lees meer >](whatsgram.org)";
 "StarList.TonInfo" = "Met Grams kun je cadeaus kopen en berichten voorstellen aan kanalen.";
 "StarTransaction.GiftRefundedInfo" = "Dit cadeau is versoberd omdat er een restitutie is aangevraagd voor de betaling waarmee dit cadeau is gekocht, en het geld is terugbetaald.";
 "Stars.Balance.BuyAds" = "Advertenties kopen";
@@ -6972,7 +6972,7 @@
 "Stars.Purchase.Subscribe.Success" = "Je bent met succes geabonneerd op **%@**";
 "Stars.Purchase.UpgradeStarGiftInfo" = "Koop sterren om je cadeau te upgraden naar een uniek verzamelobject.";
 "Stars.ReactScreen.Anonymous" = "Anoniem";
-"Stars.ReactScreen.Footer" = "Door sterren te versturen, ga je akkoord met de [servicevoorwaarden](https://telegram.org/tos/stars).";
+"Stars.ReactScreen.Footer" = "Door sterren te versturen, ga je akkoord met de [servicevoorwaarden](https://whatsgram.org/tos/stars).";
 "Stars.ReactScreen.Info" = "Kies hoeveel sterren je naar **%@** wilt versturen om dit bericht te ondersteunen.";
 "Stars.ReactScreen.Send#one" = "%@%d versturen";
 "Stars.ReactScreen.Send#other" = "%@%d versturen";
@@ -8254,7 +8254,7 @@
 "WebBot.Account.Desclaimer.Desc" = "**%@** snelkoppelingen worden aan je bijlagen en instellingen toegevoegd.";
 "WebBot.Account.Disclaimer.OK" = "Doorgaan";
 "WebBot.Account.Disclaimer.Text" = "Je staat op het punt om een mini-app van derden te gebruiken, die **niet gelieerd is aan Telegram**. Je dient akkoord te gaan met de gebruiksvoorwaarden voor mini-apps om verder te gaan.";
-"WebBot.Account.Disclaimer.Third" = "Ik ga akkoord met de [voorwaarden](https://telegram.org/tos/mini-apps)";
+"WebBot.Account.Disclaimer.Third" = "Ik ga akkoord met de [voorwaarden](https://whatsgram.org/tos/mini-apps)";
 "WebBot.Account.Disclaimer.Title" = "Gebruiksvoorwaarden";
 "WebBrowser.Error" = "**Sorry, er is iets misgegaan.**\nProbeer het later opnieuw.";
 "WebBrowser.InstantView" = "Snelle weergave";
@@ -8343,14 +8343,14 @@
 "psa.chat.alert.learnmore" = "Lees meer";
 "psa.chat.alert.learnmore.covid" = "Lees meer";
 "psa.chat.alert.learnmore.psa" = "Lees meer";
-"psa.chat.text.covid" = "Dit bericht is een openbare mededeling in verband met de huidige COVID-19-pandemie. Lees meer over dit initiatief op https://telegram.org/blog/coronavirus";
+"psa.chat.text.covid" = "Dit bericht is een openbare mededeling in verband met de huidige COVID-19-pandemie. Lees meer over dit initiatief op https://whatsgram.org/blog/coronavirus";
 "psa.chat.text.psa" = "Dit is een officieel bericht van de CEO van Telegram over het lopende conflict.";
 "psa.chat.title" = "Openbare mededeling";
 "psa.chatlist" = "PSA";
 "psa.chatlist.covid" = "COVID-19";
 "psa.chatlist.psa" = "Aankondiging";
 "psa.text" = "Via dit bericht krijg je een PSA-melding in je lijst met chats";
-"psa.text.covid" = "Dit bericht is een openbare mededeling in verband met de huidige COVID-19-pandemie. Lees meer over dit initiatief op https://telegram.org/blog/coronavirus";
+"psa.text.covid" = "Dit bericht is een openbare mededeling in verband met de huidige COVID-19-pandemie. Lees meer over dit initiatief op https://whatsgram.org/blog/coronavirus";
 "psa.text.psa" = "Dit is een officieel bericht van de CEO van Telegram over het lopende conflict.";
 "psa.title" = "PSA-melding";
 "psa.title.bubbles" = "PSA-melding\nvan: [%@]()";

@@ -164,7 +164,7 @@
 "cloud_lng_passport_in_uk" = "ukraińskim";
 "cloud_lng_passport_in_uz" = "uzbeckim";
 "cloud_lng_passport_in_vi" = "wietnamskim";
-"cloud_lng_tooltip_psa_covid" = "Ta wiadomość zawiera komunikat służby publicznej w związku z trwającą pandemią COVID-19. Dowiedz się więcej o tej inicjatywie na https://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "Ta wiadomość zawiera komunikat służby publicznej w związku z trwającą pandemią COVID-19. Dowiedz się więcej o tej inicjatywie na https://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "\nTo jest oficjalna wiadomość od Prezesa Telegrama dotycząca trwającego konfliktu.";
 "cloud_lng_topup_purpose_subs" = "Kup **Gwiazdki**, aby zachować subskrypcję kanału.";
 "cloud_lng_translate_to_ar" = "arabski";
@@ -222,7 +222,7 @@
 "lng_about_text2" = "To oprogramowanie jest udostępnione na licencji {gpl_link} wersja 3.\nKod źródłowy jest dostępny na {github_link}.";
 "lng_about_text3" = "Odwiedź {faq_link}, aby uzyskać więcej informacji.";
 "lng_about_text3_faq" = "Telegram FAQ";
-"lng_about_text_1" = "Darmowy komunikator korzystający z [a href=\"https://core.telegram.org/api\"]Telegram API[/a],\naby zapewnić szybkość i bezpieczeństwo.";
+"lng_about_text_1" = "Darmowy komunikator korzystający z [a href=\"https://core.whatsgram.org/api\"]Telegram API[/a],\naby zapewnić szybkość i bezpieczeństwo.";
 "lng_about_text_2" = "To oprogramowanie jest udostępnione na licencji [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] wersja 3.\nKod źródłowy jest dostępny na [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHubie[/a].";
 "lng_about_text_3" = "Odwiedź {faq_open}Telegram FAQ{faq_close}, aby uzyskać więcej informacji.";
 "lng_about_version" = "wersja {version}";
@@ -1511,7 +1511,7 @@
 "lng_bot_download_starting" = "Rozpoczynanie…";
 "lng_bot_earn_available" = "Dostępne saldo";
 "lng_bot_earn_balance_about" = "Gwiazdki z całkowitego salda można wykorzystać na reklamy lub wypłacić jako nagrody 21 dni po ich zarobieniu.";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
+"lng_bot_earn_balance_about_url" = "https://whatsgram.org/tos/stars";
 "lng_bot_earn_balance_button#one" = "Wypłać {emoji} {count}";
 "lng_bot_earn_balance_button#few" = "Wypłać {emoji} {count}";
 "lng_bot_earn_balance_button#many" = "Wypłać {emoji} {count}";
@@ -1662,7 +1662,7 @@
 "lng_business_about_quick_replies" = "Ustaw skróty zawierające sformatowany tekst i multimedia, aby szybciej odpowiadać na wiadomości.";
 "lng_business_about_sponsored" = "Jako subskrybent Premium nie widzisz żadnych reklam w Telegramie, ale możesz je włączyć, na przykład, aby zobaczyć własne reklamy uruchomione na {link}";
 "lng_business_about_sponsored_link" = "Platformie reklamowej Telegrama {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
+"lng_business_about_sponsored_url" = "https://ads.whatsgram.org";
 "lng_business_button_sponsored" = "Nie ukrywaj reklam";
 "lng_business_edit_messages" = "Edytuj wiadomość";
 "lng_business_limit_reached#one" = "Osiągnięto limit {count} wiadomości.";
@@ -1859,7 +1859,7 @@
 "lng_channel_earn_learn_bot_in_about" = "Telegram może wyświetlać reklamy w twoim bocie.";
 "lng_channel_earn_learn_close" = "Rozumiem";
 "lng_channel_earn_learn_coin_about" = "Gram to platforma blockchain i kryptowaluta, której Telegram używa ze względu na dużą prędkość i niskie prowizje od transakcji. {link}";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels/pl";
+"lng_channel_earn_learn_coin_link" = "https://whatsgram.org/blog/monetization-for-channels/pl";
 "lng_channel_earn_learn_coin_title" = "Co to jest {emoji} Gram?";
 "lng_channel_earn_learn_in_about" = "Telegram może wyświetlać reklamy na twoim kanale.";
 "lng_channel_earn_learn_in_subtitle" = "Reklamy Telegrama";
@@ -2039,7 +2039,7 @@
 "lng_chatbots_gift_settings" = "Zmień ustawienia prezentów";
 "lng_chatbots_include_button" = "Wybierz czaty";
 "lng_chatbots_included_title" = "Zawiera czaty";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business/pl#czatboty-dla-firm";
+"lng_chatbots_info_url" = "https://whatsgram.org/blog/telegram-business/pl#czatboty-dla-firm";
 "lng_chatbots_leave_without_added_text" = "Nie dodano bota do zarządzania twoim kontem. Czy mimo to chcesz wyjść?";
 "lng_chatbots_leave_without_added_title" = "Nie dodano bota";
 "lng_chatbots_manage_gifts" = "Zarządzanie prezentami i Gwiazdkami";
@@ -2536,7 +2536,7 @@
 "lng_credits_box_history_entry_floodskip_row" = "Wiadomości";
 "lng_credits_box_history_entry_fragment" = "Fragment";
 "lng_credits_box_history_entry_gift_about_link" = "Zobacz przykłady {emoji}";
-"lng_credits_box_history_entry_gift_about_url" = "https://telegram.org/blog/telegram-stars/pl";
+"lng_credits_box_history_entry_gift_about_url" = "https://whatsgram.org/blog/telegram-stars/pl";
 "lng_credits_box_history_entry_gift_bought" = "Kupiony prezent";
 "lng_credits_box_history_entry_gift_bought_from" = "Od";
 "lng_credits_box_history_entry_gift_converted" = "Wymieniony prezent";
@@ -2575,7 +2575,7 @@
 "lng_credits_box_history_entry_via" = "Przez";
 "lng_credits_box_history_entry_via_premium_bot" = "Premium Bot";
 "lng_credits_box_out_about" = "Zapoznaj się z {link} dla Gwiazdek.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars";
 "lng_credits_box_out_both" = "{photo} i {video}";
 "lng_credits_box_out_confirm#one" = "Potwierdzam i płacę {emoji} {count} Gwiazdkę";
 "lng_credits_box_out_confirm#few" = "Potwierdzam i płacę {emoji} {count} Gwiazdki";
@@ -2704,7 +2704,7 @@
 "lng_credits_summary_in_toast_title" = "Gwiazdki nabyte";
 "lng_credits_summary_options_about" = "Kontynuując i kupując Gwiazdki, zgadzasz się z {link}.";
 "lng_credits_summary_options_about_link" = "Warunkami korzystania";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars";
+"lng_credits_summary_options_about_url" = "https://whatsgram.org/tos/stars";
 "lng_credits_summary_options_credits#one" = "{count} Gwiazdka";
 "lng_credits_summary_options_credits#few" = "{count} Gwiazdki";
 "lng_credits_summary_options_credits#many" = "{count} Gwiazdek";
@@ -4783,7 +4783,7 @@
 "lng_group_invite_subscription" = "Wymagaj miesięcznej opłaty";
 "lng_group_invite_subscription_about" = "Pobieraj opłatę za subskrypcję od osób, które dołączają do twojego kanału, używając tego linku. {link}";
 "lng_group_invite_subscription_about_link" = "Czytaj więcej {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "otrzymasz około {total} miesięcznie";
 "lng_group_invite_subscription_info_subtitle" = "Opłata za subskrypcję";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} / miesiąc {multiplier} {total}";
@@ -5642,7 +5642,7 @@
 "lng_mini_apps_disclaimer_link" = "Warunki świadczenia usługi";
 "lng_mini_apps_disclaimer_text" = "Zamierzasz korzystać z miniaplikacji obsługiwanej przez niezależny podmiot **niepowiązany z Telegramem**. Aby kontynuować, musisz zaakceptować Warunki korzystania z miniaplikacji.";
 "lng_mini_apps_disclaimer_title" = "Ostrzeżenie";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "Minimalizuj do obszaru powiadomień";
 "lng_minimize_window" = "Minimalizuj";
 "lng_minutes#one" = "{count} minutę";
@@ -5852,7 +5852,7 @@
 "lng_owner_badge" = "właściciel";
 "lng_paid_about" = "Aby oglądać te multimedia, użytkownicy będą musieli przenieść tę liczbę gwiazdek na twój kanał. {link}";
 "lng_paid_about_link" = "Więcej o Gwiazdkach »";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars";
 "lng_paid_admin_about" = "Oglądający mogą wysyłać ci reakcje Gwiazdkami.";
 "lng_paid_admin_title" = "Otrzymuj gwiazdki od widzów";
 "lng_paid_comment_about" = "Wyróżnij i przypnij swoją wiadomość, dodając Gwiazdki dla {name}.";
@@ -6415,7 +6415,7 @@
 "lng_popular_apps_info_here" = "tutaj";
 "lng_popular_apps_info_text" = "Ten katalog klasyfikuje miniaplikacje na podstawie ich dziennego przychodu, mierzonego w Gwiazdkach. Aby zostać uwzględnionym, deweloperzy muszą ustawić swoje główne miniaplikacje w {bot} (jak opisano {link}), mieć ponad **1000** użytkowników dziennie i zarabiać dziennie ponad **1000** Gwiazdek, na podstawie średniej tygodniowej.";
 "lng_popular_apps_info_title" = "Najlepsze miniaplikacje";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
+"lng_popular_apps_info_url" = "https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app";
 "lng_posts_limit_about#one" = "Możesz wykonać do {count} wyszukiwania dziennie.";
 "lng_posts_limit_about#few" = "Możesz wykonać do {count} wyszukiwań dziennie.";
 "lng_posts_limit_about#many" = "Możesz wykonać do {count} wyszukiwań dziennie.";
@@ -6860,7 +6860,7 @@
 "lng_profile_bot_help" = "Pomoc bota";
 "lng_profile_bot_permissions_title" = "Zezwól na dostęp do";
 "lng_profile_bot_privacy" = "Polityka prywatności bota";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "Ustawienia bota";
 "lng_profile_camera_title" = "Uchwyć siebie";
 "lng_profile_changed_photo_about" = "Możesz je zmienić w {link}.";
@@ -8029,7 +8029,7 @@
 "lng_settings_export_data" = "Eksportuj dane Telegrama";
 "lng_settings_faq" = "Telegram FAQ";
 "lng_settings_faq_button" = "FAQ";
-"lng_settings_faq_link" = "https://telegram.org/faq/pl#pytania-ogolne";
+"lng_settings_faq_link" = "https://whatsgram.org/faq/pl#pytania-ogolne";
 "lng_settings_faq_subtitle" = "FAQ";
 "lng_settings_features" = "Funkcje Telegrama";
 "lng_settings_file_confirmations" = "Potwierdzenia otwarcia pliku";
@@ -8229,7 +8229,7 @@
 "lng_settings_suggestion_password_title" = "Twoje hasło";
 "lng_settings_suggestion_password_yes" = "Tak, zdecydowanie";
 "lng_settings_suggestion_phone_number_about" = "Aktualizuj swój numer, aby zawsze móc zalogować się do Telegrama. {link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq/pl#p-mam-nowy-numer-telefonu-co-mam-zrobic";
+"lng_settings_suggestion_phone_number_about_link" = "https://whatsgram.org/faq/pl#p-mam-nowy-numer-telefonu-co-mam-zrobic";
 "lng_settings_suggestion_phone_number_change" = "Zmień swój numer telefonu w oficjalnej aplikacji Telegram na swoim telefonie tak szybko, jak to możliwe. {emoji}";
 "lng_settings_suggestion_phone_number_title" = "Czy {phone} to nadal twój numer?";
 "lng_settings_system_integration" = "Integracja z systemem";
@@ -8467,7 +8467,7 @@
 "lng_sponsored_info_description1" = "W przeciwieństwie do innych aplikacji Telegram nigdy nie wykorzystuje Twoich prywatnych danych do kierowania reklam. Wiadomości sponsorowane na Telegramie są oparte wyłącznie na tematyce kanałów publicznych, na których są wyświetlane. Oznacza to, że żadne dane użytkownika nie są wydobywane ani analizowane w celu wyświetlania reklam, a każdy użytkownik oglądający kanał na Telegramie widzi tę samą sponsorowaną wiadomość.\n\nW przeciwieństwie do innych aplikacji Telegram nie śledzi, czy kliknąłeś sponsorowaną wiadomość, i nie profiluje Cię na podstawie Twojej aktywności. Zapobiegamy również umieszczaniu linków zewnętrznych w wiadomościach sponsorowanych, aby zapewnić, że osoby trzecie nie będą mogły szpiegować naszych użytkowników. Wierzymy, że każdy ma prawo do prywatności, a platformy technologiczne powinny to szanować.\n\nTelegram oferuje bezpłatną i nieograniczoną usługę setkom milionów użytkowników, co wiąże się ze znacznymi kosztami serwera i ruchu. Aby zachować niezależność i pozostać wiernym swoim wartościom, Telegram opracował płatne narzędzie do promowania wiadomości z myślą o prywatności użytkowników. Zapraszamy odpowiedzialnych reklamodawców na:";
 "lng_sponsored_info_description1_link" = "Dowiedz się więcej w Polityce Prywatności";
 "lng_sponsored_info_description1_linked" = "W przeciwieństwie do innych aplikacji Telegram nigdy nie wykorzystuje Twoich prywatnych danych do kierowania reklam. {link}\n\nW przeciwieństwie do innych aplikacji Telegram nie śledzi, czy kliknąłeś sponsorowaną wiadomość, i nie profiluje Cię na podstawie Twojej aktywności. Zapobiegamy również umieszczaniu linków zewnętrznych w wiadomościach sponsorowanych, aby zapewnić, że osoby trzecie nie będą mogły szpiegować naszych użytkowników. Wierzymy, że każdy ma prawo do prywatności, a platformy technologiczne powinny to szanować.\n\nTelegram oferuje bezpłatną i nieograniczoną usługę setkom milionów użytkowników, co wiąże się ze znacznymi kosztami serwera i ruchu. Aby zachować niezależność i pozostać wiernym swoim wartościom, Telegram opracował płatne narzędzie do promowania wiadomości z myślą o prywatności użytkowników. Zapraszamy odpowiedzialnych reklamodawców na:";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy#5-6-no-ads-based-on-user-data";
+"lng_sponsored_info_description1_url" = "https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data";
 "lng_sponsored_info_description2" = "Wiadomości sponsorowane są obecnie w trybie testowym. Po ich pełnym uruchomieniu i umożliwieniu Telegramowi pokrycia podstawowych kosztów zaczniemy dzielić się przychodami z reklam z właścicielami kanałów publicznych, na których wyświetlane są wiadomości sponsorowane.\n\nReklamy online nie powinny być dłużej synonimem naruszania prywatności użytkownika. Zdefiniujmy na nowo, jak powinna działać firma technologiczna – razem.";
 "lng_sponsored_info_menu" = "O reklamodawcy";
 "lng_sponsored_info_submenu" = "{text}";
@@ -8707,7 +8707,7 @@
 "lng_star_ref_start_info" = "Tworząc program partnerski, akceptujesz {terms} z programów partnerskich.";
 "lng_star_ref_stopped" = "Ten link polecający nie jest już aktywny.";
 "lng_star_ref_title" = "Program partnerski";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program";
+"lng_star_ref_tos_url" = "https://whatsgram.org/tos/affiliate-program";
 "lng_star_ref_transparent_about" = "Śledź swoje prowizje od poleconych użytkowników w czasie rzeczywistym.";
 "lng_star_ref_transparent_title" = "Przejrzyste";
 "lng_star_ref_update" = "Aktualizuj program partnerski";

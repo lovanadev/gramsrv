@@ -96,7 +96,7 @@
 "cloud_lng_passport_in_uk" = "Ukraina";
 "cloud_lng_passport_in_uz" = "Uzbekistan";
 "cloud_lng_passport_in_vi" = "Vietnam";
-"cloud_lng_tooltip_psa_covid" = "Pesan ini memberikan pengumuman layanan publik terkait dengan pandemik COVID-19 yang berlangsung. Pelajari lebih lagi tentang inisiatif ini di https://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "Pesan ini memberikan pengumuman layanan publik terkait dengan pandemik COVID-19 yang berlangsung. Pelajari lebih lagi tentang inisiatif ini di https://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "Ini adalah pesan resmi dari CEO Telegram terkait konflik yang sedang berlangsung.";
 "cloud_lng_topup_purpose_subs" = "Beli **Stars** untuk melanjutkan langganan channel Anda.";
 "cloud_lng_translate_to_ar" = "Arab";
@@ -153,7 +153,7 @@
 "lng_about_text2" = "Perangkat lunak ini dilisensikan di bawah {gpl_link} versi 3.\nKode sumber tersedia di {github_link}.";
 "lng_about_text3" = "Kunjungi {faq_link} untuk informasi lebih lanjut.";
 "lng_about_text3_faq" = "Pertanyaan Umum";
-"lng_about_text_1" = "Aplikasi pesan instan gratis resmi berbasis [a href=\"https://core.telegram.org/api\"]Telegram API[/a] untuk kecepatan dan keamanan.";
+"lng_about_text_1" = "Aplikasi pesan instan gratis resmi berbasis [a href=\"https://core.whatsgram.org/api\"]Telegram API[/a] untuk kecepatan dan keamanan.";
 "lng_about_text_2" = "Perangkat lunak ini berlisensi [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] versi 3.\nKode sumber tersedia di [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a].";
 "lng_about_text_3" = "Kunjungi {faq_open}Telegram FAQ{faq_close} untuk informasi lebih lanjut.";
 "lng_about_version" = "versi {version}";
@@ -3130,7 +3130,7 @@
 "lng_group_invite_subscription" = "Memerlukan Biaya Bulanan";
 "lng_group_invite_subscription_about" = "Kenakan biaya berlangganan dari pengguna yang bergabung dalam channel Anda via tautan ini. {link}";
 "lng_group_invite_subscription_about_link" = "Pelajari {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "Anda dapat sekitar {total} per bulan";
 "lng_group_invite_subscription_info_subtitle" = "Biaya berlangganan";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} / bulan {multiplier} {total}";
@@ -3699,7 +3699,7 @@
 "lng_mini_apps_disclaimer_link" = "Ketentuan Penggunaan";
 "lng_mini_apps_disclaimer_text" = "Anda akan menggunakan aplikasi mini yang dioperasikan oleh pihak independen yang **tidak terafiliasi dengan Telegram**. Anda harus menyetujui Ketentuan Penggunaan aplikasi mini untuk lanjut.";
 "lng_mini_apps_disclaimer_title" = "Peringatan";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "Minimalkan ke Tray";
 "lng_minutes#other" = "{count} menit";
 "lng_minutes_tiny#other" = "{count}m";
@@ -3838,7 +3838,7 @@
 "lng_owner_badge" = "pemilik";
 "lng_paid_about" = "Pengguna harus membayar sejumlah Stars ke channel Anda untuk melihat media ini. {link}";
 "lng_paid_about_link" = "Tentang Stars >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars/id?ln=a";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars/id?ln=a";
 "lng_paid_comment_about" = "Sorot dan semat pesan dengan menambah Stars untuk **{name}**.";
 "lng_paid_comment_pin_about" = "durasi";
 "lng_paid_comment_title" = "Sorot dan Semat";
@@ -4499,7 +4499,7 @@
 "lng_profile_bot_help" = "Bantuan";
 "lng_profile_bot_permissions_title" = "Izinkan akses ke";
 "lng_profile_bot_privacy" = "Kebijakan Privasi Bot";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "Pengaturan";
 "lng_profile_camera_title" = "Ambil gambar Anda";
 "lng_profile_changed_photo_about" = "Anda dapat mengubahnya di {link}.";

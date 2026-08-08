@@ -163,7 +163,7 @@
 "cloud_lng_passport_in_uk" = "Ucraineană";
 "cloud_lng_passport_in_uz" = "Uzbecă";
 "cloud_lng_passport_in_vi" = "Vietnameză";
-"cloud_lng_tooltip_psa_covid" = "Acest mesaj îți oferă un anunț de serviciu public în legătură cu pandemia de COVID-19 în desfășurare. Mai multe despre această inițiativă la https://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "Acest mesaj îți oferă un anunț de serviciu public în legătură cu pandemia de COVID-19 în desfășurare. Mai multe despre această inițiativă la https://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "Acesta este un mesaj oficial de la CEO-ul Telegram în legătură cu conflictul în desfășurare.";
 "cloud_lng_topup_purpose_subs" = "Cumpără **Stele** pentru a-ți păstra abonamentele canalelor.";
 "cloud_lng_translate_to_ar" = "Arabă";
@@ -221,7 +221,7 @@
 "lng_about_text2" = "Acest software este licențiat sub {gpl_link} versiunea 3.\nCodul sursă este disponibil pe {github_link}.";
 "lng_about_text3" = "Vizitează {faq_link} pentru mai multe informații.";
 "lng_about_text3_faq" = "Întrebări Frecvente";
-"lng_about_text_1" = "Aplicația oficială de mesagerie bazată pe [a href=\"https://core.telegram.org/api\"]Telegram API[/a]\npentru viteză și securitate.";
+"lng_about_text_1" = "Aplicația oficială de mesagerie bazată pe [a href=\"https://core.whatsgram.org/api\"]Telegram API[/a]\npentru viteză și securitate.";
 "lng_about_text_2" = "Acest program este licențiat sub [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] versiunea 3.\nCodul sursă este disponibil pe [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a].";
 "lng_about_text_3" = "Vizitează {faq_open}Telegram FAQ{faq_close} pentru informații suplimentare.";
 "lng_about_version" = "versiunea {version}";
@@ -1414,7 +1414,7 @@
 "lng_bot_download_starting" = "Începere...";
 "lng_bot_earn_available" = "Sold disponibil";
 "lng_bot_earn_balance_about" = "Stelele din soldul tău total pot fi folosite pentru reclame sau retrase ca recompense la 21 de zile după ce sunt câștigate.";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
+"lng_bot_earn_balance_about_url" = "https://whatsgram.org/tos/stars";
 "lng_bot_earn_balance_button#one" = "Retrage {emoji}{count}";
 "lng_bot_earn_balance_button#other" = "Retrage {emoji}{count}";
 "lng_bot_earn_balance_button_all" = "Retrage toate stelele";
@@ -1559,7 +1559,7 @@
 "lng_business_about_quick_replies" = "Configurează scurtături cu text formatat și conținut media pentru a răspunde mai rapid la mesaje.";
 "lng_business_about_sponsored" = "Ca abonat Premium, nu vezi nicio reclamă pe Telegram, dar le poți porni, de exemplu, pentru a-ți vedea reclamele proprii pe care le-ai lansat pe {link}";
 "lng_business_about_sponsored_link" = "Platforma Telegram Ad {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
+"lng_business_about_sponsored_url" = "https://ads.whatsgram.org";
 "lng_business_button_sponsored" = "Nu Ascunde Reclamele";
 "lng_business_edit_messages" = "Editează mesaje";
 "lng_business_limit_reached#one" = "Limita de {count} mesaj atinsă.";
@@ -1746,7 +1746,7 @@
 "lng_channel_earn_learn_bot_in_about" = "Telegram poate afișa reclame în robotul tău.";
 "lng_channel_earn_learn_close" = "Am înțeles";
 "lng_channel_earn_learn_coin_about" = "Gram este criptomoneda platformei blockchain TON, pe care Telegram o folosește pentru viteza sa mare și comisioanele reduse la tranzacții. {link}";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels";
+"lng_channel_earn_learn_coin_link" = "https://whatsgram.org/blog/monetization-for-channels";
 "lng_channel_earn_learn_coin_title" = "Ce este {emoji} Gram?";
 "lng_channel_earn_learn_in_about" = "Telegram poate afișa reclame în canalul tău.";
 "lng_channel_earn_learn_in_subtitle" = "Reclame Telegram";
@@ -1916,7 +1916,7 @@
 "lng_chatbots_gift_settings" = "Schimbă Setări Cadouri";
 "lng_chatbots_include_button" = "Selectează conversații";
 "lng_chatbots_included_title" = "Conversații incluse";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"lng_chatbots_info_url" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "lng_chatbots_leave_without_added_text" = "Nu ai adăugat niciun robot pentru a-ți gestiona contul. Ieși oricum?";
 "lng_chatbots_leave_without_added_title" = "Niciun Robot Adăugat";
 "lng_chatbots_manage_gifts" = "Gestionează Cadouri și Stele";
@@ -2405,7 +2405,7 @@
 "lng_credits_box_history_entry_floodskip_row" = "Mesaje";
 "lng_credits_box_history_entry_fragment" = "Fragment";
 "lng_credits_box_history_entry_gift_about_link" = "Vezi Exemple {emoji}";
-"lng_credits_box_history_entry_gift_about_url" = "https://telegram.org/blog/telegram-stars";
+"lng_credits_box_history_entry_gift_about_url" = "https://whatsgram.org/blog/telegram-stars";
 "lng_credits_box_history_entry_gift_bought" = "Achiziție Cadou";
 "lng_credits_box_history_entry_gift_bought_from" = "De la";
 "lng_credits_box_history_entry_gift_converted" = "Cadou Convertit";
@@ -2444,7 +2444,7 @@
 "lng_credits_box_history_entry_via" = "Prin";
 "lng_credits_box_history_entry_via_premium_bot" = "Robot Premium";
 "lng_credits_box_out_about" = "Revizuiește {link} pentru Stele.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars";
 "lng_credits_box_out_both" = "{photo} și {video}";
 "lng_credits_box_out_confirm#one" = "Confirmă și Plătește {emoji} {count} Stea";
 "lng_credits_box_out_confirm#few" = "Confirmă și Plătește {emoji} {count} Stele";
@@ -2559,7 +2559,7 @@
 "lng_credits_summary_in_toast_title" = "Stele Achiziționate";
 "lng_credits_summary_options_about" = "Continuând și achiziționând Stele, ești de acord cu {link}.";
 "lng_credits_summary_options_about_link" = "Termenii și Condițiile";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars";
+"lng_credits_summary_options_about_url" = "https://whatsgram.org/tos/stars";
 "lng_credits_summary_options_credits#one" = "{count} Stea";
 "lng_credits_summary_options_credits#few" = "{count} Stele";
 "lng_credits_summary_options_credits#other" = "{count} de Stele";
@@ -4480,7 +4480,7 @@
 "lng_group_invite_subscription" = "Necesită Taxă Lunară";
 "lng_group_invite_subscription_about" = "Percepe o taxă de abonare de la persoanele care se alătură canalului tău prin acest link. {link}";
 "lng_group_invite_subscription_about_link" = "Mai multe {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "obții aproximativ {total} lunar";
 "lng_group_invite_subscription_info_subtitle" = "Taxă abonament";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} / lună {multiplier} {total}";
@@ -5292,7 +5292,7 @@
 "lng_mini_apps_disclaimer_link" = "Termenii de Utilizare";
 "lng_mini_apps_disclaimer_text" = "Ești pe cale să folosești o mini app operată de o parte independentă **neafiliată cu Telegram**. Trebuie să fii de acord cu Termenii de utilizare ai mini apps pentru a continua.";
 "lng_mini_apps_disclaimer_title" = "Atenție";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "Minimizare în bară";
 "lng_minimize_window" = "Minimizare";
 "lng_minutes#one" = "{count} minut";
@@ -5485,7 +5485,7 @@
 "lng_owner_badge" = "proprietar";
 "lng_paid_about" = "Utilizatorii vor trebui să transfere această sumă de Stele canalului tău pentru a vedea acest articol media. {link}";
 "lng_paid_about_link" = "Mai multe despre stele >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars";
 "lng_paid_admin_about" = "Spectatorii îți pot trimite Reacții Stea.";
 "lng_paid_admin_title" = "Primește Stele de la Spectatori";
 "lng_paid_comment_about" = "Evidențiază și fixează-ți mesajul adăugând Stele pentru {name}.";
@@ -6016,7 +6016,7 @@
 "lng_popular_apps_info_here" = "aici";
 "lng_popular_apps_info_text" = "Acest catalog clasează mini apps în baza veniturilor lor zilnice, măsurate în Stele. Pentru a fi listată, dezvoltatorii trebuie să își configureze mini app principală în {bot} (așa cum este descris {link}), să aibă peste **1,000** de utilizatori zilnic, și un venit zilnic de peste **1,000** de Stele, bazat pe media săptămânală.";
 "lng_popular_apps_info_title" = "Top Mini Apps";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
+"lng_popular_apps_info_url" = "https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app";
 "lng_posts_limit_about#one" = "Poți efectua până la {count} căutare pe zi.";
 "lng_posts_limit_about#few" = "Poți efectua până la {count} căutări distincte pe zi.";
 "lng_posts_limit_about#other" = "Poți efectua până la {count} de căutări distincte pe zi.";
@@ -6403,7 +6403,7 @@
 "lng_profile_bot_help" = "Ajutor Robot";
 "lng_profile_bot_permissions_title" = "Permite accesul la";
 "lng_profile_bot_privacy" = "Politica de confidențialitate a robotului";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "Setări Robot";
 "lng_profile_camera_title" = "Fă-ți o poză";
 "lng_profile_changed_photo_about" = "Poți să o schimbi în {link}.";
@@ -7506,7 +7506,7 @@
 "lng_settings_export_data" = "Exportă datele Telegram";
 "lng_settings_faq" = "Întrebări Frecvente";
 "lng_settings_faq_button" = "Mergi la FAQ";
-"lng_settings_faq_link" = "https://telegram.org/faq#general-questions";
+"lng_settings_faq_link" = "https://whatsgram.org/faq#general-questions";
 "lng_settings_faq_subtitle" = "Întrebări Frecvente";
 "lng_settings_features" = "Funcționalități Telegram";
 "lng_settings_file_confirmations" = "Confirmări deschidere fișier";
@@ -7703,7 +7703,7 @@
 "lng_settings_suggestion_password_title" = "Parola ta";
 "lng_settings_suggestion_password_yes" = "Da, bineînțeles";
 "lng_settings_suggestion_phone_number_about" = "Păstrează-ți numărul actualizat pentru a te asigura că poți mereu să te conectezi la Telegram. {link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
+"lng_settings_suggestion_phone_number_about_link" = "https://whatsgram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
 "lng_settings_suggestion_phone_number_change" = "Te rugăm schimbă-ți numărul de telefon în aplicația oficială Telegram pe telefonul tău cât mai curând posibil. {emoji}";
 "lng_settings_suggestion_phone_number_title" = "{phone} e încă numărul tău?";
 "lng_settings_system_integration" = "Integrare de sistem";
@@ -7924,7 +7924,7 @@
 "lng_sponsored_info_description1" = "Spre deosebire de alte aplicații, Telegram nu folosește niciodată datele tale private pentru reclame personalizate. Mesajele sponsorizate pe Telegram sunt bazate doar pe subiectele canalelor în care ele sunt afișate. Asta înseamnă că niciun fel de date ale utilizatorilor nu sunt extrase sau analizate pentru a afișa reclame, și toți utilizatorii care vizionează un canal pe Telegram văd exact aceleași mesaje sponsorizate.\n\nSpre deosebire de alte aplicații, Telegram nu urmărește dacă ai atins un mesaj sponsorizat și nu te profilează bazat pe activitatea ta. Prevenim de asemenea linkurile externe în mesajele sponsorizate pentru a ne asigura că terțe părți nu pot spiona utilizatorii noștri. Credem că toată lumea are dreptul la confidențialitate, și platformele tehnologice ar trebui să respecte asta.\n\nTelegram oferă un serviciu gratuit și nelimitat pentru sute de milioane de utilizatori, fapt care implică costuri semnificative pentru servere și trafic. Pentru a rămâne independent și fidel valorilor sale, Telegram a dezvoltat o unealtă cu plată pentru a promova mesaje, având confidențialitatea utilizatorilor în minte. Așteptăm agenții publicitari responsabili pe:";
 "lng_sponsored_info_description1_link" = "Mai multe în Politica de Confidențialitate";
 "lng_sponsored_info_description1_linked" = "Spre deosebire de alte aplicații, Telegram nu folosește niciodată datele tale private pentru reclame personalizate. {link}\n\nSpre deosebire de alte aplicații, Telegram nu urmărește dacă ai atins un mesaj sponsorizat și nu te profilează bazat pe activitatea ta. Prevenim de asemenea linkurile externe în mesajele sponsorizate pentru a ne asigura că terțe părți nu pot spiona utilizatorii noștri. Credem că toată lumea are dreptul la confidențialitate, și platformele tehnologice ar trebui să respecte asta.\n\nTelegram oferă un serviciu gratuit și nelimitat pentru sute de milioane de utilizatori, fapt care implică costuri semnificative pentru servere și trafic. Pentru a rămâne independent și fidel valorilor sale, Telegram a dezvoltat o unealtă cu plată pentru a promova mesaje, având confidențialitatea utilizatorilor în minte. Așteptăm agenții publicitari responsabili pe:";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy#5-6-no-ads-based-on-user-data";
+"lng_sponsored_info_description1_url" = "https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data";
 "lng_sponsored_info_description2" = "Mesajele Sponsorizate sunt momentan în modul de testare. După ce vor fi lansate în totalitate și vor permite Telegram să-și acopere costurile de bază, vom începe să împărțim veniturile din reclame cu proprietarii canalelor publice în care mesajele sponsorizate sunt afișate.\n\nReclamele online nu ar trebui să mai fie sinonime cu abuzul confidențialității utilizatorului. Permite-ne să redefinim cum o companie de tehnologie ar trebui să opereze – împreună.";
 "lng_sponsored_info_menu" = "Info Agent Publicitar";
 "lng_sponsored_info_submenu" = "Agent publicitar: {text}";
@@ -8157,7 +8157,7 @@
 "lng_star_ref_start_info" = "Creând un program de afiliere, ești de acord cu {terms} Programelor de Afiliere.";
 "lng_star_ref_stopped" = "Acest link de afiliere nu mai este activ.";
 "lng_star_ref_title" = "Program Afiliere";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program";
+"lng_star_ref_tos_url" = "https://whatsgram.org/tos/affiliate-program";
 "lng_star_ref_transparent_about" = "Urmărești comisioanele tale de la utilizatorii recomandați în timp real.";
 "lng_star_ref_transparent_title" = "Transparente";
 "lng_star_ref_update" = "Actualizează Program Afiliere";

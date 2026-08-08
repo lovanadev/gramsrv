@@ -1347,7 +1347,7 @@
 "GiftPeerUpgradeTransferableDescription" = "{user} akan dapat kirim hadiah kepada sesiapa di Telegram.";
 "GiftPeerUpgradeUniqueDescription" = "{user} akan dapat nombor unik, model, latar belakang, dan simbol untuk hadiah.";
 "GiftPremiumDescription" = "Beri {user} akses kepada ciri eksklusif dengan Telegram Premium. {link}";
-"GiftPremiumDescriptionLink" = "https://telegram.org/faq_premium";
+"GiftPremiumDescriptionLink" = "https://whatsgram.org/faq_premium";
 "GiftPremiumDescriptionLinkCaption" = "Lihat Ciri >";
 "GiftPremiumDescriptionYourBalance" = "Baki anda ialah **{stars}**. {link}";
 "GiftPremiumHeader" = "Hadiah Premium";
@@ -2090,7 +2090,7 @@
 "ProfileBirthdayTodayValueAge#other" = "🎂 {date} ({age} tahun)";
 "ProfileBirthdayValue" = "{date}";
 "ProfileBirthdayValueAge#other" = "{date} ({age} tahun)";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps";
 "ProfileCopyPhone" = "Salin Nombor Fon";
 "ProfileItemSubscribers" = "Pelanggan";
 "ProfileJoinChannel" = "Sertai Saluran";
@@ -2432,7 +2432,7 @@
 "SpeakingWithVolume" = "{volume}% bercakap";
 "SponsoredMessageAd" = "Iklan";
 "SponsoredMessageAdWhatIsThis" = "apa ini?";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "Apa itu mesej ditaja?";
 "SponsoredMessageInfoDescription1" = "Tidak seperti aplikasi lain, Telegram tak akan guna data privat anda untuk sasaran iklan. Mesej ditaja di Telegram berdasarkan hanya pada topik di saluran awam di mana ianya dipamirkan. Ini bermakna tiada data pengguna yang akan diguna atau dianalisa untuk memapar iklan, dan setiap pengguna yang melihat di saluran Telegram nampak mesej yang ditaja yang sama.";
 "SponsoredMessageInfoDescription2" = "Tidak seperti aplikasi lain, Telegram tidak menjejaki samada anda tekan pada mesej yang ditaja dan tidak memprofil anda berdasarkan aktiviti anda. Kami juga sekat link luaran untuk pastikan pihak ketiga tidak boleh mengintip pengguna kami. Kami percaya setiap pengguna mempunyai hak privasi, dan platform teknologi harus menghormatinya.";
@@ -2472,17 +2472,17 @@
 "StarsNeededTextSendPaidMessages" = "Beli **Star** untuk kirim mesej.";
 "StarsPay" = "Pasti dan Bayar {amount}";
 "StarsPerMonth" = "⭐️{amount}/bulan";
-"StarsReactionLink" = "https://telegram.org/tos/stars";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars";
 "StarsReactionLinkText" = "Terma Servis";
 "StarsReactionTerms" = "Dengan mengirim Star and setuju pada {link}";
 "StarsSubscribeBotButtonMonth" = "Langgani untuk {amount} / bulan";
 "StarsSubscribeBotText#other" = "Anda ingin langgan ke **{name}** dalam **{bot}** untuk **{amount}** Star per bulan?";
 "StarsSubscribeInfo" = "Dengan melanggan anda setuju dengan {link}";
-"StarsSubscribeInfoLink" = "https://telegram.org/tos/stars";
+"StarsSubscribeInfoLink" = "https://whatsgram.org/tos/stars";
 "StarsSubscribeInfoLinkText" = "Terma Servis";
 "StarsSubscribeText#other" = "Anda ingin langgan ke **{chat}** untuk **{amount} Star** per bulan?";
 "StarsTransactionTOS" = "Semak {link} untuk Star.";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars";
 "StarsTransactionTOSLinkText" = "Terma Servis";
 "StarsTransactionsAll" = "Semua Transaksi";
 "StarsTransactionsIncoming" = "Masuk";

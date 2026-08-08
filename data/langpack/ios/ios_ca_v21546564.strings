@@ -61,7 +61,7 @@
 "AdsInfo.Bot.Split.Title" = "Ajuden al creador del bot";
 "AdsInfo.Info" = "Els anuncis del Telegram són molt diferents dels d'altres plataformes. Anuncis així:";
 "AdsInfo.Launch.Text" = "Tothom pot crear un anunci i mostrar-lo en aquest canal, amb poc pressupost. Consulteu la plataforma d'anuncis del Telegram per a més informació. [Més informació >]()";
-"AdsInfo.Launch.Text_URL" = "https://ads.telegram.org";
+"AdsInfo.Launch.Text_URL" = "https://ads.whatsgram.org";
 "AdsInfo.Launch.Title" = "Puc llançar un anunci?";
 "AdsInfo.Respect.Text" = "Els anuncis a Telegram no utilitzen la vostra informació personal, es basen en el canal on els veieu.";
 "AdsInfo.Respect.Title" = "Respecten la vostra privacitat";
@@ -82,7 +82,7 @@
 "AffiliateProgram.JoinSubtitleMonths#other" = "**{bot}** compartirà un **{commission}** dels ingressos dels usuaris que hi referencieu durant **%d mesos.**";
 "AffiliateProgram.JoinSubtitleYears#one" = "**{bot}** compartirà un **{commission}** dels ingressos dels usuaris que hi referencieu durant **1 any**.";
 "AffiliateProgram.JoinSubtitleYears#other" = "**{bot}** compartirà un **{commission}** dels ingressos dels usuaris que hi referencieu durant **%d anys**.";
-"AffiliateProgram.JoinTerms" = "En unir-vos al programa, accepteu els [termes i condicions](https://telegram.org/tos/affiliate-program) dels programes d'afiliats.";
+"AffiliateProgram.JoinTerms" = "En unir-vos al programa, accepteu els [termes i condicions](https://whatsgram.org/tos/affiliate-program) dels programes d'afiliats.";
 "AffiliateProgram.JoinTitle" = "Programa d'afiliació";
 "AffiliateProgram.LinkSubtitleLifetime" = "Compartiu l'enllaç amb els vostres usuaris per a guanyar un **{commission}** de comissió del que gastin al **{bot}** **per sempre** després que obrin l'enllaç.";
 "AffiliateProgram.LinkSubtitleMonths#one" = "Compartiu l'enllaç amb els vostres usuaris per a guanyar un **{commission}** de comissió del que gastin al **{bot}** durant **1 mes** després que obrin l'enllaç.";
@@ -148,7 +148,7 @@
 "AffiliateSetup.StartTitle" = "Inicia el programa d'afiliació";
 "AffiliateSetup.SuggestedSectionEmpty" = "Encara no hi ha cap programa.\nTorneu aquí més endavant.";
 "AffiliateSetup.SuggestedSectionTitle" = "PROGRAMES";
-"AffiliateSetup.TermsFooter" = "En crear un programa, accepteu els [termes i condicions](https://telegram.org/terms) dels programes d'afiliats.";
+"AffiliateSetup.TermsFooter" = "En crear un programa, accepteu els [termes i condicions](https://whatsgram.org/terms) dels programes d'afiliats.";
 "AffiliateSetup.TextJoin" = "Guanyeu una comissió cada vegada que un usuari gasti **estrelles** en una miniaplicació a què hagi accedit a través del vostre enllaç d'afiliat.";
 "AffiliateSetup.TextNew" = "Recompenseu a qui ajuda a fer créixer la vostra base d'usuaris.";
 "AffiliateSetup.TitleJoin" = "Programes d'afiliació";
@@ -509,11 +509,11 @@
 "AuthSessions.AddDevice" = "Escaneja un codi QR";
 "AuthSessions.AddDevice.InvalidQRCode" = "Codi QR no vàlid";
 "AuthSessions.AddDevice.ScanInfo" = "Escanegeu un codi QR per a iniciar la sessió en un altre dispositiu.";
-"AuthSessions.AddDevice.ScanInstallInfo" = "Aneu a [getdesktop.telegram.org](desktop) o [web.telegram.org](web) per a obtenir el codi QR";
+"AuthSessions.AddDevice.ScanInstallInfo" = "Aneu a [getdesktop.whatsgram.org](desktop) o [web.whatsgram.org](web) per a obtenir el codi QR";
 "AuthSessions.AddDevice.ScanTitle" = "Escaneig de codi";
 "AuthSessions.AddDevice.UrlLoginHint" = "Qualsevol pot iniciar sessió en el vostre compte del Telegram amb aquest codi.\n\nPer a confirmar-ho, aneu a la Configuració > Dispositius > Afegeix un dispositiu, i escanegeu el codi.";
 "AuthSessions.AddDeviceIntro.Action" = "Escaneja un codi QR";
-"AuthSessions.AddDeviceIntro.Text1" = "Baixeu el Telegram a l'ordinador des de [desktop.telegram.org]()";
+"AuthSessions.AddDeviceIntro.Text1" = "Baixeu el Telegram a l'ordinador des de [desktop.whatsgram.org]()";
 "AuthSessions.AddDeviceIntro.Text2" = "Obriu el Telegram a l'ordinador per a obtenir el codi QR";
 "AuthSessions.AddDeviceIntro.Text3" = "Escanegeu el codi QR per a connectar el vostre compte";
 "AuthSessions.AddDeviceIntro.Title" = "Inici de sessió amb QR";
@@ -944,7 +944,7 @@
 "Business.AddPost" = "Afegiu una publicació";
 "Business.AddPostInfo" = "Publiqueu fotos i vídeos dels productes o serveis al vostre perfil.";
 "Business.AdsInfo" = "Com a subscriptor Premium, no veieu cap anunci al Telegram, però podeu activar-los, per exemple, per a veure els vostres propis anuncis que hàgiu llançat a la [Plataforma d'Anuncis de Telegram >]()";
-"Business.AdsInfo_URL" = "https://ads.telegram.org";
+"Business.AdsInfo_URL" = "https://ads.whatsgram.org";
 "Business.AdsTitle" = "ANUNCIS ALS CANALS";
 "Business.AwayMessages" = "Missatges d'absència";
 "Business.AwayMessagesInfo" = "Definiu missatges perquè s'enviïn automàticament quan no sigueu disponible.";
@@ -2604,7 +2604,7 @@
 "Chat.PrivateMessageSentTimestamp.Date" = "enviat el dia %@";
 "Chat.PrivateMessageSentTimestamp.TodayAt" = "enviat avui a les %@";
 "Chat.PrivateMessageSentTimestamp.YesterdayAt" = "enviat ahir a les %@";
-"Chat.PsaTooltip.covid" = "Aquest missatge us proporciona un comunicat de servei públic en relació amb la pandèmia COVID-19. Vegeu més informació sobre aquesta iniciativa en https://telegram.org/blog/coronavirus";
+"Chat.PsaTooltip.covid" = "Aquest missatge us proporciona un comunicat de servei públic en relació amb la pandèmia COVID-19. Vegeu més informació sobre aquesta iniciativa en https://whatsgram.org/blog/coronavirus";
 "Chat.PsaTooltip.psa" = "Aquest és un missatge oficial del CEO de Telegram sobre el conflicte en curs.";
 "Chat.QuickReply.ServiceHeader1" = "Per a editar o eliminar la resposta ràpida, manteniu-la premuda.";
 "Chat.QuickReply.ServiceHeader2" = "Per a usar aquesta resposta ràpida en un xat, escriviu / i seleccioneu la drecera de la llista.";
@@ -3010,7 +3010,7 @@
 "ChatList.PremiumRestoreDiscountTitle" = "Recupereu el Premium amb un %@ menys";
 "ChatList.PremiumXmasGiftText" = "Feu regals d'edició limitada a amistats";
 "ChatList.PremiumXmasGiftTitle" = " 🎁 Regals de Snoop Dogg 👑";
-"ChatList.PsaAlert.covid" = "Aquest missatge us proporciona un comunicat de servei públic en relació amb la pandèmia COVID-19. Vegeu més informació sobre aquesta iniciativa en https://telegram.org/blog/coronavirus";
+"ChatList.PsaAlert.covid" = "Aquest missatge us proporciona un comunicat de servei públic en relació amb la pandèmia COVID-19. Vegeu més informació sobre aquesta iniciativa en https://whatsgram.org/blog/coronavirus";
 "ChatList.PsaAlert.psa" = "Aquest és un missatge oficial del CEO de Telegram sobre el conflicte en curs.";
 "ChatList.PsaLabel.covid" = "COVID-19";
 "ChatList.PsaLabel.psa" = "Comunicat";
@@ -3283,7 +3283,7 @@
 "ChatbotSetup.SetupNotCompleted.Text" = "No heu afegit cap bot per a gestionar el vostre compte. Voleu sortir igualment?";
 "ChatbotSetup.SetupNotCompleted.Title" = "No s'ha afegit cap bot";
 "ChatbotSetup.Text" = "Afegiu un bot que respongui als missatges de la vostra part.";
-"ChatbotSetup.TextLink" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"ChatbotSetup.TextLink" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "ChatbotSetup.Title" = "Tornem més tard";
 "ChatbotSetup.TitleItem" = "Automatització del xat";
 "Checkout.Email" = "Adreça electrònica";
@@ -4226,7 +4226,7 @@
 "Conversation.Unpin" = "No fixis";
 "Conversation.UnpinMessageAlert" = "Voleu deixar de fixar aquest missatge?";
 "Conversation.UnreadMessages" = "Missatges per llegir";
-"Conversation.UnsupportedMedia" = "Aquest missatge no és compatible amb la vostra versió del Telegram. Actualitzeu-la: https://telegram.org/update";
+"Conversation.UnsupportedMedia" = "Aquest missatge no és compatible amb la vostra versió del Telegram. Actualitzeu-la: https://whatsgram.org/update";
 "Conversation.UnsupportedMediaPlaceholder" = "Aquest missatge no és compatible amb la vostra versió del Telegram. Actualitzeu-lo a l'última versió.";
 "Conversation.UnvotePoll" = "Retira el vot";
 "Conversation.UpdateTelegram" = "ACTUALITZA EL TELEGRAM";
@@ -4433,7 +4433,7 @@
 "DeleteAccount.ConfirmationAlertText" = "En eliminar el compte, s'eliminaran les vostres dades de manera permanent.\n\nÉs impossible revertir-ho!";
 "DeleteAccount.ConfirmationAlertTitle" = "Segur que voleu eliminar el compte?";
 "DeleteAccount.Continue" = "Continua";
-"DeleteAccount.DeleteMessagesURL" = "https://telegram.org/faq#q-can-i-delete-my-messages";
+"DeleteAccount.DeleteMessagesURL" = "https://whatsgram.org/faq#q-can-i-delete-my-messages";
 "DeleteAccount.DeleteMyAccount" = "Elimina el compte";
 "DeleteAccount.DeleteMyAccountTitle" = "Eliminació del compte";
 "DeleteAccount.EnterPassword" = "Introduïu la contrasenya";
@@ -4680,7 +4680,7 @@
 "EnableSharing.SendRequest" = "Envia una sol·licitud";
 "EnableSharing.Text" = "Us cal l'aprovació de **%@** per a activar poder compartir. Li ho voleu demanar?";
 "EnableSharing.Title" = "Activeu compartir";
-"EncryptionKey.Description" = "La imatge i el text anteriors es deriven de la clau de xifratge d'aquest xat secret amb %1$@.\n\nSi es mostren igual al dispositiu de %2$@, el xifratge d'extrem a extrem està garantit.\n\nMés informació a telegram.org";
+"EncryptionKey.Description" = "La imatge i el text anteriors es deriven de la clau de xifratge d'aquest xat secret amb %1$@.\n\nSi es mostren igual al dispositiu de %2$@, el xifratge d'extrem a extrem està garantit.\n\nMés informació a whatsgram.org";
 "EncryptionKey.Title" = "Clau de xifratge";
 "EnterPasscode.ChangeTitle" = "Canvi del codi d'accés";
 "EnterPasscode.EnterCurrentPasscode" = "Introduïu el codi d'accés actual";
@@ -4887,7 +4887,7 @@
 "FrozenAccount.Understood" = "Entesos";
 "FrozenAccount.Violation.Text" = "El vostre compte s'ha congelat per incomplir les Condicions del servei del Telegram.";
 "FrozenAccount.Violation.TextNew" = "El vostre compte s'ha congelat per incomplir les [Condicions del servei]() de Telegram.";
-"FrozenAccount.Violation.TextNew_URL" = "https://telegram.org/tos";
+"FrozenAccount.Violation.TextNew_URL" = "https://whatsgram.org/tos";
 "FrozenAccount.Violation.Title" = "Violació de les condicions";
 "Gallery.Ad" = "Anunci";
 "Gallery.AirPlay" = "AirPlay";
@@ -6150,7 +6150,7 @@
 "InviteText.ContactsCountText#one" = "Ep! Utilitze el Telegram per a xatejar. Suma-t'hi! Pots baixar-lo aquí: {url}";
 "InviteText.ContactsCountText#other" = "Ep! Utilitze el Telegram per a xatejar, i també ho fan %@ contactes en comú més. Suma-t'hi! Pots baixar-lo aquí: {url}";
 "InviteText.SingleContact" = "Ep! Jo utilitzo el Telegram per a comunicar-me! Baixa'l i uneix-te a la conversa: %@";
-"InviteText.URL" = "https://telegram.org/dl";
+"InviteText.URL" = "https://whatsgram.org/dl";
 "Items.NOfM" = "%1$@ de %2$@";
 "Join.ChannelsTooMuch" = "Sou membre de massa grups i canals. Abandoneu-ne algun abans d'unir-vos a un altre.";
 "KeyCommand.ChatInfo" = "Informació";
@@ -6424,7 +6424,7 @@
 "Login.NewNumber" = "Número nou";
 "Login.OpenFragment" = "Obre el Fragment";
 "Login.Or" = "o bé";
-"Login.PRIVACY_URL" = "https://telegram.org/privacy";
+"Login.PRIVACY_URL" = "https://whatsgram.org/privacy";
 "Login.PadPhoneHelp" = "Podeu usar el vostre número de mòbil principal per a iniciar sessió al Telegram en tots els dispositius.\nNo useu el número de la SIM de l'iPad perquè cal que us enviem un SMS.\n\nÉs correcte el número?\n{number}";
 "Login.PadPhoneHelpTitle" = "El vostre número";
 "Login.Paste" = "Enganxa";
@@ -6958,9 +6958,9 @@
 "Monetization.Balance.ComingLaterInfo" = "En les pròximes setmanes, podreu retirar recompenses amb el Fragment, una plataforma de tercers que els anunciants usen per a pagar anuncis. [Més informació >]()";
 "Monetization.Balance.StarsInfo" = "Podeu bescanviar estrelles per recompenses amb el Fragment, o usar les estrelles per a publicitar el vostre canal. No podeu retirar menys de 1.000 estrelles. [Més informació >]()";
 "Monetization.Balance.StarsInfoGroup" = "Podeu retirar les recompenses de les estrelles amb el Fragment. No podeu retirar menys de 1.000 estrelles. [Més informació >]()";
-"Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
+"Monetization.Balance.StarsInfo_URL" = "https://whatsgram.org/tos/stars";
 "Monetization.Balance.ZeroInfo" = "Podreu retirar recompenses amb el Fragment, una plataforma de tercers que els anunciants usen per a pagar anuncis. [Termes i condicions >]()";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceStarsBuyAds" = "Compra anuncis";
 "Monetization.BalanceStarsWithdraw" = "Retira via Fragment";
 "Monetization.BalanceStarsWithdrawShort" = "Retira";
@@ -6977,7 +6977,7 @@
 "Monetization.Intro.Bot.Ads.Text" = "Telegram pot mostrar anuncis al bot.";
 "Monetization.Intro.Bot.Title" = "Guanyeu amb el bot";
 "Monetization.Intro.Info.Text" = "Gram és la criptomoneda de la plataforma de cadena de blocs TON, que Telegram utilitza per la seva rapidesa i baixes comissions en les transaccions. [Més informació >]()";
-"Monetization.Intro.Info.Text_URL" = "https://telegram.org/blog/monetization-for-channels";
+"Monetization.Intro.Info.Text_URL" = "https://whatsgram.org/blog/monetization-for-channels";
 "Monetization.Intro.Info.Title" = "Què és #Gram?";
 "Monetization.Intro.Split.Text" = "Rebeu el 50 % dels ingressos per publicitat com a recompensa en Grams.";
 "Monetization.Intro.Split.Title" = "Ingressos a mitges";
@@ -8340,7 +8340,7 @@
 "Passport.Identity.TypePassportUploadScan" = "Escanegeu i pugeu un passaport";
 "Passport.Identity.TypePersonalDetails" = "Detalls personals";
 "Passport.Identity.UploadOneOfScan" = "Escanegeu i pugeu un %@";
-"Passport.InfoFAQ_URL" = "https://telegram.org/faq#passport";
+"Passport.InfoFAQ_URL" = "https://whatsgram.org/faq#passport";
 "Passport.InfoLearnMore" = "Més informació";
 "Passport.InfoText" = "Amb el **Telegram Passport** podeu registrar-vos de manera fàcil a qualsevol servei que sol·liciti verificació d'identitat.\n\nLa vostra informació, dades personals i documents es troben protegits per xifratge extrem a extrem. Ningú, ni tan sols Telegram, no pot accedir-hi sense el vostre permís.";
 "Passport.InfoTitle" = "Què és el Telegram Passport?";
@@ -8448,10 +8448,10 @@
 "PeerInfo.AllowedReactions.OptionSomeReactions" = "Algunes reaccions";
 "PeerInfo.AllowedReactions.ReactionListHeader" = "REACCIONS DISPONIBLES";
 "PeerInfo.AllowedReactions.StarReactions" = "Activa les reaccions de pagament";
-"PeerInfo.AllowedReactions.StarReactionsFooter" = "Activeu-ho per a permetre que els subscriptors reaccionin a les publicacions amb estrelles de Telegram, que podreu retirar com a Grams. [Més informació >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"PeerInfo.AllowedReactions.StarReactionsFooter" = "Activeu-ho per a permetre que els subscriptors reaccionin a les publicacions amb estrelles de Telegram, que podreu retirar com a Grams. [Més informació >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "PeerInfo.AllowedReactions.Title" = "Reaccions";
-"PeerInfo.AppFooter" = "En iniciar aquesta miniaplicació, accepteu les [Condicions del servei de les miniaplicacions](https://telegram.org/tos/mini-apps).";
-"PeerInfo.AppFooterAdmin" = "En publicar aquesta miniaplicació, accepteu les [Condicions del servei per a desenvolupadors](https://telegram.org/tos/bot-developers).";
+"PeerInfo.AppFooter" = "En iniciar aquesta miniaplicació, accepteu les [Condicions del servei de les miniaplicacions](https://whatsgram.org/tos/mini-apps).";
+"PeerInfo.AppFooterAdmin" = "En publicar aquesta miniaplicació, accepteu les [Condicions del servei per a desenvolupadors](https://whatsgram.org/tos/bot-developers).";
 "PeerInfo.AutoDeleteDisable" = "Desactiva";
 "PeerInfo.AutoDeleteInfo" = "Elimina automàticament els missatges nous d'aquest xat després de cert temps.";
 "PeerInfo.AutoDeleteSettingOther" = "Altre...";
@@ -9552,7 +9552,7 @@
 "Report.Title.Story" = "Denuncieu la història";
 "Report.Title.User" = "Denuncieu l'usuari";
 "ReportAd.Help" = "Llegiu més informació sobre les [Polítiques i Directrius dels anuncis]().";
-"ReportAd.Help_URL" = "https://ads.telegram.org/guidelines";
+"ReportAd.Help_URL" = "https://ads.whatsgram.org/guidelines";
 "ReportAd.Hidden" = "Ja no veureu anuncis del Telegram.";
 "ReportAd.Reported" = "Revisarem aquest anunci per a confirmar que compleix amb les nostres [Normes i Directrius d'anuncis]().";
 "ReportAd.Title" = "Denúncia de l'anunci";
@@ -9801,7 +9801,7 @@
 "SendStarReactions.ShowMyselfInTop" = "Mostra'm a la classificació";
 "SendStarReactions.SliderTop" = "RÈCORD";
 "SendStarReactions.SubtitleFrom" = "de: %@";
-"SendStarReactions.TermsOfServiceFooter" = "En enviar estrelles, accepteu les [Condicions del servei](https://telegram.org/tos/stars)";
+"SendStarReactions.TermsOfServiceFooter" = "En enviar estrelles, accepteu les [Condicions del servei](https://whatsgram.org/tos/stars)";
 "SendStarReactions.TextGeneric" = "Trieu quantes estrelles voleu enviar a **%@** per a donar suport a la publicació.";
 "SendStarReactions.TextSentStars#one" = "Heu enviat **1** estrella per a donar suport a la publicació.";
 "SendStarReactions.TextSentStars#other" = "Heu enviat **%d** estrelles per a donar suport a la publicació.";
@@ -9903,7 +9903,7 @@
 "Settings.FAQ" = "PMF del Telegram";
 "Settings.FAQ_Button" = "PMF";
 "Settings.FAQ_Intro" = "Tingueu present que l'assistència del Telegram es basa en voluntariat. Intentem respondre al més aviat possible, però podem trigar una mica.\n\nVegeu les PMF del Telegram: hi trobareu consells importants i respostes a la majoria de preguntes per a solucionar problemes.";
-"Settings.FAQ_URL" = "https://telegram.org/faq#general-questions";
+"Settings.FAQ_URL" = "https://whatsgram.org/faq#general-questions";
 "Settings.FrequentlyAskedQuestions" = "Preguntes més freqüents";
 "Settings.KeepPassword" = "Sí, per descomptat";
 "Settings.KeepPhoneNumber" = "Mantén el %@";
@@ -9943,7 +9943,7 @@
 "Settings.Privacy.ReadTimePremiumActive" = "Subscrit al Telegram Premium";
 "Settings.Privacy.ReadTimePremiumActiveFooter" = "Per ser subscriptor del Telegram Premium, veureu l’última connexió i el temps de lectura de tots els usuaris que ho comparteixen, fins i tot si amagueu els vostres.";
 "Settings.Privacy.ReadTimePremiumFooter" = "Si us subscriviu al Telegram Premium, podreu veure l'última connexió i el temps de lectura dels altres, encara que amagueu els vostres (excepte si ho han restringit explícitament).";
-"Settings.PrivacyPolicy_URL" = "https://telegram.org/privacy";
+"Settings.PrivacyPolicy_URL" = "https://whatsgram.org/privacy";
 "Settings.PrivacySettings" = "Privadesa i seguretat";
 "Settings.Proxy" = "Servidor intermediari";
 "Settings.ProxyConnected" = "Connectat";
@@ -9982,7 +9982,7 @@
 "Settings.SuggestSetupPasswordText" = "Definiu una contrasenya que se us demanarà en iniciar la sessió amb aquest número.";
 "Settings.SuggestSetupPasswordTitle" = "Protegiu el compte";
 "Settings.Support" = "Cap dubte?";
-"Settings.Terms_URL" = "https://telegram.org/tos";
+"Settings.Terms_URL" = "https://whatsgram.org/tos";
 "Settings.Tips" = "Funcions del Telegram";
 "Settings.TipsUsername" = "TelegramTips";
 "Settings.Title" = "Configuració";
@@ -10250,10 +10250,10 @@
 "SocksProxySetup.Warning.Text" = "Això exposarà la vostra adreça IP a l'administrador del servidor.";
 "SocksProxySetup.Warning.Title" = "Atenció";
 "SponsoredMessageInfo.Action" = "Més informació";
-"SponsoredMessageInfo.ActionUrl" = "https://ads.telegram.org";
-"SponsoredMessageInfo.Text" = "Aneu a https://telegram.org";
-"SponsoredMessageInfo.Url" = "https://ads.telegram.org";
-"SponsoredMessageInfoScreen.MarkdownText" = "A diferència d'altres aplicacions, el Telegram no usa mai les vostres dades privades per a suggerir anuncis. [Més informació a la Política de privadesa](https://telegram.org/privacy#5-6-no-ads-based-on-user-data).\nEsteu veient aquest missatge perquè algú ha decidit usar aquest canal públic per a promocionar els seus missatges. Això vol dir que no s'extreu ni s'analitza cap dada d'usuari per a mostrar anuncis, i tothom qui veu un canal al Telegram veu els mateixos missatges patrocinats.\n\nA diferència d'altres aplicacions, el Telegram no controla si heu tocat en un missatge patrocinat ni crea un perfil basant-se en la vostra activitat. Tampoc permetem enllaços externs als missatges patrocinats per a assegurar que tercers no puguin espiar els nostres usuaris. Creiem que tothom té dret a la intimitat, i les plataformes tecnològiques haurien de respectar-ho.\n\nEl Telegram ofereix un servei gratuït i il·limitat a centenars de milions d'usuaris, i això suposa costos importants en servidors i trànsit. Per tal de romandre independent i mantenir-se fidel als seus valors, Telegram ha desenvolupat una eina de pagament per a promocionar missatges tenint present la privadesa dels usuaris. Donem la benvinguda a anunciants responsables a:\n[url]\nEls anuncis no haurien de ser sinònim d'abús de la privadesa dels usuaris. Redefinim com hauria d'operar una empresa tecnològica: fem-ho junts.";
+"SponsoredMessageInfo.ActionUrl" = "https://ads.whatsgram.org";
+"SponsoredMessageInfo.Text" = "Aneu a https://whatsgram.org";
+"SponsoredMessageInfo.Url" = "https://ads.whatsgram.org";
+"SponsoredMessageInfoScreen.MarkdownText" = "A diferència d'altres aplicacions, el Telegram no usa mai les vostres dades privades per a suggerir anuncis. [Més informació a la Política de privadesa](https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data).\nEsteu veient aquest missatge perquè algú ha decidit usar aquest canal públic per a promocionar els seus missatges. Això vol dir que no s'extreu ni s'analitza cap dada d'usuari per a mostrar anuncis, i tothom qui veu un canal al Telegram veu els mateixos missatges patrocinats.\n\nA diferència d'altres aplicacions, el Telegram no controla si heu tocat en un missatge patrocinat ni crea un perfil basant-se en la vostra activitat. Tampoc permetem enllaços externs als missatges patrocinats per a assegurar que tercers no puguin espiar els nostres usuaris. Creiem que tothom té dret a la intimitat, i les plataformes tecnològiques haurien de respectar-ho.\n\nEl Telegram ofereix un servei gratuït i il·limitat a centenars de milions d'usuaris, i això suposa costos importants en servidors i trànsit. Per tal de romandre independent i mantenir-se fidel als seus valors, Telegram ha desenvolupat una eina de pagament per a promocionar missatges tenint present la privadesa dels usuaris. Donem la benvinguda a anunciants responsables a:\n[url]\nEls anuncis no haurien de ser sinònim d'abús de la privadesa dels usuaris. Redefinim com hauria d'operar una empresa tecnològica: fem-ho junts.";
 "SponsoredMessageInfoScreen.Text" = "A diferència d'altres aplicacions, el Telegram no usa mai les vostres dades privades per a suggerir anuncis. Els missatges patrocinats en el Telegram es basen únicament en el tema dels canals públics on es mostren. Això vol dir que no s'extreu ni s'analitza cap dada d'usuari per a mostrar anuncis, i tothom qui veu un canal al Telegram veu els mateixos missatges patrocinats.\n\nA diferència d'altres aplicacions, el Telegram no controla si heu tocat en un missatge patrocinat ni crea un perfil basant-se en la vostra activitat. Tampoc permetem enllaços externs als missatges patrocinats per a assegurar que tercers no puguin espiar els nostres usuaris. Creiem que tothom té dret a la intimitat, i les plataformes tecnològiques haurien de respectar-ho.\n\nEl Telegram ofereix un servei gratuït i il·limitat a centenars de milions d'usuaris, i això suposa costos importants en servidors i trànsit. Per tal de romandre independent i mantenir-se fidel als seus valors, Telegram ha desenvolupat una eina de pagament per a promocionar missatges tenint present la privadesa dels usuaris. Donem la benvinguda a anunciants responsables a:\n[url]\nEls missatges patrocinats estan en proves. Una vegada s'hagin llançat del tot i permetin que Telegram cobreixi els seus costos bàsics, començarem a compartir els ingressos publicitaris amb els propietaris dels canals públics en els quals es mostren els missatges patrocinats.\n\nEls anuncis no haurien de ser sinònim d'abús de la privadesa dels usuaris. Redefinim com ha d'operar una empresa tecnològica: fem-ho junts.";
 "SponsoredMessageInfoScreen.Title" = "Què són els missatges patrocinats?";
 "SponsoredMessageMenu.Hide" = "Amaga";
@@ -10271,7 +10271,7 @@
 "Stars.BotRevenue.Withdraw.Balance" = "Saldo disponible";
 "Stars.BotRevenue.Withdraw.BuyAds" = "Compra anuncis";
 "Stars.BotRevenue.Withdraw.Info" = "Podeu bescanviar estrelles per recompenses amb el Fragment, o usar les estrelles per a promocionar el vostre bot. No podeu retirar menys de 1.000 estrelles. [Més informació >]()";
-"Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Stars.BotRevenue.Withdraw.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "Stars.BotRevenue.Withdraw.Withdraw" = "Retira via Fragment";
 "Stars.BotRevenue.Withdraw.WithdrawShort" = "Retira";
 "Stars.Gift.Received.Text" = "Useu les estrelles per a desblocar contingut i serveis al Telegram. [Mostra exemples >]()";
@@ -10359,7 +10359,7 @@
 "Stars.Intro.Withdraw" = "Retira";
 "Stars.Intro.YourBalance" = "el vostre saldo";
 "Stars.PaidContent.AmountInfo" = "Els usuaris hauran de transferir aquesta quantitat d'estrelles al vostre canal per a veure el contingut. [Quant a les estrelles >]()";
-"Stars.PaidContent.AmountInfo_URL" = "https://telegram.org/tos/stars";
+"Stars.PaidContent.AmountInfo_URL" = "https://whatsgram.org/tos/stars";
 "Stars.PaidContent.AmountPlaceholder" = "Estrelles per a desblocar-lo";
 "Stars.PaidContent.AmountTitle" = "INTRODUÏU EL PREU DE DESBLOCATGE";
 "Stars.PaidContent.Create" = "Fes de pagament el contingut";
@@ -10390,7 +10390,7 @@
 "Stars.Purchase.StarsReactionsNeededInfo" = "Compreu estrelles per a enviar reaccions de pagament a **%@** i a altres canals.";
 "Stars.Purchase.SubscriptionInfo" = "Compreu estrelles per a subscriure-us a **%@**.";
 "Stars.Purchase.SubscriptionRenewInfo" = "Compreu estrelles per a mantenir la subscripció a **%@**.";
-"Stars.Purchase.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Purchase.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Purchase.TransferStarGiftInfo" = "Compreu estrelles per a transferir la propietat del col·leccionable.";
 "Stars.Purchase.UpgradeStarGiftInfo" = "Compreu estrelles per a millorar el regal a un col·leccionable únic.";
 "Stars.SellGift.AmountInfo" = "En rebreu el **%@**.";
@@ -10420,7 +10420,7 @@
 "Stars.SendStars.SendStars" = "Confirma i envia";
 "Stars.SendStars.Title" = "Envieu estrelles";
 "Stars.Subscription.Terms" = "En subscriure-us, accepteu les [Condicions del servei]().";
-"Stars.Subscription.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Subscription.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Ton.Description" = "Useu Grams per a comprar regals i suggerir publicacions als canals.";
 "Stars.Ton.Title" = "Saldo de Grams";
 "Stars.Transaction.AppleTopUp.Subtitle" = "App Store";
@@ -10516,7 +10516,7 @@
 "Stars.Transaction.TelegramPremium#one" = "Premium per %@ mes";
 "Stars.Transaction.TelegramPremium#other" = "Premium per %@ mesos";
 "Stars.Transaction.Terms" = "Llegiu les [Condicions del servei]() de les estrelles.";
-"Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transaction.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transaction.To" = "Per a";
 "Stars.Transaction.Unsupported.Title" = "No compatible";
 "Stars.Transaction.Via" = "Via";
@@ -10547,7 +10547,7 @@
 "Stars.Transfer.SubscribeInfo" = "Us voleu subscriure a **%1$@** per **%2$@** al mes?";
 "Stars.Transfer.SubscribePerMonth" = "/ mes";
 "Stars.Transfer.Terms" = "En fer la compra, accepteu les [Condicions del servei]().";
-"Stars.Transfer.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transfer.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transfer.Title" = "Confirmeu la compra";
 "Stars.Transfer.Unavailable" = "No està permès comprar estrelles al vostre país.";
 "Stars.Transfer.UnlockBotInfo" = "Voleu desblocar %1$@ de **%2$@** per **%3$@**?";
@@ -11494,9 +11494,9 @@
 "Ton.ProceedsOverview" = "RESUM DELS INGRESSOS";
 "Ton.WithdrawViaFragment" = "Retira mitjançant Fragment";
 "Ton.WithdrawViaFragment.Info" = "Retireu els vostres Grams amb Fragment. [Més informació >]()";
-"Ton.WithdrawViaFragment.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Ton.WithdrawViaFragment.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "TopApps.Info.Done" = "Entesos";
-"TopApps.Info.Text" = "Aquest catàleg puntua les miniaplicacions segons el seu benefici diari, mesurat en estrelles. Per a ser llistada, cal que els desenvolupadors estableixin la seva miniaplicació principal al [@botfather]() (com es descriu [aquí](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)), tenir més de **1.000** usuaris diaris, i tenir un benefici de més de **1.000** estrelles diàries, de mitjana setmanal.";
+"TopApps.Info.Text" = "Aquest catàleg puntua les miniaplicacions segons el seu benefici diari, mesurat en estrelles. Per a ser llistada, cal que els desenvolupadors estableixin la seva miniaplicació principal al [@botfather]() (com es descriu [aquí](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app)), tenir més de **1.000** usuaris diaris, i tenir un benefici de més de **1.000** estrelles diàries, de mitjana setmanal.";
 "TopApps.Info.Title" = "Millors Miniaplicacions";
 "Tour.StartButton" = "Comenceu";
 "Tour.Text1" = "La missatgeria **més ràpida** del món.\nÉs **gratuïta** i **segura**.";
@@ -12416,7 +12416,7 @@
 "WebApp.DisclaimerContinue" = "Continua";
 "WebApp.DisclaimerText" = "Esteu a punt d'usar una miniaplicació operada per un tercer independent no afiliat amb Telegram. Cal que accepteu les seves Condicions d'ús per a continuar.";
 "WebApp.DisclaimerTitle" = "Condicions d'ús";
-"WebApp.Disclaimer_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.Disclaimer_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.Download.Cancel" = "Cancel·la";
 "WebApp.Download.Document" = "Baixeu el document";
 "WebApp.Download.Download" = "Baixa";
@@ -12446,7 +12446,7 @@
 "WebApp.LaunchMoreInfo" = "Més informació sobre el bot";
 "WebApp.LaunchOpenApp" = "Inicia";
 "WebApp.LaunchTermsConfirmation" = "En iniciar aquesta miniaplicació, accepteu les [Condicions del servei de les miniaplicacions]().";
-"WebApp.LaunchTermsConfirmation_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.LaunchTermsConfirmation_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.LocationPermission.Allow" = "Permet";
 "WebApp.LocationPermission.Decline" = "Rebutja";
 "WebApp.LocationPermission.Succeed" = "**%@** ara pot accedir a la vostra ubicació.";
@@ -12464,7 +12464,7 @@
 "WebApp.OpenWebViewAlertText" = "**%@** vol obrir una aplicació web per a continuar.\n\nPodrà accedir a la vostra **adreça IP** i informació bàsica del dispositiu.";
 "WebApp.OpenWebViewAlertTitle" = "Inici de l'aplicació";
 "WebApp.PrivacyPolicy" = "Política de privadesa";
-"WebApp.PrivacyPolicy_URL" = "https://telegram.org/privacy-tpa";
+"WebApp.PrivacyPolicy_URL" = "https://whatsgram.org/privacy-tpa";
 "WebApp.ReloadPage" = "Actualitza";
 "WebApp.RemoveAllConfirmationText" = "Això eliminarà la drecera **%@** a tots els menús.";
 "WebApp.RemoveBot" = "Elimina'l del menú";
@@ -12486,7 +12486,7 @@
 "WebApp.ShortcutsAdded" = "S'ha afegit la drecera a **%@** al menú d'adjunts.";
 "WebApp.ShortcutsSettingsAdded" = "S'han afegit les dreceres a **%@** al menú d'adjunts i la Configuració.";
 "WebApp.TermsOfUse" = "Condicions d'ús";
-"WebApp.TermsOfUse_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.TermsOfUse_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebBrowser.AddBookmark" = "Afegeix un marcador";
 "WebBrowser.AddressBar.Bookmarks" = "MARCADORS";
 "WebBrowser.AddressBar.RecentlyVisited" = "VISITATS RECENTMENT";

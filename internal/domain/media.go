@@ -723,6 +723,8 @@ type MessageStarGiftAction struct {
 	NameHidden         bool      `json:"name_hidden,omitempty"`
 	Saved              bool      `json:"saved,omitempty"`
 	Converted          bool      `json:"converted,omitempty"`
+	Upgraded           bool      `json:"upgraded,omitempty"`
+	Refunded           bool      `json:"refunded,omitempty"`
 	CanUpgrade         bool      `json:"can_upgrade,omitempty"`
 	PrepaidUpgrade     bool      `json:"prepaid_upgrade,omitempty"`
 	PrepaidUpgradeHash string    `json:"prepaid_upgrade_hash,omitempty"`

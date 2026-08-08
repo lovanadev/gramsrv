@@ -60,7 +60,7 @@
 "AdsInfo.Bot.Split.Title" = "帮助机器人开发者";
 "AdsInfo.Info" = "Telegram 广告与其他平台上的广告大有不同。这类广告：";
 "AdsInfo.Launch.Text" = "任何人都可以用极低的预算在这个频道投放广告。详情请查看 Telegram 广告平台。 [了解更多 >]()";
-"AdsInfo.Launch.Text_URL" = "https://ads.telegram.org";
+"AdsInfo.Launch.Text_URL" = "https://ads.whatsgram.org";
 "AdsInfo.Launch.Title" = "我可以投放广告吗？";
 "AdsInfo.Respect.Text" = "Telegram 上的广告不会使用您的个人信息，而是基于您所在的频道来展示的。";
 "AdsInfo.Respect.Title" = "尊重您的隐私";
@@ -79,7 +79,7 @@
 "AffiliateProgram.JoinSubtitleLifetime" = "**{bot}** 将**永久**与您分享每位您推荐的用户所产生收入的 **{commission}**。";
 "AffiliateProgram.JoinSubtitleMonths#other" = "**{bot}** 将与您分享每位您推荐的用户在 **%d 个月内** 产生收入的 **{commission}**。";
 "AffiliateProgram.JoinSubtitleYears#other" = "**{bot}** 将在 **%d 年** 内与您分享每位您推荐的用户所产生收入的 **{commission}**。";
-"AffiliateProgram.JoinTerms" = "加入此计划即表示您同意联盟计划的 [条款和条件](https://telegram.org/tos/affiliate-program)。";
+"AffiliateProgram.JoinTerms" = "加入此计划即表示您同意联盟计划的 [条款和条件](https://whatsgram.org/tos/affiliate-program)。";
 "AffiliateProgram.JoinTitle" = "联盟计划";
 "AffiliateProgram.LinkSubtitleLifetime" = "与您的用户分享此链接。在他们点击链接后，您将 **永久** 获得他们在 **{bot}** 中消费金额的 **{commission}** 作为佣金。";
 "AffiliateProgram.LinkSubtitleMonths#other" = "与你的用户分享此链接，以便他们在点击你的点击后，你可以在 **%d 个月**内从 **{bot}** 赚取 **{commission}** 佣金。";
@@ -138,7 +138,7 @@
 "AffiliateSetup.StartTitle" = "启动联盟计划";
 "AffiliateSetup.SuggestedSectionEmpty" = "暂无可用计划。\n请稍后再查看此页面。";
 "AffiliateSetup.SuggestedSectionTitle" = "计划";
-"AffiliateSetup.TermsFooter" = "创建联盟计划即表示您同意联盟计划的 [条款和条件] (https://telegram.org/terms)。";
+"AffiliateSetup.TermsFooter" = "创建联盟计划即表示您同意联盟计划的 [条款和条件] (https://whatsgram.org/terms)。";
 "AffiliateSetup.TextJoin" = "每次用户通过您的推荐链接首次访问小程序并在其中消费 **星星** 时，您都会获得佣金。";
 "AffiliateSetup.TextNew" = "奖励那些帮助您扩大用户群的合作者";
 "AffiliateSetup.TitleJoin" = "联盟计划";
@@ -489,11 +489,11 @@
 "AuthSessions.AddDevice" = "扫码登录";
 "AuthSessions.AddDevice.InvalidQRCode" = "无效的二维码";
 "AuthSessions.AddDevice.ScanInfo" = "扫描二维码即可该帐号在其他设备上登录。";
-"AuthSessions.AddDevice.ScanInstallInfo" = "前往 [getdesktop.telegram.org](desktop) 或 [web.telegram.org](web) 获取二维码";
+"AuthSessions.AddDevice.ScanInstallInfo" = "前往 [getdesktop.whatsgram.org](desktop) 或 [web.whatsgram.org](web) 获取二维码";
 "AuthSessions.AddDevice.ScanTitle" = "通过二维码登录";
 "AuthSessions.AddDevice.UrlLoginHint" = "此二维码可用于登录您的 Telegram 账号。\n\n若要确认登录 Telegram，请转到设置 > 设备 > 扫码登录，然后选择扫描二维码。";
 "AuthSessions.AddDeviceIntro.Action" = "扫描二维码";
-"AuthSessions.AddDeviceIntro.Text1" = "从 [desktop.telegram.org]() 下载 Telegram 电脑版";
+"AuthSessions.AddDeviceIntro.Text1" = "从 [desktop.whatsgram.org]() 下载 Telegram 电脑版";
 "AuthSessions.AddDeviceIntro.Text2" = "启动 Telegram 电脑版获取二维码";
 "AuthSessions.AddDeviceIntro.Text3" = "扫描二维码以便登录您的帐号";
 "AuthSessions.AddDeviceIntro.Title" = "扫描二维码登录";
@@ -901,7 +901,7 @@
 "Business.AddPost" = "添加贴文";
 "Business.AddPostInfo" = "在您的页面上发布您的商品或服务的照片和视频。";
 "Business.AdsInfo" = "作为高级版订阅用户，您在 Telegram 上不会看到任何广告，但您可以选择开启它们，例如查看您自己在 [Telegram 广告平台 >]() 上发布的广告。";
-"Business.AdsInfo_URL" = "https://ads.telegram.org";
+"Business.AdsInfo_URL" = "https://ads.whatsgram.org";
 "Business.AdsTitle" = "频道中的广告";
 "Business.AwayMessages" = "离开消息";
 "Business.AwayMessagesInfo" = "设置在您不在线时自动发送的消息。";
@@ -2486,7 +2486,7 @@
 "Chat.PrivateMessageSentTimestamp.Date" = "已发送于 %@";
 "Chat.PrivateMessageSentTimestamp.TodayAt" = "已发送于今天 %@";
 "Chat.PrivateMessageSentTimestamp.YesterdayAt" = "已发送昨天 %@";
-"Chat.PsaTooltip.covid" = "此信息为您提供正在发生的新冠肺炎疫情相关公共服务公告。了解有关此计划的更多咨询：https://telegram.org/blog/coronavirus";
+"Chat.PsaTooltip.covid" = "此信息为您提供正在发生的新冠肺炎疫情相关公共服务公告。了解有关此计划的更多咨询：https://whatsgram.org/blog/coronavirus";
 "Chat.PsaTooltip.psa" = "这是 Telegram 首席执行官对于目前冲突的正式声明。";
 "Chat.QuickReply.ServiceHeader1" = "要编辑或删除快速回复，请点击并按住回复。";
 "Chat.QuickReply.ServiceHeader2" = "如要在聊天中使用此快捷回复，请输入 / 并从列表中选择快捷方式。";
@@ -2861,7 +2861,7 @@
 "ChatList.PremiumRestoreDiscountTitle" = "以最高 %@ 的折扣续费高级版";
 "ChatList.PremiumXmasGiftText" = "赠送限定版典藏品给朋友！";
 "ChatList.PremiumXmasGiftTitle" = "👑 史努比狗狗礼物放送 🎁";
-"ChatList.PsaAlert.covid" = "此信息为您提供正在发生的新冠肺炎疫情相关公共服务公告。了解有关此计划的更多咨询：https://telegram.org/blog/coronavirus";
+"ChatList.PsaAlert.covid" = "此信息为您提供正在发生的新冠肺炎疫情相关公共服务公告。了解有关此计划的更多咨询：https://whatsgram.org/blog/coronavirus";
 "ChatList.PsaAlert.psa" = "这是 Telegram 首席执行官对于目前冲突的正式声明。";
 "ChatList.PsaLabel.covid" = "新冠病毒肺炎";
 "ChatList.PsaLabel.psa" = "公告";
@@ -3122,7 +3122,7 @@
 "ChatbotSetup.SetupNotCompleted.Text" = "您还没新增机器人来管理您的账号。仍然退出？";
 "ChatbotSetup.SetupNotCompleted.Title" = "未添加机器人";
 "ChatbotSetup.Text" = "为您的帐号添加机器人，帮助您自动处理和回复收到的消息。";
-"ChatbotSetup.TextLink" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"ChatbotSetup.TextLink" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "ChatbotSetup.Title" = "即将推出";
 "ChatbotSetup.TitleItem" = "自动聊天";
 "Checkout.Email" = "电子邮箱";
@@ -3938,7 +3938,7 @@
 "Conversation.Unpin" = "取消置顶";
 "Conversation.UnpinMessageAlert" = "您确定要取消置顶此消息吗？";
 "Conversation.UnreadMessages" = "未读消息";
-"Conversation.UnsupportedMedia" = "此消息不支持您当前版本的 Telegram。更新应用即可查看：https://telegram.org/update";
+"Conversation.UnsupportedMedia" = "此消息不支持您当前版本的 Telegram。更新应用即可查看：https://whatsgram.org/update";
 "Conversation.UnsupportedMediaPlaceholder" = "此消息不支持当前版本的 Telegram。请更新至最新版本。";
 "Conversation.UnvotePoll" = "撤回投票";
 "Conversation.UpdateTelegram" = "更新 Telegram";
@@ -4137,7 +4137,7 @@
 "DeleteAccount.ConfirmationAlertText" = "删除账号将永久抹除您的数据！\n\n此动作将不可逆！";
 "DeleteAccount.ConfirmationAlertTitle" = "确定删除你的账户吗？";
 "DeleteAccount.Continue" = "继续";
-"DeleteAccount.DeleteMessagesURL" = "https://telegram.org/faq#q-can-i-delete-my-messages";
+"DeleteAccount.DeleteMessagesURL" = "https://whatsgram.org/faq#q-can-i-delete-my-messages";
 "DeleteAccount.DeleteMyAccount" = "删除我的账户";
 "DeleteAccount.DeleteMyAccountTitle" = "删除我的账户";
 "DeleteAccount.EnterPassword" = "请输入你的密码";
@@ -4377,7 +4377,7 @@
 "EnableSharing.SendRequest" = "发送请求";
 "EnableSharing.Text" = "您需要获得 **%@** 的批准才能启用分享。发送请求吗？";
 "EnableSharing.Title" = "启用分享";
-"EncryptionKey.Description" = "这是您与“%1$@”私密对话加密密钥的可视化图片。\n\n如果这张图片看起来和“%2$@”设备上的图片完全一致，端到端加密则是安全的。\n\n了解详情请前往 telegram.org 的 FAQ";
+"EncryptionKey.Description" = "这是您与“%1$@”私密对话加密密钥的可视化图片。\n\n如果这张图片看起来和“%2$@”设备上的图片完全一致，端到端加密则是安全的。\n\n了解详情请前往 whatsgram.org 的 FAQ";
 "EncryptionKey.Title" = "加密密钥";
 "EnterPasscode.ChangeTitle" = "修改锁定码";
 "EnterPasscode.EnterCurrentPasscode" = "请输入当前的锁定码";
@@ -4549,7 +4549,7 @@
 "FrozenAccount.Understood" = "了解";
 "FrozenAccount.Violation.Text" = "\u200b您的账号因违反 Telegram 的服务条款而被冻结。";
 "FrozenAccount.Violation.TextNew" = "您的账号因违反 Telegram 的[使用条款]()而被冻结。";
-"FrozenAccount.Violation.TextNew_URL" = "https://telegram.org/tos";
+"FrozenAccount.Violation.TextNew_URL" = "https://whatsgram.org/tos";
 "FrozenAccount.Violation.Title" = "违反条款";
 "Gallery.Ad" = "广告";
 "Gallery.AirPlay" = "隔空播放";
@@ -5728,7 +5728,7 @@
 "InviteText.ContactsCount#other" = "嗨，我在和另外 %@ 位联系人使用 Telegram 聊天。加入我们吧！从这里下载：%@";
 "InviteText.ContactsCountText#other" = "嗨，我在和另外 %@ 位联系人使用 Telegram 聊天。加入我们吧！从这里下载：{url}";
 "InviteText.SingleContact" = "嗨，我在使用 Telegram 聊天。加入我们吧！从这里下载：%@";
-"InviteText.URL" = "https://telegram.org/dl";
+"InviteText.URL" = "https://whatsgram.org/dl";
 "Items.NOfM" = "%2$@ 的 %1$@";
 "Join.ChannelsTooMuch" = "抱歉，您已经加入了过多的群组和频道，请在加入新的之前退出一些。";
 "KeyCommand.ChatInfo" = "聊天信息";
@@ -5990,7 +5990,7 @@
 "Login.NewNumber" = "新号码";
 "Login.OpenFragment" = "打开 Fragment";
 "Login.Or" = "或者";
-"Login.PRIVACY_URL" = "https://telegram.org/privacy";
+"Login.PRIVACY_URL" = "https://whatsgram.org/privacy";
 "Login.PadPhoneHelp" = "您可以使用主要手机号码在所有设备上登录到 Telegram。\n请不要使用您 iPad SIM 卡的号码 — 我们需要给您发送短信。\n\n此号码是否正确？\n{number}";
 "Login.PadPhoneHelpTitle" = "您的手机号码";
 "Login.Paste" = "粘贴";
@@ -6479,9 +6479,9 @@
 "Monetization.Balance.ComingLaterInfo" = "在接下来的几周中，你将能够使用 Fragment 获取奖励，Fragment 是广告商用于支付广告费的第三方平台。 [了解更多 >]()";
 "Monetization.Balance.StarsInfo" = "您可以使用 Fragment 收集星星奖励，或使用星星宣传您的频道。星星数量低于1000颗时无法提取。[了解更多 >]()";
 "Monetization.Balance.StarsInfoGroup" = "你可以通过 Fragment 收集星星奖励。您不能提现少于 1000 颗星星。 [了解更多 >]()";
-"Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
+"Monetization.Balance.StarsInfo_URL" = "https://whatsgram.org/tos/stars";
 "Monetization.Balance.ZeroInfo" = "您可以使用 Fragment 领取奖励，Fragment 是广告商用来支付广告费用的第三方平台。 [条款与细则 >]()";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/blog/monetization-for-channels";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/blog/monetization-for-channels";
 "Monetization.BalanceStarsBuyAds" = "购买广告";
 "Monetization.BalanceStarsWithdraw" = "通过 Fragment 提取";
 "Monetization.BalanceStarsWithdrawShort" = "提取";
@@ -6498,7 +6498,7 @@
 "Monetization.Intro.Bot.Ads.Text" = "Telegram 可以在你的机器人中显示广告。";
 "Monetization.Intro.Bot.Title" = "通过你的机器人赚取收益";
 "Monetization.Intro.Info.Text" = "Gram 是一个区块链平台和加密货币，因其高性能和低佣金而被 Telegram 采用。[了解更多 >]()";
-"Monetization.Intro.Info.Text_URL" = "https://telegram.org/blog/monetization-for-channels";
+"Monetization.Intro.Info.Text_URL" = "https://whatsgram.org/blog/monetization-for-channels";
 "Monetization.Intro.Info.Title" = "什么是 #Gram？";
 "Monetization.Intro.Split.Text" = "您将以 Gram 收到 50% 的广告收入分成。";
 "Monetization.Intro.Split.Title" = "50:50 收入分成";
@@ -7741,7 +7741,7 @@
 "Passport.Identity.TypePassportUploadScan" = "上传一份护照扫描件";
 "Passport.Identity.TypePersonalDetails" = "个人信息";
 "Passport.Identity.UploadOneOfScan" = "上传一份%@的扫描件";
-"Passport.InfoFAQ_URL" = "https://telegram.org/faq#passport";
+"Passport.InfoFAQ_URL" = "https://whatsgram.org/faq#passport";
 "Passport.InfoLearnMore" = "了解更多";
 "Passport.InfoText" = "有了 Telegram 通行证，您可以轻易地注册需要身份验证的网站和服务。\n\n您的信息、个人数据和证件都将受到端到端加密保护。未经您的允许，任何人（包括 Telegram）都无法读取它们。";
 "Passport.InfoTitle" = "Telegram 通行证是什么？";
@@ -7848,10 +7848,10 @@
 "PeerInfo.AllowedReactions.OptionSomeReactions" = "部分表情回应";
 "PeerInfo.AllowedReactions.ReactionListHeader" = "可用的回应";
 "PeerInfo.AllowedReactions.StarReactions" = "启用付费回应";
-"PeerInfo.AllowedReactions.StarReactionsFooter" = "打开此选项，让您的订阅者可以用 Telegram 星星对贴文作出付费回应，您之后可以以 Gram 的形式提取。[了解更多 >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"PeerInfo.AllowedReactions.StarReactionsFooter" = "打开此选项，让您的订阅者可以用 Telegram 星星对贴文作出付费回应，您之后可以以 Gram 的形式提取。[了解更多 >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "PeerInfo.AllowedReactions.Title" = "表情回应";
-"PeerInfo.AppFooter" = "启动此小程序即表示您同意 [小程序服务条款](https://telegram.org/tos/mini-apps)。";
-"PeerInfo.AppFooterAdmin" = "发布此小程序即表示您同意 [Telegram 开发人员服务条款](https://telegram.org/tos/bot-developers)。";
+"PeerInfo.AppFooter" = "启动此小程序即表示您同意 [小程序服务条款](https://whatsgram.org/tos/mini-apps)。";
+"PeerInfo.AppFooterAdmin" = "发布此小程序即表示您同意 [Telegram 开发人员服务条款](https://whatsgram.org/tos/bot-developers)。";
 "PeerInfo.AutoDeleteDisable" = "停用";
 "PeerInfo.AutoDeleteInfo" = "一段时间后自动删除此聊天中的新消息。";
 "PeerInfo.AutoDeleteSettingOther" = "其他...";
@@ -8893,7 +8893,7 @@
 "Report.Title.Story" = "举报动态";
 "Report.Title.User" = "举报用户";
 "ReportAd.Help" = "详细了解我们的 [广告政策和指南]()。";
-"ReportAd.Help_URL" = "https://ads.telegram.org/guidelines";
+"ReportAd.Help_URL" = "https://ads.whatsgram.org/guidelines";
 "ReportAd.Hidden" = "广告已隐藏。";
 "ReportAd.Reported" = "我们将审核此广告，以保证其符合 [广告政策与准则]()。";
 "ReportAd.Title" = "举报广告";
@@ -9099,7 +9099,7 @@
 "SendStarReactions.ShowMyselfInTop" = "在星星打赏榜上显示我";
 "SendStarReactions.SliderTop" = "顶部";
 "SendStarReactions.SubtitleFrom" = "来自 %@";
-"SendStarReactions.TermsOfServiceFooter" = "发送星星即表示您同意 [服务条款](https://telegram.org/tos/stars)";
+"SendStarReactions.TermsOfServiceFooter" = "发送星星即表示您同意 [服务条款](https://whatsgram.org/tos/stars)";
 "SendStarReactions.TextGeneric" = "选择您想要送出多少颗星星给 **%@** 以支持此贴文。";
 "SendStarReactions.TextSentStars#other" = "您已送出 **%d** 颗星星以支持此贴文。";
 "SendStarReactions.Title" = "以星星做出回应";
@@ -9192,7 +9192,7 @@
 "Settings.FAQ" = "Telegram 常见问题";
 "Settings.FAQ_Button" = "常见问题";
 "Settings.FAQ_Intro" = "请注意：Telegram 的技术支持由志愿者提供。我们会尽快回复，但仍可能需要等待一段时间。\n\n请前往“常见问题”看看：那里有各种常见问题和故障排除指南。";
-"Settings.FAQ_URL" = "https://telegram.org/faq#general-questions";
+"Settings.FAQ_URL" = "https://whatsgram.org/faq#general-questions";
 "Settings.FrequentlyAskedQuestions" = "常见问题";
 "Settings.KeepPassword" = "是的，我确定";
 "Settings.KeepPhoneNumber" = "继续使用 %@";
@@ -9232,7 +9232,7 @@
 "Settings.Privacy.ReadTimePremiumActive" = "订阅 Telegram 高级版";
 "Settings.Privacy.ReadTimePremiumActiveFooter" = "因为您是 Telegram 高级版订阅者，所以您将看到启用分享的所有用户的最后上线和已读时间 - 即使您已隐藏自己的。";
 "Settings.Privacy.ReadTimePremiumFooter" = "如果您订阅了 Telegram 高级版，您可以看到其他用户的最后上线时间及已读时间，即使您对其隐藏了自己的最后上线时间及已读时间（除非对方明确限制）。";
-"Settings.PrivacyPolicy_URL" = "https://telegram.org/privacy";
+"Settings.PrivacyPolicy_URL" = "https://whatsgram.org/privacy";
 "Settings.PrivacySettings" = "隐私和安全";
 "Settings.Proxy" = "代理";
 "Settings.ProxyConnected" = "已连接";
@@ -9270,7 +9270,7 @@
 "Settings.SuggestSetupPasswordText" = "设置密码，每次使用此手机号码登录时都需要输入该密码。";
 "Settings.SuggestSetupPasswordTitle" = "保护你的账户";
 "Settings.Support" = "向我们提问";
-"Settings.Terms_URL" = "https://telegram.org/tos";
+"Settings.Terms_URL" = "https://whatsgram.org/tos";
 "Settings.Tips" = "Telegram 功能";
 "Settings.TipsUsername" = "TelegramTips";
 "Settings.Title" = "设置";
@@ -9516,10 +9516,10 @@
 "SocksProxySetup.Warning.Text" = "这会将您的 IP 地址暴露给代理服务器管理员。";
 "SocksProxySetup.Warning.Title" = "警告";
 "SponsoredMessageInfo.Action" = "了解更多";
-"SponsoredMessageInfo.ActionUrl" = "https://ads.telegram.org";
-"SponsoredMessageInfo.Text" = "查看 https://telegram.org";
-"SponsoredMessageInfo.Url" = "https://ads.telegram.org";
-"SponsoredMessageInfoScreen.MarkdownText" = "与其他应用不同，Telegram 不会将您的隐私数据用于投放定向广告。[查看隐私政策了解更多](https://telegram.org/privacy#5-6-no-ads-based-on-user-data)\n您之所以看到这条消息，仅是因为有人选择使用此公开的一对多频道推广其信息。这意味着 Telegram 不会通过挖掘和分析用户画像来投放广告，查看频道的所有用户都会看到同样的赞助商消息。\n\n与其他应用不同，Telegram 不会追踪您是否点击赞助商消息，也不会基于您的活跃数据生成用户画像。为了避免来自第三方的窥探，我们还禁止在赞助商消息中插入外部链接。我们相信每个人都有保护隐私的权利，而线上平台应该尊重这一点。\n\nTelegram 向数亿用户提供免费和无限制的服务，这意味着服务器和流量的巨大开销。为了保持独立且始终如一地秉持理念，Telegram 已开发一种付费工具以推广信息，同时保证用户的隐私。我们欢迎负责任的广告商访问：[url]\n\n广告不应再是滥用用户隐私的代名词。让我们共同携手，重新定义科技公司的运营模式。";
+"SponsoredMessageInfo.ActionUrl" = "https://ads.whatsgram.org";
+"SponsoredMessageInfo.Text" = "查看 https://whatsgram.org";
+"SponsoredMessageInfo.Url" = "https://ads.whatsgram.org";
+"SponsoredMessageInfoScreen.MarkdownText" = "与其他应用不同，Telegram 不会将您的隐私数据用于投放定向广告。[查看隐私政策了解更多](https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data)\n您之所以看到这条消息，仅是因为有人选择使用此公开的一对多频道推广其信息。这意味着 Telegram 不会通过挖掘和分析用户画像来投放广告，查看频道的所有用户都会看到同样的赞助商消息。\n\n与其他应用不同，Telegram 不会追踪您是否点击赞助商消息，也不会基于您的活跃数据生成用户画像。为了避免来自第三方的窥探，我们还禁止在赞助商消息中插入外部链接。我们相信每个人都有保护隐私的权利，而线上平台应该尊重这一点。\n\nTelegram 向数亿用户提供免费和无限制的服务，这意味着服务器和流量的巨大开销。为了保持独立且始终如一地秉持理念，Telegram 已开发一种付费工具以推广信息，同时保证用户的隐私。我们欢迎负责任的广告商访问：[url]\n\n广告不应再是滥用用户隐私的代名词。让我们共同携手，重新定义科技公司的运营模式。";
 "SponsoredMessageInfoScreen.Text" = "与其他应用不同，Telegram 不会将您的隐私数据用于投放定向广告。赞助商消息的投放完全基于公开频道内所发布的内容。这意味着 Telegram 不会通过挖掘和分析用户画像来投放广告，查看频道的所有用户都会看到同样的赞助商消息。\n\n与其他应用不同，Telegram 不会追踪您是否点击赞助商消息，也不会基于您的活跃数据生成用户画像。为了避免来自第三方的窥探，我们还禁止在赞助商消息中插入外部链接。我们相信每个人都有保护隐私的权利，而科技平台应该尊重用户的隐私权。\n\nTelegram 向数以亿计的用户提供免费服务的同时，也需要承担由此产生的高昂运营成本，包括服务器和流量开销。为了保持独立并延续其价值观，Telegram 将用户隐私权谨记于心，开发了这套付费工具。欢迎有责任的广告商与我们取得联系:\n[url]\n赞助商消息目前仍然处于测试阶段。全面启动赞助商消息系统，并且 Telegram 能够平衡运营成本之后，我们将与显示赞助商消息的频道所有者共同分享广告收入。\n\n线上广告不应再是滥用用户隐私的代名词。让我们共同携手，重新定义科技公司的运营模式。";
 "SponsoredMessageInfoScreen.Title" = "什么是赞助消息？";
 "SponsoredMessageMenu.Hide" = "隐藏";
@@ -9537,7 +9537,7 @@
 "Stars.BotRevenue.Withdraw.Balance" = "可用余额";
 "Stars.BotRevenue.Withdraw.BuyAds" = "购买广告";
 "Stars.BotRevenue.Withdraw.Info" = "您可以使用 Fragment 领取星星奖励，或使用星星来宣传您的机器人，每次提取金额不得少于 1000 颗星星。[了解更多 >]()";
-"Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Stars.BotRevenue.Withdraw.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "Stars.BotRevenue.Withdraw.Withdraw" = "通过 Fragment 提现";
 "Stars.BotRevenue.Withdraw.WithdrawShort" = "提现";
 "Stars.Gift.Received.Text" = "使用星星解锁 Telegram 上的内容和服务。[查看示例 >]()";
@@ -9619,7 +9619,7 @@
 "Stars.Intro.Withdraw" = "提现";
 "Stars.Intro.YourBalance" = "您的余额";
 "Stars.PaidContent.AmountInfo" = "用户需将此数量的星星转账至您的频道才能查看此媒体。[关于星星的更多信息 >]()";
-"Stars.PaidContent.AmountInfo_URL" = "https://telegram.org/tos/stars";
+"Stars.PaidContent.AmountInfo_URL" = "https://whatsgram.org/tos/stars";
 "Stars.PaidContent.AmountPlaceholder" = "解锁所需星星数量";
 "Stars.PaidContent.AmountTitle" = "输入解锁价格";
 "Stars.PaidContent.Create" = "设为付费媒体";
@@ -9648,7 +9648,7 @@
 "Stars.Purchase.StarsReactionsNeededInfo" = "购买星星后可在 **%@** 和其他频道中发送付费回应。";
 "Stars.Purchase.SubscriptionInfo" = "购买星星以订阅 **%@**.";
 "Stars.Purchase.SubscriptionRenewInfo" = "购买星星以保持您对 **%@** 频道的订阅。";
-"Stars.Purchase.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Purchase.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Purchase.TransferStarGiftInfo" = "购买星星来转让您独家典藏品的所有权。";
 "Stars.Purchase.UpgradeStarGiftInfo" = "购买星星将您的礼物升级为独家典藏品。";
 "Stars.SellGift.AmountInfo" = "您将获得 **%@** 颗星星。";
@@ -9677,7 +9677,7 @@
 "Stars.SendStars.SendStars" = "确认并发送";
 "Stars.SendStars.Title" = "发送星星";
 "Stars.Subscription.Terms" = "订阅即表示您同意 [服务条款]()。";
-"Stars.Subscription.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Subscription.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Ton.Description" = "使用 Gram 购买礼物及向频道提交帖子建议。";
 "Stars.Ton.Title" = "Gram";
 "Stars.Transaction.AppleTopUp.Subtitle" = "App Store";
@@ -9763,7 +9763,7 @@
 "Stars.Transaction.TelegramBotApi.Title" = "付费广播消息";
 "Stars.Transaction.TelegramPremium#other" = " %@ 个月的高级版订阅";
 "Stars.Transaction.Terms" = "查看星星的 [服务条款]()。";
-"Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transaction.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transaction.To" = "至";
 "Stars.Transaction.Unsupported.Title" = "不支持";
 "Stars.Transaction.Via" = "通过";
@@ -9789,7 +9789,7 @@
 "Stars.Transfer.SubscribeInfo" = "您想以每月 **%1$@ 颗星星**的价格订阅 **%2$@** 吗？";
 "Stars.Transfer.SubscribePerMonth" = "/ 月";
 "Stars.Transfer.Terms" = "购买即表示您同意 [服务条款]()。";
-"Stars.Transfer.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transfer.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transfer.Title" = "确认您的购买";
 "Stars.Transfer.Unavailable" = "抱歉，您所在的国家无法购买星星。";
 "Stars.Transfer.UnlockBotInfo" = "您想以 **%1$@**的价格解锁 **%3$@** 中的%2$@吗？";
@@ -10641,9 +10641,9 @@
 "Ton.ProceedsOverview" = "收益概览";
 "Ton.WithdrawViaFragment" = "通过 Fragment 提取";
 "Ton.WithdrawViaFragment.Info" = "通过 Fragment 领取您的 Gram。 [了解更多 >]()";
-"Ton.WithdrawViaFragment.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Ton.WithdrawViaFragment.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "TopApps.Info.Done" = "已知悉";
-"TopApps.Info.Text" = "此目录根据小程序的每日收入（以星星数量衡量）进行排名。若想要列入清单，开发人员必须在 [@botfather]() 中设定主要小程序（如 [此处](https://core.telegram.org/bots/webapps#launching-the-main-mini-app) 所述） ，该小程序应拥有超过 **1000** 名每日用户，且每日收入超过 **1000** 颗星星（基于每周平均值）。";
+"TopApps.Info.Text" = "此目录根据小程序的每日收入（以星星数量衡量）进行排名。若想要列入清单，开发人员必须在 [@botfather]() 中设定主要小程序（如 [此处](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app) 所述） ，该小程序应拥有超过 **1000** 名每日用户，且每日收入超过 **1000** 颗星星（基于每周平均值）。";
 "TopApps.Info.Title" = "热门小程序";
 "Tour.StartButton" = "开始聊天";
 "Tour.Text1" = "世界上**最快的**聊天工具\n**免费**又**安全**";
@@ -11542,7 +11542,7 @@
 "WebApp.DisclaimerContinue" = "继续";
 "WebApp.DisclaimerText" = "您即将使用一个 **不属于 Telegram** 的独立第三方小程序。您必须同意小程序使用条款后才能继续。";
 "WebApp.DisclaimerTitle" = "使用条款";
-"WebApp.Disclaimer_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.Disclaimer_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.Download.Cancel" = "取消";
 "WebApp.Download.Document" = "下载文件";
 "WebApp.Download.Download" = "下载";
@@ -11572,7 +11572,7 @@
 "WebApp.LaunchMoreInfo" = "本机器人的更多信息";
 "WebApp.LaunchOpenApp" = "打开应用";
 "WebApp.LaunchTermsConfirmation" = "此小程序即表示您同意 [小程序服务条款]()。";
-"WebApp.LaunchTermsConfirmation_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.LaunchTermsConfirmation_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.LocationPermission.Allow" = "允许";
 "WebApp.LocationPermission.Decline" = "拒绝";
 "WebApp.LocationPermission.Succeed" = "**%@** 现在可以访问您的位置信息了。";
@@ -11588,7 +11588,7 @@
 "WebApp.OpenWebViewAlertText" = "**%@** 想要打开其网页应用以继续。\n\n它将可以访问到您的 **IP 地址** 和基本设备信息。";
 "WebApp.OpenWebViewAlertTitle" = "打开应用";
 "WebApp.PrivacyPolicy" = "隐私权政策";
-"WebApp.PrivacyPolicy_URL" = "https://telegram.org/privacy-tpa";
+"WebApp.PrivacyPolicy_URL" = "https://whatsgram.org/privacy-tpa";
 "WebApp.ReloadPage" = "重新加载页面";
 "WebApp.RemoveAllConfirmationText" = "这会从所有菜单中移除 **%@** 快捷方式。";
 "WebApp.RemoveBot" = "从菜单中移除";
@@ -11610,7 +11610,7 @@
 "WebApp.ShortcutsAdded" = "**%@** 快捷方式已添加到附件菜单中。";
 "WebApp.ShortcutsSettingsAdded" = "**%@** 快捷方式已添加至附件菜单和设置中。";
 "WebApp.TermsOfUse" = "使用条款";
-"WebApp.TermsOfUse_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.TermsOfUse_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebBrowser.AddBookmark" = "添加书签";
 "WebBrowser.AddressBar.Bookmarks" = "书签";
 "WebBrowser.AddressBar.RecentlyVisited" = "最近访问";

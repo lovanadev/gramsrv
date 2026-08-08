@@ -130,7 +130,7 @@
 "AffiliateProgram.JoinSubtitleMonths_any" = "**{bot}** 將分享您推薦的每位用戶在 **%d** 個月內獲得的 **{commission}** 收入。";
 "AffiliateProgram.JoinSubtitleYears_1" = "**{bot}** 將分享您推薦的每位用戶 **1 年**內收入的 **{commission}**。";
 "AffiliateProgram.JoinSubtitleYears_any" = "**{bot}** 將分享您推薦的每位用戶在 **%d 年**內獲得的 **{commission}** 收入。";
-"AffiliateProgram.JoinTerms" = "加入此計劃即表示您同意聯盟計劃的[條款和條件](https://telegram.org/tos/affiliate-program)。";
+"AffiliateProgram.JoinTerms" = "加入此計劃即表示您同意聯盟計劃的[條款和條件](https://whatsgram.org/tos/affiliate-program)。";
 "AffiliateProgram.JoinTitle" = "聯盟計劃";
 "AffiliateProgram.LinkSubtitle" = "與您的用戶分享此連結，以便他們在點擊您的連結後，您可以在 **%2$@** 内從 **%3$@** 賺取 **%1$d** 佣金。";
 "AffiliateProgram.LinkSubtitleLifetime" = "與您的用戶分享此連結，以便他們在點擊您的連結後，您可以**永遠**從 **{bot}** 賺取 **{commission}** 佣金。";
@@ -198,7 +198,7 @@
 "AffiliateSetup.StartTitle" = "啟動聯盟計劃";
 "AffiliateSetup.SuggestedSectionEmpty" = "還沒有可用的計劃。 \n請稍後查看此頁面。";
 "AffiliateSetup.SuggestedSectionTitle" = "計劃";
-"AffiliateSetup.TermsFooter" = "建立聯盟計畫即表示您同意聯盟計畫的[條款和條件](https://telegram.org/terms)。";
+"AffiliateSetup.TermsFooter" = "建立聯盟計畫即表示您同意聯盟計畫的[條款和條件](https://whatsgram.org/terms)。";
 "AffiliateSetup.TextJoin" = "每當透過您的推薦連結首次訪問迷你程式的用戶在其中花費**星星**時，您即可賺取佣金。";
 "AffiliateSetup.TextNew" = "獎勵幫助您擴大用戶群的合作者。";
 "AffiliateSetup.TitleJoin" = "聯盟計劃";
@@ -468,7 +468,7 @@
 "Bot.AllowSendMessages" = "允許 **%@** 向我傳送訊息。";
 "Bot.Grossing.Disclaimer" = "這裡包括哪些應用程式？ [了解 >](grossing)";
 "Bot.Grossing.Disclaimer.Alert.Header" = "熱門迷你程式";
-"Bot.Grossing.Disclaimer.Alert.Text" = "此目錄根據迷你程式的每日收入（以星星數量衡量）對它們進行排名。若想要列入清單，開發人員必須在 [@botfather](https://t.me/botfather) 中設定主要迷你程式（如[此處](https://core.telegram.org/api/bots/webapps)所述） ，該程式應擁有超過 **1,000** 名每日用戶，且每日收入超過 **1,000** 顆星星（基於每周平均值）。";
+"Bot.Grossing.Disclaimer.Alert.Text" = "此目錄根據迷你程式的每日收入（以星星數量衡量）對它們進行排名。若想要列入清單，開發人員必須在 [@botfather](https://t.me/botfather) 中設定主要迷你程式（如[此處](https://core.whatsgram.org/api/bots/webapps)所述） ，該程式應擁有超過 **1,000** 名每日用戶，且每日收入超過 **1,000** 顆星星（基於每周平均值）。";
 "Bot.Grossing.Disclaimer.Alert.ok" = "我已了解";
 "Bot.InlineAuth.Header" = "開啟連結";
 "Bot.InlineAuth.Open" = "開啟";
@@ -482,8 +482,8 @@
 "Bot.TransferOwner.Error.Title" = "安全檢查";
 "Bot.TransferOwnership.Password.Desc" = "請輸入您的兩步驟驗證密碼以完成操作。";
 "Bot.TransferOwnership.Password.Title" = "兩步驟驗證";
-"BotInfo.LaunchInfo" = "發布此迷你程式，即表示您同意 [Telegram 開發人員服務條款](https://telegram.org/tos/bot-developers)。";
-"BotInfo.LaunchInfo.PrivacyUrl" = "https://telegram.org/privacy-tpa";
+"BotInfo.LaunchInfo" = "發布此迷你程式，即表示您同意 [Telegram 開發人員服務條款](https://whatsgram.org/tos/bot-developers)。";
+"BotInfo.LaunchInfo.PrivacyUrl" = "https://whatsgram.org/privacy-tpa";
 "BotInfo.LaunchInfo.User" = "啟動此迷你程式，即表示您同意[迷你程式服務條款。](%@)";
 "BotInfo.OpenApp" = "開啟 App";
 "BotUsername.Activate.Info" = "您想從機器人的資料頁顯示這個連結嗎？";
@@ -661,7 +661,7 @@
 "Business.ScheduleStart" = "營業時間";
 "Business.SelectPeers.Limit" = "已達到限制";
 "Business.SwitchAd" = "不要隱藏廣告";
-"Business.SwitchAd.Info" = "作為 Premium 訂閱者，您在 Telegram 上不會看到任何廣告，但您可以啟用廣告，例如用於查看您自己在 [Telegram 廣告平台 >](ads.telegram.org)上發布的廣告";
+"Business.SwitchAd.Info" = "作為 Premium 訂閱者，您在 Telegram 上不會看到任何廣告，但您可以啟用廣告，例如用於查看您自己在 [Telegram 廣告平台 >](ads.whatsgram.org)上發布的廣告";
 "Business.SwitchAd.Title" = "頻道中的廣告";
 "Business.Updated" = "您的 Telegram 企業已更新";
 "CHAT_MESSAGE_INVOICE" = "%1$@ 傳了一張 %3$@ 的請款單到「%2$@」群組";
@@ -1270,7 +1270,7 @@
 "ChannelReactions.EnableReactions" = "啟用表情符號反應";
 "ChannelReactions.EnableReactions.Info" = "您可以將任何表情包中的表情符號用於反應。";
 "ChannelReactions.EnableStars" = "啟用付費反應";
-"ChannelReactions.EnableStars.Info" = "啟用此選項，讓您的訂閱者可以用 Telegram 星星對貼文作出反應，您可以以 Gram 的形式提取星星。[了解更多 >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"ChannelReactions.EnableStars.Info" = "啟用此選項，讓您的訂閱者可以用 Telegram 星星對貼文作出反應，您可以以 Gram 的形式提取星星。[了解更多 >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "ChannelReactions.LevelRequired" = "需要等級 %d";
 "ChannelReactions.MaxCount.Info" = "限制可以加入到貼文中的不同反應的數量，包括已經發布的反應。";
 "ChannelReactions.MaxCount.Title" = "每則貼文的反應數量上限";
@@ -1719,7 +1719,7 @@
 "Chat.ManageMessages.What_countable" = "%d";
 "Chat.Message.Ad.ReadMore" = "閱讀更多";
 "Chat.Message.Ad.Text" = "與其他應用程式不同，Telegram 從不使用您的私人數據來投放廣告。Telegram 上的贊助商廣告訊息完全是基於公開頻道其所顯示的主題。這意味著不會挖掘或分析用戶數據來顯示廣告，並且每個在 Telegram 上瀏覽某頻道的用戶所看到的贊助商廣告訊息都是一樣的。\n\n與其他應用程式不同，Telegram 不會在您點擊贊助商廣告訊息時追蹤您，不會根據您的活動來描述您。除此之外，我們也會避免贊助商廣告訊息中有外部連結，藉以確保我們的用戶不會被第三方所監視。我們相信，每個人都擁有隱私權，而科技平台應該重視這點。\n\nTelegram 為數億用戶提供免費且無限制的服務，這涉及大量的伺服器和流量成本。為了保持獨立並忠於自己的價值觀，在考慮用戶隱私的情況下，Telegram 開發了一種付費可宣傳訊息的工具。我們歡迎可信賴的廣告刊登者：\n\n%@\n\n贊助商廣告訊息目前處於測試模式。一旦完全啟用並使 Telegram 可以支付其基本費用，我們將開始分享廣告收入給顯示贊助商廣告訊息的公開頻道擁有者。\n\n線上廣告不應再等同於濫用用戶隱私。讓我們一起重新定義一家科技公司應該如何運作。";
-"Chat.Message.Ad.Url" = "https://ads.telegram.org";
+"Chat.Message.Ad.Url" = "https://ads.whatsgram.org";
 "Chat.Message.Context.Quote" = "引用";
 "Chat.Message.Context.Quote.LimitExceed" = "太長。";
 "Chat.Message.DeleteForAll" = "對所有人刪除";
@@ -1762,7 +1762,7 @@
 "Chat.Message.Socks5.Config" = "SOCKS5 配置";
 "Chat.Message.Sponsored" = "廣告";
 "Chat.Message.Sponsored.Advertiser" = "廣告商資訊";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "什麼是贊助商廣告訊息？";
 "Chat.Message.Suggest.Markup.Approve" = "批准";
 "Chat.Message.Suggest.Markup.Decline" = "拒絕";
@@ -1776,7 +1776,7 @@
 "Chat.Message.Todo.Total" = "%1$@ / %2$@ 已完成";
 "Chat.Message.UnsendMessages" = "取消傳送我的訊息";
 "Chat.Message.UnsendMessages_countable" = "%d";
-"Chat.Message.Unsupported" = "您使用的 Telegram 版本不支援此訊息。請更新到最新版，透過「設定」或安裝它從：https://macos.telegram.org ";
+"Chat.Message.Unsupported" = "您使用的 Telegram 版本不支援此訊息。請更新到最新版，透過「設定」或安裝它從：https://macos.whatsgram.org ";
 "Chat.Message.UnsupportedNew" = "您的 Telegram 版本不支援此訊息。請更新到最新版本。";
 "Chat.Message.Via" = "透過";
 "Chat.Message.ViewBot" = "查看機器人";
@@ -2444,8 +2444,8 @@
 "ChatList.FolderUpdates.Info" = "點擊此處以查看它們";
 "ChatList.FolderUpdates.Title#other" = "%d 個可用的新聊天";
 "ChatList.FolderUpdates.Title_countable" = "%d";
-"ChatList.FreezeAccount" = "您的帳號因嚴重違反 Telegram 的[條款與條件](https://telegram.org/tos)而被凍結。您的帳號現在處於唯讀模式（自 %1$@ 起）。如果您認為其中有錯誤，您可以透過 [@SpamBot](%2$@) 提出申訴。如果我們直到 %3$@ 還沒有收到您的回覆，您的帳號將被澈底停用並終止。";
-"ChatList.FreezeAccount.Alert" = "您的帳號因嚴重違反 Telegram 的[條款與條件](https://telegram.org/tos)而被凍結。您的帳號現在處於唯讀模式（自 %1$@ 起）。如果您認為其中有錯誤，您可以透過 [@SpamBot](%2$@) 提出申訴。如果我們直到 %3$@ 還沒有收到您的回覆，您的帳號將被澈底停用並終止。";
+"ChatList.FreezeAccount" = "您的帳號因嚴重違反 Telegram 的[條款與條件](https://whatsgram.org/tos)而被凍結。您的帳號現在處於唯讀模式（自 %1$@ 起）。如果您認為其中有錯誤，您可以透過 [@SpamBot](%2$@) 提出申訴。如果我們直到 %3$@ 還沒有收到您的回覆，您的帳號將被澈底停用並終止。";
+"ChatList.FreezeAccount.Alert" = "您的帳號因嚴重違反 Telegram 的[條款與條件](https://whatsgram.org/tos)而被凍結。您的帳號現在處於唯讀模式（自 %1$@ 起）。如果您認為其中有錯誤，您可以透過 [@SpamBot](%2$@) 提出申訴。如果我們直到 %3$@ 還沒有收到您的回覆，您的帳號將被澈底停用並終止。";
 "ChatList.FreezeAccount.Alert.Appeal" = "申訴";
 "ChatList.FreezeAccount.Alert.Title" = "您的帳號已被凍結";
 "ChatList.FreezeAccount.Title" = "您的帳號已被凍結";
@@ -2559,7 +2559,7 @@
 "ChatMessage.Sponsored.About" = "關於這則廣告";
 "ChatMessage.Sponsored.Report" = "檢舉廣告";
 "ChatMessage.Sponsored.Report.Aready" = "已檢舉此廣告";
-"ChatMessage.Sponsored.Report.LearnMore" = "了解更多有關[ Telegram 廣告政策和指南](https://ads.telegram.org/guidelines)。";
+"ChatMessage.Sponsored.Report.LearnMore" = "了解更多有關[ Telegram 廣告政策和指南](https://ads.whatsgram.org/guidelines)。";
 "ChatMessage.Sponsored.Report.OptionTitle" = "這則廣告有什麼問題嗎？";
 "ChatMessage.Sponsored.Report.Success" = "Telegram 管理員將會檢視您的報告。感謝您！";
 "ChatMessage.Sponsored.Title" = "廣告";
@@ -3484,7 +3484,7 @@
 "ForwardModalAction.Title_countable" = "%d";
 "ForwardModalAction.description#other" = "選擇一用戶或聊天室以轉傳來自 %@ 的訊息";
 "ForwardModalAction.description_countable" = "%d %@";
-"Fragment.AdsInfo.Block.Text" = "任何人都可以建立廣告並在此頻道中展示 - 只需最少的預算。查看 Telegram 廣告平台以了解詳細資訊。[了解更多>](https://ads.telegram.org)";
+"Fragment.AdsInfo.Block.Text" = "任何人都可以建立廣告並在此頻道中展示 - 只需最少的預算。查看 Telegram 廣告平台以了解詳細資訊。[了解更多>](https://ads.whatsgram.org)";
 "Fragment.AdsInfo.Block.Title" = "我可以投放廣告嗎？";
 "Fragment.AdsInfo.OK" = "我已了解";
 "Fragment.AdsInfo.Option1.Info" = "Telegram 上的廣告不會使用您的個人資料，而是僅基於您看到廣告的頻道内容。";
@@ -3731,9 +3731,9 @@
 "Gift.Upgrade.Unique.Title" = "獨家";
 "Gift.Upgrade.Upgrade" = "升級";
 "Gift.View.DisplayedInfoHide" = "此禮物在您的個人資料頁上可見。 [隱藏 >]()";
-"Gift.View.KeepOrConvertDescription.Channel" = "您可以將此禮物加入到頻道資料頁上或將其轉換為 %@。 [更多關於星星 >](https://telegram.org)";
+"Gift.View.KeepOrConvertDescription.Channel" = "您可以將此禮物加入到頻道資料頁上或將其轉換為 %@。 [更多關於星星 >](https://whatsgram.org)";
 "Gift.View.KeepUpgradeOrConvertDescription" = "您可以保留、升級或以 %@ 的價格出售此禮物。 [更多關於星星 >]()";
-"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "您的頻道可以保留、升級或以 %@ 的價格出售此禮物。 [更多關於星星 >](https://telegram.org)";
+"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "您的頻道可以保留、升級或以 %@ 的價格出售此禮物。 [更多關於星星 >](https://whatsgram.org)";
 "Gift.View.Status" = "狀態";
 "Gift.View.Status.NonUnique" = "非獨家";
 "Gift.View.Status.Upgrade" = "升級";
@@ -4122,7 +4122,7 @@
 "InviteLink.Sticker.Revoked" = "・已撤銷";
 "InviteLink.Sticker.TimeLeft" = "%@後過期";
 "InviteLink.Sub.Amount.Placeholder" = "每月星星數量";
-"InviteLink.Sub.Info" = "向透過此連結加入您頻道的人收取訂閱費用。 [了解更多 >](https://telegram.org/tos/stars)";
+"InviteLink.Sub.Info" = "向透過此連結加入您頻道的人收取訂閱費用。 [了解更多 >](https://whatsgram.org/tos/stars)";
 "InviteLink.Sub.Info.Editing" = "若要變更訂閱費用，請建立具有不同價格的新邀請連結。";
 "InviteLink.Sub.ReqApproval" = "您無法對需要按月付費的連結啟用管理員批准。";
 "InviteLink.Sub.Text" = "需要月費";
@@ -4475,9 +4475,9 @@
 "Modal.Share" = "分享";
 "Modal.Yes" = "是";
 "Monetization.AdRevenueTitle" = "廣告獎勵";
-"Monetization.Balance.ComingLaterInfo" = "在接下來的幾週內，您將能夠透過 Fragment（廣告商用來支付廣告費用的第三方平台）領取獎勵。 [服務條款]((https://telegram.org/tos/content-creator-rewards)";
-"Monetization.BalanceInfo" = "您可以透過 Fragment 領取獎勵，Fragment 是廣告商用來支付廣告費用的第三方平台。 [服務條款](https://telegram.org/tos/content-creator-rewards)";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.Balance.ComingLaterInfo" = "在接下來的幾週內，您將能夠透過 Fragment（廣告商用來支付廣告費用的第三方平台）領取獎勵。 [服務條款]((https://whatsgram.org/tos/content-creator-rewards)";
+"Monetization.BalanceInfo" = "您可以透過 Fragment 領取獎勵，Fragment 是廣告商用來支付廣告費用的第三方平台。 [服務條款](https://whatsgram.org/tos/content-creator-rewards)";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceTitle" = "可用獎勵";
 "Monetization.BalanceWithdraw" = "透過 Fragment 領取獎勵";
 "Monetization.BalanceWithdraw.Stars" = "透過 Fragment 提現";
@@ -4487,7 +4487,7 @@
 "Monetization.ImpressionsTitle" = "廣告展示次數（每小時）";
 "Monetization.Intro.Ads.Text" = "Telegram 可以在您的頻道中顯示廣告。";
 "Monetization.Intro.Ads.Title" = "Telegram 廣告";
-"Monetization.Intro.Info.Text" = "Gram 是 TON 區塊鏈平台的加密貨幣，Telegram 選用此平台是因為其交易速度快且手續費低廉。[了解更多>](https://telegram.org/blog/monetization-for-channels)";
+"Monetization.Intro.Info.Text" = "Gram 是 TON 區塊鏈平台的加密貨幣，Telegram 選用此平台是因為其交易速度快且手續費低廉。[了解更多>](https://whatsgram.org/blog/monetization-for-channels)";
 "Monetization.Intro.Info.Title" = "什麽是 %@ Gram？";
 "Monetization.Intro.Split.Text" = "您可以獲得廣告收入的 50%@ 的等額 Gram 獎勵。";
 "Monetization.Intro.Split.Title" = "50:50 收入分成";
@@ -4501,7 +4501,7 @@
 "Monetization.Overview.Current" = "自上次領取以來的獎勵";
 "Monetization.Overview.Total" = "獎勵總額";
 "Monetization.OverviewTitle" = "獎勵總覽";
-"Monetization.Stars.WithdrawInfo" = "您可以透過 Fragment 收集星星獎勵，或使用星星來宣傳您的機器人。 [了解更多](https://telegram.org/tos/bot-developers#6-2-2-tpa-balance)";
+"Monetization.Stars.WithdrawInfo" = "您可以透過 Fragment 收集星星獎勵，或使用星星來宣傳您的機器人。 [了解更多](https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance)";
 "Monetization.Stars.WithdrawTitle" = "星星餘額";
 "Monetization.SwitchOffAds" = "關閉廣告";
 "Monetization.SwitchOffAdsInfo" = "如果您關閉廣告，您將沒有資格獲得任何獎勵。";
@@ -4777,7 +4777,7 @@
 "PHONE_NUMBER_INVALID" = "電話號碼無效";
 "PINNED_INVOICE" = "%1$@ 置頂了一張請款單";
 "PaidMedia.Header" = "輸入解鎖價格";
-"PaidMedia.Info" = "用戶必須將一定數量的星星轉移到您的頻道才能查看此媒體。 [更多關於星星的資訊>](https://telegram.org/blog/telegram-stars)";
+"PaidMedia.Info" = "用戶必須將一定數量的星星轉移到您的頻道才能查看此媒體。 [更多關於星星的資訊>](https://whatsgram.org/blog/telegram-stars)";
 "PaidMedia.Ok" = "設為付費媒體";
 "PaidMedia.Placeholder" = "解鎖所需星星數量";
 "PaidMedia.Status.Purchased" = "已購買";
@@ -5194,7 +5194,7 @@
 "PeerInfo.VerificationInfo.Bot" = "此機器人已經通過 Telegram 驗證。";
 "PeerInfo.VerificationInfo.Channel" = "此頻道已經通過 Telegram 驗證。";
 "PeerInfo.VerificationInfo.Group" = "此群組已經通過 Telegram 驗證。";
-"PeerInfo.VerificationInfo.URL" = "https://telegram.org/verify";
+"PeerInfo.VerificationInfo.URL" = "https://whatsgram.org/verify";
 "PeerInfo.Verified" = "%@ 此機器人已由 Telegram 代表驗證為官方機器人。";
 "PeerInfo.Verified.Tooltip" = "已認證帳號";
 "PeerInfo.VerifyAccounts" = "驗證帳號";
@@ -6680,7 +6680,7 @@
 "Star.List.StarsNeeded_countable" = "%d";
 "Star.List.TelegramStars" = "Telegram 星星";
 "Star.List.TopUp" = "儲值";
-"Star.List.Tos" = "繼續操作並購買星星即表示您同意[條款和條件](https://telegram.org/tos/stars)。";
+"Star.List.Tos" = "繼續操作並購買星星即表示您同意[條款和條件](https://whatsgram.org/tos/stars)。";
 "Star.List.Transaction.Ads" = "廣告平台";
 "Star.List.Transaction.AppStore" = "App Store";
 "Star.List.Transaction.Fragment" = "Fragment";
@@ -6762,7 +6762,7 @@
 "Star.Transaction.Availability.Of" = "%1$d / %2$@";
 "Star.Transaction.Availability.OfLeft" = "剩餘 %1$@ / %2$@";
 "Star.Transaction.Availability.OfText" = "%1$@ / %2$@";
-"Star.Transaction.BotTos" = "訂閱即表示您同意[服務條款](https://telegram.org)";
+"Star.Transaction.BotTos" = "訂閱即表示您同意[服務條款](https://whatsgram.org)";
 "Star.Transaction.BroadcastMessages#other" = "%d 則訊息";
 "Star.Transaction.BroadcastMessages_countable" = "%d";
 "Star.Transaction.Button.GiftUpgrade" = "協助升級";
@@ -6812,7 +6812,7 @@
 "Star.Transaction.StarGift.ShownInProfile" = "此禮物已顯示在您的個人資料頁。 [隱藏 >](hide)";
 "Star.Transaction.To" = "至";
 "Star.Transaction.Ton.Description" = "透過 Gram 購買禮物並向頻道提交貼文建議。";
-"Star.Transaction.Tos" = "查看 Telegram 星星的[服務條款](https://telegram.org/tos/stars)。";
+"Star.Transaction.Tos" = "查看 Telegram 星星的[服務條款](https://whatsgram.org/tos/stars)。";
 "Star.Transaction.TransactionUrl" = "交易連結";
 "Star.Transaction.UnknwonUser" = "[未知用戶](https://fragment.com/stars)";
 "Star.Transaction.Value" = "價值";
@@ -6917,7 +6917,7 @@
 "StarGift.ViewAllVariants" = "%1$@ 查看所有變體 >";
 "StarGiftNft.ResaleMinPriceInfo" = "此選項僅適用於價格高於 %1$@ 的禮物。";
 "StarList.Ton" = "Gram";
-"StarList.Ton.Withdraw.Info" = "透過 Fragment 領取您的 Gram。 [了解更多 >](telegram.org)";
+"StarList.Ton.Withdraw.Info" = "透過 Fragment 領取您的 Gram。 [了解更多 >](whatsgram.org)";
 "StarList.TonInfo" = "透過 Gram 報價來向 Telegram 頻道提交貼文建議";
 "StarTransaction.GiftRefundedInfo" = "這份禮物已降級，因為有人要求退還與這份禮物相關的付款，且款項已退回。";
 "Stars.Balance.BuyAds" = "投放廣告";
@@ -6965,7 +6965,7 @@
 "Stars.Purchase.Subscribe.Success" = "您已成功訂閱 **%@**";
 "Stars.Purchase.UpgradeStarGiftInfo" = "購買星星可將您的禮物升級為獨家典藏品。";
 "Stars.ReactScreen.Anonymous" = "匿名";
-"Stars.ReactScreen.Footer" = "送出星星即表示您同意[服務條款](https://telegram.org/tos/stars)。";
+"Stars.ReactScreen.Footer" = "送出星星即表示您同意[服務條款](https://whatsgram.org/tos/stars)。";
 "Stars.ReactScreen.Info" = "選擇您想要送出多少顆星星給 **%@** 以支持此貼文。";
 "Stars.ReactScreen.Send#other" = "送出 %@%d";
 "Stars.ReactScreen.Send_countable" = "%@%d";
@@ -8212,7 +8212,7 @@
 "WebBot.Account.Desclaimer.Desc" = "**%@** 的捷徑將會加入到附件選單和設定中。";
 "WebBot.Account.Disclaimer.OK" = "繼續";
 "WebBot.Account.Disclaimer.Text" = "您將要使用由**不隸屬於 Telegram** 的獨立第三方運營的迷你程式。您必須同意迷你程式的使用條款才能繼續。";
-"WebBot.Account.Disclaimer.Third" = "我同意[使用條款](https://telegram.org/tos/mini-apps)";
+"WebBot.Account.Disclaimer.Third" = "我同意[使用條款](https://whatsgram.org/tos/mini-apps)";
 "WebBot.Account.Disclaimer.Title" = "使用條款";
 "WebBrowser.Error" = "**發生錯誤，抱歉。 **\n請稍後再試。";
 "WebBrowser.InstantView" = "即時瀏覽";
@@ -8301,14 +8301,14 @@
 "psa.chat.alert.learnmore" = "了解更多";
 "psa.chat.alert.learnmore.covid" = "了解更多";
 "psa.chat.alert.learnmore.psa" = "了解更多";
-"psa.chat.text.covid" = "此訊息為您提供正在發生的新冠肺炎疫情相關公共服務公告。了解有關此計劃的更多資訊：https://telegram.org/blog/coronavirus";
+"psa.chat.text.covid" = "此訊息為您提供正在發生的新冠肺炎疫情相關公共服務公告。了解有關此計劃的更多資訊：https://whatsgram.org/blog/coronavirus";
 "psa.chat.text.psa" = "這是 Telegram CEO 就目前衝突發布的正式聲明。";
 "psa.chat.title" = "公共服務公告";
 "psa.chatlist" = "公共服務公告";
 "psa.chatlist.covid" = "新冠肺炎";
 "psa.chatlist.psa" = "公告";
 "psa.text" = "此訊息在您的聊天列表中為您提供公共服務公告";
-"psa.text.covid" = "此訊息為您提供正在發生的新冠肺炎疫情相關公共服務公告。了解有關此計劃的更多資訊：https://telegram.org/blog/coronavirus";
+"psa.text.covid" = "此訊息為您提供正在發生的新冠肺炎疫情相關公共服務公告。了解有關此計劃的更多資訊：https://whatsgram.org/blog/coronavirus";
 "psa.text.psa" = "這是 Telegram CEO 就目前衝突發布的正式聲明。";
 "psa.title" = "公共服務公告通知";
 "psa.title.bubbles" = "公共服務公告通知\n來自：[%@]()";

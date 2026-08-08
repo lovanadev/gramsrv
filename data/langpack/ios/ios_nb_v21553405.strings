@@ -61,7 +61,7 @@
 "AdsInfo.Bot.Split.Title" = "Hjelper utvikleren av roboten";
 "AdsInfo.Info" = "Telegram Annonser er veldig forskjellig fra annonser på andre plattformer. Annonser som denne:";
 "AdsInfo.Launch.Text" = "Alle kan opprette en annonse som skal vises i denne roboten, selv på små budsjett. Se Telegram Annonseplattform for mer informasjon. [Les mer]()";
-"AdsInfo.Launch.Text_URL" = "https://ads.telegram.org";
+"AdsInfo.Launch.Text_URL" = "https://ads.whatsgram.org";
 "AdsInfo.Launch.Title" = "Kan jeg kjøre en annonse?";
 "AdsInfo.Respect.Text" = "Annonser på Telegram bruker ikke dine personlige opplysninger og er basert på kanalen de vises i.";
 "AdsInfo.Respect.Title" = "Respekterer personvernet ditt";
@@ -82,7 +82,7 @@
 "AffiliateProgram.JoinSubtitleMonths#other" = "**{bot}** vil dele **{commission}** av inntekten fra hver bruker du henviser til den i **%d måneder**.";
 "AffiliateProgram.JoinSubtitleYears#one" = "**{bot}** vil dele **{commission}** av inntekten fra hver bruker du henviser til den i **1 år**.";
 "AffiliateProgram.JoinSubtitleYears#other" = "**{bot}** vil dele **{commission}** av inntekten fra hver bruker du henviser til den i **%d år**.";
-"AffiliateProgram.JoinTerms" = "Ved å bli med i dette programmet, godtar du [vilkår for bruk](https://telegram.org/tos/affiliate-program) av partnerprogrammer.";
+"AffiliateProgram.JoinTerms" = "Ved å bli med i dette programmet, godtar du [vilkår for bruk](https://whatsgram.org/tos/affiliate-program) av partnerprogrammer.";
 "AffiliateProgram.JoinTitle" = "Partnerprogram";
 "AffiliateProgram.LinkSubtitleLifetime" = "Del denne lenken med brukerne dine for å tjene **{commission}** provisjon på det de handler for i **{bot}** i **all evighet** etter at de har benyttet lenken din.";
 "AffiliateProgram.LinkSubtitleMonths#one" = "Del denne lenken med brukerne dine for å tjene **{commission}** provisjon på det de handler for i **{bot}** i **en måned** etter at de har benyttet lenken din.";
@@ -148,7 +148,7 @@
 "AffiliateSetup.StartTitle" = "Start partnerprogram";
 "AffiliateSetup.SuggestedSectionEmpty" = "Ingen tilgjengelige programmer ennå.\nVennligst sjekk denne siden igjen senere.";
 "AffiliateSetup.SuggestedSectionTitle" = "PROGRAMMER";
-"AffiliateSetup.TermsFooter" = "Ved å opprette et partnerprogram, godtar du [vilkår for bruk](https://telegram.org/terms) av partnerprogrammer.";
+"AffiliateSetup.TermsFooter" = "Ved å opprette et partnerprogram, godtar du [vilkår for bruk](https://whatsgram.org/terms) av partnerprogrammer.";
 "AffiliateSetup.TextJoin" = "Tjen provisjon hver gang en bruker som besøker en miniapplikasjon for første gang gjennom din henvisningslenke bruker **stjerner** i den.";
 "AffiliateSetup.TextNew" = "Belønn de som hjelper deg med å øke brukerbasen din.";
 "AffiliateSetup.TitleJoin" = "Partnerprogrammer";
@@ -508,11 +508,11 @@
 "AuthSessions.AddDevice" = "Skann QR-kode";
 "AuthSessions.AddDevice.InvalidQRCode" = "Ugyldig QR-kode";
 "AuthSessions.AddDevice.ScanInfo" = "Skann en QR-kode for å loggge inn\nmed din konto på en annen enhet.";
-"AuthSessions.AddDevice.ScanInstallInfo" = "Besøk [getdesktop.telegram.org](desktop) eller [web.telegram.org](web) For å få QR koden";
+"AuthSessions.AddDevice.ScanInstallInfo" = "Besøk [getdesktop.whatsgram.org](desktop) eller [web.whatsgram.org](web) For å få QR koden";
 "AuthSessions.AddDevice.ScanTitle" = "Skann QR-kode";
 "AuthSessions.AddDevice.UrlLoginHint" = "Denne koden kan brukes til å la andre logge inn på din Telegram-konto.\n\nFor å bekrefte Telegram-pålogging, gå til Innstillinger > Enheter > Legg til enhet og skann koden.";
 "AuthSessions.AddDeviceIntro.Action" = "Skann QR-kode";
-"AuthSessions.AddDeviceIntro.Text1" = "Last ned Telegram på datamaskinen din fra [desktop.telegram.org]()";
+"AuthSessions.AddDeviceIntro.Text1" = "Last ned Telegram på datamaskinen din fra [desktop.whatsgram.org]()";
 "AuthSessions.AddDeviceIntro.Text2" = "Kjør Telegram på datamaskinen din for å få QR-koden";
 "AuthSessions.AddDeviceIntro.Text3" = "Skann QR-koden for å koble til kontoen din";
 "AuthSessions.AddDeviceIntro.Title" = "Logg inn med QR-kode";
@@ -942,7 +942,7 @@
 "Business.AddPost" = "Legg til innlegg";
 "Business.AddPostInfo" = "Legg ut bilder og videoer av varer eller tjenester på siden din.";
 "Business.AdsInfo" = "Som en abonnent på Premium vil du ikke se noen annonser på Telegram, men du kan slå på disse, for eksempel for å se annonser du selv har lansert på [Telegram Annonseplattform >]()";
-"Business.AdsInfo_URL" = "https://ads.telegram.org";
+"Business.AdsInfo_URL" = "https://ads.whatsgram.org";
 "Business.AdsTitle" = "ANNONSER I KANALER";
 "Business.AwayMessages" = "Fraværsmeldinger";
 "Business.AwayMessagesInfo" = "Angi meldinger som sendes automatisk når du er borte.";
@@ -2602,7 +2602,7 @@
 "Chat.PrivateMessageSentTimestamp.Date" = "sendt %@";
 "Chat.PrivateMessageSentTimestamp.TodayAt" = "sendt i dag kl. %@";
 "Chat.PrivateMessageSentTimestamp.YesterdayAt" = "sendt i går kl. %@";
-"Chat.PsaTooltip.covid" = "Denne meldingen er en offentlig tjenestekunngjøring vedrørende den pågående COVID-19 pandemien. Lær mer om dette tiltaket på https://telegram.org/blog/coronavirus";
+"Chat.PsaTooltip.covid" = "Denne meldingen er en offentlig tjenestekunngjøring vedrørende den pågående COVID-19 pandemien. Lær mer om dette tiltaket på https://whatsgram.org/blog/coronavirus";
 "Chat.PsaTooltip.psa" = "Dette er en offisiell kunngjøring fra administrerende direktør ved Telegram angående den pågående konflikten.";
 "Chat.QuickReply.ServiceHeader1" = "Trykk og hold på hurtigsvaret ditt for å redigere eller slette det.";
 "Chat.QuickReply.ServiceHeader2" = "For å bruke dette hurtigsvaret i en samtale, skriv / og velg snarveien fra listen.";
@@ -3007,7 +3007,7 @@
 "ChatList.PremiumRestoreDiscountTitle" = "Få premium igjen med inntil %@ rabatt";
 "ChatList.PremiumXmasGiftText" = "Send samleobjekter i begrenset opplag til venner!";
 "ChatList.PremiumXmasGiftTitle" = "👑 Snoop Dogg gaveslipp 🎁";
-"ChatList.PsaAlert.covid" = "Denne meldingen er en offentlig tjenestekunngjøring vedrørende den pågående COVID-19 pandemien. Lær mer om dette tiltaket på https://telegram.org/blog/coronavirus";
+"ChatList.PsaAlert.covid" = "Denne meldingen er en offentlig tjenestekunngjøring vedrørende den pågående COVID-19 pandemien. Lær mer om dette tiltaket på https://whatsgram.org/blog/coronavirus";
 "ChatList.PsaAlert.psa" = "Dette er en offisiell kunngjøring fra administrerende direktør ved Telegram angående den pågående konflikten.";
 "ChatList.PsaLabel.covid" = "COVID-19";
 "ChatList.PsaLabel.psa" = "Kunngjøring";
@@ -3276,7 +3276,7 @@
 "ChatbotSetup.SetupNotCompleted.Text" = "Du har ikke lagt til en robot for å administrere kontoen din. Vil du avslutte?";
 "ChatbotSetup.SetupNotCompleted.Title" = "Ingen robot lagt til";
 "ChatbotSetup.Text" = "Legg til en robot som svarer på meldinger for deg.";
-"ChatbotSetup.TextLink" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"ChatbotSetup.TextLink" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "ChatbotSetup.Title" = "Kommer snart";
 "ChatbotSetup.TitleItem" = "Samtaleautomasjon";
 "Checkout.Email" = "E-post";
@@ -4123,7 +4123,7 @@
 "Conversation.Unpin" = "Løsne";
 "Conversation.UnpinMessageAlert" = "Vil du løsne denne meldingen?";
 "Conversation.UnreadMessages" = "Uleste meldinger";
-"Conversation.UnsupportedMedia" = "Denne meldingen støttes ikke i din versjon av Telegram. Oppdater appen for å se: https://telegram.org/update";
+"Conversation.UnsupportedMedia" = "Denne meldingen støttes ikke i din versjon av Telegram. Oppdater appen for å se: https://whatsgram.org/update";
 "Conversation.UnsupportedMediaPlaceholder" = "Denne meldingen støttes ikke i din versjon av Telegram. Vennligst oppdater appen til nyeste versjon.";
 "Conversation.UnvotePoll" = "Tilbakekall stemme";
 "Conversation.UpdateTelegram" = "OPPDATER TELEGRAM";
@@ -4330,7 +4330,7 @@
 "DeleteAccount.ConfirmationAlertText" = "Å slette kontoen din vil slette dine data permanent!\n\nDet er umulig å reversere denne handlingen!";
 "DeleteAccount.ConfirmationAlertTitle" = "Fortsett med sletting av kontoen din?";
 "DeleteAccount.Continue" = "Fortsett";
-"DeleteAccount.DeleteMessagesURL" = "https://telegram.org/faq#q-can-i-delete-my-messages";
+"DeleteAccount.DeleteMessagesURL" = "https://whatsgram.org/faq#q-can-i-delete-my-messages";
 "DeleteAccount.DeleteMyAccount" = "Slett kontoen min";
 "DeleteAccount.DeleteMyAccountTitle" = "Slett min konto";
 "DeleteAccount.EnterPassword" = "Oppgi passordet ditt";
@@ -4784,7 +4784,7 @@
 "FrozenAccount.Understood" = "Jeg forstår";
 "FrozenAccount.Violation.Text" = "Kontoen din ble frosset fordi den har brutt Telegrams vilkår for bruk.";
 "FrozenAccount.Violation.TextNew" = "Kontoen din ble frosset fordi den har brutt Telegrams [vilkår for bruk]().";
-"FrozenAccount.Violation.TextNew_URL" = "https://telegram.org/tos";
+"FrozenAccount.Violation.TextNew_URL" = "https://whatsgram.org/tos";
 "FrozenAccount.Violation.Title" = "Brudd på vilkår";
 "Gallery.Ad" = "Annonse";
 "Gallery.AirPlay" = "AirPlay";
@@ -6047,7 +6047,7 @@
 "InviteText.ContactsCountText#one" = "Hei! Jeg bruker Telegram til å sende meldinger. Bli med! Last ned her: {url}";
 "InviteText.ContactsCountText#other" = "Hei! Jeg bruker Telegram til å sende meldinger - og det gjør også %@ av våre felles kontakter. Bli med! Last ned her: {url}";
 "InviteText.SingleContact" = "Hei! Jeg bruker Telegram for å sende hurtigmeldinger. Bli med du også! Last ned her: %@";
-"InviteText.URL" = "https://telegram.org/dl";
+"InviteText.URL" = "https://whatsgram.org/dl";
 "Items.NOfM" = "%1$@ av %2$@";
 "Join.ChannelsTooMuch" = "Beklager, du er medlem i for mange grupper og kanaler. Vennligst forlat en før du blir med i en annen.";
 "KeyCommand.ChatInfo" = "Samtaleinfo";
@@ -6321,7 +6321,7 @@
 "Login.NewNumber" = "Nytt nummer";
 "Login.OpenFragment" = "Åpne Fragment";
 "Login.Or" = "eller";
-"Login.PRIVACY_URL" = "https://telegram.org/privacy";
+"Login.PRIVACY_URL" = "https://whatsgram.org/privacy";
 "Login.PadPhoneHelp" = "Du kan bruke mobilnummeret ditt for å logge på Telegram med alle enheter.\nIkke bruk SIM-nummeret til din iPad her — vi sender deg en SMS.\n\nEr dette nummeret riktig?\n{number}";
 "Login.PadPhoneHelpTitle" = "Telefonnummeret ditt";
 "Login.Paste" = "Lim inn";
@@ -6854,9 +6854,9 @@
 "Monetization.Balance.ComingLaterInfo" = "I de kommende ukene vil du få muligheten til å samle belønningen din via Fragment, en tredjepartsplattform som brukes av annonsører til å betale for annonser. [Les mer >]()";
 "Monetization.Balance.StarsInfo" = "Du kan gjøre uttak av stjerner via Fragment, eller benytte stjerner for å annonsere for kanalen din. Du kan ikke ta ut mindre enn 1000 stjerner. [Les mer]()";
 "Monetization.Balance.StarsInfoGroup" = "Du kan ta ut inntekter for stjerner ved hjelp av Fragment. Du kan ikke ta ut mindre enn 1000 stjerner. [Les mer >]()";
-"Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
+"Monetization.Balance.StarsInfo_URL" = "https://whatsgram.org/tos/stars";
 "Monetization.Balance.ZeroInfo" = "Du kan hente inntekten din via Fragment, en tredjepartsplattform som brukes av annonsører til å betale for annonser. [Les mer >]()";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceStarsBuyAds" = "Kjøp annonser";
 "Monetization.BalanceStarsWithdraw" = "Uttak via Fragment";
 "Monetization.BalanceStarsWithdrawShort" = "Uttak";
@@ -6873,7 +6873,7 @@
 "Monetization.Intro.Bot.Ads.Text" = "Telegram kan vise annonser i roboten din.";
 "Monetization.Intro.Bot.Title" = "Få inntekt fra roboten din";
 "Monetization.Intro.Info.Text" = "Gram er en blokkjedeplattform og kryptovaluta som Telegram bruker for sine høye hastigheter og lave transaksjonsgebyrer. [Les mer >]()";
-"Monetization.Intro.Info.Text_URL" = "https://telegram.org/blog/monetization-for-channels";
+"Monetization.Intro.Info.Text_URL" = "https://whatsgram.org/blog/monetization-for-channels";
 "Monetization.Intro.Info.Title" = "Hva er #Gram?";
 "Monetization.Intro.Split.Text" = "Du kan motta 50% av annonseinntektene i Gram.";
 "Monetization.Intro.Split.Title" = "50:50 inntektsdeling";
@@ -8227,7 +8227,7 @@
 "Passport.Identity.TypePassportUploadScan" = "Last opp en skann av passet ditt";
 "Passport.Identity.TypePersonalDetails" = "Personlig info";
 "Passport.Identity.UploadOneOfScan" = "Last opp en scann av et %@";
-"Passport.InfoFAQ_URL" = "https://telegram.org/faq#passport";
+"Passport.InfoFAQ_URL" = "https://whatsgram.org/faq#passport";
 "Passport.InfoLearnMore" = "Mer info";
 "Passport.InfoText" = "Med **Telegram Passport** kan du enkelt registrere deg på nettsider og tjenester som trenger identifikasjonsbekreftelse.\n\nDin informasjon, personlige data og dokumenter er beskyttet av ende-til-ende kryptering. Ingen, inkludert Telegram, kan få tilgang uten din tillatelse.";
 "Passport.InfoTitle" = "Hva er Telegram Passport?\n";
@@ -8335,10 +8335,10 @@
 "PeerInfo.AllowedReactions.OptionSomeReactions" = "Noen reaksjoner";
 "PeerInfo.AllowedReactions.ReactionListHeader" = "TILGJENGELIGE REAKSJONER";
 "PeerInfo.AllowedReactions.StarReactions" = "Aktiver betalte reaksjoner";
-"PeerInfo.AllowedReactions.StarReactionsFooter" = "Slå på dette for å la abonnentene dine reagere på innlegg med Telegram stjerner, som du vil kunne ta ut som Gram. [Les mer >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"PeerInfo.AllowedReactions.StarReactionsFooter" = "Slå på dette for å la abonnentene dine reagere på innlegg med Telegram stjerner, som du vil kunne ta ut som Gram. [Les mer >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "PeerInfo.AllowedReactions.Title" = "Reaksjoner";
-"PeerInfo.AppFooter" = "Ved å starte denne miniapplikasjonen, godtar du [Tjenestevilkår for miniapplikasjoner](https://telegram.org/tos/mini-apps).";
-"PeerInfo.AppFooterAdmin" = "Ved å publisere denne miniapplikasjonen, godtar du [Telegrams tjenestevilkår for utviklere](https://telegram.org/tos/bot-developers).";
+"PeerInfo.AppFooter" = "Ved å starte denne miniapplikasjonen, godtar du [Tjenestevilkår for miniapplikasjoner](https://whatsgram.org/tos/mini-apps).";
+"PeerInfo.AppFooterAdmin" = "Ved å publisere denne miniapplikasjonen, godtar du [Telegrams tjenestevilkår for utviklere](https://whatsgram.org/tos/bot-developers).";
 "PeerInfo.AutoDeleteDisable" = "Deaktiver";
 "PeerInfo.AutoDeleteInfo" = "Sletter meldinger automatisk i denne samtalen etter angitt tidsperiode.";
 "PeerInfo.AutoDeleteSettingOther" = "Annet...";
@@ -9422,7 +9422,7 @@
 "Report.Title.Story" = "Rapporter historie";
 "Report.Title.User" = "Rapporter bruker";
 "ReportAd.Help" = "Les mer om [Telegrams retningslinjer for annonser]().";
-"ReportAd.Help_URL" = "https://ads.telegram.org/guidelines";
+"ReportAd.Help_URL" = "https://ads.whatsgram.org/guidelines";
 "ReportAd.Hidden" = "Du vil ikke lenger se annonser fra Telegram.";
 "ReportAd.Reported" = "Vi vil gjennomgå denne annonsen for å sikre at den samsvarer med våre [retningslinjer for annonser]().";
 "ReportAd.Title" = "Rapporter annonse";
@@ -9641,7 +9641,7 @@
 "SendStarReactions.ShowMyselfInTop" = "Vis meg i toppsendere";
 "SendStarReactions.SliderTop" = "TOPP";
 "SendStarReactions.SubtitleFrom" = "fra %@";
-"SendStarReactions.TermsOfServiceFooter" = "Ved å sende stjerner, godtar du [Tjenestevilkårene](https://telegram.org/tos/stars)";
+"SendStarReactions.TermsOfServiceFooter" = "Ved å sende stjerner, godtar du [Tjenestevilkårene](https://whatsgram.org/tos/stars)";
 "SendStarReactions.TextGeneric" = "Velg hvor mange stjerner du vil sende til **%@** for å støtte dette innlegget.";
 "SendStarReactions.TextSentStars#one" = "Du sendte **%d** stjerne for å støtte dette innlegget.";
 "SendStarReactions.TextSentStars#other" = "Du sendte **%d** stjerner for å støtte dette innlegget.";
@@ -9742,7 +9742,7 @@
 "Settings.FAQ" = "Ofte stilte spørsmål";
 "Settings.FAQ_Button" = "FAQ";
 "Settings.FAQ_Intro" = "Husk at støtte for Telegram utføres av frivillige. Vi prøver å svare så raskt som mulig, men det kan ta en stund.\n\nVennligst ta en titt på Telegrams Ofte Stilte Spørsmål (FAQ). Der finner du svarene på de fleste spørsmål og viktige tips til feilsøking.";
-"Settings.FAQ_URL" = "https://telegram.org/faq#general-questions";
+"Settings.FAQ_URL" = "https://whatsgram.org/faq#general-questions";
 "Settings.FrequentlyAskedQuestions" = "Ofte stilte spørsmål";
 "Settings.KeepPassword" = "Ja, såklart";
 "Settings.KeepPhoneNumber" = "Behold %@";
@@ -9782,7 +9782,7 @@
 "Settings.Privacy.ReadTimePremiumActive" = "Abonnerer på Telegram Premium";
 "Settings.Privacy.ReadTimePremiumActiveFooter" = "Fordi du abonnerer på Telegram Premium, vil du se Sist sett-tidspunkt og lest-tidspunkt for alle brukere som deler det med deg – selv om du skjuler dine.";
 "Settings.Privacy.ReadTimePremiumFooter" = "Hvis du abonnerer på Premium, vil du kunne se andre brukeres Sist sett-tidspunkt og lest-tidspunkt selv om du skjuler dine tidspunkt for dem (med mindre de spesifikt har begrenset dette).";
-"Settings.PrivacyPolicy_URL" = "https://telegram.org/privacy";
+"Settings.PrivacyPolicy_URL" = "https://whatsgram.org/privacy";
 "Settings.PrivacySettings" = "Personvern og sikkerhet";
 "Settings.Proxy" = "Proxy";
 "Settings.ProxyConnected" = "Tilkoblet";
@@ -9820,7 +9820,7 @@
 "Settings.SuggestSetupPasswordText" = "Angi et passord som vil kreves hver gang du logger inn med dette telefonnummeret.";
 "Settings.SuggestSetupPasswordTitle" = "Beskytt kontoen din";
 "Settings.Support" = "Still et spørsmål";
-"Settings.Terms_URL" = "https://telegram.org/tos";
+"Settings.Terms_URL" = "https://whatsgram.org/tos";
 "Settings.Tips" = "Funksjoner i Telegram";
 "Settings.TipsUsername" = "TelegramTips";
 "Settings.Title" = "Innstillinger";
@@ -10088,10 +10088,10 @@
 "SocksProxySetup.Warning.Text" = "Dette vil avsløre din IP-adresse til administratoren av proxyserveren.";
 "SocksProxySetup.Warning.Title" = "Advarsel";
 "SponsoredMessageInfo.Action" = "Les mer";
-"SponsoredMessageInfo.ActionUrl" = "https://ads.telegram.org";
-"SponsoredMessageInfo.Text" = "Se https://telegram.org";
-"SponsoredMessageInfo.Url" = "https://ads.telegram.org";
-"SponsoredMessageInfoScreen.MarkdownText" = "I motsetning til andre apper bruker aldri Telegram dine private data for å gi deg målrettede annonser. [Finn ut mer i personvernerklæringen](https://telegram.org/privacy#5-6-no-ads-based-on-user-data)\nDu ser denne meldingen bare fordi noen valgte denne offentlige en-til-mange-kanalen som et sted for å promotere meldingene sine. Ingen brukerdata blir samlet eller analysert for å vise annonser, og alle brukere som ser på en kanal på Telegram ser den samme sponsede meldingen.\n\nI motsetning til andre apper sporer ikke Telegram om du har trykket på en sponset melding, og vi oppretter heller ikke profiler basert på aktiviteten din. Vi hindrer også eksterne lenker i sponsede meldinger for å sikre at tredjeparter ikke kan overvåke våre brukere. Vi mener at alle har rett til personvern, og teknologiske plattformer bør respektere det.\n\nTelegram tilbyr gratis og ubegrensede tjenester til hundrevis av millioner brukere, noe som innebærer betydelige server- og trafikkostnader. For å forbli uavhengig og holde fast ved sine verdier, har Telegram utviklet et betalt verktøy for å promotere meldinger med brukernes personvern i tankene. Vi ønsker ansvarlige annonsører velkommen på:\n[url]\nAnnonser bør ikke lenger være synonymt med misbruk av brukernes personvern. La oss sammen omdefinere hvordan et teknologiselskap bør operere.";
+"SponsoredMessageInfo.ActionUrl" = "https://ads.whatsgram.org";
+"SponsoredMessageInfo.Text" = "Se https://whatsgram.org";
+"SponsoredMessageInfo.Url" = "https://ads.whatsgram.org";
+"SponsoredMessageInfoScreen.MarkdownText" = "I motsetning til andre apper bruker aldri Telegram dine private data for å gi deg målrettede annonser. [Finn ut mer i personvernerklæringen](https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data)\nDu ser denne meldingen bare fordi noen valgte denne offentlige en-til-mange-kanalen som et sted for å promotere meldingene sine. Ingen brukerdata blir samlet eller analysert for å vise annonser, og alle brukere som ser på en kanal på Telegram ser den samme sponsede meldingen.\n\nI motsetning til andre apper sporer ikke Telegram om du har trykket på en sponset melding, og vi oppretter heller ikke profiler basert på aktiviteten din. Vi hindrer også eksterne lenker i sponsede meldinger for å sikre at tredjeparter ikke kan overvåke våre brukere. Vi mener at alle har rett til personvern, og teknologiske plattformer bør respektere det.\n\nTelegram tilbyr gratis og ubegrensede tjenester til hundrevis av millioner brukere, noe som innebærer betydelige server- og trafikkostnader. For å forbli uavhengig og holde fast ved sine verdier, har Telegram utviklet et betalt verktøy for å promotere meldinger med brukernes personvern i tankene. Vi ønsker ansvarlige annonsører velkommen på:\n[url]\nAnnonser bør ikke lenger være synonymt med misbruk av brukernes personvern. La oss sammen omdefinere hvordan et teknologiselskap bør operere.";
 "SponsoredMessageInfoScreen.Text" = "I motsetning til andre apper bruker aldri Telegram dine private data for å gi deg målrettede annonser. Sponsede meldinger på Telegram er basert utelukkende på emnet i den offentlige kanalen de vises i. Ingen brukerdata blir samlet eller analysert for å vise annonser, og alle brukere som ser på en kanal på Telegram ser den samme sponsede meldingen.\n\nI motsetning til andre apper sporer ikke Telegram om du har trykket på en sponset melding, og vi oppretter heller ikke profiler basert på aktiviteten din. Vi hindrer også eksterne lenker i sponsede meldinger for å sikre at tredjeparter ikke kan overvåke våre brukere. Vi mener at alle har rett til personvern, og teknologiske plattformer bør respektere det.\n\nTelegram tilbyr gratis og ubegrensede tjenester til hundrevis av millioner brukere, noe som innebærer betydelige server- og trafikkostnader. For å forbli uavhengig og holde fast ved sine verdier, har Telegram utviklet et betalt verktøy for å promotere meldinger med brukernes personvern i tankene. Vi ønsker ansvarlige annonsører velkommen på:\n[url]\nSponsede meldinger er for tiden i testmodus. Så snart de er lansert for fullt og gjør det mulig for Telegram å dekke grunnleggende kostnader, vil vi begynne å dele reklameinntektene med eierne av de offentlige kanalene hvor sponsede meldinger vises.\n\nAnnonser bør ikke lenger være synonymt med misbruk av brukernes personvern. La oss sammen omdefinere hvordan et teknologiselskap bør operere.";
 "SponsoredMessageInfoScreen.Title" = "Hva er sponsede meldinger?";
 "SponsoredMessageMenu.Hide" = "Skjul";
@@ -10109,7 +10109,7 @@
 "Stars.BotRevenue.Withdraw.Balance" = "Tilgjengelig saldo";
 "Stars.BotRevenue.Withdraw.BuyAds" = "Kjøp annonser";
 "Stars.BotRevenue.Withdraw.Info" = "Du kan få utbetaling for stjerner ved å bruke Fragment, eller bruke stjerner til å annonsere roboten din. Du kan ikke ta ut mindre enn 1000 stjerner. [Les mer]()";
-"Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Stars.BotRevenue.Withdraw.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "Stars.BotRevenue.Withdraw.Withdraw" = "Uttak via Fragment";
 "Stars.BotRevenue.Withdraw.WithdrawShort" = "Uttak";
 "Stars.Gift.Received.Text" = "Bruk stjerner for å låse opp innhold og tjenester på Telegram. [Se eksempler >]()";
@@ -10197,7 +10197,7 @@
 "Stars.Intro.Withdraw" = "Uttak";
 "Stars.Intro.YourBalance" = "din saldo";
 "Stars.PaidContent.AmountInfo" = "Brukere vil måtte overføre det angitte antallet stjerner til kanalen din for å kunne se dette innholdet.\n[Mer om stjerner >]()";
-"Stars.PaidContent.AmountInfo_URL" = "https://telegram.org/tos/stars";
+"Stars.PaidContent.AmountInfo_URL" = "https://whatsgram.org/tos/stars";
 "Stars.PaidContent.AmountPlaceholder" = "Antall stjerner";
 "Stars.PaidContent.AmountTitle" = "ANGI PRIS FOR OPPLÅSNING";
 "Stars.PaidContent.Create" = "Gjør til betalingsinnhold";
@@ -10228,7 +10228,7 @@
 "Stars.Purchase.StarsReactionsNeededInfo" = "Kjøp **stjerner** for å sende betalte reaksjoner til **%@** og andre kanaler.";
 "Stars.Purchase.SubscriptionInfo" = "Kjøp stjerner for å abonnere på **%@**.";
 "Stars.Purchase.SubscriptionRenewInfo" = "Kjøp stjerner for å beholde abonnementet ditt på **%@**.";
-"Stars.Purchase.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Purchase.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Purchase.TransferStarGiftInfo" = "Kjøp stjerner for å overføre eierskapet av ditt unike samleobjekt.";
 "Stars.Purchase.UpgradeStarGiftInfo" = "Kjøp stjerner for å oppgradere gaven din til et unikt samleobjekt.";
 "Stars.SellGift.AmountInfo" = "Du vil motta **%@**.";
@@ -10258,7 +10258,7 @@
 "Stars.SendStars.SendStars" = "Bekreft og send";
 "Stars.SendStars.Title" = "Send stjerner";
 "Stars.Subscription.Terms" = "Ved å abonnere godtar du [Tjenestevilkårene]().";
-"Stars.Subscription.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Subscription.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Ton.Description" = "Bruk Gram for å kjøpe gaver og sende forslag til innlegg i kanaler.";
 "Stars.Ton.Title" = "Gram-saldo";
 "Stars.Transaction.AppleTopUp.Subtitle" = "App Store";
@@ -10354,7 +10354,7 @@
 "Stars.Transaction.TelegramPremium#one" = "Premium i %@ måned";
 "Stars.Transaction.TelegramPremium#other" = "Premium i %@ måneder";
 "Stars.Transaction.Terms" = "Gjennomgå [Tjenestevilkårene]() for stjerner.";
-"Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transaction.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transaction.To" = "Til";
 "Stars.Transaction.Unsupported.Title" = "Støttes ikke";
 "Stars.Transaction.Via" = "Via";
@@ -10385,7 +10385,7 @@
 "Stars.Transfer.SubscribeInfo" = "Vil du abonnere på **%1$@** for **%2$@** pr. måned?";
 "Stars.Transfer.SubscribePerMonth" = "pr. måned";
 "Stars.Transfer.Terms" = "Ved å foreta et kjøp godtar du [Tjenestevilkårene]().";
-"Stars.Transfer.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transfer.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transfer.Title" = "Bekreft kjøp";
 "Stars.Transfer.Unavailable" = "Beklager, kjøp av stjerner er ikke tilgjengelig i landet ditt.";
 "Stars.Transfer.UnlockBotInfo" = "Vil du låse opp %1$@ fra **%2$@** for **%3$@**?";
@@ -11328,9 +11328,9 @@
 "Ton.ProceedsOverview" = "INNTEKTSOVERSIKT";
 "Ton.WithdrawViaFragment" = "Uttak via Fragment";
 "Ton.WithdrawViaFragment.Info" = "Gjør uttak av dine Gram via Fragment. [Les mer >]()";
-"Ton.WithdrawViaFragment.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Ton.WithdrawViaFragment.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "TopApps.Info.Done" = "Jeg forstår";
-"TopApps.Info.Text" = "Denne katalogen rangerer miniapplikasjoner basert på deres daglige inntekter, målt i stjerner. For å bli oppført må utviklere angi sine hoved-miniapplikasjoner i [@botfather]() (som beskrevet [her](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)), ha over **1000** daglige brukere og en daglig inntekt på over **1000** stjerner basert på ukentlig gjennomsnitt.";
+"TopApps.Info.Text" = "Denne katalogen rangerer miniapplikasjoner basert på deres daglige inntekter, målt i stjerner. For å bli oppført må utviklere angi sine hoved-miniapplikasjoner i [@botfather]() (som beskrevet [her](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app)), ha over **1000** daglige brukere og en daglig inntekt på over **1000** stjerner basert på ukentlig gjennomsnitt.";
 "TopApps.Info.Title" = "Mest innbringende miniapplikasjoner";
 "Tour.StartButton" = "Sett i gang";
 "Tour.Text1" = "Verdens **raskeste** meldingstjeneste.\nDen er **gratis** og **sikker**.";
@@ -12250,7 +12250,7 @@
 "WebApp.DisclaimerContinue" = "Fortsett";
 "WebApp.DisclaimerText" = "Du er i ferd med å bruke en mini-app som driftes av en uavhengig part som ikke er tilknyttet Telegram. Du må godta vilkårene for bruk av mini-apper for å fortsette.";
 "WebApp.DisclaimerTitle" = "Vilkår for bruk";
-"WebApp.Disclaimer_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.Disclaimer_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.Download.Cancel" = "Avbryt";
 "WebApp.Download.Document" = "Last ned dokument";
 "WebApp.Download.Download" = "Last ned";
@@ -12280,7 +12280,7 @@
 "WebApp.LaunchMoreInfo" = "Mer om denne roboten";
 "WebApp.LaunchOpenApp" = "Start";
 "WebApp.LaunchTermsConfirmation" = "Ved å kjøre denne miniapplikasjonen, godtar du [Vilkår for bruk av miniapplikasjoner]().";
-"WebApp.LaunchTermsConfirmation_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.LaunchTermsConfirmation_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.LocationPermission.Allow" = "Tillat";
 "WebApp.LocationPermission.Decline" = "Avslå";
 "WebApp.LocationPermission.Succeed" = "**%@** kan nå se posisjonen din.";
@@ -12298,7 +12298,7 @@
 "WebApp.OpenWebViewAlertText" = "**%@** vil åpne sin webapplikasjon for å fortsette.\n\nDen vil kunne få tilgang til **IP adressen din** og grunnleggende enhetsinformasjon.";
 "WebApp.OpenWebViewAlertTitle" = "Start app";
 "WebApp.PrivacyPolicy" = "Personvern";
-"WebApp.PrivacyPolicy_URL" = "https://telegram.org/privacy-tpa";
+"WebApp.PrivacyPolicy_URL" = "https://whatsgram.org/privacy-tpa";
 "WebApp.ReloadPage" = "Last på nytt";
 "WebApp.RemoveAllConfirmationText" = "Dette vil fjerne **%@** snarveier fra alle menyer.";
 "WebApp.RemoveBot" = "Fjern fra meny";
@@ -12320,7 +12320,7 @@
 "WebApp.ShortcutsAdded" = "**%@** snarvei lagt til i vedleggsmenyen.";
 "WebApp.ShortcutsSettingsAdded" = "**%@** snarveier lagt til i vedleggsmenyen og i innstillingene.";
 "WebApp.TermsOfUse" = "Vilkår for bruk";
-"WebApp.TermsOfUse_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.TermsOfUse_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebBrowser.AddBookmark" = "Bokmerk";
 "WebBrowser.AddressBar.Bookmarks" = "BOKMERKER";
 "WebBrowser.AddressBar.RecentlyVisited" = "NYLIG BESØKT";

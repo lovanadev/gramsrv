@@ -136,7 +136,7 @@
 "AffiliateProgram.JoinSubtitleMonths_any" = "**\u2068{bot}\u2069** ישתף **\u2068{commission}\u2069** מההכנסות מכל משתמש שתפנה אליו למשך **\u2068%d\u2069 חודשים**.";
 "AffiliateProgram.JoinSubtitleYears_1" = "**\u2068{bot}\u2069** ישתף **\u2068{commission}\u2069** מהרווחים מכל משתמש שתפנה אליו למשך **שנה 1**.";
 "AffiliateProgram.JoinSubtitleYears_any" = "**\u2068{bot}\u2069** ישתף **\u2068{commission}\u2069** מההכנסות מכל משתמש שהפנית אליו למשך **\u2068%d\u2069 שנים**.";
-"AffiliateProgram.JoinTerms" = "על ידי הצטרפות לתוכנית, הינך מסכים ל[תנאים ולהגדרות](https://telegram.org/tos/affiliate-program) של תוכניות שותפים.";
+"AffiliateProgram.JoinTerms" = "על ידי הצטרפות לתוכנית, הינך מסכים ל[תנאים ולהגדרות](https://whatsgram.org/tos/affiliate-program) של תוכניות שותפים.";
 "AffiliateProgram.JoinTitle" = "תוכנית שותפים";
 "AffiliateProgram.LinkSubtitle" = "שתף קישור זה עם אחרים כדי להרוויח **\u2068%1$d\u2069** עמלה מההוצאות שלהם ב**\u2068%2$@\u2069** למשך **\u2068%3$@\u2069** אחרי שיעקבו עם הקישור שלך.";
 "AffiliateProgram.LinkSubtitleLifetime" = "שתף קישור זה עם המשתמשים שלך כדי להרוויח עמלה של **\u2068{commission}\u2069** על ההוצאות שלהם ב**\u2068{bot}\u2069** **לנצח** לאחר שהם עוקבים באמצעות הקישור שלך.";
@@ -207,7 +207,7 @@
 "AffiliateSetup.StartTitle" = "התחל תוכנית שותפים";
 "AffiliateSetup.SuggestedSectionEmpty" = "אין עדיין תוכניות זמינות.\nאנא בדוק את העמוד מאוחר יותר.";
 "AffiliateSetup.SuggestedSectionTitle" = "תוכניות";
-"AffiliateSetup.TermsFooter" = "על ידי יצירת תוכנית שותפים, הינך מסכים ל[תנאים ולהגבלות](https://telegram.org/terms) של תוכניות שותפים.";
+"AffiliateSetup.TermsFooter" = "על ידי יצירת תוכנית שותפים, הינך מסכים ל[תנאים ולהגבלות](https://whatsgram.org/terms) של תוכניות שותפים.";
 "AffiliateSetup.TextJoin" = "הרווח עמלה בכל פעם שמשתמש ניגש לראשונה למיני אפליקציה דרך קישור ההפניה שלך ומשלם בה באמצעות **כוכבים**.";
 "AffiliateSetup.TextNew" = "תגמל את אלה שעוזרים להגדיל את בסיס המשתמשים שלך.";
 "AffiliateSetup.TitleJoin" = "תוכניות שותפים";
@@ -495,7 +495,7 @@
 "Bot.AllowSendMessages" = "התר ל**\u2068%@\u2069** לשלוח לי הודעות.";
 "Bot.Grossing.Disclaimer" = "אילו אפליקציות נכללות כאן? [למד עוד >](grossing)";
 "Bot.Grossing.Disclaimer.Alert.Header" = "מיני אפליקציות מובילות";
-"Bot.Grossing.Disclaimer.Alert.Text" = "קטלוג זה מדרג מיני אפליקציות על סמך ההכנסות היומיות שלהן, הנמדדות בכוכבים.  כדי להופיע ברשימה, מפתחים חייבים להגדיר את האפליקציות המיני העיקריות שלהם ב[@botfather](https://t.me/botfather) (כמתואר [כאן](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)), להחזיק יותר מ**1,000** משתמשים יומיים ולהרוויח הכנסה יומית של מעל **1,000** כוכבים, בהתבסס על הממוצע השבועי.";
+"Bot.Grossing.Disclaimer.Alert.Text" = "קטלוג זה מדרג מיני אפליקציות על סמך ההכנסות היומיות שלהן, הנמדדות בכוכבים.  כדי להופיע ברשימה, מפתחים חייבים להגדיר את האפליקציות המיני העיקריות שלהם ב[@botfather](https://t.me/botfather) (כמתואר [כאן](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app)), להחזיק יותר מ**1,000** משתמשים יומיים ולהרוויח הכנסה יומית של מעל **1,000** כוכבים, בהתבסס על הממוצע השבועי.";
 "Bot.Grossing.Disclaimer.Alert.ok" = "הבנתי";
 "Bot.InlineAuth.Header" = "פתח קישור";
 "Bot.InlineAuth.Open" = "פתח";
@@ -509,8 +509,8 @@
 "Bot.TransferOwner.Error.Title" = "בדיקת אבטחה";
 "Bot.TransferOwnership.Password.Desc" = "נא להכניס את סיסמת האימות הדו-שלבי להשלים את הפעולה.";
 "Bot.TransferOwnership.Password.Title" = "אימות דו-שלבי";
-"BotInfo.LaunchInfo" = "על ידי פרסום המיני אפליקציה הזו, הינך מסכים ל[תנאים ולהגבלות של טלגרם למפתחים](https://telegram.org/tos/bot-developers).";
-"BotInfo.LaunchInfo.PrivacyUrl" = "https://telegram.org/privacy-tpa";
+"BotInfo.LaunchInfo" = "על ידי פרסום המיני אפליקציה הזו, הינך מסכים ל[תנאים ולהגבלות של טלגרם למפתחים](https://whatsgram.org/tos/bot-developers).";
+"BotInfo.LaunchInfo.PrivacyUrl" = "https://whatsgram.org/privacy-tpa";
 "BotInfo.LaunchInfo.User" = "בפתיחת מיני-אפליקציה זו, הינך מסכים ל[תנאי השימוש של מיני-אפליקציות](\u2068%@\u2069).";
 "BotInfo.OpenApp" = "פתח אפליקציה";
 "BotUsername.Activate.Info" = "להציג קישור זה בעמוד פרטי הבוט?";
@@ -694,7 +694,7 @@
 "Business.ScheduleStart" = "תחילת התזמון";
 "Business.SelectPeers.Limit" = "הגעת למגבלה";
 "Business.SwitchAd" = "אל תסתיר מודעות";
-"Business.SwitchAd.Info" = "כמנוי Premium, לא תראה מודעות בטלגרם, אך באפשרותך להפעיל אותם, לדוגמא בשביל להציג את המודעות שלך שהשקת ב[פלטפורמת המודעות של טלגרם](https://ads.telegram.org)";
+"Business.SwitchAd.Info" = "כמנוי Premium, לא תראה מודעות בטלגרם, אך באפשרותך להפעיל אותם, לדוגמא בשביל להציג את המודעות שלך שהשקת ב[פלטפורמת המודעות של טלגרם](https://ads.whatsgram.org)";
 "Business.SwitchAd.Title" = "מודעות בערוצים";
 "Business.Updated" = "חשבון הטלגרם לעסקים שלך עודכן";
 "CHAT_MESSAGE_INVOICE" = "\u2068%1$@\u2069 שלח/ה חשבונית עבור \u2068%3$@\u2069 בקבוצה \u2068%2$@\u2069";
@@ -1351,7 +1351,7 @@
 "ChannelReactions.EnableReactions" = "אפשר רגשונים";
 "ChannelReactions.EnableReactions.Info" = "ניתן להוסיף אימוג'י כרגשון מכל ערכת אימוג'ים.";
 "ChannelReactions.EnableStars" = "אפשר רגשונים בתשלום";
-"ChannelReactions.EnableStars.Info" = "הפעל כפתור זה כדי לאפשר למנויים להגיב להודעות עם רגשונים של כוכבי טלגרם, אשר תוכל למשוך מאוחר יותר כGram. [למד עוד >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"ChannelReactions.EnableStars.Info" = "הפעל כפתור זה כדי לאפשר למנויים להגיב להודעות עם רגשונים של כוכבי טלגרם, אשר תוכל למשוך מאוחר יותר כGram. [למד עוד >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "ChannelReactions.LevelRequired" = "דרושה רמה \u2068%d\u2069";
 "ChannelReactions.MaxCount.Info" = "הגבל את מספר הרגשונים השונים שניתן להוסיף להודעה, כולל הודעות שכבר פורסמו.";
 "ChannelReactions.MaxCount.Title" = "כמות רגשונים להודעה";
@@ -1920,7 +1920,7 @@
 "Chat.ManageMessages.What_countable" = "\u2068%d\u2069";
 "Chat.Message.Ad.ReadMore" = "קרא עוד";
 "Chat.Message.Ad.Text" = "בניגוד לאפליקציות אחרות, טלגרם לעולם לא משתמש בנתונים הפרטיים שלך כדי להתאים פרסומות. פרטי המשתמש אינם נכרים או מנותחים כדי להציג פרסומות, וכל המשתמשים שצופים בערוץ בטלגרם רואים את אותה ההודעה הממומנת. אנחנו מאמינים שלכולם יש את הזכות לפרטיות, ופלטפורמות טכנולוגיות צריכות לכבד זאת.\n\nבניגוד לאפליקציות אחרות, טלגרם לא עוקבת האם לחצת על הודעה ממומנת, ואינה מכוונת אותן אליך בהתאם לפעילות שלך. אנו חוסמים קישורים חיצוניים בהודעות ממומנות כדי לוודא שגופים צד שלישי לא יוכלו לרגל אחרי המשתמשים שלנו. אנו מזמינים מפרסמים אחראיים כאן:\n\n\u2068%@\u2069\n\nהודעות ממומנות נמצאות כרגע במצב בדיקה. ברגע שהן יושרו במלואן ויאפשרו לטלגרם לכסות את העלויות הבסיסיות שלה, נתחיל לחלוק את ההכנסה מהפרסומות עם בעלי הערוצים בהן הן מוצגות.\n\nמודעות באינטרנט לא צריכות להיות שם נרדף להפרת פרטיות המשתמש. הבה נגדיר כיצד חברה טכנולוגית צריכה לפעול – ביחד.";
-"Chat.Message.Ad.Url" = "https://ads.telegram.org";
+"Chat.Message.Ad.Url" = "https://ads.whatsgram.org";
 "Chat.Message.Context.Quote" = "צטט";
 "Chat.Message.Context.Quote.LimitExceed" = "ארוך מדי.";
 "Chat.Message.DeleteForAll" = "מחק עבור כולם";
@@ -1972,7 +1972,7 @@
 "Chat.Message.Socks5.Config" = "תצורת SOCKS5";
 "Chat.Message.Sponsored" = "מודעה";
 "Chat.Message.Sponsored.Advertiser" = "פרטי המפרסם";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "מהן הודעות ממומנות?";
 "Chat.Message.Suggest.Markup.Approve" = "אשר";
 "Chat.Message.Suggest.Markup.Decline" = "סרב";
@@ -1986,7 +1986,7 @@
 "Chat.Message.Todo.Total" = "\u2068%1$@\u2069 מתוך \u2068%2$@\u2069 הושלמו";
 "Chat.Message.UnsendMessages" = "בטל את שליחת ההודעות שלי";
 "Chat.Message.UnsendMessages_countable" = "\u2068%d\u2069";
-"Chat.Message.Unsupported" = "הודעה זו אינה נתמכת בגרסה של הטלגרם שלך. נא לעדכן לגרסה האחרונה דרך AppStore או להתקין מ- https://macos.telegram.org";
+"Chat.Message.Unsupported" = "הודעה זו אינה נתמכת בגרסה של הטלגרם שלך. נא לעדכן לגרסה האחרונה דרך AppStore או להתקין מ- https://macos.whatsgram.org";
 "Chat.Message.UnsupportedNew" = "הודעה זו אינה נתמכת בגרסת הטלגרם שלך. נא לעדכן לגרסה האחרונה.";
 "Chat.Message.Via" = "דרך";
 "Chat.Message.ViewBot" = "הצג בוט";
@@ -2777,8 +2777,8 @@
 "ChatList.FolderUpdates.Title#many" = "\u2068%d\u2069 צ'אטים חדשים זמינים";
 "ChatList.FolderUpdates.Title#other" = "\u2068%d\u2069 צ'אטים חדשים זמינים";
 "ChatList.FolderUpdates.Title_countable" = "\u2068%d\u2069";
-"ChatList.FreezeAccount" = "החשבון שלך הוקפא עקב הפרה חמורה של [התנאים וההגבלות של טלגרם](https://telegram.org/tos). החשבון שלך נמצא כעת במצב קריאה בלבד (מאז \u2068%1$@\u2069). באפשרותך לערער ל[@SpamBot](\u2068%2$@\u2069) אם לדעתך מדובר בטעות. אם לא נשמע ממך עד \u2068%3$@\u2069, החשבון שלך יושבת סופית ויושמד.";
-"ChatList.FreezeAccount.Alert" = "החשבון שלך הוקפא עקב הפרה חמורה של [התנאים וההגבלות של טלגרם](https://telegram.org/tos). החשבון שלך נמצא כעת במצב קריאה בלבד (מאז \u2068%1$@\u2069). באפשרותך לערער ל[@SpamBot](\u2068%2$@\u2069) אם לדעתך מדובר בטעות. אם לא נשמע ממך עד \u2068%3$@\u2069, החשבון שלך יושבת סופית ויושמד.";
+"ChatList.FreezeAccount" = "החשבון שלך הוקפא עקב הפרה חמורה של [התנאים וההגבלות של טלגרם](https://whatsgram.org/tos). החשבון שלך נמצא כעת במצב קריאה בלבד (מאז \u2068%1$@\u2069). באפשרותך לערער ל[@SpamBot](\u2068%2$@\u2069) אם לדעתך מדובר בטעות. אם לא נשמע ממך עד \u2068%3$@\u2069, החשבון שלך יושבת סופית ויושמד.";
+"ChatList.FreezeAccount.Alert" = "החשבון שלך הוקפא עקב הפרה חמורה של [התנאים וההגבלות של טלגרם](https://whatsgram.org/tos). החשבון שלך נמצא כעת במצב קריאה בלבד (מאז \u2068%1$@\u2069). באפשרותך לערער ל[@SpamBot](\u2068%2$@\u2069) אם לדעתך מדובר בטעות. אם לא נשמע ממך עד \u2068%3$@\u2069, החשבון שלך יושבת סופית ויושמד.";
 "ChatList.FreezeAccount.Alert.Appeal" = "ערעור";
 "ChatList.FreezeAccount.Alert.Title" = "החשבון שלך הוקפא";
 "ChatList.FreezeAccount.Title" = "החשבון שלך הוקפא";
@@ -2919,7 +2919,7 @@
 "ChatMessage.Sponsored.About" = "אודות מודעה זו";
 "ChatMessage.Sponsored.Report" = "דווח על מודעה";
 "ChatMessage.Sponsored.Report.Aready" = "כבר דווח על מודעה זו";
-"ChatMessage.Sponsored.Report.LearnMore" = "למידע נוסף על [מדיניות המודעות וההנחיות](https://ads.telegram.org/guidelines)";
+"ChatMessage.Sponsored.Report.LearnMore" = "למידע נוסף על [מדיניות המודעות וההנחיות](https://ads.whatsgram.org/guidelines)";
 "ChatMessage.Sponsored.Report.OptionTitle" = "מה הבעיה עם מודעה הזו?";
 "ChatMessage.Sponsored.Report.Success" = "עורכי טלגרם יעברו על הדיווח שלך. תודה רבה.";
 "ChatMessage.Sponsored.Title" = "מודעה";
@@ -3985,7 +3985,7 @@
 "ForwardModalAction.description#many" = "בחר משתמש או צ'אט כדי להעביר אליהם הודעות מאת \u2068%@\u2069";
 "ForwardModalAction.description#other" = "בחר משתמש או צ'אט כדי להעביר אליהם הודעות מאת \u2068%@\u2069";
 "ForwardModalAction.description_countable" = "\u2068%d\u2069 \u2068%@\u2069";
-"Fragment.AdsInfo.Block.Text" = "כל אחד יכול ליצור מודעה שתוצג בערוץ הזה - בתקציבים מינימליים. בדוק את פלטפורמת המודעות של טלגרם לפרטים. [למד עוד >](https://ads.telegram.org)";
+"Fragment.AdsInfo.Block.Text" = "כל אחד יכול ליצור מודעה שתוצג בערוץ הזה - בתקציבים מינימליים. בדוק את פלטפורמת המודעות של טלגרם לפרטים. [למד עוד >](https://ads.whatsgram.org)";
 "Fragment.AdsInfo.Block.Title" = "האם אני יכול להשיק מודעה?";
 "Fragment.AdsInfo.OK" = "הבנתי";
 "Fragment.AdsInfo.Option1.Info" = "מודעות בטלגרם אינן משתמשות במידע האישי שלך והן מבוססות על הערוץ שבו הן מופיעות.";
@@ -4252,7 +4252,7 @@
 "Gift.View.DisplayedInfoHide" = "מתנה זו מוצגת בפרופיל שלך. [הסתר>]()";
 "Gift.View.KeepOrConvertDescription.Channel" = "הערוץ שלך יכול להוסיף מתנה זו לפרופיל שלו או להמיר אותה ל\u2068%@\u2069. [עוד אודות כוכבים >]()";
 "Gift.View.KeepUpgradeOrConvertDescription" = "באפשרותך לשמור מתנה זו, לשדרג אותה, או למכור אותה ב\u2068%@\u2069. [עוד אודות כוכבים >]()";
-"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "הערוץ שלך יכול לשמור את המתנה, לשדרג אותה, או למכור אותה ב\u2068%@\u2069. [עוד אודות כוכבים >](https://telegram.org)";
+"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "הערוץ שלך יכול לשמור את המתנה, לשדרג אותה, או למכור אותה ב\u2068%@\u2069. [עוד אודות כוכבים >](https://whatsgram.org)";
 "Gift.View.Status" = "סטטוס";
 "Gift.View.Status.NonUnique" = "לא ייחודי";
 "Gift.View.Status.Upgrade" = "שדרג";
@@ -4707,7 +4707,7 @@
 "InviteLink.Sticker.Revoked" = "• בוטל";
 "InviteLink.Sticker.TimeLeft" = "יפוג בעוד \u2068%@\u2069";
 "InviteLink.Sub.Amount.Placeholder" = "כמות כוכבים לחודש";
-"InviteLink.Sub.Info" = "גבה דמי מנוי ממשתמשים שמצטרפים לערוץ שלך דרך הקישור הזה. [למד עוד>](https://telegram.org/tos/stars)";
+"InviteLink.Sub.Info" = "גבה דמי מנוי ממשתמשים שמצטרפים לערוץ שלך דרך הקישור הזה. [למד עוד>](https://whatsgram.org/tos/stars)";
 "InviteLink.Sub.Info.Editing" = "כדי לשנות את דמי המנוי, צור קישור הזמנה חדש עם מחיר שונה.";
 "InviteLink.Sub.ReqApproval" = "לא ניתן להפעיל אישור מנהל עבור קישורים הדורשים תשלום חודשי.";
 "InviteLink.Sub.Text" = "דרוש תשלום חודשי";
@@ -5081,9 +5081,9 @@
 "Modal.Share" = "שתף";
 "Modal.Yes" = "כן";
 "Monetization.AdRevenueTitle" = "תגמולים ממודעות";
-"Monetization.Balance.ComingLaterInfo" = "בשבועות הקרובים תוכל לאסוף את התגמול שלך באמצעות Fragment, פלטפורמת צד שלישי המשמשת מפרסמים לתשלום פרסומות. [למד עוד >](https://telegram.org/tos/content-creator-rewards)";
-"Monetization.BalanceInfo" = "באפשרותך לאסוף את התגמול שלך באמצעות Fragment, פלטפורמת צד שלישי המשמשת מפרסמים לתשלום עבור מודעות. [מדיניות ותנאים >](https://telegram.org/blog/monetization-for-channels/he)";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.Balance.ComingLaterInfo" = "בשבועות הקרובים תוכל לאסוף את התגמול שלך באמצעות Fragment, פלטפורמת צד שלישי המשמשת מפרסמים לתשלום פרסומות. [למד עוד >](https://whatsgram.org/tos/content-creator-rewards)";
+"Monetization.BalanceInfo" = "באפשרותך לאסוף את התגמול שלך באמצעות Fragment, פלטפורמת צד שלישי המשמשת מפרסמים לתשלום עבור מודעות. [מדיניות ותנאים >](https://whatsgram.org/blog/monetization-for-channels/he)";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceTitle" = "תגמולים זמינים";
 "Monetization.BalanceWithdraw" = "איסוף באמצעות Fragment";
 "Monetization.BalanceWithdraw.Stars" = "משוך דרך Fragment";
@@ -5093,7 +5093,7 @@
 "Monetization.ImpressionsTitle" = "הופעות של מודעות (לפי שעות)";
 "Monetization.Intro.Ads.Text" = "טלגרם יכולה להציג מודעות בערוץ שלך.";
 "Monetization.Intro.Ads.Title" = "מודעות טלגרם";
-"Monetization.Intro.Info.Text" = "Gram הוא המטבע הקריפטוגרפי של פלטפורמת הבלוקצ'יין TON שטלגרם משתמשת בה בגלל המהירות הגבוהה והעמלות הנמוכות שלה על עסקאות. [למד עוד >](https://telegram.org/blog/monetization-for-channels/he)";
+"Monetization.Intro.Info.Text" = "Gram הוא המטבע הקריפטוגרפי של פלטפורמת הבלוקצ'יין TON שטלגרם משתמשת בה בגלל המהירות הגבוהה והעמלות הנמוכות שלה על עסקאות. [למד עוד >](https://whatsgram.org/blog/monetization-for-channels/he)";
 "Monetization.Intro.Info.Title" = "מה זה \u2068%@\u2069 Gram?";
 "Monetization.Intro.Split.Text" = "באפשרותך לקבל 50\u2068%@\u2069 מההכנסות ממודעות כתגמולים בGram.";
 "Monetization.Intro.Split.Title" = "חלוקת הכנסות 50:50";
@@ -5107,7 +5107,7 @@
 "Monetization.Overview.Current" = "תגמולים מהאיסוף האחרון";
 "Monetization.Overview.Total" = "סך התגמולים";
 "Monetization.OverviewTitle" = "סקירת תגמולים";
-"Monetization.Stars.WithdrawInfo" = "באפשרותך לאסוף תגמולים בכוכבים באמצעות Fragment, או להשתמש בכוכבים כדי לפרסם את הבוט שלך. [למד עוד >](https://telegram.org/tos/bot-developers#6-2-2-tpa-balance)";
+"Monetization.Stars.WithdrawInfo" = "באפשרותך לאסוף תגמולים בכוכבים באמצעות Fragment, או להשתמש בכוכבים כדי לפרסם את הבוט שלך. [למד עוד >](https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance)";
 "Monetization.Stars.WithdrawTitle" = "יתרת כוכבים";
 "Monetization.SwitchOffAds" = "כבה מודעות";
 "Monetization.SwitchOffAdsInfo" = "לא תהיה זכאי לתגמולים כלשהם אם תכבה את המודעות.";
@@ -5404,7 +5404,7 @@
 "PHONE_NUMBER_INVALID" = "מספר הטלפון שגוי";
 "PINNED_INVOICE" = "\u2068%1$@\u2069 נעץ/ה חשבונית";
 "PaidMedia.Header" = "הכנס מחיר לפתיחה";
-"PaidMedia.Info" = "משתמשים יצטרכו להעביר את כמות הכוכבים הזו לערוץ שלך כדי לצפות במדיה זו. [עוד אודות כוכבים>](https://telegram.org/blog/telegram-stars/he)";
+"PaidMedia.Info" = "משתמשים יצטרכו להעביר את כמות הכוכבים הזו לערוץ שלך כדי לצפות במדיה זו. [עוד אודות כוכבים>](https://whatsgram.org/blog/telegram-stars/he)";
 "PaidMedia.Ok" = "הפוך למדיה בתשלום";
 "PaidMedia.Placeholder" = "כוכבים לפתיחה";
 "PaidMedia.Status.Purchased" = "נקנה";
@@ -5863,7 +5863,7 @@
 "PeerInfo.VerificationInfo.Bot" = "בוט זה אומת על ידי טלגרם.";
 "PeerInfo.VerificationInfo.Channel" = "ערוץ זה אומת על ידי טלגרם.";
 "PeerInfo.VerificationInfo.Group" = "קבוצה זו אומתה על יד טלגרם.";
-"PeerInfo.VerificationInfo.URL" = "https://telegram.org/verify";
+"PeerInfo.VerificationInfo.URL" = "https://whatsgram.org/verify";
 "PeerInfo.Verified" = "\u2068%@\u2069 בוט זה אומת כרשמי על ידי הנציגות של טלגרם.";
 "PeerInfo.Verified.Tooltip" = "חשבון מאומת";
 "PeerInfo.VerifyAccounts" = "אמת חשבונות";
@@ -7538,7 +7538,7 @@
 "Star.List.StarsNeeded_countable" = "\u2068%d\u2069";
 "Star.List.TelegramStars" = "כוכבי טלגרם";
 "Star.List.TopUp" = "טען";
-"Star.List.Tos" = "על ידי המשך ורכישת כוכבים, הינך מסכים ל[תנאים ולהגבלות](https://telegram.org/tos/stars).";
+"Star.List.Tos" = "על ידי המשך ורכישת כוכבים, הינך מסכים ל[תנאים ולהגבלות](https://whatsgram.org/tos/stars).";
 "Star.List.Transaction.Ads" = "פלטפורמת המודעות";
 "Star.List.Transaction.AppStore" = "App Store";
 "Star.List.Transaction.Fragment" = "Fragment";
@@ -7626,7 +7626,7 @@
 "Star.Transaction.Availability.Of" = "\u2068%1$d\u2069 מתוך \u2068%2$@\u2069";
 "Star.Transaction.Availability.OfLeft" = "\u2068%1$@\u2069 מתוך \u2068%2$@\u2069 נותרו";
 "Star.Transaction.Availability.OfText" = "\u2068%1$@\u2069 מתוך \u2068%2$@\u2069";
-"Star.Transaction.BotTos" = "בעצם ההרשמה הינך מסכים ל[תנאי השימוש](https://telegram.org)";
+"Star.Transaction.BotTos" = "בעצם ההרשמה הינך מסכים ל[תנאי השימוש](https://whatsgram.org)";
 "Star.Transaction.BroadcastMessages#one" = "הודעה \u2068%d\u2069";
 "Star.Transaction.BroadcastMessages#two" = "\u2068%d\u2069 הודעות";
 "Star.Transaction.BroadcastMessages#many" = "\u2068%d\u2069 הודעות";
@@ -7685,7 +7685,7 @@
 "Star.Transaction.StarGift.ShownInProfile" = "מתנה זו מוצגת בפרופיל שלך. [הסתר >](hide)";
 "Star.Transaction.To" = "אל";
 "Star.Transaction.Ton.Description" = "השתמש בGram כדי לקנות מתנות ולהציע פוסטים בערוצי טלגרם.";
-"Star.Transaction.Tos" = "צפה ב[תנאי השימוש](https://telegram.org/tos/stars) של הכוכבים.";
+"Star.Transaction.Tos" = "צפה ב[תנאי השימוש](https://whatsgram.org/tos/stars) של הכוכבים.";
 "Star.Transaction.TransactionUrl" = "קישור עסקה";
 "Star.Transaction.UnknwonUser" = "משתמש לא ידוע](https://fragment.com/stars)";
 "Star.Transaction.Value" = "ערך";
@@ -7796,7 +7796,7 @@
 "StarGift.ViewAllVariants" = "\u2068%1$@\u2069 הצג את כל הגרסאות >";
 "StarGiftNft.ResaleMinPriceInfo" = "אפשרות זו זמינה רק עבור מתנות שמחירן מעל \u2068%1$@\u2069.";
 "StarList.Ton" = "Gram";
-"StarList.Ton.Withdraw.Info" = "אסוף את הGram שלך באמצעות Fragment. [למד עוד >](telegram.org)";
+"StarList.Ton.Withdraw.Info" = "אסוף את הGram שלך באמצעות Fragment. [למד עוד >](whatsgram.org)";
 "StarList.TonInfo" = "השתמש בGram כדי לקנות מתנות ולהציע פוסטים לערוצים.";
 "StarTransaction.GiftRefundedInfo" = "מתנה זו שונמכה משום שהוגשה בקשה להחזר על תשלום המתנה, והכסף הוחזר.";
 "Stars.Balance.BuyAds" = "קנה מודעות";
@@ -7856,7 +7856,7 @@
 "Stars.Purchase.Subscribe.Success" = "נרשמת בהצלחה ל**\u2068%@\u2069**";
 "Stars.Purchase.UpgradeStarGiftInfo" = "קנה כוכבים כדי לשדרג את המתנה שלך לפריט אספנות ייחודי.";
 "Stars.ReactScreen.Anonymous" = "אנונימי";
-"Stars.ReactScreen.Footer" = "באמצעות שליחת כוכבים הינך מסכים ל[תנאי השימוש](https://telegram.org/tos/stars).";
+"Stars.ReactScreen.Footer" = "באמצעות שליחת כוכבים הינך מסכים ל[תנאי השימוש](https://whatsgram.org/tos/stars).";
 "Stars.ReactScreen.Info" = "בחר כמה כוכבים לשלוח ל**\u2068%@\u2069** כדי לתמוך בפוסט.";
 "Stars.ReactScreen.Send#one" = "שלח \u2068%@\u2069\u2068%d\u2069";
 "Stars.ReactScreen.Send#two" = "שלח \u2068%@\u2069\u2068%d\u2069";
@@ -9232,7 +9232,7 @@
 "WebBot.Account.Desclaimer.Desc" = "קיצורי הדרך של **\u2068%@\u2069** התווספו לתפריט הצרופות ולתפריט הצד.";
 "WebBot.Account.Disclaimer.OK" = "המשך";
 "WebBot.Account.Disclaimer.Text" = "הינך עומד להשתמש באפליקציית מיני שמופעלת על ידי גורם בלתי תלוי **שאינו שותף לטלגרם**. עליך להסכים לתנאי השימוש באפלקציות מיני כדי להמשיך.";
-"WebBot.Account.Disclaimer.Third" = "אני מסכים ל[תנאי השימוש](https://telegram.org/tos/mini-apps)";
+"WebBot.Account.Disclaimer.Third" = "אני מסכים ל[תנאי השימוש](https://whatsgram.org/tos/mini-apps)";
 "WebBot.Account.Disclaimer.Title" = "תנאי השימוש";
 "WebBrowser.Error" = "**משהו השתבש, סליחה.**\nנא לנסות שוב מאוחר יותר.";
 "WebBrowser.InstantView" = "תצוגה מיידית";
@@ -9321,14 +9321,14 @@
 "psa.chat.alert.learnmore" = "למד עוד";
 "psa.chat.alert.learnmore.covid" = "למד עוד";
 "psa.chat.alert.learnmore.psa" = "למד עוד";
-"psa.chat.text.covid" = "הודעה זו מספקת לך שירות הודעות ציבורי בנוגע למגיפת הקורונה הנוכחית. ניתן ללמוד על היוזמה הזאת בכתובת https://telegram.org/blog/coronavirus";
+"psa.chat.text.covid" = "הודעה זו מספקת לך שירות הודעות ציבורי בנוגע למגיפת הקורונה הנוכחית. ניתן ללמוד על היוזמה הזאת בכתובת https://whatsgram.org/blog/coronavirus";
 "psa.chat.text.psa" = "זוהי הודעה רשמית ממנכ\"ל טלגרם אודות העימות הנוכחי.";
 "psa.chat.title" = "שירות הודעות לציבור";
 "psa.chatlist" = "תשדיר שירות";
 "psa.chatlist.covid" = "קורונה";
 "psa.chatlist.psa" = "הכרזה";
 "psa.text" = "הודעה זו מספקת לך תשדיר שירות לציבור ברשימת הצ'אטים שלך";
-"psa.text.covid" = "הודעה זו מספקת לך שירות הודעות ציבורי בנוגע למגיפת הקורונה הנוכחית. ניתן ללמוד על היוזמה הזאת בכתובת https://telegram.org/blog/coronavirus";
+"psa.text.covid" = "הודעה זו מספקת לך שירות הודעות ציבורי בנוגע למגיפת הקורונה הנוכחית. ניתן ללמוד על היוזמה הזאת בכתובת https://whatsgram.org/blog/coronavirus";
 "psa.text.psa" = "זוהי הודעה רשמית ממנכ\"ל טלגרם אודות העימות הנוכחי.";
 "psa.title" = "התראת תשדיר שירות לציבור";
 "psa.title.bubbles" = "התראת תשדיר שירות\nמאת: [\u2068%@\u2069]()";

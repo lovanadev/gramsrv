@@ -62,7 +62,7 @@
 "AdsInfo.Bot.Split.Title" = "Ajută creatorul robotului";
 "AdsInfo.Info" = "Reclamele Telegram sunt foarte diferite de reclamele pe alte platforme. Reclamele ca aceasta:";
 "AdsInfo.Launch.Text" = "Oricine poate crea reclame pentru a fi afișate în acest canal – cu bugete minime. Verifică platforma Telegram Ad pentru detalii. [Mai multe >]()";
-"AdsInfo.Launch.Text_URL" = "https://ads.telegram.org";
+"AdsInfo.Launch.Text_URL" = "https://ads.whatsgram.org";
 "AdsInfo.Launch.Title" = "Pot lansa o reclamă?";
 "AdsInfo.Respect.Text" = "Reclamele pe Telegram nu folosesc informațiile tale personale și sunt bazate pe canalul în care le vezi.";
 "AdsInfo.Respect.Title" = "Îți respectă intimitatea";
@@ -85,7 +85,7 @@
 "AffiliateProgram.JoinSubtitleYears#one" = "**{bot}** va împărți **{commission}** din venitul provenit de la fiecare utilizator pe care i-l recomanzi pentru **1 an**.";
 "AffiliateProgram.JoinSubtitleYears#few" = "**{bot}** va împărți **{commission}** din venitul provenit de la fiecare utilizator pe care i-l recomanzi pentru **%d ani**.";
 "AffiliateProgram.JoinSubtitleYears#other" = "**{bot}** va împărți **{commission}** din venitul provenit de la fiecare utilizator pe care i-l recomanzi pentru **%d de ani**.";
-"AffiliateProgram.JoinTerms" = "Alăturându-te acestui program, ești de acord cu [termenii și condițiile](https://telegram.org/tos/affiliate-program) Programelor de afiliere.";
+"AffiliateProgram.JoinTerms" = "Alăturându-te acestui program, ești de acord cu [termenii și condițiile](https://whatsgram.org/tos/affiliate-program) Programelor de afiliere.";
 "AffiliateProgram.JoinTitle" = "Program afiliere";
 "AffiliateProgram.LinkSubtitleLifetime" = "Partajează acest link cu utilizatorii tăi pentru a câștiga un comision de **{commission}** din cheltuielile lor în **{bot}** **pentru totdeauna** după ce aceștia îți urmează linkul.";
 "AffiliateProgram.LinkSubtitleMonths#one" = "Partajează acest link cu utilizatorii tăi pentru a câștiga un comision de **{commission}** din cheltuielile lor în **{bot}** pentru **1 lună** după ce aceștia îți urmează linkul.";
@@ -158,7 +158,7 @@
 "AffiliateSetup.StartTitle" = "Începe program afiliere";
 "AffiliateSetup.SuggestedSectionEmpty" = "Niciun program disponibil încă.\nTe rugăm verifică pagina mai târziu.";
 "AffiliateSetup.SuggestedSectionTitle" = "PROGRAME";
-"AffiliateSetup.TermsFooter" = "Creând un program de afiliere, ești de acord cu [termenii și condițiile](https://telegram.org/terms) Programelor de afiliere.";
+"AffiliateSetup.TermsFooter" = "Creând un program de afiliere, ești de acord cu [termenii și condițiile](https://whatsgram.org/terms) Programelor de afiliere.";
 "AffiliateSetup.TextJoin" = "Câștigă un comision de fiecare dată când un utilizator care a accesat o mini app pentru prima dată prin linkul tău de recomandare cheltuie **Stele** în aceasta.";
 "AffiliateSetup.TextNew" = "Recompensează-i pe cei care ajută la creșterea bazei tale de utilizatori.";
 "AffiliateSetup.TitleJoin" = "Programe afiliere";
@@ -528,11 +528,11 @@
 "AuthSessions.AddDevice" = "Scanează cod QR";
 "AuthSessions.AddDevice.InvalidQRCode" = "Cod QR invalid";
 "AuthSessions.AddDevice.ScanInfo" = "Scanează un cod QR pentru a te conecta\nla acest cont de pe un alt dispozitiv.";
-"AuthSessions.AddDevice.ScanInstallInfo" = "Mergi la [getdesktop.telegram.org](desktop) sau [web.telegram.org](web) pentru a obține codul QR";
+"AuthSessions.AddDevice.ScanInstallInfo" = "Mergi la [getdesktop.whatsgram.org](desktop) sau [web.whatsgram.org](web) pentru a obține codul QR";
 "AuthSessions.AddDevice.ScanTitle" = "Scanează cod QR";
 "AuthSessions.AddDevice.UrlLoginHint" = "Acest cod poate fi folosit pentru a-i permite cuiva să se conecteze la contul tău.\n\nPentru a confirma conectarea la Telegram, mergi la Configurări > Dispozitive > Adaugă dispozitiv și scanează codul.";
 "AuthSessions.AddDeviceIntro.Action" = "Scanează cod QR";
-"AuthSessions.AddDeviceIntro.Text1" = "Descarcă Telegram pe calculator de pe [desktop.telegram.org]()";
+"AuthSessions.AddDeviceIntro.Text1" = "Descarcă Telegram pe calculator de pe [desktop.whatsgram.org]()";
 "AuthSessions.AddDeviceIntro.Text2" = "Rulează Telegram pe calculator pentru a obține codul QR";
 "AuthSessions.AddDeviceIntro.Text3" = "Scanează codul QR pentru a te conecta la contul tău";
 "AuthSessions.AddDeviceIntro.Title" = "Conectează-te prin QR";
@@ -984,7 +984,7 @@
 "Business.AddPost" = "Adaugă o postare";
 "Business.AddPostInfo" = "Publică poze și clipuri cu marfa sau serviciile tale pe pagina ta.";
 "Business.AdsInfo" = "Ca abonat Premium, nu vezi nicio reclamă pe Telegram, dar le poți porni, de exemplu, pentru a-ți vedea reclamele proprii pe care le-ai lansat pe [Platforma Telegram Ad >]()";
-"Business.AdsInfo_URL" = "https://ads.telegram.org";
+"Business.AdsInfo_URL" = "https://ads.whatsgram.org";
 "Business.AdsTitle" = "RECLAME ÎN CANALE";
 "Business.AwayMessages" = "Mesaje în absență";
 "Business.AwayMessagesInfo" = "Definește mesaje care vor fi trimise automat când ești absent(ă).";
@@ -2719,7 +2719,7 @@
 "Chat.PrivateMessageSentTimestamp.Date" = "trimis %@";
 "Chat.PrivateMessageSentTimestamp.TodayAt" = "trimis azi la %@";
 "Chat.PrivateMessageSentTimestamp.YesterdayAt" = "trimis ieri la %@";
-"Chat.PsaTooltip.covid" = "Acest mesaj îți oferă un anunț de serviciu public în legătură cu pandemia de COVID-19 în desfășurare. Mai multe despre această inițiativă la https://telegram.org/blog/coronavirus";
+"Chat.PsaTooltip.covid" = "Acest mesaj îți oferă un anunț de serviciu public în legătură cu pandemia de COVID-19 în desfășurare. Mai multe despre această inițiativă la https://whatsgram.org/blog/coronavirus";
 "Chat.PsaTooltip.psa" = "Acesta este un mesaj oficial de la CEO-ul Telegram în legătură cu conflictul în desfășurare.";
 "Chat.QuickReply.ServiceHeader1" = "Pentru a edita sau șterge răspunsul tău rapid, ține apăsat pe el.";
 "Chat.QuickReply.ServiceHeader2" = "Pentru a folosi acest răspuns rapid într-o conversație, tastează / și selectează scurtătura din listă.";
@@ -3155,7 +3155,7 @@
 "ChatList.PremiumRestoreDiscountTitle" = "Reobține Premium cu până la %@ reducere";
 "ChatList.PremiumXmasGiftText" = "Trimite articole de colecție limitate prietenilor!";
 "ChatList.PremiumXmasGiftTitle" = "👑 Cadouri Snoop Dogg 🎁";
-"ChatList.PsaAlert.covid" = "Acest mesaj îți oferă un anunț de serviciu public în legătură cu pandemia de COVID-19 în desfășurare. Mai multe despre această inițiativă la https://telegram.org/blog/coronavirus";
+"ChatList.PsaAlert.covid" = "Acest mesaj îți oferă un anunț de serviciu public în legătură cu pandemia de COVID-19 în desfășurare. Mai multe despre această inițiativă la https://whatsgram.org/blog/coronavirus";
 "ChatList.PsaAlert.psa" = "Acesta este un mesaj oficial de la CEO-ul Telegram în legătură cu conflictul în desfășurare.";
 "ChatList.PsaLabel.covid" = "COVID-19";
 "ChatList.PsaLabel.psa" = "Anunț";
@@ -3436,7 +3436,7 @@
 "ChatbotSetup.SetupNotCompleted.Text" = "Nu ai adăugat niciun robot pentru a-ți gestiona contul. Ieși oricum?";
 "ChatbotSetup.SetupNotCompleted.Title" = "Niciun robot adăugat";
 "ChatbotSetup.Text" = "Adaugă un robot pentru a răspunde la mesaje în numele tău.";
-"ChatbotSetup.TextLink" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"ChatbotSetup.TextLink" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "ChatbotSetup.Title" = "În curând";
 "ChatbotSetup.TitleItem" = "Automatizare conversație";
 "Checkout.Email" = "E-mail";
@@ -4414,7 +4414,7 @@
 "Conversation.Unpin" = "Detașează";
 "Conversation.UnpinMessageAlert" = "Vrei să detașezi aces mesaj?";
 "Conversation.UnreadMessages" = "Mesaje necitite";
-"Conversation.UnsupportedMedia" = "Acest mesaj nu este suportat de versiunea ta de Telegram. Actualizează aplicația pentru a-l vedea: https://telegram.org/update";
+"Conversation.UnsupportedMedia" = "Acest mesaj nu este suportat de versiunea ta de Telegram. Actualizează aplicația pentru a-l vedea: https://whatsgram.org/update";
 "Conversation.UnsupportedMediaPlaceholder" = "Acest mesaj nu este suportat de versiunea ta de Telegram. Fă o actualizare la ultima versiune.";
 "Conversation.UnvotePoll" = "Retrage vot";
 "Conversation.UpdateTelegram" = "ACTUALIZEAZĂ TELEGRAM";
@@ -4629,7 +4629,7 @@
 "DeleteAccount.ConfirmationAlertText" = "Ștergerea contului va șterge permanent toate datele tale!\n\nAceastă acțiune este ireversibilă!";
 "DeleteAccount.ConfirmationAlertTitle" = "Continui cu ștergerea contului?";
 "DeleteAccount.Continue" = "Continuă";
-"DeleteAccount.DeleteMessagesURL" = "https://telegram.org/faq#q-can-i-delete-my-messages";
+"DeleteAccount.DeleteMessagesURL" = "https://whatsgram.org/faq#q-can-i-delete-my-messages";
 "DeleteAccount.DeleteMyAccount" = "Șterge-mi contul";
 "DeleteAccount.DeleteMyAccountTitle" = "Șterge-mi contul";
 "DeleteAccount.EnterPassword" = "Introdu-ți parola";
@@ -4883,7 +4883,7 @@
 "EnableSharing.SendRequest" = "Trimite solicitare";
 "EnableSharing.Text" = "Ai nevoie de aprobarea lui **%@** pt. a activa partajarea. Trimiți o solicitare?";
 "EnableSharing.Title" = "Activare partajare";
-"EncryptionKey.Description" = "Imaginea și textul sunt derivate din cheia de criptare pentru conversația secretă cu %1$@.\n\nDacă arată la fel pe dispozitivul lui %2$@, criptarea end-to-end este garantată.\n\nMai multe pe telegram.org";
+"EncryptionKey.Description" = "Imaginea și textul sunt derivate din cheia de criptare pentru conversația secretă cu %1$@.\n\nDacă arată la fel pe dispozitivul lui %2$@, criptarea end-to-end este garantată.\n\nMai multe pe whatsgram.org";
 "EncryptionKey.Title" = "Cheie criptare";
 "EnterPasscode.ChangeTitle" = "Schimbă codul de acces";
 "EnterPasscode.EnterCurrentPasscode" = "Introdu codul de acces curent";
@@ -5125,7 +5125,7 @@
 "FrozenAccount.Understood" = "Am înțeles";
 "FrozenAccount.Violation.Text" = "Contul tău a fost înghețat pentru încălcarea Termenilor de utilizare Telegram.";
 "FrozenAccount.Violation.TextNew" = "Contul tău a fost înghețat pentru încălcarea [Termenilor de utilizare]() Telegram.";
-"FrozenAccount.Violation.TextNew_URL" = "https://telegram.org/tos";
+"FrozenAccount.Violation.TextNew_URL" = "https://whatsgram.org/tos";
 "FrozenAccount.Violation.Title" = "Încălcare a termenilor";
 "Gallery.Ad" = "Reclamă";
 "Gallery.AirPlay" = "AirPlay";
@@ -6472,7 +6472,7 @@
 "InviteText.ContactsCountText#few" = "Bună, folosesc Telegram pentru a conversa – la fel ca alte %@ contacte ale noastre. Alătură-te nouă! Descarcă de aici: {url}";
 "InviteText.ContactsCountText#other" = "Bună, folosesc Telegram pentru a conversa – la fel ca alte %@ de contacte ale noastre. Alătură-te nouă! Descarcă de aici: {url}";
 "InviteText.SingleContact" = "Bună, folosesc Telegram pentru a conversa. Alătură-te mie! Descarcă-l de aici: %@";
-"InviteText.URL" = "https://telegram.org/dl";
+"InviteText.URL" = "https://whatsgram.org/dl";
 "Items.NOfM" = "%1$@ din %2$@";
 "Join.ChannelsTooMuch" = "Ne pare rău, ești membru a prea multe grupuri și canale. Părăsește unul înainte de a intra în altul.";
 "KeyCommand.ChatInfo" = "Info. conversație";
@@ -6758,7 +6758,7 @@
 "Login.NewNumber" = "Număr nou";
 "Login.OpenFragment" = "Deschide Fragment";
 "Login.Or" = "sau";
-"Login.PRIVACY_URL" = "https://telegram.org/privacy";
+"Login.PRIVACY_URL" = "https://whatsgram.org/privacy";
 "Login.PadPhoneHelp" = "Poți folosi nr. tău principal ca să accesezi Telegram de pe toate dispozitivele.\nNu folosi nr. cartelei SIM din iPad — e nevoie să-ți trimitem un SMS.\n\nEste corect numărul?\n{number}";
 "Login.PadPhoneHelpTitle" = "Numărul tău de telefon";
 "Login.Paste" = "Lipește";
@@ -7336,9 +7336,9 @@
 "Monetization.Balance.ComingLaterInfo" = "În săptămânile următoare, vei putea să colectezi recompense folosind Fragment, o platformă terță folosită de agenții publicitari pentru a plăti reclamele. [Mai multe >]()";
 "Monetization.Balance.StarsInfo" = "Poți colecta recompense pentru Stele folosind Fragment, sau folosește-le pentru a face publicitate canalului tău. Nu poți retrage mai puțin de 1000 de stele. [Mai multe >]()";
 "Monetization.Balance.StarsInfoGroup" = "Poți colecta recompense pentru Stele folosind Fragment. Nu poți retrage mai puțin de 1000 de stele. [Mai multe >]()";
-"Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
+"Monetization.Balance.StarsInfo_URL" = "https://whatsgram.org/tos/stars";
 "Monetization.Balance.ZeroInfo" = "Vei putea să colectezi recompense folosind Fragment, o platformă terță folosită de agenții publicitari pentru a plăti reclamele. [Termeni și condiții >]()";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceStarsBuyAds" = "Cumpără reclame";
 "Monetization.BalanceStarsWithdraw" = "Retrage prin Fragment";
 "Monetization.BalanceStarsWithdrawShort" = "Retrage";
@@ -7355,7 +7355,7 @@
 "Monetization.Intro.Bot.Ads.Text" = "Telegram poate afișa reclame în robotul tău.";
 "Monetization.Intro.Bot.Title" = "Câștigă din robotul tău";
 "Monetization.Intro.Info.Text" = "Gram este criptomoneda platformei blockchain TON, pe care Telegram o folosește pentru viteza sa mare și comisioanele reduse la tranzacții. [Mai multe >]()";
-"Monetization.Intro.Info.Text_URL" = "https://telegram.org/blog/monetization-for-channels";
+"Monetization.Intro.Info.Text_URL" = "https://whatsgram.org/blog/monetization-for-channels";
 "Monetization.Intro.Info.Title" = "Ce e #Gram?";
 "Monetization.Intro.Split.Text" = "Primești 50% din venitul din reclame ca recompense în Gram.";
 "Monetization.Intro.Split.Title" = "Împărțire venituri de 50:50";
@@ -8829,7 +8829,7 @@
 "Passport.Identity.TypePassportUploadScan" = "Încarcă o copie a pașaportului";
 "Passport.Identity.TypePersonalDetails" = "Date personale";
 "Passport.Identity.UploadOneOfScan" = "Încarcă o copie pentru %@";
-"Passport.InfoFAQ_URL" = "https://telegram.org/faq#passport";
+"Passport.InfoFAQ_URL" = "https://whatsgram.org/faq#passport";
 "Passport.InfoLearnMore" = "Mai multe";
 "Passport.InfoText" = "Cu **Pașaportul Telegram** te poți înregistra ușor pe site-uri web sau servicii care necesită verificarea identității.\n\nInformațiile tale, datele personale și documentele sunt protejate de criptarea end-to-end. Nimeni, nici Telegram, nu le poate accesa fără permisiunea ta.";
 "Passport.InfoTitle" = "Ce este Pașaportul Telegram?";
@@ -8938,10 +8938,10 @@
 "PeerInfo.AllowedReactions.OptionSomeReactions" = "Câteva reacții";
 "PeerInfo.AllowedReactions.ReactionListHeader" = "REACȚII DISPONIBILE";
 "PeerInfo.AllowedReactions.StarReactions" = "Activează reacțiile plătite";
-"PeerInfo.AllowedReactions.StarReactionsFooter" = "Pornește pentru a permite abonaților tăi să reacționeze la postări cu Stele Telegram, pe care le vei putea retrage ca Gram. [Mai multe >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"PeerInfo.AllowedReactions.StarReactionsFooter" = "Pornește pentru a permite abonaților tăi să reacționeze la postări cu Stele Telegram, pe care le vei putea retrage ca Gram. [Mai multe >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "PeerInfo.AllowedReactions.Title" = "Reacţii";
-"PeerInfo.AppFooter" = "Lansând această mini app, ești de accord cu [Termenii de utilizare pentru Mini Apps](https://telegram.org/tos/mini-apps).";
-"PeerInfo.AppFooterAdmin" = "Publicând această mini app, ești de accord cu [Termenii de Utilizare Telegram pentru Dezvoltatori](https://telegram.org/tos/bot-developers).";
+"PeerInfo.AppFooter" = "Lansând această mini app, ești de accord cu [Termenii de utilizare pentru Mini Apps](https://whatsgram.org/tos/mini-apps).";
+"PeerInfo.AppFooterAdmin" = "Publicând această mini app, ești de accord cu [Termenii de Utilizare Telegram pentru Dezvoltatori](https://whatsgram.org/tos/bot-developers).";
 "PeerInfo.AutoDeleteDisable" = "Dezactivează";
 "PeerInfo.AutoDeleteInfo" = "Șterge automat mesajele nou trimise în această conversație după un anumit interval de timp.";
 "PeerInfo.AutoDeleteSettingOther" = "Altele...";
@@ -10085,7 +10085,7 @@
 "Report.Title.Story" = "Raportează povestea";
 "Report.Title.User" = "Raportează utilizator";
 "ReportAd.Help" = "Mai multe despre [Politicile și ghidurile reclamelor Telegram]().";
-"ReportAd.Help_URL" = "https://ads.telegram.org/guidelines";
+"ReportAd.Help_URL" = "https://ads.whatsgram.org/guidelines";
 "ReportAd.Hidden" = "Nu vei mai vedea reclame de la Telegram.";
 "ReportAd.Reported" = "Vom analiza această reclamă pentru a ne asigura că se aliniază [Politicilor și Ghidurilor Reclamelor]().";
 "ReportAd.Title" = "Raportare reclamă";
@@ -10347,7 +10347,7 @@
 "SendStarReactions.ShowMyselfInTop" = "Afișează-mă la Top trimiteri";
 "SendStarReactions.SliderTop" = "TOP";
 "SendStarReactions.SubtitleFrom" = "de la %@";
-"SendStarReactions.TermsOfServiceFooter" = "Trimițând Stele ești de accord cu [Termenii de utilizare](https://telegram.org/tos/stars)";
+"SendStarReactions.TermsOfServiceFooter" = "Trimițând Stele ești de accord cu [Termenii de utilizare](https://whatsgram.org/tos/stars)";
 "SendStarReactions.TextGeneric" = "Alege câte Stele vrei să trimiți către **%@** pentru a susține această postare.";
 "SendStarReactions.TextSentStars#one" = "Ai trimis **1** stea pentru a susține această postare.";
 "SendStarReactions.TextSentStars#few" = "Ai trimis **%d** stele pentru a susține această postare.";
@@ -10457,7 +10457,7 @@
 "Settings.FAQ" = "Întrebări frecvente";
 "Settings.FAQ_Button" = "Întrebări frecvente";
 "Settings.FAQ_Intro" = "Reține că asistența Telegram este realizată de voluntari. Încercăm să răspundem în cel mai scurt timp posibil, dar ar putea să dureze.\n\nAruncă o privire peste Întrebările frecvente: găsești ponturi pentru depanare și răspunsuri la majoritatea întrebărilor.";
-"Settings.FAQ_URL" = "https://telegram.org/faq#general-questions";
+"Settings.FAQ_URL" = "https://whatsgram.org/faq#general-questions";
 "Settings.FrequentlyAskedQuestions" = "Întrebări frecvente";
 "Settings.KeepPassword" = "Da, bineînțeles";
 "Settings.KeepPhoneNumber" = "Păstrează %@";
@@ -10497,7 +10497,7 @@
 "Settings.Privacy.ReadTimePremiumActive" = "Abonat la Telegram Premium";
 "Settings.Privacy.ReadTimePremiumActiveFooter" = "Pentru că ești abonat Telegram Premium, vei vedea ultima accesare și timpul de citire pentru toți utilizatorii care le partajează cu tine – chiar dacă tu le ascunzi pe ale tale.";
 "Settings.Privacy.ReadTimePremiumFooter" = "Dacă te abonezi la Telegram Premium, vei vedea în continuare ultima accesare a altora și timpul de citire chiar dacă tu le-ai ascuns pe ale tale (atât timp cât ei nu au restricționat acest fapt).";
-"Settings.PrivacyPolicy_URL" = "https://telegram.org/privacy";
+"Settings.PrivacyPolicy_URL" = "https://whatsgram.org/privacy";
 "Settings.PrivacySettings" = "Intimitate și securitate";
 "Settings.Proxy" = "Proxy";
 "Settings.ProxyConnected" = "Conectat";
@@ -10536,7 +10536,7 @@
 "Settings.SuggestSetupPasswordText" = "Setează o parolă care va fi necesară de fiecare dată când te conectezi cu acest nr. de tel.";
 "Settings.SuggestSetupPasswordTitle" = "Protejează-ți contul";
 "Settings.Support" = "Pune o întrebare";
-"Settings.Terms_URL" = "https://telegram.org/tos";
+"Settings.Terms_URL" = "https://whatsgram.org/tos";
 "Settings.Tips" = "Funcționalități Telegram";
 "Settings.TipsUsername" = "TelegramTips";
 "Settings.Title" = "Configurări";
@@ -10824,10 +10824,10 @@
 "SocksProxySetup.Warning.Text" = "Această acțiune va expune adresa ta IP adminului serverului proxy.";
 "SocksProxySetup.Warning.Title" = "Atenție";
 "SponsoredMessageInfo.Action" = "Mai multe";
-"SponsoredMessageInfo.ActionUrl" = "https://ads.telegram.org";
-"SponsoredMessageInfo.Text" = "Vezi https://telegram.org";
-"SponsoredMessageInfo.Url" = "https://ads.telegram.org";
-"SponsoredMessageInfoScreen.MarkdownText" = "Spre deosebire de alte aplicații, Telegram nu folosește niciodată datele tale private pentru reclame personalizate. [Învață mai multe din Politica de confidențialitate](https://telegram.org/privacy#5-6-no-ads-based-on-user-data)\nVezi acest mesaj doar pentru că cineva a ales acest canal public de tip unul-la-mai-mulți ca spațiu pentru a-și promova mesajele. Asta înseamnă că niciun fel de date ale utilizatorilor nu sunt extrase sau analizate pentru a afișa reclame, și toți utilizatorii care vizionează un canal pe Telegram văd exact același mesaj sponsorizat.\n\nSpre deosebire de alte aplicații, Telegram nu urmărește dacă ai atins un mesaj sponsorizat și nu te profilează bazat pe activitatea ta. Prevenim de asemenea linkurile externe în mesajele sponsorizate pentru a ne asigura că terțe părți nu pot spiona utilizatorii noștri. Credem că toată lumea are dreptul la intimitate, și platformele tehnologice ar trebui să respecte asta.\n\nTelegram oferă un serviciu gratuit și nelimitat pentru sute de milioane de utilizatori, fapt care implică costuri semnificative pentru servere și trafic. Pentru a rămâne independent și fidel valorilor sale, Telegram a dezvoltat o unealtă cu plată pentru a promova mesaje, având intimitatea utilizatorilor în minte. Așteptăm agenții publicitari responsabili pe:\n[url]\nReclamele nu ar trebui să mai fie sinonime cu abuzul intimității utilizatorului. Permite-ne să redefinim cum o companie de tehnologie ar trebui să opereze – împreună.";
+"SponsoredMessageInfo.ActionUrl" = "https://ads.whatsgram.org";
+"SponsoredMessageInfo.Text" = "Vezi https://whatsgram.org";
+"SponsoredMessageInfo.Url" = "https://ads.whatsgram.org";
+"SponsoredMessageInfoScreen.MarkdownText" = "Spre deosebire de alte aplicații, Telegram nu folosește niciodată datele tale private pentru reclame personalizate. [Învață mai multe din Politica de confidențialitate](https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data)\nVezi acest mesaj doar pentru că cineva a ales acest canal public de tip unul-la-mai-mulți ca spațiu pentru a-și promova mesajele. Asta înseamnă că niciun fel de date ale utilizatorilor nu sunt extrase sau analizate pentru a afișa reclame, și toți utilizatorii care vizionează un canal pe Telegram văd exact același mesaj sponsorizat.\n\nSpre deosebire de alte aplicații, Telegram nu urmărește dacă ai atins un mesaj sponsorizat și nu te profilează bazat pe activitatea ta. Prevenim de asemenea linkurile externe în mesajele sponsorizate pentru a ne asigura că terțe părți nu pot spiona utilizatorii noștri. Credem că toată lumea are dreptul la intimitate, și platformele tehnologice ar trebui să respecte asta.\n\nTelegram oferă un serviciu gratuit și nelimitat pentru sute de milioane de utilizatori, fapt care implică costuri semnificative pentru servere și trafic. Pentru a rămâne independent și fidel valorilor sale, Telegram a dezvoltat o unealtă cu plată pentru a promova mesaje, având intimitatea utilizatorilor în minte. Așteptăm agenții publicitari responsabili pe:\n[url]\nReclamele nu ar trebui să mai fie sinonime cu abuzul intimității utilizatorului. Permite-ne să redefinim cum o companie de tehnologie ar trebui să opereze – împreună.";
 "SponsoredMessageInfoScreen.Text" = "Spre deosebire de alte aplicații, Telegram nu folosește niciodată datele tale private pentru reclame personalizate. Mesajele sponsorizate pe Telegram sunt bazate doar pe subiectele canalelor în care ele sunt afișate. Asta înseamnă că niciun fel de date ale utilizatorilor nu sunt extrase sau analizate pentru a afișa reclame, și toți utilizatorii care vizionează un canal pe Telegram văd exact aceleași mesaje sponsorizate.\n\nSpre deosebire de alte aplicații, Telegram nu urmărește dacă ai atins un mesaj sponsorizat și nu te profilează bazat pe activitatea ta. Prevenim de asemenea linkurile externe în mesajele sponsorizate pentru a ne asigura că terțe părți nu pot spiona utilizatorii noștri. Credem că toată lumea are dreptul la intimitate, și platformele tehnologice ar trebui să respecte asta.\n\nTelegram oferă un serviciu gratuit și nelimitat pentru sute de milioane de utilizatori, fapt care implică costuri semnificative pentru servere și trafic. Pentru a rămâne independent și fidel valorilor sale, Telegram a dezvoltat o unealtă cu plată pentru a promova mesaje, având intimitatea utilizatorilor în minte. Așteptăm agenții publicitari responsabili pe:\n[url]\nMesajele Sponsorizate sunt momentan în modul de testare. După ce vor fi lansate în totalitate și vor permite Telegram să-și acopere costurile de bază, vom începe să împărțim veniturile din reclame cu proprietarii canalelor publice în care mesajele sponsorizate sunt afișate.\n\nReclamele online nu ar trebui să mai fie sinonime cu abuzul intimității utilizatorului. Permite-ne să redefinim cum o companie de tehnologie ar trebui să opereze – împreună.";
 "SponsoredMessageInfoScreen.Title" = "Ce sunt mesajele sponsorizate?";
 "SponsoredMessageMenu.Hide" = "Ascunde";
@@ -10845,7 +10845,7 @@
 "Stars.BotRevenue.Withdraw.Balance" = "Sold disponibil";
 "Stars.BotRevenue.Withdraw.BuyAds" = "Cumpără reclame";
 "Stars.BotRevenue.Withdraw.Info" = "Poți colecta recompense pentru Stele folosind Fragment, sau folosește Stele pentru a face publicitate robotului tău. Nu poți retrage mai puțin de 1000 de stele. [Mai multe >]()";
-"Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Stars.BotRevenue.Withdraw.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "Stars.BotRevenue.Withdraw.Withdraw" = "Retrage prin Fragment";
 "Stars.BotRevenue.Withdraw.WithdrawShort" = "Retrage";
 "Stars.Gift.Received.Text" = "Folosește Stele pentru a debloca conținut și servicii pe Telegram. [Vezi exemple >]()";
@@ -10939,7 +10939,7 @@
 "Stars.Intro.Withdraw" = "Retrage";
 "Stars.Intro.YourBalance" = "soldul tău";
 "Stars.PaidContent.AmountInfo" = "Utilizatorii vor trebui să transfere această sumă de Stele canalului tău pentru a vedea acest articol media. [Mai multe despre Stele >]()";
-"Stars.PaidContent.AmountInfo_URL" = "https://telegram.org/tos/stars";
+"Stars.PaidContent.AmountInfo_URL" = "https://whatsgram.org/tos/stars";
 "Stars.PaidContent.AmountPlaceholder" = "Stele pentru deblocare";
 "Stars.PaidContent.AmountTitle" = "INTRODU COST DEBLOCARE";
 "Stars.PaidContent.Create" = "Fă acest articol plătit";
@@ -10972,7 +10972,7 @@
 "Stars.Purchase.StarsReactionsNeededInfo" = "Cumpără Stele pentru a trimite reacții plătite către **%@** și alte canale.";
 "Stars.Purchase.SubscriptionInfo" = "Cumpără Stele pentru a te abona la **%@**.";
 "Stars.Purchase.SubscriptionRenewInfo" = "Cumpără Stele pentru a-ți păstra abonamentul la **%@**.";
-"Stars.Purchase.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Purchase.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Purchase.TransferStarGiftInfo" = "Cumpără Stele pentru a transfera proprietatea articolelor tale de colecție unice.";
 "Stars.Purchase.UpgradeStarGiftInfo" = "Cumpără Stele pentru a-ți avansa cadoul într-un articol de colecție unic.";
 "Stars.SellGift.AmountInfo" = "Tu vei primi **%@**.";
@@ -11003,7 +11003,7 @@
 "Stars.SendStars.SendStars" = "Confirmă și trimite";
 "Stars.SendStars.Title" = "Trimite Stele";
 "Stars.Subscription.Terms" = "Abonându-te ești de acord cu [Termenii de Utilizare]().";
-"Stars.Subscription.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Subscription.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Ton.Description" = "Folosește Gram pt. a cumpăra cadouri și a sugera postări canalelor.";
 "Stars.Ton.Title" = "Sold Gram";
 "Stars.Transaction.AppleTopUp.Subtitle" = "App Store";
@@ -11109,7 +11109,7 @@
 "Stars.Transaction.TelegramPremium#few" = "Premium pentru %@ luni";
 "Stars.Transaction.TelegramPremium#other" = "Premium pentru %@ de luni";
 "Stars.Transaction.Terms" = "Revizuiește [Termenii de utilizare]() pentru Stele.";
-"Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transaction.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transaction.To" = "Către";
 "Stars.Transaction.Unsupported.Title" = "Nesuportată";
 "Stars.Transaction.Via" = "Prin";
@@ -11145,7 +11145,7 @@
 "Stars.Transfer.SubscribeInfo" = "Vrei să te abonezi la **%1$@** pentru **%2$@** pe lună?";
 "Stars.Transfer.SubscribePerMonth" = "/ lună";
 "Stars.Transfer.Terms" = "Achiziționând ești de accord cu [Termenii de Utilizare]().";
-"Stars.Transfer.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transfer.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transfer.Title" = "Confirmă-ți achiziția";
 "Stars.Transfer.Unavailable" = "Achiziționarea de Stele nu este disponibilă în țara ta.";
 "Stars.Transfer.UnlockBotInfo" = "Vrei să deblochezi %1$@ de la **%2$@** pentru **%3$@**?";
@@ -12182,9 +12182,9 @@
 "Ton.ProceedsOverview" = "REZUMAT ÎNCASĂRI";
 "Ton.WithdrawViaFragment" = "Retrage prin Fragment";
 "Ton.WithdrawViaFragment.Info" = "Colectează-ți valuta Gram folosind Fragment. [Mai multe >]()";
-"Ton.WithdrawViaFragment.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Ton.WithdrawViaFragment.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "TopApps.Info.Done" = "Am înțeles";
-"TopApps.Info.Text" = "Acest catalog clasează mini apps în baza veniturilor lor zilnice, măsurate în Stele. Pentru a fi listată, dezvoltatorii trebuie să își configureze mini app principală în [@botfather]() (așa cum este descris [aici](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)), să aibă peste **1,000** de utilizatori zilnic, și un venit zilnic de peste **1,000** de Stele, bazat pe media săptămânală.";
+"TopApps.Info.Text" = "Acest catalog clasează mini apps în baza veniturilor lor zilnice, măsurate în Stele. Pentru a fi listată, dezvoltatorii trebuie să își configureze mini app principală în [@botfather]() (așa cum este descris [aici](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app)), să aibă peste **1,000** de utilizatori zilnic, și un venit zilnic de peste **1,000** de Stele, bazat pe media săptămânală.";
 "TopApps.Info.Title" = "Top Mini Apps";
 "Tour.StartButton" = "Trimite mesaje";
 "Tour.Text1" = "Cea mai **rapidă** aplicație de mesagerie.\nEste **gratuită** și **securizată**.";
@@ -13125,7 +13125,7 @@
 "WebApp.DisclaimerContinue" = "Continuă";
 "WebApp.DisclaimerText" = "Ești pe cale să folosești o mini app operată de o parte independentă neafiliată cu Telegram. Trebuie să fii de acord cu Termenii de utilizare ai mini aplicațiilor pentru a continua.";
 "WebApp.DisclaimerTitle" = "Termenii de utilizare";
-"WebApp.Disclaimer_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.Disclaimer_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.Download.Cancel" = "Anulare";
 "WebApp.Download.Document" = "Descărcare document";
 "WebApp.Download.Download" = "Descarcă";
@@ -13155,7 +13155,7 @@
 "WebApp.LaunchMoreInfo" = "Mai multe despre robot";
 "WebApp.LaunchOpenApp" = "Lansează";
 "WebApp.LaunchTermsConfirmation" = "Prin lansarea acestei mini app, ești de acord cu [Termenii de utilizare pentru mini apps]().";
-"WebApp.LaunchTermsConfirmation_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.LaunchTermsConfirmation_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.LocationPermission.Allow" = "Permite";
 "WebApp.LocationPermission.Decline" = "Refuză";
 "WebApp.LocationPermission.Succeed" = "**%@** poate acum accesa localizarea ta.";
@@ -13175,7 +13175,7 @@
 "WebApp.OpenWebViewAlertText" = "**%@** vrea să își deschidă aplicația web pentru a continua.\n\nVa putea să îți acceseze **adresa IP** și info. de bază despre dispozitiv.";
 "WebApp.OpenWebViewAlertTitle" = "Lansează aplicația";
 "WebApp.PrivacyPolicy" = "Politica de confidențialitate";
-"WebApp.PrivacyPolicy_URL" = "https://telegram.org/privacy-tpa";
+"WebApp.PrivacyPolicy_URL" = "https://whatsgram.org/privacy-tpa";
 "WebApp.ReloadPage" = "Reîncarcă pagina";
 "WebApp.RemoveAllConfirmationText" = "Scurtăturile pentru **%@** vor fi eliminate din toate meniurile.";
 "WebApp.RemoveBot" = "Elimină de la meniu";
@@ -13197,7 +13197,7 @@
 "WebApp.ShortcutsAdded" = "**%@** scurtătură adăugată la meniul de atașamente.";
 "WebApp.ShortcutsSettingsAdded" = "Scurtături **%@** adăugate la meniul de atașamente și Configurări.";
 "WebApp.TermsOfUse" = "Termenii de utilizare";
-"WebApp.TermsOfUse_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.TermsOfUse_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebBrowser.AddBookmark" = "Adaugă marcaj";
 "WebBrowser.AddressBar.Bookmarks" = "SEMNE DE CARTE";
 "WebBrowser.AddressBar.RecentlyVisited" = "VIZITATE RECENT";

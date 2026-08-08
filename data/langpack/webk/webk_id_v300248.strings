@@ -450,7 +450,7 @@
 "Chat.Menu.SelectMessages" = "Pilih Pesan";
 "Chat.Message.Ad.ReadMore" = "Selengkapnya";
 "Chat.Message.Ad.Text" = "Tidak seperti aplikasi lain, Telegram tidak pernah menggunakan data pribadi Anda untuk menargetkan iklan. Pesan bersponsor di Telegram hanya didasarkan pada topik channel publik tempat pesan tersebut ditampilkan. Ini berarti tidak ada data pengguna yang dikumpulkan atau dianalisis untuk menampilkan iklan, dan setiap pengguna yang melihat channel di Telegram melihat pesan sponsor yang sama.\n\nTidak seperti aplikasi lain, Telegram tidak melacak apakah Anda mengetuk pesan sponsor dan tidak membuat profil Anda berdasarkan aktivitas Anda. Kami juga mencegah tautan eksternal dalam pesan sponsor untuk memastikan bahwa pihak ketiga tidak dapat memata-matai pengguna kami. Kami percaya bahwa setiap orang memiliki hak atas privasi, dan platform teknologi harus menghormati itu.\n\nTelegram menawarkan layanan gratis dan tidak terbatas kepada ratusan juta pengguna, yang melibatkan biaya server dan lalu lintas yang signifikan. Agar tetap mandiri dan tetap setia pada nilai-nilainya, Telegram mengembangkan alat berbayar untuk mempromosikan pesan dengan mempertimbangkan privasi pengguna. Kami menyambut pengiklan yang bertanggung jawab di:\n\n%@\n\nPesan Bersponsor saat ini dalam mode uji. Setelah pesan bersponsor sepenuhnya diluncurkan dan memungkinkan Telegram untuk menutupi biaya dasar, kami akan mulai berbagi pendapatan iklan dengan pemilik channel publik tempat pesan sponsor ditampilkan.\n\nIklan online seharusnya tidak lagi identik dengan penyalahgunaan privasi pengguna. Mari kita definisikan kembali cara perusahaan teknologi harus beroperasi – bersama-sama.";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Apa itu pesan bersponsor?";
 "Chat.Message.ViewBot" = "LIHAT BOT";
 "Chat.Message.ViewChannel" = "LIHAT CHANNEL";
@@ -1546,7 +1546,7 @@
 "Report2CommentOptional" = "Tambah Komentar (Opsional)";
 "Report2Send" = "Kirim Laporan";
 "ReportAd" = "Laporkan Iklan";
-"ReportAdLearnMore" = "Pelajari lebih lanjut mengenai [Kebijakan dan Pedoman Iklan](https://ads.telegram.org/guidelines) kami.";
+"ReportAdLearnMore" = "Pelajari lebih lanjut mengenai [Kebijakan dan Pedoman Iklan](https://ads.whatsgram.org/guidelines) kami.";
 "ReportBug" = "Laporkan Bug";
 "ReportChat" = "Laporkan";
 "ReportChatChild" = "Kekerasan Anak";
@@ -2014,7 +2014,7 @@
 "VoipUserCameraIsOff" = "Kamera %s tidak aktif";
 "VoipUserMicrophoneIsOff" = "Mikrofon %s  tidak aktif";
 "WebApp.Disclaimer.Check" = "Saya menyetujui **[Ketentuan Penggunaan]()**";
-"WebAppDisclaimerUrl" = "https://telegram.org/tos/mini-apps";
+"WebAppDisclaimerUrl" = "https://whatsgram.org/tos/mini-apps";
 "WebSessionsTitle" = "Masuk Dengan Telegram";
 "Weeks#other" = "%1$d minggu";
 "WhoCanAddMe" = "Siapa dapat tambahkan saya?";

@@ -432,7 +432,7 @@
 "Business.QuickReply.Header" = "Richte Kurzbefehle mit Formatierungen und Medien ein, um schneller auf Nachrichten zu reagieren.";
 "Business.QuickReply.Title" = "Schnellantworten";
 "Business.SwitchAd" = "Werbung nicht verstecken";
-"Business.SwitchAd.Info" = "Als Premium-Abonnent siehst du keine Werbung auf Telegram, aber du kannst sie einschalten, um zum Beispiel deine eigenen Anzeigen zu sehen, die du auf der [Telegram Werbeplatform >](https://ads.telegram.org) gestartet hast.";
+"Business.SwitchAd.Info" = "Als Premium-Abonnent siehst du keine Werbung auf Telegram, aber du kannst sie einschalten, um zum Beispiel deine eigenen Anzeigen zu sehen, die du auf der [Telegram Werbeplatform >](https://ads.whatsgram.org) gestartet hast.";
 "Business.SwitchAd.Title" = "WERBUNG IN KANÄLEN";
 "CHAT_MESSAGE_INVOICE" = "%1$@ hat eine Rechnung für %3$@ in die Gruppe %2$@ gesendet";
 "Cag-YX-WT6.title" = "Telegram ausblenden";
@@ -959,7 +959,7 @@
 "ChannelReactions.EnableReactions" = "Reaktionen aktivieren";
 "ChannelReactions.EnableReactions.Info" = "Du kannst Emoji aus jedem Emoji-Paket als Reaktion hinzufügen.";
 "ChannelReactions.EnableStars" = "Bezahlte Reaktionen";
-"ChannelReactions.EnableStars.Info" = "Einschalten, damit deine Abonnenten auf veröffentlichte Beiträge mit Telegram-Sternen reagieren, die du als Grams abheben kannst. [Mehr erfahren >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"ChannelReactions.EnableStars.Info" = "Einschalten, damit deine Abonnenten auf veröffentlichte Beiträge mit Telegram-Sternen reagieren, die du als Grams abheben kannst. [Mehr erfahren >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "ChannelReactions.OK" = "Reaktionen aktualisieren";
 "ChannelReactions.Placeholder" = "Reaktionen hinzufügen...";
 "ChannelStats.Graph.Followers" = "ABONNENTEN";
@@ -1389,7 +1389,7 @@
 "Chat.Message.Socks5.Config" = "SOCKS5-Konfiguration";
 "Chat.Message.Sponsored" = "werbung";
 "Chat.Message.Sponsored.Advertiser" = "Inserenten-Info";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Was sind gesponserte Nachrichten?";
 "Chat.Message.Suggest.Markup.Approve" = "Akzeptieren";
 "Chat.Message.Suggest.Markup.Decline" = "Ablehnen";
@@ -1400,7 +1400,7 @@
 "Chat.Message.Todo.Title.Single" = "Aufgabenliste";
 "Chat.Message.UnsendMessages" = "Widerrufe meine Nachrichten";
 "Chat.Message.UnsendMessages_countable" = "%d";
-"Chat.Message.Unsupported" = "Diese Nachricht wird von deiner Telegram-Version nicht unterstützt. Bitte aktualisiere die App über die Einstellungen oder direkt von https://macos.telegram.org";
+"Chat.Message.Unsupported" = "Diese Nachricht wird von deiner Telegram-Version nicht unterstützt. Bitte aktualisiere die App über die Einstellungen oder direkt von https://macos.whatsgram.org";
 "Chat.Message.UnsupportedNew" = "Diese Nachricht wird von deiner Telegram-Version nicht unterstützt. Bitte aktualisiere die App.";
 "Chat.Message.Via" = "via";
 "Chat.Message.ViewBot" = "BOT ANZEIGEN";
@@ -1931,7 +1931,7 @@
 "ChatList.FolderUpdates.Title#one" = "1 neuer Chat verfügbar";
 "ChatList.FolderUpdates.Title#other" = "%d neue Chats verfügbar";
 "ChatList.FolderUpdates.Title_countable" = "%d";
-"ChatList.FreezeAccount" = "Dein Konto wurde wegen eines schwerwiegenden Verstoßes gegen die [Nutzungsbedingungen](https://telegram.org/tos/de) von Telegram eingefroren. Seit dem %1$@ befindest du dich im Lese-Modus. Wenn du glaubst, dass ein Fehler vorliegt, kannst du über [@SpamBot](%2$@) Einspruch einlegen. Meldest du dich nicht bis zum %3$@, wird dein Konto deaktiviert und gelöscht.";
+"ChatList.FreezeAccount" = "Dein Konto wurde wegen eines schwerwiegenden Verstoßes gegen die [Nutzungsbedingungen](https://whatsgram.org/tos/de) von Telegram eingefroren. Seit dem %1$@ befindest du dich im Lese-Modus. Wenn du glaubst, dass ein Fehler vorliegt, kannst du über [@SpamBot](%2$@) Einspruch einlegen. Meldest du dich nicht bis zum %3$@, wird dein Konto deaktiviert und gelöscht.";
 "ChatList.FreezeAccount.Title" = "Dein Konto wurde eingefroren";
 "ChatList.GroupChannel" = "Group Channel";
 "ChatList.HideMuted" = "Stumme ausblenden";
@@ -2028,7 +2028,7 @@
 "ChatMessage.RelativeDate.Years#other" = "%1$d Jahren";
 "ChatMessage.Sponsored.About" = "Über diese Werbung";
 "ChatMessage.Sponsored.Report" = "Werbung melden";
-"ChatMessage.Sponsored.Report.LearnMore" = "Erfahre mehr über unsere [Werbebestimmungen und Richtlinien](https://ads.telegram.org/guidelines).";
+"ChatMessage.Sponsored.Report.LearnMore" = "Erfahre mehr über unsere [Werbebestimmungen und Richtlinien](https://ads.whatsgram.org/guidelines).";
 "ChatMessage.Sponsored.Title" = "Werbung";
 "ChatMessage.Tooltip.Views" = "Aufrufe";
 "ChatMessage.ViewChatList" = "CHATLISTE ANZEIGEN";
@@ -2713,7 +2713,7 @@
 "ForwardModalAction.description#one" = "Kontakt oder Chat wählen, um Nachricht von %@ weiterzuleiten";
 "ForwardModalAction.description#other" = "Kontakt oder Chat wählen, um Nachrichten von %@ weiterzuleiten";
 "ForwardModalAction.description_countable" = "%d %@";
-"Fragment.AdsInfo.Block.Text" = "Jeder kann eine Anzeige mit minimalem Budget erstellen, die in diesem Kanal angezeigt wird. Schau dir die **Telegram-Anzeigenplattform** für weitere Informationen an. [Mehr erfahren](https://telegram.org)";
+"Fragment.AdsInfo.Block.Text" = "Jeder kann eine Anzeige mit minimalem Budget erstellen, die in diesem Kanal angezeigt wird. Schau dir die **Telegram-Anzeigenplattform** für weitere Informationen an. [Mehr erfahren](https://whatsgram.org)";
 "Fragment.AdsInfo.Block.Title" = "Kann ich Werbung schalten?";
 "Fragment.AdsInfo.OK" = "Verstanden";
 "Fragment.AdsInfo.Option1.Info" = "Die Werbung auf Telegram nutzt nicht deine persönlichen Daten und basiert auf dem Kanal, in dem du sie siehst.";
@@ -3449,7 +3449,7 @@
 "Modal.Yes" = "JA";
 "Monetization.BalanceTitle" = "VERFÜGBARE BELOHNUNG";
 "Monetization.BalanceWithdraw" = "Über Fragment abholen";
-"Monetization.Intro.Info.Text" = "GRAM ist die Kryptowährung der TON-Blockchain, die Telegram wegen seiner hohen Geschwindigkeit und niedrigen Gebühren für Transaktionen nutzt. [Mehr dazu >](https://telegram.org/blog/monetization-for-channels/de)";
+"Monetization.Intro.Info.Text" = "GRAM ist die Kryptowährung der TON-Blockchain, die Telegram wegen seiner hohen Geschwindigkeit und niedrigen Gebühren für Transaktionen nutzt. [Mehr dazu >](https://whatsgram.org/blog/monetization-for-channels/de)";
 "Monetization.Intro.Info.Title" = "Was ist %@ Gram?";
 "Monetization.Intro.Split.Text" = "Du erhältst 50%@ der Werbeeinnahmen als Belohnung in Grams.";
 "Monetization.Intro.Understood" = "Verstanden";
@@ -5190,7 +5190,7 @@
 "Star.List.Item.Count#other" = "%d Sterne";
 "Star.List.Item.ShowMore" = "Mehr Optionen";
 "Star.List.MyBalance" = "Guthaben\n%1$@**%2$@**";
-"Star.List.Tos" = "Indem du fortfährst und Sterne kaufst, erklärst du dich mit den [Geschäftsbedingungen](https://telegram.org/tos/stars) einverstanden.";
+"Star.List.Tos" = "Indem du fortfährst und Sterne kaufst, erklärst du dich mit den [Geschäftsbedingungen](https://whatsgram.org/tos/stars) einverstanden.";
 "Star.Marketplace.ResaleAvailable#one" = "%d Angebot";
 "Star.Marketplace.ResaleAvailable#other" = "%d Angebote";
 "Star.Nft.Gift.Buy.Confirm" = "Möchtest du **%1$@** für **%2$@** kaufen und es **%3$@** schenken?";
@@ -5241,7 +5241,7 @@
 "Star.Transaction.StarGift.HideFromMyPage.Alert" = "Das Geschenk ist nicht mehr in deinem Profil sichtbar.";
 "Star.Transaction.StarGift.SeeInProfile" = "Geschenk ist in deinem Profil sichtbar. [Zeigen >](view)";
 "Star.Transaction.Ton.Description" = "Nutze Grams, um Geschenke zu kaufen und Kanälen Beiträge vorzuschlagen.";
-"Star.Transaction.Tos" = "Prüfe die [Nutzungsbedingungen[(https://telegram.org/tos/stars) der Sterne.";
+"Star.Transaction.Tos" = "Prüfe die [Nutzungsbedingungen[(https://whatsgram.org/tos/stars) der Sterne.";
 "Star.Transaction.UnknwonUser" = "[Unbekannter Nutzer](https://fragment.com/stars)";
 "Star.Transaction.Value" = "Wert";
 "Star.Transaction.Visibility" = "Sichtbarkeit";
@@ -5319,7 +5319,7 @@
 "StarGift.Value.Row.Badge" = "Mehr erfahren";
 "StarGift.ViewAllVariants" = "%1$@ Alle Varianten zeigen >";
 "StarList.Ton" = "Grams";
-"StarList.Ton.Withdraw.Info" = "Grams über Fragment erhalten. [Mehr erfahren >](telegram.org)";
+"StarList.Ton.Withdraw.Info" = "Grams über Fragment erhalten. [Mehr erfahren >](whatsgram.org)";
 "StarList.TonInfo" = "Biete TON an, um Beitragsvorschläge an Kanäle auf Telegram einzureichen.";
 "Stars.Gift.Title" = "Sterne verschenken";
 "Stars.GiftPreview.Channel.Display" = "Dieses Geschenk in den Geschenken des Kanals anzeigen oder es in %@ umwandeln.";
@@ -6451,7 +6451,7 @@
 "WebBot.Account.Desclaimer.Desc" = "Verknüpfung zu **%@** deinem Anhang- und Seitenmenü hinzugefügt.";
 "WebBot.Account.Disclaimer.OK" = "Weiter";
 "WebBot.Account.Disclaimer.Text" = "Du bist dabei, eine Mini-App zu nutzen. Diese wird von Dritten betrieben, die **nicht mit Telegram** in Verbindung stehen. Du musst den Nutzungsbedingungen für Mini-Apps zustimmen, um fortzufahren.";
-"WebBot.Account.Disclaimer.Third" = "Ich akzeptiere die [Nutzungsbedingungen](https://telegram.org/tos/mini-apps)";
+"WebBot.Account.Disclaimer.Third" = "Ich akzeptiere die [Nutzungsbedingungen](https://whatsgram.org/tos/mini-apps)";
 "WebBot.Account.Disclaimer.Title" = "Nutzungsbedingungen";
 "Webapp.AllowMessages.OK" = "Erlauben";
 "Webapp.AllowMessages.Text" = "Dadurch kann der Bot **%@** dir auf Telegram Nachrichten schicken.";
@@ -6523,14 +6523,14 @@
 "psa.chat.alert.learnmore" = "Mehr erfahren";
 "psa.chat.alert.learnmore.covid" = "Mehr erfahren";
 "psa.chat.alert.learnmore.psa" = "Mehr erfahren";
-"psa.chat.text.covid" = "Diese Nachricht enthält eine öffentliche Bekanntmachung hinsichtlich der aktuellen COVID-19 Pandemie. Erfahre mehr über diese Initiative unter https://telegram.org/blog/coronavirus";
+"psa.chat.text.covid" = "Diese Nachricht enthält eine öffentliche Bekanntmachung hinsichtlich der aktuellen COVID-19 Pandemie. Erfahre mehr über diese Initiative unter https://whatsgram.org/blog/coronavirus";
 "psa.chat.text.psa" = "Das ist eine offizielle Nachricht des CEO von Telegram zum aktuellen Konflikt.";
 "psa.chat.title" = "Öffentliche Bekanntmachung";
 "psa.chatlist" = "PSA";
 "psa.chatlist.covid" = "COVID-19";
 "psa.chatlist.psa" = "Bekanntmachung";
 "psa.text" = "This message provides you with a public service announcement in your chat list";
-"psa.text.covid" = "Diese Nachricht enthält eine öffentliche Bekanntmachung hinsichtlich der aktuellen COVID-19 Pandemie. Erfahre mehr über diese Initiative unter https://telegram.org/blog/coronavirus";
+"psa.text.covid" = "Diese Nachricht enthält eine öffentliche Bekanntmachung hinsichtlich der aktuellen COVID-19 Pandemie. Erfahre mehr über diese Initiative unter https://whatsgram.org/blog/coronavirus";
 "psa.text.psa" = "Das ist eine offizielle Nachricht des CEO von Telegram zum aktuellen Konflikt.";
 "psa.title" = "PSA Benachrichtigung";
 "psa.title.bubbles" = "PSA Benachrichtigung\nvon: [%@]()";

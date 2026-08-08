@@ -1048,7 +1048,7 @@
 "GiftPeerUpgradeTransferableDescription" = "سيكون \u2068{user}\u2069 قادرًا على إرسال الهدية إلى أي شخص على تيليجرام.";
 "GiftPeerUpgradeUniqueDescription" = "سيحصل \u2068{user}\u2069 على رقم ونموذج وخلفية ورمز فريد للهدية.";
 "GiftPremiumDescription" = "منح \u2068{user}\u2069 إمكانية الوصول إلى الميزات الحصرية مع تيليجرام المميز.\u2068{link}\u2069";
-"GiftPremiumDescriptionLink" = "https://telegram.org/faq_premium";
+"GiftPremiumDescriptionLink" = "https://whatsgram.org/faq_premium";
 "GiftPremiumDescriptionLinkCaption" = "معرفة الميزات>";
 "GiftPremiumDescriptionYourBalance" = "رصيدك **\u2068{stars}\u2069**.\u2068{link}\u2069";
 "GiftPremiumHeader" = "إهداء الاشتراك";
@@ -1666,7 +1666,7 @@
 "PrizeCredits2#other" = "جائزتك هي \u2068{count}\u2069 نجمة.";
 "Profile" = "الصفحة الشخصية";
 "ProfileBirthday" = "يوم الميلاد";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps";
 "ProfileCopyPhone" = "نسخ رقم الهاتف";
 "ProfileItemSubscribers" = "المشتركين";
 "ProfileJoinChannel" = "الانضمام للقناة";
@@ -1912,7 +1912,7 @@
 "SpeakingWithVolume" = "\u2068{volume}\u2069 يتحدّث";
 "SponsoredMessageAd" = "إعلان";
 "SponsoredMessageAdWhatIsThis" = "ما هذا؟";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "ما هي الرسائل\nالإعلانية؟";
 "SponsoredMessageInfoDescription1" = "على خلاف التطبيقات الأخرى؛ لا تستخدم تيليجرام أبدًا بياناتك الخاصة لاستهدافك بالإعلانات. تعتمد الرسائل الإعلانية في تيليجرام بشكل أساسي على مواضيع القنوات العامة التي تُعرض فيها. يعني هذا أنه لا يتم استخراج بيانات المستخدمين أو تحليلها لعرض الإعلانات، وأن أي مستخدم يستعرض قناة على تيليجرام سيرى نفس الرسالة الإعلانية.";
 "SponsoredMessageInfoDescription2" = "على خلاف التطبيقات الأخرى؛ لا تراقب تيليجرام ما إذا كنت قد ضغطت على رسالة إعلانية أم لا، ولا تنشئ ملفًا بناءً على نشاطك. لقد حظرنا أيضًا استخدام الروابط الخارجية في الرسائل الإعلانية؛ لضمان عدم تمكن الأطراف الخارجية من التجسس على مستخدمينا. نؤمن أن لكل شخص الحق في الخصوصية، ويجب أن تحترم المنصات التقنية ذلك.";
@@ -1937,7 +1937,7 @@
 "StarsNeededTextSendPaidMessages" = "شراء **النجوم** لإرسال الرسائل.";
 "StarsPay" = "التأكيد ودفع \u2068{amount}\u2069";
 "StarsPerMonth" = "\u2068{amount}\u2069⭐️/ شهر";
-"StarsReactionLink" = "https://telegram.org/tos/stars";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars";
 "StarsReactionLinkText" = "شروط الخدمة";
 "StarsReactionTerms" = "إرسالك النجوم يعني موافقتك على \u2068{link}\u2069";
 "StarsSubscribeBotButtonMonth" = "الاشتراك مقابل \u2068{amount}\u2069 / الشهر";
@@ -1947,7 +1947,7 @@
 "StarsSubscribeBotText#many" = "الاشتراك في **\u2068{name}\u2069** في **\u2068{bot}\u2069** مقابل **\u2068{amount}\u2069** نجمة شهريًا؟";
 "StarsSubscribeBotText#other" = "الاشتراك في **\u2068{name}\u2069** في **\u2068{bot}\u2069** مقابل **\u2068{amount}\u2069** نجمة شهريًا؟";
 "StarsSubscribeInfo" = "اشتراكك يعني موافقتك على \u2068{link}\u2069.";
-"StarsSubscribeInfoLink" = "https://telegram.org/tos/stars";
+"StarsSubscribeInfoLink" = "https://whatsgram.org/tos/stars";
 "StarsSubscribeInfoLinkText" = "شروط الخدمة";
 "StarsSubscribeText#one" = "الاشتراك في **\u2068{chat}\u2069** مقابل **نجمة واحدة** في الشهر؟";
 "StarsSubscribeText#two" = "الاشتراك في **\u2068{chat}\u2069** مقابل **نجمتين** في الشهر؟";
@@ -1955,7 +1955,7 @@
 "StarsSubscribeText#many" = "الاشتراك في **\u2068{chat}\u2069** مقابل **\u2068{amount}\u2069 نجمة** في الشهر؟";
 "StarsSubscribeText#other" = "الاشتراك في **\u2068{chat}\u2069** مقابل **\u2068{amount}\u2069 نجمة** في الشهر؟";
 "StarsTransactionTOS" = "مراجعة \u2068{link}\u2069 لنجوم تيليجرام.";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars";
 "StarsTransactionTOSLinkText" = "شروط الخدمة";
 "StarsTransactionsAll" = "كل العمليات";
 "StarsTransactionsIncoming" = "الواردة";

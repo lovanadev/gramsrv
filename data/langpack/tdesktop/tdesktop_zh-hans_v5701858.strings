@@ -161,7 +161,7 @@
 "cloud_lng_passport_in_uk" = "乌克兰语";
 "cloud_lng_passport_in_uz" = "乌兹别克斯坦语";
 "cloud_lng_passport_in_vi" = "越南语";
-"cloud_lng_tooltip_psa_covid" = "此信息为您提供正在发生的新冠肺炎疫情相关公共服务公告。了解有关此计划的更多咨询：https://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "此信息为您提供正在发生的新冠肺炎疫情相关公共服务公告。了解有关此计划的更多咨询：https://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "这是 Telegram 首席执行官对于目前冲突的正式声明。";
 "cloud_lng_topup_purpose_subs" = "购买**星星**以保持您的频道订阅。";
 "cloud_lng_translate_to_ar" = "阿拉伯语 (العربية)";
@@ -219,7 +219,7 @@
 "lng_about_text2" = "本软件授权于 {gpl_link} 版本 3。\n源代码可以在 {github_link} 取得。";
 "lng_about_text3" = "访问 {faq_link} 获取更多信息。";
 "lng_about_text3_faq" = "Telegram 常见问题";
-"lng_about_text_1" = "基于 [a href=\"https://core.telegram.org/api\"]Telegram API[/a] 的官方免费通讯应用，为快速和安全而生。";
+"lng_about_text_1" = "基于 [a href=\"https://core.whatsgram.org/api\"]Telegram API[/a] 的官方免费通讯应用，为快速和安全而生。";
 "lng_about_text_2" = "本软件基于 [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU 通用公共许可证[/a]第三版协议授权。\n源代码托管于 [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a]。";
 "lng_about_text_3" = "更多详情请查阅 {faq_open}Telegram 常见问题{faq_close}。";
 "lng_about_version" = "v{version}";
@@ -1196,7 +1196,7 @@
 "lng_bot_download_starting" = "开始下载...";
 "lng_bot_earn_available" = "可用余额";
 "lng_bot_earn_balance_about" = "总余额中的星星可用于广告支出，或在获得星星 21 天提取奖励。";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
+"lng_bot_earn_balance_about_url" = "https://whatsgram.org/tos/stars";
 "lng_bot_earn_balance_button#other" = "提取 {emoji} {count}";
 "lng_bot_earn_balance_button_all" = "全部提取";
 "lng_bot_earn_balance_button_buy_ads" = "购买广告";
@@ -1332,7 +1332,7 @@
 "lng_business_about_quick_replies" = "设置包含文本和媒体的快捷方式，以更快地回复消息。";
 "lng_business_about_sponsored" = "作为高级版订阅用户，您在 Telegram 上不会看到任何广告，但您可以选择开启它们，例如查看您自己在 {link} 上发布的广告。";
 "lng_business_about_sponsored_link" = "Telegram 广告平台 {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
+"lng_business_about_sponsored_url" = "https://ads.whatsgram.org";
 "lng_business_button_sponsored" = "不要隐藏广告";
 "lng_business_edit_messages" = "编辑消息";
 "lng_business_limit_reached#other" = "已达 {count} 条消息上限。";
@@ -1505,7 +1505,7 @@
 "lng_channel_earn_learn_bot_in_about" = "Telegram 可以在你的机器人中显示广告。";
 "lng_channel_earn_learn_close" = "明白了";
 "lng_channel_earn_learn_coin_about" = "Gram 是一个区块链平台和加密货币，因其高性能和低佣金而被 Telegram 采用。{link}";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels";
+"lng_channel_earn_learn_coin_link" = "https://whatsgram.org/blog/monetization-for-channels";
 "lng_channel_earn_learn_coin_title" = "什么是 {emoji} Gram？";
 "lng_channel_earn_learn_in_about" = "Telegram 能够在你的频道中展示广告。";
 "lng_channel_earn_learn_in_subtitle" = "Telegram 广告";
@@ -1661,7 +1661,7 @@
 "lng_chatbots_gift_settings" = "更改礼物设置";
 "lng_chatbots_include_button" = "选择聊天";
 "lng_chatbots_included_title" = "包含的聊天";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"lng_chatbots_info_url" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "lng_chatbots_leave_without_added_text" = "您还没新增机器人来管理您的账号。仍然退出？";
 "lng_chatbots_leave_without_added_title" = "未添加机器人";
 "lng_chatbots_manage_gifts" = "管理礼物或星星";
@@ -2097,7 +2097,7 @@
 "lng_credits_box_history_entry_floodskip_row" = "消息";
 "lng_credits_box_history_entry_fragment" = "Fragment";
 "lng_credits_box_history_entry_gift_about_link" = "请查看示例 {emoji}";
-"lng_credits_box_history_entry_gift_about_url" = "https://telegram.org/blog/telegram-stars";
+"lng_credits_box_history_entry_gift_about_url" = "https://whatsgram.org/blog/telegram-stars";
 "lng_credits_box_history_entry_gift_bought" = "购买礼物";
 "lng_credits_box_history_entry_gift_bought_from" = "来自";
 "lng_credits_box_history_entry_gift_converted" = "已转换的礼物";
@@ -2136,7 +2136,7 @@
 "lng_credits_box_history_entry_via" = "通过";
 "lng_credits_box_history_entry_via_premium_bot" = "高级版机器人";
 "lng_credits_box_out_about" = "查看星星的 {link}。";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars";
 "lng_credits_box_out_both" = "{photo} 和 {video}";
 "lng_credits_box_out_confirm#other" = "确认并支付 {emoji} {count} 颗星星";
 "lng_credits_box_out_media#other" = "您是否要花费 **{count} 颗星星** 解锁 {chat} 中的 {media}？";
@@ -2223,7 +2223,7 @@
 "lng_credits_summary_in_toast_title" = "已获得星星!";
 "lng_credits_summary_options_about" = "购买星星即表示您同意 {link}。";
 "lng_credits_summary_options_about_link" = "条款与细则";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars";
+"lng_credits_summary_options_about_url" = "https://whatsgram.org/tos/stars";
 "lng_credits_summary_options_credits#other" = "{count} 颗星星";
 "lng_credits_summary_options_more" = "更多选项";
 "lng_credits_summary_options_subtitle" = "选择套餐";
@@ -3864,7 +3864,7 @@
 "lng_group_invite_subscription" = "需要月费";
 "lng_group_invite_subscription_about" = "向通过此链接加入您频道的用户收取订阅费用。{link}";
 "lng_group_invite_subscription_about_link" = "了解更多 {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "您每月约可获得 {total}";
 "lng_group_invite_subscription_info_subtitle" = "订阅费";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} / 月 {multiplier} {total}";
@@ -4549,7 +4549,7 @@
 "lng_mini_apps_disclaimer_link" = "使用条款";
 "lng_mini_apps_disclaimer_text" = "您即将使用一个 **不属于 Telegram** 的独立第三方小程序。您必须同意小程序使用条款后才能继续。";
 "lng_mini_apps_disclaimer_title" = "警告";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "最小化到托盘";
 "lng_minimize_window" = "最小化";
 "lng_minutes#other" = "{count} 分钟";
@@ -4714,7 +4714,7 @@
 "lng_owner_badge" = "所有者";
 "lng_paid_about" = "用户需将此数量的星星转账至您的频道才能查看此媒体。{link}";
 "lng_paid_about_link" = "更多关于星星的信息 >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars";
 "lng_paid_admin_about" = "观众可以向你发送星星互动。";
 "lng_paid_admin_title" = "接受观众赠送的星星";
 "lng_paid_comment_about" = "通过向 {name} 赠送星星，高亮并置顶您的消息。";
@@ -5190,7 +5190,7 @@
 "lng_popular_apps_info_here" = "此处";
 "lng_popular_apps_info_text" = "此目录根据小程序的每日收入（以星星数量衡量）进行排名。若想要列入清单，开发人员必须在 {bot} 中设定主要小程序（如 {link} 所述） ，该小程序应拥有超过 **1000** 名每日用户，且每日收入超过 **1000** 颗星星（基于每周平均值）。";
 "lng_popular_apps_info_title" = "热门小程序";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
+"lng_popular_apps_info_url" = "https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app";
 "lng_posts_limit_about#other" = "您每天只可以进行 {count} 次搜索";
 "lng_posts_limit_reached" = "已达上线";
 "lng_posts_limit_search_paid" = "花费 {cost} 搜索";
@@ -5470,7 +5470,7 @@
 "lng_profile_bot_help" = "机器人帮助";
 "lng_profile_bot_permissions_title" = "允许访问";
 "lng_profile_bot_privacy" = "机器人隐私政策";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "机器人设置";
 "lng_profile_camera_title" = "拍下自己的照片";
 "lng_profile_changed_photo_about" = "您可以在 {link} 中更改。";
@@ -6492,7 +6492,7 @@
 "lng_settings_export_data" = "导出 Telegram 数据";
 "lng_settings_faq" = "Telegram 常见问题";
 "lng_settings_faq_button" = "前往「常见问题」";
-"lng_settings_faq_link" = "https://telegram.org/faq#general-questions";
+"lng_settings_faq_link" = "https://whatsgram.org/faq#general-questions";
 "lng_settings_faq_subtitle" = "常见问题";
 "lng_settings_features" = "Telegram 功能";
 "lng_settings_file_confirmations" = "文件打开确认";
@@ -6686,7 +6686,7 @@
 "lng_settings_suggestion_password_title" = "您的密码";
 "lng_settings_suggestion_password_yes" = "是的，我确定";
 "lng_settings_suggestion_phone_number_about" = "保持您的号码是最新的，以确保您始终可以登录 Telegram。{link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
+"lng_settings_suggestion_phone_number_about_link" = "https://whatsgram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
 "lng_settings_suggestion_phone_number_change" = "请尽快在您手机上的官方 Telegram 应用中更改您的电话号码。{emoji}";
 "lng_settings_suggestion_phone_number_title" = "您还在继续使用 {phone} 这个号码吗？";
 "lng_settings_system_integration" = "系统集成";
@@ -6880,7 +6880,7 @@
 "lng_sponsored_info_description1" = "与其他软件不同，Telegram 不会利用您的隐私来显示个性化的广告。赞助消息的投放完全基于公开频道的内容。这意味着 Telegram 不会通过挖掘或分析用户信息来显示广告，并且公开频道的所有订阅者都将显示完全相同的赞助消息。\n\n与其他软件不同，Telegram 不会追踪您是否点击赞助消息，更不会基于您的活动信息生成用户画像。与此同时，为了避免来自第三方的窥探，我们还禁止向赞助消息中插入外部链接。我们相信每个人都有保护隐私的权利，而科技平台应该尊重用户的隐私权。\n\nTelegram 向数以亿计的用户提供免费服务的同时，也需要承担由此产生的高昂运营成本，例如服务器和流量开销。为了将 Telegram 的独立自由和价值观延续下去，我们将用户隐私权谨记于心，开发了这套付费赞助消息系统。欢迎有责任的广告商与我们取得联系:";
 "lng_sponsored_info_description1_link" = "在隐私政策中了解更多";
 "lng_sponsored_info_description1_linked" = "与其他应用程序不同，Telegram 从不使用您的私密数据来投放广告。{link}\n与其他应用程序不同，Telegram 不会追踪您是否点击了赞助消息，也不会根据您的活动对您进行画像。我们还禁止赞助消息中的外部链接，以确保第三方无法监控用户。我们相信每个人都拥有隐私权，技术平台应当尊重这一权利。\nTelegram 为数亿用户提供免费且无限制的服务，这涉及大量的服务器和流量成本。为了保持独立并坚持其价值观，Telegram 开发了一款以保护用户隐私为核心的付费推广工具。我们欢迎负责任的广告主加入：";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy#5-6-no-ads-based-on-user-data";
+"lng_sponsored_info_description1_url" = "https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data";
 "lng_sponsored_info_description2" = "赞助商消息目前仍然处于测试阶段。全面启动赞助商消息系统，并且 Telegram 能够平衡运营成本之后，我们将与显示赞助商消息的频道所有者共同分享广告收入。\n\n线上广告不应再是滥用用户隐私的代名词。让我们共同携手，重新定义科技公司的运营模式。";
 "lng_sponsored_info_menu" = "广告商信息";
 "lng_sponsored_info_submenu" = "广告商：{text}";
@@ -7097,7 +7097,7 @@
 "lng_star_ref_start_info" = "创建联盟计划即表示您同意联盟计划的{terms}。";
 "lng_star_ref_stopped" = "该联盟链接已失效。";
 "lng_star_ref_title" = "联盟计划";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program";
+"lng_star_ref_tos_url" = "https://whatsgram.org/tos/affiliate-program";
 "lng_star_ref_transparent_about" = "实时追踪您从推荐用户处获得的佣金。";
 "lng_star_ref_transparent_title" = "透明";
 "lng_star_ref_update" = "更新联盟计划";

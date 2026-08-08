@@ -111,7 +111,7 @@
 "AffiliateProgram.DurationLifetime" = "ўсяго часу";
 "AffiliateProgram.JoinSubtitleMonths_any" = "**{bot}** будзе дзяліцца **{commission}** даходу ад кожнага карыстальніка, якога вы запросіце, на працягу **%d месяцаў.**";
 "AffiliateProgram.JoinSubtitleYears_any" = "На працягу **%d гадоў* вы будзеце атрымліваць **{commission}** даходу **{bot}** ад кожнага карыстальніка, накіраванага вамі.";
-"AffiliateProgram.JoinTerms" = "Далучаючыся да гэтай праграмы, вы згаджаецеся з [умовамі выкарыстання](https://telegram.org/tos/affiliate-program) партнёрскіх праграм";
+"AffiliateProgram.JoinTerms" = "Далучаючыся да гэтай праграмы, вы згаджаецеся з [умовамі выкарыстання](https://whatsgram.org/tos/affiliate-program) партнёрскіх праграм";
 "AffiliateProgram.JoinTitle" = "Партнёрская праграма";
 "AffiliateProgram.LinkSubtitle" = "Абагуліце гэту спасылку для сваіх карыстальнікаў і зарабляйце %1$d камісіі з іх выдаткаў у %2$@ на працягу %3$@ пасля іх пераходу па спасылцы.";
 "AffiliateProgram.LinkSubtitleLifetime" = "Абагуліце гэту спасылку для сваіх карыстальнікаў і зарабляйце **{commission}** камісіі з іх выдаткаў у **{bot}** **заўсёды** пасля іх пераходу па спасылцы.";
@@ -172,7 +172,7 @@
 "AffiliateSetup.StartTitle" = "Запусціць партнёрскую праграму";
 "AffiliateSetup.SuggestedSectionEmpty" = "Пакуль няма даступных праграм.\nПраверце старонку пазней.";
 "AffiliateSetup.SuggestedSectionTitle" = "ПРАГРАМЫ";
-"AffiliateSetup.TermsFooter" = "Ствараючы партнёрскую праграму, вы згаджаецеся з [умовамі выкарыстання](https://telegram.org/terms) партнёрскіх праграм.";
+"AffiliateSetup.TermsFooter" = "Ствараючы партнёрскую праграму, вы згаджаецеся з [умовамі выкарыстання](https://whatsgram.org/terms) партнёрскіх праграм.";
 "AffiliateSetup.TextJoin" = "Зарабляйце камісію кожны раз, калі карыстальнік, які ўпершыню атрымаў доступ да міні-праграмы па вашай накіравальнай спасылцы, выдаткоўвае ў ёй **зоркі**.";
 "AffiliateSetup.TextNew" = "Узнагароджвайце тых, хто дапамагае пашыраць вашу базу карыстальнікаў.";
 "AffiliateSetup.TitleNew" = "Партнёрская праграма";
@@ -407,7 +407,7 @@
 "BoostReassign.Title" = "Змена кірунку падтрымак";
 "Bot.Grossing.Disclaimer" = "Якія праграмы сюды ўваходзяць? [Даведацца >](grossing)";
 "Bot.Grossing.Disclaimer.Alert.Header" = "ТОП міні-праграм";
-"Bot.Grossing.Disclaimer.Alert.Text" = "Гэты каталог ранжыруе міні-праграмы на аснове іх штодзённага даходу, які вымяраецца ў зорках. Каб быць у спісе, распрацоўшчыкі павінны задаць свае асноўныя міні-праграмы ў [@botfather] (як апісана [тут](https://core.telegram.org/api/bots/webapps)), мець больш за **1,000** карыстальнікаў і зарабляць больш за **1,000** зорак штодзень, зыходзячы з сярэдняга штотыднёвага значэння.";
+"Bot.Grossing.Disclaimer.Alert.Text" = "Гэты каталог ранжыруе міні-праграмы на аснове іх штодзённага даходу, які вымяраецца ў зорках. Каб быць у спісе, распрацоўшчыкі павінны задаць свае асноўныя міні-праграмы ў [@botfather] (як апісана [тут](https://core.whatsgram.org/api/bots/webapps)), мець больш за **1,000** карыстальнікаў і зарабляць больш за **1,000** зорак штодзень, зыходзячы з сярэдняга штотыднёвага значэння.";
 "Bot.Grossing.Disclaimer.Alert.ok" = "Зразумела";
 "Bot.InlineAuth.Header" = "Адкрыць спасылку";
 "Bot.InlineAuth.Open" = "Адкрыць";
@@ -420,7 +420,7 @@
 "Bot.TransferOwner.Error.Title" = "Праверка бяспекі";
 "Bot.TransferOwnership.Password.Desc" = "Увядзіце пароль двухэтапнай праверкі, каб завяршыць перадачу.";
 "Bot.TransferOwnership.Password.Title" = "Двухэтапная праверка";
-"BotInfo.LaunchInfo" = "Публікуючы гэтую міні-праграму, вы згаджаецеся з [Умовамі абслугоўвання Telegram для распрацоўшчыкаў](https://telegram.org/tos/mini-apps).";
+"BotInfo.LaunchInfo" = "Публікуючы гэтую міні-праграму, вы згаджаецеся з [Умовамі абслугоўвання Telegram для распрацоўшчыкаў](https://whatsgram.org/tos/mini-apps).";
 "BotInfo.LaunchInfo.User" = "Запускаючы гэтую міні-праграму, вы згаджаецеся з [Умовамі выкарыстання міні-праграм.](%@)";
 "BotInfo.OpenApp" = "Адкрыць праграму";
 "BotUsername.Activate.Info" = "Хочаце паказваць гэту спасылку на старонцы звестак\nбота?";
@@ -1082,7 +1082,7 @@
 "ChannelReactions.Add.Info" = "Вы таксама можаце [стварыць уласны набор]() эмодзі і дадаць іх сюды.";
 "ChannelReactions.EnableReactions.Info" = "Вы можаце дадаваць эмодзі з любога набору эмодзі ў якасці рэакцый.";
 "ChannelReactions.EnableStars" = "Уключыць платныя рэакцыі";
-"ChannelReactions.EnableStars.Info" = "Уключыце гэта, каб падпісчыкі маглі рэагаваць на паведамленні зоркамі Telegram, якія вы зможаце выводзіць як Gram. [Падрабязней >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"ChannelReactions.EnableStars.Info" = "Уключыце гэта, каб падпісчыкі маглі рэагаваць на паведамленні зоркамі Telegram, якія вы зможаце выводзіць як Gram. [Падрабязней >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "ChannelReactions.MaxCount.Info" = "Абмяжуйце колькасць тыпаў рэакцый, якія можна пакінуць, на допісы, у тым ліку на ўжо апублікаваныя.";
 "ChannelReactions.MaxCount.Title" = "Максімальная колькасць рэакцый";
 "ChannelStats.Graph.Followers" = "ПАДПІСЧЫКІ";
@@ -1566,7 +1566,7 @@
 "Chat.Message.Socks5.Config" = "SOCKS5 канфігурацыі";
 "Chat.Message.Sponsored" = "рэклама";
 "Chat.Message.Sponsored.Advertiser" = "Пра рэкламадаўца";
-"Chat.Message.Sponsored.Link" = "https://promote.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://promote.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Што значыць «паведамленні ад спонсара»?";
 "Chat.Message.Suggest.Markup.Approve" = "Ухваліць";
 "Chat.Message.Suggest.Markup.Decline" = "Адхіліць";
@@ -1576,7 +1576,7 @@
 "Chat.Message.Todo.Title.Single" = "Спіс спраў";
 "Chat.Message.UnsendMessages" = "Адклікаць мае паведамленні";
 "Chat.Message.UnsendMessages_countable" = "%d";
-"Chat.Message.Unsupported" = "Гэта паведамленне не падтрымліваецца вашай версіяй Telegram. Вы можаце абнавіць праграму ў AppStore або спампаваць яе адсюль: https://macos.telegram.org";
+"Chat.Message.Unsupported" = "Гэта паведамленне не падтрымліваецца вашай версіяй Telegram. Вы можаце абнавіць праграму ў AppStore або спампаваць яе адсюль: https://macos.whatsgram.org";
 "Chat.Message.UnsupportedNew" = "Гэтае паведамленне не падтрымліваецца вашай версіяй Telegram. Абнавіце праграму да апошняй версіі.";
 "Chat.Message.Via" = "праз";
 "Chat.Message.ViewBot" = "ПРАГЛЕДЗЕЦЬ БОТА";
@@ -2295,7 +2295,7 @@
 "ChatMessage.Recommended.Title" = "Раім вам";
 "ChatMessage.Sponsored.About" = "Аб гэтай рэкламе";
 "ChatMessage.Sponsored.Report" = "Паскардзіцца";
-"ChatMessage.Sponsored.Report.LearnMore" = "Даведайцеся больш аб нашай [палітыцы аб рэкламе](https://ads.telegram.org/guidelines).";
+"ChatMessage.Sponsored.Report.LearnMore" = "Даведайцеся больш аб нашай [палітыцы аб рэкламе](https://ads.whatsgram.org/guidelines).";
 "ChatMessage.Sponsored.Title" = "Рэклама";
 "ChatMessage.Tooltip.Views" = "праглядаў";
 "ChatMessageMenuItems.OnlySubscribersOfCanVote" = "Галасаваць могуць толькі падпісчыкі **%1$@**.";
@@ -3076,7 +3076,7 @@
 "ForwardModalAction.description#many" = "Выберыце карыстальніка або чат, каб пераслаць туды паведамленні ад %@";
 "ForwardModalAction.description#other" = "Выберыце карыстальніка або чат, каб пераслаць туды паведамленні ад %@";
 "ForwardModalAction.description_countable" = "%d %@";
-"Fragment.AdsInfo.Block.Text" = "Любы можа заказаць рэкламу ў гэтым канале — нават з маленькім бюджэтам. Уся інфармацыя даступна на **платформе рэкламы Telegram**, каб даведацца больш. [Даведацца больш >](https://telegram.org)";
+"Fragment.AdsInfo.Block.Text" = "Любы можа заказаць рэкламу ў гэтым канале — нават з маленькім бюджэтам. Уся інфармацыя даступна на **платформе рэкламы Telegram**, каб даведацца больш. [Даведацца больш >](https://whatsgram.org)";
 "Fragment.AdsInfo.Block.Title" = "А можна мне заказаць рэкламу?";
 "Fragment.AdsInfo.Option1.Info" = "Рэклама ў Telegram не ўжывае ніякіх персанальных звестак і засноўваецца толькі на тэме канала, у якім вы яе бачыце.";
 "Fragment.AdsInfo.Option1.Title" = "Паважаюць вашу прыватнасць";
@@ -3299,9 +3299,9 @@
 "Gift.Upgrade.Unique.Title" = "Унікальны";
 "Gift.Upgrade.Upgrade" = "Палепшыць";
 "Gift.View.DisplayedInfoHide" = "Падарунак бачны ў вашым профілю. [Схаваць >]()";
-"Gift.View.KeepOrConvertDescription.Channel" = "Ваш канал можа захаваць гэты падарунак у свой профіль або пераўтварыць яго ў %@. [Падрабязней аб зорках >](https://telegram.org)";
+"Gift.View.KeepOrConvertDescription.Channel" = "Ваш канал можа захаваць гэты падарунак у свой профіль або пераўтварыць яго ў %@. [Падрабязней аб зорках >](https://whatsgram.org)";
 "Gift.View.KeepUpgradeOrConvertDescription" = "Вы можаце пакінуць гэты падарунак сабе, палепшыць яго, або прадаць яго за  %@. [Больш аб зорках >]()";
-"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "Ваш канал можа пакінуць гэты падарунак, палепшыць яго або прадаць за %@. [Больш пра зоркі >](https://telegram.org)";
+"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "Ваш канал можа пакінуць гэты падарунак, палепшыць яго або прадаць за %@. [Больш пра зоркі >](https://whatsgram.org)";
 "Gift.View.Status" = "Статус";
 "Gift.View.Status.NonUnique" = "Не ўнікальны";
 "Gift.View.Status.Upgrade" = "палепшыць";
@@ -3657,7 +3657,7 @@
 "InviteLink.Sticker.Revoked" = "• адкліканая";
 "InviteLink.Sticker.TimeLeft" = "дзейнічае да %@";
 "InviteLink.Sub.Amount.Placeholder" = "Колькасць зорак на месяц";
-"InviteLink.Sub.Info" = "Увядзіце плату за падпіску для людзей, якія далучаюцца да вашага канала праз гэтую спасылку. [Падрабязней >](https://telegram.org)";
+"InviteLink.Sub.Info" = "Увядзіце плату за падпіску для людзей, якія далучаюцца да вашага канала праз гэтую спасылку. [Падрабязней >](https://whatsgram.org)";
 "InviteLink.Sub.Info.Editing" = "Каб змяніць плату за падпіску, стварыце новую запрашальную спасылку з іншай цаною.";
 "InviteLink.Sub.ReqApproval" = "Вы не можаце ўключыць ухваленне кіраўніка для спасылак, якія патрабуюць штомесячнай платы.";
 "InviteLink.Sub.Text" = "Патрабаваць штомесячную плату";
@@ -3981,8 +3981,8 @@
 "Modal.Share" = "Абагуліць";
 "Modal.Yes" = "ТАК";
 "Monetization.AdRevenueTitle" = "УЗНАГАРОДЫ ЗА РЭКЛАМУ";
-"Monetization.Balance.ComingLaterInfo" = "Праз некалькі тыдняў вы зможаце забраць сваю ўзнагароду праз Fragment – платформу пабочных распрацоўшчыкаў, якою карыстаюцца рэкламадаўцы, каб аплаціць рэкламу. [Умовы выкарыстання >](https://telegram.org/tos/content-creator-rewards)";
-"Monetization.BalanceInfo" = "Вы можаце вывесці свае сродкі праз Fragment, платформу ад пабочных распрацоўшчыкаў, праз якую рэкламадаўцы аплачваюць рэкламу. [Даведацца больш](https://telegram.org/blog/monetization-for-channels)";
+"Monetization.Balance.ComingLaterInfo" = "Праз некалькі тыдняў вы зможаце забраць сваю ўзнагароду праз Fragment – платформу пабочных распрацоўшчыкаў, якою карыстаюцца рэкламадаўцы, каб аплаціць рэкламу. [Умовы выкарыстання >](https://whatsgram.org/tos/content-creator-rewards)";
+"Monetization.BalanceInfo" = "Вы можаце вывесці свае сродкі праз Fragment, платформу ад пабочных распрацоўшчыкаў, праз якую рэкламадаўцы аплачваюць рэкламу. [Даведацца больш](https://whatsgram.org/blog/monetization-for-channels)";
 "Monetization.BalanceTitle" = "ДАСТУПНА";
 "Monetization.BalanceWithdraw" = "Атрымаць праз Fragment";
 "Monetization.Header" = "У якасці ўзнагароды Telegram перанакіроўвае вам 50%@ даходу ад рэкламы, паказваемай у вашым канале. [Даведацца больш]()";
@@ -4004,7 +4004,7 @@
 "Monetization.Overview.Current" = "Даходы пасля апошняга атрымання";
 "Monetization.Overview.Total" = "Агульны даход за ўвесь час";
 "Monetization.OverviewTitle" = "АГЛЯД ДАХОДАЎ";
-"Monetization.Stars.WithdrawInfo" = "Вы можаце вывесці зоркі праз Fragment ці выкарыстаць іх на рэкламу свайго бота. [Падрабязней >](https://telegram.org)";
+"Monetization.Stars.WithdrawInfo" = "Вы можаце вывесці зоркі праз Fragment ці выкарыстаць іх на рэкламу свайго бота. [Падрабязней >](https://whatsgram.org)";
 "Monetization.Stars.WithdrawTitle" = "БАЛАНС ЗОРАК";
 "Monetization.SwitchOffAds" = "Адключыць рэкламу";
 "Monetization.SwitchOffAdsInfo" = "Вы не будзеце атрымліваць узнагароду, калі адключыце рэкламу.";
@@ -4252,7 +4252,7 @@
 "PHONE_NUMBER_INVALID" = "Памылковы нумар тэлефона";
 "PINNED_INVOICE" = "%1$@ замацаваў(-ла) рахунак";
 "PaidMedia.Header" = "УВЯДЗІЦЕ КОШТ ДОСТУПУ";
-"PaidMedia.Info" = "Для прагляду гэтага медыя, карыстальнікам трэба будзе перавесці вашаму каналу гэту колькасць зорак. [Падрабязней аб зорках >](https://telegram.org/blog/telegram-stars)";
+"PaidMedia.Info" = "Для прагляду гэтага медыя, карыстальнікам трэба будзе перавесці вашаму каналу гэту колькасць зорак. [Падрабязней аб зорках >](https://whatsgram.org/blog/telegram-stars)";
 "PaidMedia.Ok" = "Зрабіць гэтае медыя платным";
 "PaidMedia.Placeholder" = "Зорак за доступ";
 "PaidMedia.Title" = "Платнае змесціва";
@@ -5897,7 +5897,7 @@
 "Star.List.StarsNeeded#other" = "Не хапае %d зорак";
 "Star.List.TelegramStars" = "Зоркі Telegram";
 "Star.List.TopUp" = "Папоўніць";
-"Star.List.Tos" = "Працягваючы і купляючы зоркі, вы выказваеце згоду з [Умовамі выкарыстання](https://telegram.org).";
+"Star.List.Tos" = "Працягваючы і купляючы зоркі, вы выказваеце згоду з [Умовамі выкарыстання](https://whatsgram.org).";
 "Star.List.Transaction.AppStore" = "App Store";
 "Star.List.Transaction.Fragment" = "Fragment";
 "Star.List.Transaction.PlayMarket" = "Google Play";
@@ -5948,7 +5948,7 @@
 "Star.Transaciton.ReferredUser" = "Накіраваны карыстальнік";
 "Star.Transaction.Availability" = "Наяўнасць";
 "Star.Transaction.Availability.OfLeft" = "Засталося %1$@ з %2$@";
-"Star.Transaction.BotTos" = "Падпісваючыся, вы згаджаецеся з [Умовамі абслугоўвання](https://telegram.org)";
+"Star.Transaction.BotTos" = "Падпісваючыся, вы згаджаецеся з [Умовамі абслугоўвання](https://whatsgram.org)";
 "Star.Transaction.Button.GiftUpgrade" = "Падарыць паляпшэнне";
 "Star.Transaction.Commission" = "Камісія";
 "Star.Transaction.ConvertAlert.Header" = "Абмяняць падарунак на зоркі";
@@ -5987,7 +5987,7 @@
 "Star.Transaction.StarGift.HideFromMyPage.Alert" = "Падарунак не паказваецца ў вашым профілі.";
 "Star.Transaction.To" = "Каму";
 "Star.Transaction.Ton.Description" = "Выкарыстоўвайце Gram для куплі падарункаў і прапановы допісаў каналам.";
-"Star.Transaction.Tos" = "Азнаёмцеся з [Умовамі выкарыстання](https://telegram.org) для «зорак».";
+"Star.Transaction.Tos" = "Азнаёмцеся з [Умовамі выкарыстання](https://whatsgram.org) для «зорак».";
 "Star.Transaction.UnknwonUser" = "https://fragment.com/stars";
 "Star.Transaction.Value" = "Вартасць";
 "Star.Transaction.Visibility" = "Бачнасць";
@@ -6069,7 +6069,7 @@
 "StarGift.Value.Source.Telegram" = "Telegram";
 "StarGift.ViewAllVariants" = "%1$@ Праглядзець усе варыянты >";
 "StarList.Ton" = "TON";
-"StarList.Ton.Withdraw.Info" = "Выводзьце вашы Gram праз Fragment. [Падрабязней >](telegram.org)";
+"StarList.Ton.Withdraw.Info" = "Выводзьце вашы Gram праз Fragment. [Падрабязней >](whatsgram.org)";
 "StarList.TonInfo" = "Адпраўляйце каналам у Telegram прапановы публікацый узамен на TON";
 "StarTransaction.GiftRefundedInfo" = "Паляпшэнне гэтага падарунка скасавана, бо быў зроблены запыт на вяртанне плацяжу за яго, і грошы былі вернуты.";
 "Stars.Balance.BuyAds" = "Купіць рэкламу";
@@ -6113,7 +6113,7 @@
 "Stars.Purchase.Subscribe.Info#other" = "Хочаце падпісацца на **%@** за **%d** зоркі штомесяц?";
 "Stars.Purchase.UpgradeStarGiftInfo" = "Купіце зоркі, каб палепшыць свой падарунак да ўнікальнага калекцыйнага.";
 "Stars.ReactScreen.Anonymous" = "Ананім";
-"Stars.ReactScreen.Footer" = "Адпраўляючы зоркі, вы згаджаецеся з [Умовамі абслугоўвання](https://telegram.org).";
+"Stars.ReactScreen.Footer" = "Адпраўляючы зоркі, вы згаджаецеся з [Умовамі абслугоўвання](https://whatsgram.org).";
 "Stars.ReactScreen.Info" = "Выберыце, колькі зорак вы жадаеце адправіць для **%@**, каб падтрымаць гэты допіс.";
 "Stars.ReactScreen.SentValue#one" = "Вы падтрымалі гэты допіс %d зоркаю.";
 "Stars.ReactScreen.SentValue#few" = "Вы падтрымалі гэты допіс %d зоркамі.";
@@ -7239,7 +7239,7 @@
 "WebAuthorizations.LogoutAll.Description" = "Вы можаце ўвайсці праз Telegram на сайты, якія падтрымліваюць гэта.";
 "WebBot.Account.Desclaimer.Desc" = "Скароты **%@** будуць дададзены ў меню далучэнняў і ў бакавое меню.";
 "WebBot.Account.Disclaimer.Text" = "Вы збіраецеся адкрыць міні-праграму, якую стварыла незалежная група распрацоўшчыкаў, **не звязаная з Telegram**. Вы павінны згадзіцца з Умовамі выкарыстання міні-праграм, каб працягнуць.";
-"WebBot.Account.Disclaimer.Third" = "Я прымаю [Умовы выкарыстання](https://telegram.org/tos/mini-apps)";
+"WebBot.Account.Disclaimer.Third" = "Я прымаю [Умовы выкарыстання](https://whatsgram.org/tos/mini-apps)";
 "WebBot.Account.Disclaimer.Title" = "Умовы выкарыстання";
 "Webapp.AllowMessages.Title" = "Дазволіць адпраўку паведамленняў?";
 "Webapp.Document.Download" = "Спампаваць дакумент";
@@ -7312,14 +7312,14 @@
 "psa.chat.alert.learnmore" = "Даведацца больш";
 "psa.chat.alert.learnmore.covid" = "Даведацца больш";
 "psa.chat.alert.learnmore.psa" = "Даведацца больш";
-"psa.chat.text.covid" = "Гэта паведамленне падаецца вам службай саціяльнай рэкламы. Даведайцеся больш аб гэтай ініцыятыве па спасылцы \nhttps://telegram.org/blog/coronavirus";
+"psa.chat.text.covid" = "Гэта паведамленне падаецца вам службай саціяльнай рэкламы. Даведайцеся больш аб гэтай ініцыятыве па спасылцы \nhttps://whatsgram.org/blog/coronavirus";
 "psa.chat.text.psa" = "Гэта афіцыйнае паведамленне ад кіраўніка Telegram датычна бягучага канфлікту.";
 "psa.chat.title" = "Публічнае апавяшчэнне";
 "psa.chatlist" = "PSA";
 "psa.chatlist.covid" = "COVID-19";
 "psa.chatlist.psa" = "Аб’ява";
 "psa.text" = "Гэта паведамленне ўтрымлівае публічнае апавяшчэнне со спіса вашых чатаў";
-"psa.text.covid" = "Гэта паведамленне падаецца вам службай саціяльнай рэкламы. Даведайцеся больш аб гэтай ініцыятыве па спасылцы \nhttps://telegram.org/blog/coronavirus";
+"psa.text.covid" = "Гэта паведамленне падаецца вам службай саціяльнай рэкламы. Даведайцеся больш аб гэтай ініцыятыве па спасылцы \nhttps://whatsgram.org/blog/coronavirus";
 "psa.text.psa" = "Гэта афіцыйнае паведамленне ад кіраўніка Telegram датычна бягучага канфлікту.";
 "psa.title" = "Апавяшчэнне";
 "psa.title.bubbles" = "Апавяшчэнне\nад: [%@]()";

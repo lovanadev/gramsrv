@@ -1009,7 +1009,7 @@
 "Chat.Message.Ad.Text" = "Contrairement à d'autres applications, Telegram n'utilise jamais vos données personnelles pour du ciblage de publicité. Les messages sponsorisés sur Telegram sont uniquement basés sur le sujet des canaux publics dans lesquels ils sont affichés. Cela signifie qu'aucune donnée utilisateur n'est exploitée ou analysée pour afficher des publicités, et que tous les utilisateurs consultant un canal sur Telegram visualisent les mêmes messages sponsorisés.\n\nContrairement à d'autres applications, Telegram ne vérifie pas si vous avez cliqué sur un message sponsorisé et ne vous profile pas en fonction de votre activité. Nous empêchons également les liens externes dans les messages sponsorisés afin de garantir que les tiers ne puissent pas espionner nos utilisateurs. Nous pensons que chacun a un droit à la confidentialité et que les plateformes numériques doivent respecter ce principe.\n\nTelegram offre un service gratuit et illimité à des centaines de millions d'utilisateurs, ce qui implique des coûts de serveur et de trafic importants. Afin de rester indépendant et fidèle à ses valeurs, Telegram a développé un outil payant pour promouvoir des messages en respectant la vie privée des utilisateurs. Nous invitons les annonceurs à consulter la page suivante :\n%@\n\nLes messages sponsorisés sont actuellement en mode test. Une fois qu'ils seront pleinement déployés et permettront à Telegram de couvrir ses coûts de fonctionnement, nous commencerons à partager les revenus publicitaires avec les propriétaires des canaux publics dans lesquels les messages sponsorisés sont affichés.\n\nLes publicités en ligne ne doivent plus être synonymes d'abus de la vie privée des utilisateurs. Redéfinissons ensemble le mode de fonctionnement d'une entreprise numérique.";
 "Chat.Message.RequestToJoin" = "DEMANDER À REJOINDRE";
 "Chat.Message.SendMessage" = "ENVOYER LE MESSAGE";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Qu'est-ce que les messages sponsorisés ?";
 "Chat.Message.ViewApp" = "LANCER L'APPLICATION";
 "Chat.Message.ViewBot" = "VOIR LE BOT";
@@ -1173,7 +1173,7 @@
 "ChatList.Filter.NonContacts" = "Non-contacts";
 "ChatList.Filter.ReadChats" = "Lus";
 "ChatList.Main.EmptyPlaceholder.Subtitle" = "Vous avez %s sur Telegram";
-"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "Utilisez l'application Telegram sur votre appareil [Android(https://telegram.org/android) ou [iOS](https://telegram.org/dl/ios) pour synchroniser vos contacts.";
+"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "Utilisez l'application Telegram sur votre appareil [Android(https://whatsgram.org/android) ou [iOS](https://whatsgram.org/dl/ios) pour synchroniser vos contacts.";
 "ChatList.Main.EmptyPlaceholder.Title" = "Vos échanges seront affichés ici";
 "ChatList.Menu.SwitchTo.A" = "Passer à la version A";
 "ChatList.Menu.SwitchTo.Webogram" = "Passer à l'ancienne version";
@@ -1898,7 +1898,7 @@
 "InviteLink.Observe.Fee.Subtitle" = "vous obtenez environ %s par mois";
 "InviteLink.Observe.Fee.Title" = "%s / mois x %d";
 "InviteLink.Sticker.TimeLeft" = "expire dans %@";
-"InviteLink.Subscription.Caption" = "Faites payer un abonnement aux personnes qui rejoignent votre canal avec ce lien. [En savoir plus >](https://telegram.org/)";
+"InviteLink.Subscription.Caption" = "Faites payer un abonnement aux personnes qui rejoignent votre canal avec ce lien. [En savoir plus >](https://whatsgram.org/)";
 "InviteLink.Subscription.Edit" = "Pour changer le prix de l'abonnement, créez un nouveau lien d'invitation avec un prix différent.";
 "InviteLink.Subscription.Placeholder" = "Nombre d'étoiles par mois";
 "InviteLink.Subscription.Price" = "~%s / mois";
@@ -2310,8 +2310,8 @@
 "Message.Context.Selection.SendNow" = "Envoyer la sélection maintenant";
 "Message.Context.Unpin" = "Désépingler";
 "Message.ReplyActionButtonShowReceipt" = "Afficher le reçu";
-"Message.Unsupported.Desktop" = "__Ce message n'est actuellement pas pris en charge par Telegram Web. Essayez [getdesktop.telegram.org](https://getdesktop.telegram.org/)__";
-"Message.Unsupported.Mobile" = "__Ce message n'est actuellement pas pris en charge par Telegram Web. Essayez [telegram.org/dl](https://telegram.org/dl/)__";
+"Message.Unsupported.Desktop" = "__Ce message n'est actuellement pas pris en charge par Telegram Web. Essayez [getdesktop.whatsgram.org](https://getdesktop.whatsgram.org/)__";
+"Message.Unsupported.Mobile" = "__Ce message n'est actuellement pas pris en charge par Telegram Web. Essayez [whatsgram.org/dl](https://whatsgram.org/dl/)__";
 "MessageContainsEmojiPack" = "Ce message contient des emoji du lot %s.";
 "MessageContainsEmojiPacks#other" = "Ce message contient des emoji de **%d lots**.";
 "MessageContainsReactionPack" = "Cette réaction est un emoji du lot %s.";
@@ -2714,8 +2714,8 @@
 "PeerInfo.Action.LiveStream" = "Diffusion en direct";
 "PeerInfo.Action.VoiceChat" = "Salon vidéo";
 "PeerInfo.Administrators" = "Administrateurs";
-"PeerInfo.AppFooter" = "En lançant cette mini-application, vous acceptez les [Conditions d'utilisation des mini-applications](https://telegram.org/privacy).";
-"PeerInfo.AppFooterAdmin" = "En publiant cette mini-application, vous acceptez les [Conditions d'utilisation de Telegram pour les développeurs](https://telegram.org/privacy).";
+"PeerInfo.AppFooter" = "En lançant cette mini-application, vous acceptez les [Conditions d'utilisation des mini-applications](https://whatsgram.org/privacy).";
+"PeerInfo.AppFooterAdmin" = "En publiant cette mini-application, vous acceptez les [Conditions d'utilisation de Telegram pour les développeurs](https://whatsgram.org/privacy).";
 "PeerInfo.DeleteChannel" = "Supprimer le canal";
 "PeerInfo.DeleteContact" = "Supprimer le contact";
 "PeerInfo.Discussion" = "Discussion";
@@ -3114,7 +3114,7 @@
 "Report2CommentOptional" = "Ajouter un commentaire (optionnel)";
 "Report2Send" = "Envoyer le signalement";
 "ReportAd" = "Signaler la publicité";
-"ReportAdLearnMore" = "En savoir plus sur nos [politiques publicitaires et lignes directrices](https://ads.telegram.org/guidelines).";
+"ReportAdLearnMore" = "En savoir plus sur nos [politiques publicitaires et lignes directrices](https://ads.whatsgram.org/guidelines).";
 "ReportBug" = "Signaler un bug";
 "ReportChat" = "Signaler";
 "ReportChatChild" = "Abus de mineur";
@@ -3178,7 +3178,7 @@
 "RevenueSharingAdsInfo3Subtitle" = "Vous pouvez désactiver les publicités en vous abonnant à **Telegram Premium**, et les canaux de niveau %1$s peuvent les supprimer pour leurs abonnés.";
 "RevenueSharingAdsInfo3Title" = "Peuvent être retirées";
 "RevenueSharingAdsInfo4Subtitle2" = "Tout le monde peut créer une publicité à afficher dans ce canal avec un budget minimal. Pour plus de détails, consultez la **plate-forme publicitaire Telegram**. %1$s";
-"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[En savoir plus >](https://ads.telegram.org/fr)**";
+"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[En savoir plus >](https://ads.whatsgram.org/fr)**";
 "RevenueSharingAdsInfo4Title" = "Puis-je créer ma publicité ?";
 "RevokeAlert" = "Voulez-vous vraiment révoquer ce lien ? Une fois révoqué, plus personne ne pourra l'utiliser.";
 "RevokeButton" = "Révoquer";
@@ -3715,7 +3715,7 @@
 "Stars.Subscribe.Button" = "S'abonner";
 "Stars.Subscribe.Description" = "Voulez-vous vous abonner à **%s** pour **%s** par mois ?";
 "Stars.Subscribe.Need" = "Achetez des **étoiles** et utilisez-les pour vous abonner à des canaux.";
-"Stars.Subscribe.Terms" = "En vous abonnant, vous acceptez les [conditions d'utilisation](https://telegram.org).";
+"Stars.Subscribe.Terms" = "En vous abonnant, vous acceptez les [conditions d'utilisation](https://whatsgram.org).";
 "Stars.Subscribe.Title" = "S'abonner au canal";
 "Stars.Subscription" = "Abonnement";
 "Stars.Subscription.Active" = "Si vous annulez maintenant, vous pourrez encore accéder à votre abonnement jusqu'au %s.";
@@ -3735,13 +3735,13 @@
 "Stars.Subscriptions.Expires" = "expire le %s";
 "Stars.Subscriptions.PerMonth" = "par mois";
 "Stars.Subscriptions.Renews" = "se renouvelle le %s";
-"Stars.TOS" = "En continuant et en achetant des étoiles, vous acceptez les [conditions d'utilisation](https://telegram.org/tos/fr).";
+"Stars.TOS" = "En continuant et en achetant des étoiles, vous acceptez les [conditions d'utilisation](https://whatsgram.org/tos/fr).";
 "Stars.TopUp" = "Recharge d'étoiles";
 "Stars.TopUp.Enough" = "Vous avez actuellement assez d'étoiles. [Acheter quand même]()";
 "Stars.TopUp.Label_default" = "Achetez des étoiles pour débloquer du contenu et des services\ndans des mini-applications sur Telegram.";
 "Stars.TopUp.Label_stargift" = "Achetez des **étoiles** pour envoyer des cadeaux.";
 "Stars.TopUp.Reaction" = "Achetez des **étoiles** et envoyez-les à **%s** pour soutenir leurs publications.";
-"Stars.TransactionTOS" = "Consultez les **[Conditions d'utilisation](https://telegram.org/tos/fr)** pour les étoiles.";
+"Stars.TransactionTOS" = "Consultez les **[Conditions d'utilisation](https://whatsgram.org/tos/fr)** pour les étoiles.";
 "Stars.Unlock" = "Voulez-vous débloquer %s dans **%s** pour **%s** ?";
 "Stars.Unlock.FromBot" = "Voulez-vous débloquer %s de **%s** pour **%s** ?";
 "Stars.Unlock.Media" = "%s et %s";
@@ -4242,8 +4242,8 @@
 "Verified.Channel" = "Ce canal est certifié par Telegram.";
 "Verified.Group" = "Ce groupe est certifié par Telegram.";
 "ViaBot" = "avec";
-"Video.Unsupported.Desktop" = "__Malheureusement, cette vidéo ne peut pas être lue sur Telegram Web. Essayez de l'ouvrir avec notre [application de bureau](https://getdesktop.telegram.org/) à la place.__";
-"Video.Unsupported.Mobile" = "__Malheureusement, cette vidéo ne peut pas être lue sur Telegram Web. Essayez plutôt de l'ouvrir avec notre [application mobile](https://telegram.org/dl/).__";
+"Video.Unsupported.Desktop" = "__Malheureusement, cette vidéo ne peut pas être lue sur Telegram Web. Essayez de l'ouvrir avec notre [application de bureau](https://getdesktop.whatsgram.org/) à la place.__";
+"Video.Unsupported.Mobile" = "__Malheureusement, cette vidéo ne peut pas être lue sur Telegram Web. Essayez plutôt de l'ouvrir avec notre [application mobile](https://whatsgram.org/dl/).__";
 "VideoCall" = "Appel vidéo";
 "Videos#one" = "%d vidéo";
 "Videos#other" = "%d vidéos";
@@ -4312,7 +4312,7 @@
 "WebApp.InstallBot" = "Installer le bot";
 "WebApp.WriteAccess.Description" = "Autoriser %s à envoyer des messages ?";
 "WebApp.WriteAccess.Title" = "Autoriser l'envoi de messages";
-"WebAppDisclaimerUrl" = "https://telegram.org/tos/mini-apps/fr";
+"WebAppDisclaimerUrl" = "https://whatsgram.org/tos/mini-apps/fr";
 "WebPage.InstantView" = "APERÇU INSTANTANÉ";
 "WebPage.OpenLink" = "OUVRIR LE LIEN";
 "WebPage.RemovePreview" = "Retirer l'aperçu";

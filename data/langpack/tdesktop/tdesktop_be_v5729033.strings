@@ -99,7 +99,7 @@
 "cloud_lng_passport_in_uk" = "па-ўкраінску";
 "cloud_lng_passport_in_uz" = "па-ўзбекску";
 "cloud_lng_passport_in_vi" = "па-в’етнамску";
-"cloud_lng_tooltip_psa_covid" = "Гэта паведамленне падаецца вам службай саціяльнай рэкламы. Даведайцеся больш аб гэтай ініцыятыве па спасылцы \nhttps://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "Гэта паведамленне падаецца вам службай саціяльнай рэкламы. Даведайцеся больш аб гэтай ініцыятыве па спасылцы \nhttps://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "Гэта афіцыйнае паведамленне ад кіраўніка Telegram датычна бягучага канфлікту.";
 "cloud_lng_topup_purpose_subs" = "Купіце **зоркі**, каб прадоўжыць вашы падпіскі на каналы.";
 "cloud_lng_translate_to_ar" = "арабскую";
@@ -157,7 +157,7 @@
 "lng_about_text2" = "Гэтае праграмнае забеспячэнне распаўсюджваецца паводле ліцэнзіі {gpl_link} версіі 3.\nЗыходны код даступны на {github_link}.";
 "lng_about_text3" = "Праглядзіце {faq_link}, каб даведацца больш.";
 "lng_about_text3_faq" = "Частыя пытанні";
-"lng_about_text_1" = "Афіцыйная бясплатная праграма, заснаваная на [a href=\"https://core.telegram.org/api\"]API Telegram[/a]\nдля хуткасці і бяспекі.";
+"lng_about_text_1" = "Афіцыйная бясплатная праграма, заснаваная на [a href=\"https://core.whatsgram.org/api\"]API Telegram[/a]\nдля хуткасці і бяспекі.";
 "lng_about_text_2" = "Гэта праграма распаўсюджваецца па ліцэнзіі [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] 3 версіі.\nЗыходны код даступны на [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a].";
 "lng_about_text_3" = "Праглядзіце {faq_open}частыя пытанні{faq_close}, каб даведацца больш.";
 "lng_about_version" = "версія {version}";
@@ -2238,7 +2238,7 @@
 "lng_credits_box_history_entry_via" = "Праз";
 "lng_credits_box_history_entry_via_premium_bot" = "Premium Bot";
 "lng_credits_box_out_about" = "Азнаёмцеся з {link} для зорак.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars";
 "lng_credits_box_out_both" = "{photo} і {video}";
 "lng_credits_box_out_confirm#one" = "Пацвердзіць і заплаціць {emoji} {count} зорку";
 "lng_credits_box_out_confirm#few" = "Пацвердзіць і заплаціць {emoji} {count} зоркі";
@@ -4907,7 +4907,7 @@
 "lng_mini_apps_disclaimer_link" = "Умовамі выкарыстання";
 "lng_mini_apps_disclaimer_text" = "Вы збіраецеся адкрыць міні-праграму, якую стварыла незалежная група распрацоўшчыкаў, **не звязаная з Telegram**. Вы павінны згадзіцца з Умовамі выкарыстання міні-праграм, каб працягнуць.";
 "lng_mini_apps_disclaimer_title" = "Увага";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "Схаваць у вобласць апавяшчэнняў";
 "lng_minutes#one" = "{count} хвіліну";
 "lng_minutes#few" = "{count} хвіліны";
@@ -5925,7 +5925,7 @@
 "lng_profile_bot_help" = "Дапамога бота";
 "lng_profile_bot_permissions_title" = "Дазволіць доступ да";
 "lng_profile_bot_privacy" = "Палітыка прыватнасці бота";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "Налады бота";
 "lng_profile_camera_title" = "Сфатаграфаваць сябе";
 "lng_profile_changed_photo_about" = "Вы можаце змяніць гэта ў {link}.";

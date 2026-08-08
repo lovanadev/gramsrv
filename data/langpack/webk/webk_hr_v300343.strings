@@ -307,7 +307,7 @@
 "AdminRights.Other" = "Ostalo";
 "AdminRights.PostStories" = "Objavljivanje priča";
 "Administrators" = "Administratori";
-"Ads.Reported" = "Pregledat ćemo ovaj oglas kako bismo bili sigurni da je u skladu s našim **[pravilima i smjernicama za oglase](https://ads.telegram.org/guidelines)**.";
+"Ads.Reported" = "Pregledat ćemo ovaj oglas kako bismo bili sigurni da je u skladu s našim **[pravilima i smjernicama za oglase](https://ads.whatsgram.org/guidelines)**.";
 "AgeVerification.Action" = "Potvrdi moju dob";
 "AgeVerification.Failed" = "Nažalost, ne možete vidjeti 18+ sadržaj.";
 "AgeVerification.Text" = "Za pristup takvom sadržaju morate potvrditi da imate najmanje **18** godina.\n\nOvo je jednokratni postupak koji koristi kameru vašeg telefona. Telegram neće pohraniti vašu sliku.";
@@ -1040,7 +1040,7 @@
 "Chat.Message.Ad.Text" = "Za razliku od drugih aplikacija, Telegram nikada ne koristi vaše privatne podatke za ciljane oglase. Sponzorirane poruke na Telegramu temelje se isključivo na temi javnog kanala na kojem su prikazane. To znači da se za prikaz oglasa ne traže niti analiziraju korisnički podaci, a svaki korisnik koji gleda kanal na Telegramu vidi istu sponzoriranu poruku.\n\nZa razliku od drugih aplikacija, Telegram nikada ne prati koju ste sponzoriranu poruku otvorili i ne profilira vas na temelju vaše aktivnosti. Također sprječavamo vanjske linkove u sponzoriranim porukama kako bismo osigurali da treće strane ne mogu špijunirati naše korisnike. Smatramo da svatko ima pravo na privatnost, a tehnološke platforme bi to trebale poštivati.\n\nTelegram nudi besplatne i neograničene usluge stotinama milijuna korisnika, što uključuje značajne troškove za podatkovni promet i održavanje servera. Kako bi ostao neovisan i vjeran svojim vrijednostima, Telegram je razvio alat za promociju poruka imajući na umu privatnost korisnika. Pozivamo odgovorne oglašivače da posjete:\n\n%@\n\nSponzorirane poruke trenutno su u testnom načinu rada. Nakon što u potpunosti budu dostupne i omoguće Telegramu da pokrije svoje osnovne troškove, počet ćemo dijeliti prihod od oglasa s vlasnicima javnih kanala na kojima se prikazuju sponzorirane poruke.\n\nOglasi više ne smiju biti sinonim za zlouporabu privatnosti korisnika. Zajedno ćemo pokazati kako bi to sve tehnološke tvrtke trebale raditi.";
 "Chat.Message.RequestToJoin" = "ZATRAŽI PRISTUP";
 "Chat.Message.SendMessage" = "POŠALJI PORUKU";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Što su sponzorirane poruke?";
 "Chat.Message.ViewApp" = "POKRENI APLIKACIJU";
 "Chat.Message.ViewBot" = "POGLEDAJ BOT";
@@ -1205,7 +1205,7 @@
 "ChatList.Filter.NonContacts" = "Nisu kontakti";
 "ChatList.Filter.ReadChats" = "Pročitani";
 "ChatList.Main.EmptyPlaceholder.Subtitle" = "Imate %s na Telegramu";
-"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "Koristite aplikaciju Telegram na svom [Android] (https://telegram.org/android) ili [iOS] (https://telegram.org/dl/ios) uređaju za sinkronizaciju kontakata";
+"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "Koristite aplikaciju Telegram na svom [Android] (https://whatsgram.org/android) ili [iOS] (https://whatsgram.org/dl/ios) uređaju za sinkronizaciju kontakata";
 "ChatList.Main.EmptyPlaceholder.Title" = "Vaši razgovori će biti ovdje";
 "ChatList.Menu.SwitchTo.A" = "Prebaci na A verziju";
 "ChatList.Menu.SwitchTo.Webogram" = "Prebaci na staru verziju";
@@ -1965,7 +1965,7 @@
 "InviteLink.Observe.Fee.Subtitle" = "Dobivate otprilike %s mjesečno";
 "InviteLink.Observe.Fee.Title" = "%s / mjesečno x %d";
 "InviteLink.Sticker.TimeLeft" = "istječe za %@";
-"InviteLink.Subscription.Caption" = "Naplatite pretplatu od osoba koji se pridruže vašem kanalu preko ovog linka. [Saznajte više >](https://telegram.org/)";
+"InviteLink.Subscription.Caption" = "Naplatite pretplatu od osoba koji se pridruže vašem kanalu preko ovog linka. [Saznajte više >](https://whatsgram.org/)";
 "InviteLink.Subscription.Edit" = "Za promjenu naknade za pretplatu napravite novu pozivnicu s drugom cijenom.";
 "InviteLink.Subscription.Placeholder" = "Mjesečni iznos zvjezdica";
 "InviteLink.Subscription.Price" = "~%s / mjesečno";
@@ -2362,8 +2362,8 @@
 "Message.Context.Selection.SendNow" = "Pošalji označeno sada";
 "Message.Context.Unpin" = "Otkvači";
 "Message.ReplyActionButtonShowReceipt" = "Prikaži račun";
-"Message.Unsupported.Desktop" = "__Ova poruka trenutno nije podržana na Telegram Webu. Pokušajte preko [getdesktop.telegram.org](https://getdesktop.telegram.org/)__";
-"Message.Unsupported.Mobile" = "__Ova poruka trenutno nije podržana na Telegram Webu. Pokušajte preko [telegram.org/dl](https://telegram.org/dl/)__";
+"Message.Unsupported.Desktop" = "__Ova poruka trenutno nije podržana na Telegram Webu. Pokušajte preko [getdesktop.whatsgram.org](https://getdesktop.whatsgram.org/)__";
+"Message.Unsupported.Mobile" = "__Ova poruka trenutno nije podržana na Telegram Webu. Pokušajte preko [whatsgram.org/dl](https://whatsgram.org/dl/)__";
 "MessageContainsEmojiPack" = "Ova poruka sadrži emojije iz %s paketa.";
 "MessageContainsEmojiPacks#one" = "Ova poruka sadrži emojije\niz %d paketa.";
 "MessageContainsEmojiPacks#few" = "Ova poruka sadrži emojije\niz %d paketa.";
@@ -2788,8 +2788,8 @@
 "PeerInfo.Action.LiveStream" = "Prijenos uživo";
 "PeerInfo.Action.VoiceChat" = "Videorazgovor";
 "PeerInfo.Administrators" = "Administratori";
-"PeerInfo.AppFooter" = "Pokretanjem ove mini-aplikacije pristajete na. Uvjete korištenja za mini-aplikacije](https://telegram.org/privacy).";
-"PeerInfo.AppFooterAdmin" = "Objavljivanjem ove mini aplikacije pristajete na. [Telegramove uvjete pružanja usluge za programere](https://telegram.org/privacy).";
+"PeerInfo.AppFooter" = "Pokretanjem ove mini-aplikacije pristajete na. Uvjete korištenja za mini-aplikacije](https://whatsgram.org/privacy).";
+"PeerInfo.AppFooterAdmin" = "Objavljivanjem ove mini aplikacije pristajete na. [Telegramove uvjete pružanja usluge za programere](https://whatsgram.org/privacy).";
 "PeerInfo.DeleteChannel" = "Izbriši kanal";
 "PeerInfo.DeleteContact" = "Izbriši kontakt";
 "PeerInfo.Discussion" = "Komentari";
@@ -3203,7 +3203,7 @@
 "Report2CommentOptional" = "Dodajte komentar (neobavezno)";
 "Report2Send" = "Prijavi";
 "ReportAd" = "Prijavi oglas";
-"ReportAdLearnMore" = "Saznajte više o našim [pravilima i smjernicama za oglase](https://ads.telegram.org/guidelines).";
+"ReportAdLearnMore" = "Saznajte više o našim [pravilima i smjernicama za oglase](https://ads.whatsgram.org/guidelines).";
 "ReportBug" = "Prijavi grešku";
 "ReportChat" = "Prijavi";
 "ReportChatChild" = "Zlostavljanje djece";
@@ -3271,7 +3271,7 @@
 "RevenueSharingAdsInfo3Subtitle" = "Oglase možete isključiti ako se pretplatite na **Telegram Premium**, a kanali razine %1$s mogu ih ukloniti za svoje pretplatnike.";
 "RevenueSharingAdsInfo3Title" = "Mogu se ukloniti";
 "RevenueSharingAdsInfo4Subtitle2" = "Svatko može izraditi oglas za prikazivanje na ovom kanalu — uz minimalne troškove. Za detalje posjetite **Telegramovu platformu za oglase**. %1$s";
-"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[Saznajte više >](https://ads.telegram.org/)**";
+"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[Saznajte više >](https://ads.whatsgram.org/)**";
 "RevenueSharingAdsInfo4Title" = "Mogu li ja postaviti oglas?";
 "RevokeAlert" = "Želite li opozvati ovu pozivnicu? Ako opozovete pozivnicu, nitko se neće moći pridružiti preko te pozivnice.";
 "RevokeButton" = "Opozovi";
@@ -3813,7 +3813,7 @@
 "Stars.Subscribe.Button" = "Pretplati me";
 "Stars.Subscribe.Description" = "Želite li se pretplatiti na **%s** za **%s** mjesečno?";
 "Stars.Subscribe.Need" = "Kupite **zvjezdice** i koristite ih za pretplatu na kanale.";
-"Stars.Subscribe.Terms" = "Pretplatom pristajete na [Uvjete korištenja](https://telegram.org).";
+"Stars.Subscribe.Terms" = "Pretplatom pristajete na [Uvjete korištenja](https://whatsgram.org).";
 "Stars.Subscribe.Title" = "Pretplatite se na kanal";
 "Stars.Subscription" = "Pretplata";
 "Stars.Subscription.Active" = "Ako sada otkažete, i dalje ćete moći pristupiti svojoj pretplati do %s.";
@@ -3833,13 +3833,13 @@
 "Stars.Subscriptions.Expires" = "istječe %s";
 "Stars.Subscriptions.PerMonth" = "mjesečno";
 "Stars.Subscriptions.Renews" = "obnavlja se %s";
-"Stars.TOS" = "Nastavkom i kupnjom zvjezdica slažete se s [Uvjetima i odredbama](https://telegram.org/tos).";
+"Stars.TOS" = "Nastavkom i kupnjom zvjezdica slažete se s [Uvjetima i odredbama](https://whatsgram.org/tos).";
 "Stars.TopUp" = "Kupnja zvjezdica";
 "Stars.TopUp.Enough" = "Trenutno imate dovoljno zvjezdica. [Svejedno kupi]()";
 "Stars.TopUp.Label_default" = "Kupite zvjezdice za otključavanje sadržaja i usluga\nu mini-aplikacijama na Telegramu.";
 "Stars.TopUp.Label_stargift" = "Za slanje poklona kupite **zvjezdice**.";
 "Stars.TopUp.Reaction" = "Kupite **zvjezdice** i pošaljite ih prema kanalu **%s**.";
-"Stars.TransactionTOS" = "Pregledajte **[Uvjete korištenja](https://telegram.org/tos)** za zvjezdice.";
+"Stars.TransactionTOS" = "Pregledajte **[Uvjete korištenja](https://whatsgram.org/tos)** za zvjezdice.";
 "Stars.Unlock" = "Želite li otključati %s u **%s** za **%s**?";
 "Stars.Unlock.FromBot" = "Želite li otključati %s od **%s** za **%s**?";
 "Stars.Unlock.Media" = "%s i %s";
@@ -4354,8 +4354,8 @@
 "Verified.Channel" = "Telegram je verificirao ovaj kanal.";
 "Verified.Group" = "Telegram je verificirao ovu grupu.";
 "ViaBot" = "preko";
-"Video.Unsupported.Desktop" = "__Nažalost, ovaj videozapis se ne može reproducirati preko Telegram Weba. Pokušajte ga otvoriti pomoću [aplikacije za računala](https://getdesktop.telegram.org/).__";
-"Video.Unsupported.Mobile" = "__Nažalost, ovaj videozapis se ne može reproducirati preko Telegram Weba. Pokušajte ga otvoriti pomoću [mobilne aplikacije](https://telegram.org/dl/).__";
+"Video.Unsupported.Desktop" = "__Nažalost, ovaj videozapis se ne može reproducirati preko Telegram Weba. Pokušajte ga otvoriti pomoću [aplikacije za računala](https://getdesktop.whatsgram.org/).__";
+"Video.Unsupported.Mobile" = "__Nažalost, ovaj videozapis se ne može reproducirati preko Telegram Weba. Pokušajte ga otvoriti pomoću [mobilne aplikacije](https://whatsgram.org/dl/).__";
 "VideoCall" = "Videopoziv";
 "Videos#one" = "%d videozapis";
 "Videos#few" = "%d videozapisa";
@@ -4429,7 +4429,7 @@
 "WebApp.InstallBot" = "Instaliraj bota";
 "WebApp.WriteAccess.Description" = "Dopustiti da vam %s šalje poruke?";
 "WebApp.WriteAccess.Title" = "Dopusti slanje poruka";
-"WebAppDisclaimerUrl" = "https://telegram.org/tos/mini-apps";
+"WebAppDisclaimerUrl" = "https://whatsgram.org/tos/mini-apps";
 "WebPage.InstantView" = "BRZI PREGLED";
 "WebPage.OpenLink" = "OTVORI LINK";
 "WebPage.RemovePreview" = "Ukloni pregled linka";

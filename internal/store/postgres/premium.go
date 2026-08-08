@@ -95,7 +95,7 @@ premium_expires_at,emoji_status_document_id,emoji_status_until,color_set,color,
 color_background_emoji_id,profile_color_set,profile_color,profile_color_background_emoji_id
 ) VALUES (
 $1,$2,'','Premium Bot','',$3,'',now(),now(),true,false,
-'Покупка Premium для себя или в подарок за Telegram Stars.',
+'Purchase Premium for yourself or as a gift using Whatsgram Stars.',
 0,0,true,1,NULL,0,0,false,0,0,false,0,0
 )`, s.botID, domain.PremiumBotAccessHash, username)
 			if err != nil {
@@ -109,7 +109,7 @@ $1,$2,'','Premium Bot','',$3,'',now(),now(),true,false,
 
 		tag, err := tx.Exec(ctx, `UPDATE users
 SET access_hash=$2,first_name='Premium Bot',username=$3,verified=true,is_bot=true,
-about='Покупка Premium для себя или в подарок за Telegram Stars.',
+about='Purchase Premium for yourself or as a gift using Whatsgram Stars.',
 bot_info_version=GREATEST(bot_info_version,1),updated_at=now()
 WHERE id=$1 AND is_bot`, s.botID, domain.PremiumBotAccessHash, username)
 		if err != nil {
@@ -134,7 +134,7 @@ VALUES(lower($1),$1,'user',$2,true,false,0,now())`, username, s.botID); err != n
 bot_user_id,owner_user_id,token_secret,description,commands,bot_chat_history,bot_nochats,
 inline_placeholder,created_at,updated_at,menu_button_type,menu_button_text,menu_button_url,bot_inline_geo
 ) VALUES (
-$1,$1,'','Покупка Premium для себя или в подарок. Все цены указаны в Telegram Stars.',
+$1,$1,'','Purchase Premium for yourself or as a gift. All prices are listed in Whatsgram Stars.',
 $2::jsonb,false,true,'',now(),now(),0,'','',false
 ) ON CONFLICT(bot_user_id) DO UPDATE SET owner_user_id=EXCLUDED.owner_user_id,
 description=EXCLUDED.description,commands=EXCLUDED.commands,updated_at=now()`,
@@ -772,7 +772,7 @@ WHERE user_id=$1 RETURNING balance`, form.BuyerUserID, form.AmountStars).Scan(&b
 premium_recipient_user_id,premium_months)
 VALUES($1,'user',$2,$3,$4,$5,$6,$7,$8,$9,$10) RETURNING id`,
 			form.BuyerUserID, s.botID, -form.AmountStars, string(domain.StarsReasonPremium),
-			"Telegram Premium", domain.PremiumPurchaseDescription(form.Kind, form.Months, form.RecipientUserID),
+			"Whatsgram Premium", domain.PremiumPurchaseDescription(form.Kind, form.Months, form.RecipientUserID),
 			req.Date, intentID, form.RecipientUserID, form.Months).Scan(&starsTransactionID); err != nil {
 			return domain.PremiumPaymentForm{}, domain.PremiumEntitlement{}, domain.User{}, domain.StarsBalance{}, fmt.Errorf("insert premium stars transaction: %w", err)
 		}
@@ -1448,7 +1448,7 @@ RETURNING balance,granted`, buyerID, amount).Scan(&balance, &granted); err != ni
 		var refundTransactionID int64
 		if err := tx.QueryRow(ctx, `INSERT INTO stars_transactions
 (user_id,peer_type,peer_id,amount,reason,title,description,date,premium_recipient_user_id,premium_months)
-VALUES($1,'user',$2,$3,$4,'Telegram Premium refund',$5,$6,$7,$8) RETURNING id`,
+VALUES($1,'user',$2,$3,$4,'Whatsgram Premium refund',$5,$6,$7,$8) RETURNING id`,
 			buyerID, s.botID, amount, string(domain.StarsReasonPremium), req.Reason,
 			req.Date, recipientID, months).Scan(&refundTransactionID); err != nil {
 			return err

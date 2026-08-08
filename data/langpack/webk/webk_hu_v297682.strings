@@ -196,7 +196,7 @@
 "AdminRights.ManageMessages" = "Üzenetek kezelése";
 "AdminRights.ManageStories" = "Történetek kezelése";
 "AdminRights.PostStories" = "Történetek közzététele";
-"Ads.Reported" = "Átnézzük ezt a hirdetést, hogy megbizonyosodjunk arról, hogy megfelel **[Hirdetési szabályzatunknak és irányelveinknek](https://ads.telegram.org/guidelines)**.";
+"Ads.Reported" = "Átnézzük ezt a hirdetést, hogy megbizonyosodjunk arról, hogy megfelel **[Hirdetési szabályzatunknak és irányelveinknek](https://ads.whatsgram.org/guidelines)**.";
 "AgeVerification.Action" = "Korom ellenőrzése";
 "AgeVerification.Failed" = "Sajnáljuk, nem tekintheted meg a 18+ tartalmakat.";
 "AgeVerification.Text" = "Ahhoz, hogy hozzáférhess ehhez a tartalomhoz, meg kell erősítened, hogy legalább 18 éves vagy.\n\nEz egy egyszeri folyamat, amelyhez a telefonod kameráját kell használnod. A Telegram nem tárolja a szelfidet.";
@@ -746,7 +746,7 @@
 "Chat.Message.Ad.Text" = "Más alkalmazásokkal ellentétben, a Telegram soha nem használja az adataidat hirdetések személyre szabására. A szponzorált üzenetek kizárólag azon nyilvános csatornák témáján alapulnak, amelyeken megjelennek. Ez azt jelenti, hogy a felhasználói adatokat nem gyűjtik vagy elemzik, és minden felhasználó, aki egyazon csatorna tagja, ugyanazokat a szponzorált üzeneteket látja.\n\nMás alkalmazásokkal ellentétben, a Telegram nem követi nyomon, hogy rákattintottál-e egy szponzorált üzenetre és nem profiloz téged az aktivitásod alapján. A szponzorált üzenetekben a külső linkeket is blokkoljuk, hogy harmadik fél ne kémkedhessen a felhasználóink után. Hisszük, hogy mindenkinek joga van a magánélethez és a technológiai platformoknak ezt tiszteletben kell tartaniuk!\n\nA Telegram ingyenes és korlátlan szolgáltatást kínál több százmillió felhasználónak, ami jelentős szerver és forgalmi költségekkel jár. Annak érdekében, hogy független és hű maradjon az értékeihez, a Telegram kifejlesztett egy fizetős rendszert az üzenetek népszerűsítésére, a felhasználók adatvédelmét szem előtt tartva. Örömmel várjuk a felelős hirdetőket az alábbi címen:\n\n%@\n\nA szponzorált üzenetek jelenleg tesztüzemmódban vannak. Amint véglegesen elindulnak és lehetővé teszik a Telegram számára, hogy fedezze az alapvető költségeit, elkezdjük megosztani a hirdetési bevételeket azon nyilvános csatornák tulajdonosaival, amelyeken a szponzorált üzenetek megjelennek.\n\nAz online hirdetések többé nem jelenthetnek egyet a felhasználói magánélet visszaélésével. Definiáljuk újra, hogyan kell egy technológiai vállalatnak működnie – közösen!";
 "Chat.Message.RequestToJoin" = "CSATLAKOZÁSI KÉRELEM";
 "Chat.Message.SendMessage" = "ÜZENET KÜLDÉSE";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Mik azok a szponzorált üzenetek?";
 "Chat.Message.ViewApp" = "App indítása";
 "Chat.Message.ViewBot" = "BOT MEGTEKINTÉSE";
@@ -880,7 +880,7 @@
 "ChatList.Filter.NonContacts" = "Ismeretlenek";
 "ChatList.Filter.ReadChats" = "Olvasott";
 "ChatList.Main.EmptyPlaceholder.Subtitle" = "%s van a Telegramon";
-"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "Használd a Telegram alkalmazást az [Android](https://telegram.org/android) vagy [iOS](https://telegram.org/dl/ios) eszközödön a névjegyeid szinkronizálásához.";
+"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "Használd a Telegram alkalmazást az [Android](https://whatsgram.org/android) vagy [iOS](https://whatsgram.org/dl/ios) eszközödön a névjegyeid szinkronizálásához.";
 "ChatList.Main.EmptyPlaceholder.Title" = "A csevegéseid itt jelennek majd meg";
 "ChatList.Menu.SwitchTo.A" = "Váltás az A verzióra";
 "ChatList.Menu.SwitchTo.Webogram" = "Váltás a régi verzióra";
@@ -1479,7 +1479,7 @@
 "InviteLink.Observe.Fee.Subtitle" = "Nagyjából havi %s összeget kapsz";
 "InviteLink.Observe.Fee.Title" = "%s / hónap x %d";
 "InviteLink.Sticker.TimeLeft" = "lejár: %@";
-"InviteLink.Subscription.Caption" = "Kérj előfizetési díjat azoktól, akik ezen a linken keresztül csatlakoznak a csatornádhoz. [További információ >](https://telegram.org/)";
+"InviteLink.Subscription.Caption" = "Kérj előfizetési díjat azoktól, akik ezen a linken keresztül csatlakoznak a csatornádhoz. [További információ >](https://whatsgram.org/)";
 "InviteLink.Subscription.Edit" = "Az előfizetési díj megváltoztatásához hozzál létre egy új meghívó linket más árral.";
 "InviteLink.Subscription.Placeholder" = "Csillagok havi összege";
 "InviteLink.Subscription.Price" = "~%s/hónap";
@@ -1815,8 +1815,8 @@
 "Message.Context.Selection.SendNow" = "Kiválasztott küldése most";
 "Message.Context.Unpin" = "Felold";
 "Message.ReplyActionButtonShowReceipt" = "Nyugta megjelenítése";
-"Message.Unsupported.Desktop" = "__Ez az üzenet jelenleg nem támogatott a Telegram Web-en. Próbáld meg [getdesktop.telegram.org](https://getdesktop.telegram.org/)__";
-"Message.Unsupported.Mobile" = "__Ez az üzenet jelenleg nem támogatott a Telegram Web-en. Próbáld meg [telegram.org/dl](https://telegram.org/dl/)__";
+"Message.Unsupported.Desktop" = "__Ez az üzenet jelenleg nem támogatott a Telegram Web-en. Próbáld meg [getdesktop.whatsgram.org](https://getdesktop.whatsgram.org/)__";
+"Message.Unsupported.Mobile" = "__Ez az üzenet jelenleg nem támogatott a Telegram Web-en. Próbáld meg [whatsgram.org/dl](https://whatsgram.org/dl/)__";
 "MessageContainsEmojiPack" = "Ez az üzenet ebből a csomagból származó emojikat tartalmaz: %s.";
 "MessageContainsEmojiPacks#one" = "Ez az üzenet %d csomagból származó emojit tartalmaz.";
 "MessageContainsEmojiPacks#other" = "Ez az üzenet %d csomagból származó emojikat tartalmaz.";
@@ -2465,7 +2465,7 @@
 "Report2CommentOptional" = "Megjegyzés hozzáadása (nem kötelező)";
 "Report2Send" = "Jelentés küldése";
 "ReportAd" = "Hirdetés jelentése";
-"ReportAdLearnMore" = "Tudj meg többet: [Hirdetési irányelvek és útmutatók](https://ads.telegram.org/guidelines).";
+"ReportAdLearnMore" = "Tudj meg többet: [Hirdetési irányelvek és útmutatók](https://ads.whatsgram.org/guidelines).";
 "ReportBug" = "Hiba jelentése";
 "ReportChat" = "Jelentés";
 "ReportChatChild" = "Gyermekbántalmazás";
@@ -2528,7 +2528,7 @@
 "RevenueSharingAdsInfo3Subtitle" = "A hirdetések kikapcsolhatók a **Telegram Premium** előfizetéssel, a %1$s. szintű csatornák pedig eltávolíthatják azokat az előfizetőik számára.";
 "RevenueSharingAdsInfo3Title" = "Eltávolíthatóak";
 "RevenueSharingAdsInfo4Subtitle2" = "Bárki készíthet hirdetést, amelyet ezen a csatornán jeleníthet meg — minimális költségvetés mellett. A részletekért lásd a **Telegram hirdetési platformot**. %1$s";
-"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[Bővebben >](https://ads.telegram.org/)**";
+"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[Bővebben >](https://ads.whatsgram.org/)**";
 "RevenueSharingAdsInfo4Title" = "Indíthatok hirdetést?";
 "RevokeAlert" = "Biztosan visszavonod ezt a hivatkozást? Ha visszavontad, akkor senki sem tud csatlakozni a használatával.";
 "RevokeButton" = "Visszavonás";
@@ -2900,7 +2900,7 @@
 "Stars#other" = "%d Csillag";
 "Stars.ConfirmPurchaseButton" = "Megerősítés és fizetés %d";
 "Stars.Subscribe.Button" = "Előfizetés";
-"Stars.Subscribe.Terms" = "A feliratkozással elfogadod a [Szolgáltatási feltételeket](https://telegram.org).";
+"Stars.Subscribe.Terms" = "A feliratkozással elfogadod a [Szolgáltatási feltételeket](https://whatsgram.org).";
 "Stars.Subscribe.Title" = "Előfizetés a csatornára";
 "Stars.Subscription" = "Előfizetés";
 "Stars.Subscription.Active" = "Ha most lemondod, még akkor is hozzáférhetsz az előfizetésedhez eddig: %s.";
@@ -2918,10 +2918,10 @@
 "Stars.Subscriptions.Expires" = "lejár %s";
 "Stars.Subscriptions.PerMonth" = "havonta";
 "Stars.Subscriptions.Renews" = "megújul: %s";
-"Stars.TOS" = "A Csillagok vásárlásával beleegyezel a [Felhasználási feltételekbe](https://telegram.org/tos).";
+"Stars.TOS" = "A Csillagok vásárlásával beleegyezel a [Felhasználási feltételekbe](https://whatsgram.org/tos).";
 "Stars.TopUp" = "Csillagfeltöltés";
 "Stars.TopUp.Label_default" = "Vásárolj csillagokat a tartalmak és szolgáltatások\nfeloldásához a Telegram mini alkalmazásokban.";
-"Stars.TransactionTOS" = "Tekintsd át a Csillagok **[Szolgáltatási feltételeit](https://telegram.org/tos)**.";
+"Stars.TransactionTOS" = "Tekintsd át a Csillagok **[Szolgáltatási feltételeit](https://whatsgram.org/tos)**.";
 "Stars.Unlock.Media" = "%s és %s";
 "Stars.Unlock.Stars#one" = "%d Csillag";
 "Stars.Unlock.Stars#other" = "%d Csillag";
@@ -3296,8 +3296,8 @@
 "Verified.Channel" = "Ezt a csatornát a Telegram hitelesítette.";
 "Verified.Group" = "Ezt a csoportot a Telegram hitelesítette.";
 "ViaBot" = "ezzel: ";
-"Video.Unsupported.Desktop" = "__Ez a videó sajnos nem játszható le a Telegram Web-en. Próbáld meg inkább az [asztali alkalmazásunkkal](https://getdesktop.telegram.org/) megnyitni.__";
-"Video.Unsupported.Mobile" = "__Ez a videó sajnos nem játszható le a Telegram Web-en. Próbáld meg inkább a [mobilalkalmazásunkkal](https://telegram.org/dl/) megnyitni.__";
+"Video.Unsupported.Desktop" = "__Ez a videó sajnos nem játszható le a Telegram Web-en. Próbáld meg inkább az [asztali alkalmazásunkkal](https://getdesktop.whatsgram.org/) megnyitni.__";
+"Video.Unsupported.Mobile" = "__Ez a videó sajnos nem játszható le a Telegram Web-en. Próbáld meg inkább a [mobilalkalmazásunkkal](https://whatsgram.org/dl/) megnyitni.__";
 "VideoCall" = "Videóhívás";
 "Videos#one" = "%d videó";
 "Videos#other" = "%d videó";
@@ -3363,7 +3363,7 @@
 "WebApp.InstallBot" = "Bot telepítése";
 "WebApp.WriteAccess.Description" = "Engedélyezed %s számára az üzenetek küldését?";
 "WebApp.WriteAccess.Title" = "Üzenetküldés engedélyezése";
-"WebAppDisclaimerUrl" = "https://telegram.org/tos/mini-apps";
+"WebAppDisclaimerUrl" = "https://whatsgram.org/tos/mini-apps";
 "WebPage.InstantView" = "GYORSNÉZET";
 "WebPage.OpenLink" = "LINK MEGNYITÁSA";
 "WebPage.RemovePreview" = "Link előnézet törlése";

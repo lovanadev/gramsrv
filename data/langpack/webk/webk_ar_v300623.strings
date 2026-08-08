@@ -105,7 +105,7 @@
 "AdminRights.ManageMessages" = "إدارة الرسائل";
 "AdminRights.ManageStories" = "إدارة القصص";
 "AdminRights.PostStories" = "نشر القصص";
-"Ads.Reported" = "سنراجع هذا الإعلان للتأكد من أنه يتوافق مع [سياسة وإرشادات الإعلانات](https://ads.telegram.org/guidelines).";
+"Ads.Reported" = "سنراجع هذا الإعلان للتأكد من أنه يتوافق مع [سياسة وإرشادات الإعلانات](https://ads.whatsgram.org/guidelines).";
 "AgeVerification.Action" = "تأكيد عمري";
 "AgeVerification.Failed" = "عذرًا، لا يمكنك عرض محتوى +١٨.";
 "AgeVerification.Text" = "للوصول إلى هذا المحتوى، يجب تأكيد أن عمرك لا يقل عن **18** عامًا.\n\nهذه عملية لمرة واحدة فقط باستخدام كاميرا هاتفك. لن يحفظ تيليجرام صورك الشخصية.";
@@ -755,7 +755,7 @@
 "Chat.Message.Ad.ReadMore" = "قراءة المزيد";
 "Chat.Message.Ad.Text" = "على خلاف التطبيقات الأخرى؛ لا تستخدم تيليجرام أبدًا بياناتك الخاصة لاستهدافك بالإعلانات. تعتمد الرسائل الإعلانية في تيليجرام بشكل أساسي على مواضيع القنوات العامة التي تُعرض فيها. يعني هذا أنه لا يتم استخراج بيانات المستخدمين أو تحليلها لعرض الإعلانات، وأن أي مستخدم يستعرض قناة على تيليجرام سيرى نفس الرسالة الإعلانية.\n\nعلى خلاف التطبيقات الأخرى؛ لا تراقب تيليجرام ما إذا كنت قد ضغطت على رسالة إعلانية أم لا، ولا تنشئ ملفًا بناءً على نشاطك. لقد حظرنا أيضًا استخدام الروابط الخارجية في الرسائل الإعلانية؛ لمنع الأطراف الثالثة من التجسس على مستخدمينا. نؤمن أن لكل شخص الحق في الخصوصية، ويجب أن تحترم المنصات التقنية ذلك.\n\nتقدم تيليجرام خدمة مجانية غير محدودة لمئات الملايين من المستخدمين وهي تتطلب تكاليف كبيرة للخوادم والاتصالات. من أجل إبقاء تيليجرام مستقلة والحفاظ على التزامها بقيمها؛ طورت تيليجرام أداة مدفوعة للرسائل الإعلانية مع مراعاة خصوصية المستخدم. نرحب بالإعلانات على:\n\u2068%@\u2069\nالرسائل الإعلانية في وضع الاختبار حاليًا. بمجرد إطلاقها بالكامل والسماح لتيليجرام بتغطية تكاليفها الأساسية؛ سنبدأ في مشاركة عائدات الإعلانات مع مالكي القنوات العامة التي تم عرض الرسائل الإعلانية عليها.\n\nلا ينبغي أن تكون الإعلانات على الإنترنت تعني الإساءة إلى خصوصية المستخدم. دعونا نعيد معًا تعريف الكيفية التي يجب أن تعمل بها أي شركة تقنية.";
 "Chat.Message.SendMessage" = "إرسال رسالة";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "ماهي الرسائل الإعلانية؟";
 "Chat.Message.ViewApp" = "تشغيل التطبيق";
 "Chat.Message.ViewBot" = "عرض البوت";
@@ -1582,7 +1582,7 @@
 "InviteLink.Observe.Fee.Subtitle" = "تحصل على  \u2068%s\u2069 شهرياً تقريباً";
 "InviteLink.Observe.Fee.Title" = "\u2068%s\u2069 / شهر x \u2068%d\u2069";
 "InviteLink.Sticker.TimeLeft" = "ينتهي بعد \u2068%@\u2069";
-"InviteLink.Subscription.Caption" = "فرض رسوم اشتراك على الأشخاص الذين ينضمون إلى قناتك عبر هذا الرابط. [معرفة المزيد >](https://telegram.org/)";
+"InviteLink.Subscription.Caption" = "فرض رسوم اشتراك على الأشخاص الذين ينضمون إلى قناتك عبر هذا الرابط. [معرفة المزيد >](https://whatsgram.org/)";
 "InviteLink.Subscription.Edit" = "لتغيير رسوم الاشتراك؛ عليك إنشاء رابط دعوة جديد بسعر مختلف.";
 "InviteLink.Subscription.Placeholder" = "عدد النجوم شهريا";
 "InviteLink.Subscription.Price" = "~\u2068%s\u2069/شهر";
@@ -2699,7 +2699,7 @@
 "Report2CommentOptional" = "إضافة تعليق (اختياري)";
 "Report2Send" = "إرسال البلاغ";
 "ReportAd" = "الإبلاغ عن الإعلان";
-"ReportAdLearnMore" = "معرفة المزيد حول [سياسات وإرشادات الإعلانات](https://ads.telegram.org/guidelines).";
+"ReportAdLearnMore" = "معرفة المزيد حول [سياسات وإرشادات الإعلانات](https://ads.whatsgram.org/guidelines).";
 "ReportBug" = "الإبلاغ عن\u00a0خلل";
 "ReportChat" = "تبليغ";
 "ReportChatChild" = "إساءة للأطفال";
@@ -2752,7 +2752,7 @@
 "RevenueSharingAdsInfo3Subtitle" = "يمكنك إيقاف الإعلانات بالاشتراك في **تيليجرام المميز**، ويمكن للقنوات التي وصلت إلى المستوى \u2068%1$s\u2069 إزالة الإعلانات لمشتركيها.";
 "RevenueSharingAdsInfo3Title" = "يمكن إزالتها";
 "RevenueSharingAdsInfo4Subtitle2" = "يمكن لأي شخص إنشاء إعلان لعرضه في هذه القناة بأقل ميزانية. الرجاء مراجعة **منصة إعلانات تيليجرام** لمعرفة التفاصيل. \u2068%1$s\u2069";
-"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[معرفة المزيد >](https://ads.telegram.org/)**";
+"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[معرفة المزيد >](https://ads.whatsgram.org/)**";
 "RevenueSharingAdsInfo4Title" = "هل يمكنني نشر إعلان؟";
 "RevokeAlert" = "هل تريدون فعلًا تعطيل الرابط؟ في حال تم تعطيل الرابط؛ لن يتمكن أحد من الانضمام بواسطته.";
 "RevokeButton" = "تعطيل";
@@ -3083,7 +3083,7 @@
 "Stars.Subscribe.Button" = "اشتراك";
 "Stars.Subscribe.Description" = "الاشتراك في **\u2068%s\u2069** مقابل **\u2068%s\u2069** في الشهر؟";
 "Stars.Subscribe.Need" = "شراء **النجوم** واستخدمها للاشتراك في القنوات.";
-"Stars.Subscribe.Terms" = "اشتراكك يعني موافقتك على [شروط الخدمة](https://telegram.org).";
+"Stars.Subscribe.Terms" = "اشتراكك يعني موافقتك على [شروط الخدمة](https://whatsgram.org).";
 "Stars.Subscribe.Title" = "الاشتراك في القناة";
 "Stars.Subscription" = "الاشتراك";
 "Stars.Subscription.Active" = "إذا قمت بإلغاء الاشتراك الآن، فسوف يظل بإمكانك الوصول إلى اشتراكك حتى \u2068%s\u2069.";
@@ -3103,11 +3103,11 @@
 "Stars.Subscriptions.Expires" = "تنتهي صلاحيته في \u2068%s\u2069";
 "Stars.Subscriptions.PerMonth" = "في الشهر";
 "Stars.Subscriptions.Renews" = "سيتم تجديده في \u2068%s\u2069";
-"Stars.TOS" = " شراؤك للنجوم يعني موافقتك على [الشروط والأحكام](https://telegram.org/tos).";
+"Stars.TOS" = " شراؤك للنجوم يعني موافقتك على [الشروط والأحكام](https://whatsgram.org/tos).";
 "Stars.TopUp" = "شراء النجوم";
 "Stars.TopUp.Enough" = "لديك نجوم كافية في الوقت الحالي. [شراء على أية حال]()";
 "Stars.TopUp.Reaction" = "يمكنك شراء **النجوم** وإرسالها إلى **\u2068%s\u2069** لدعم منشوراتها.";
-"Stars.TransactionTOS" = "مراجعة **[شروط الخدمة](https://telegram.org/tos)** لنجوم تيليجرام.";
+"Stars.TransactionTOS" = "مراجعة **[شروط الخدمة](https://whatsgram.org/tos)** لنجوم تيليجرام.";
 "Stars.Unlock" = "فتح \u2068%s\u2069 في **\u2068%s\u2069** مقابل دفع **\u2068%s\u2069**؟";
 "Stars.Unlock.FromBot" = "فتح \u2068%s\u2069 في **\u2068%s\u2069** مقابل **\u2068%s\u2069**؟";
 "Stars.Unlock.Media" = "\u2068%s\u2069 و \u2068%s\u2069";
@@ -3540,7 +3540,7 @@
 "WebApp.InstallBot" = "تثبيت البوت";
 "WebApp.WriteAccess.Description" = "السماح لـ \u2068%s\u2069 بإرسال الرسائل؟";
 "WebApp.WriteAccess.Title" = "السماح بإرسال الرسائل";
-"WebAppDisclaimerUrl" = "https://telegram.org/tos/mini-apps";
+"WebAppDisclaimerUrl" = "https://whatsgram.org/tos/mini-apps";
 "WebPage.InstantView" = "عرض فوري";
 "WebPage.OpenLink" = "فتح الرابط";
 "WebPage.RemovePreview" = "إزالة معاينة الرابط";

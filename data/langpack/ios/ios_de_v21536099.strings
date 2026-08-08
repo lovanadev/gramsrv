@@ -61,7 +61,7 @@
 "AdsInfo.Bot.Split.Title" = "Hilf dem Bot-Ersteller";
 "AdsInfo.Info" = "Werbung bei Telegram unterscheidet sich stark von Anzeigen auf anderen Plattformen. Werbeanzeigen wie diese hier:";
 "AdsInfo.Launch.Text" = "Jeder kann eine Anzeige mit minimalem Budget erstellen, die in diesem Kanal angezeigt wird. Schau dir die Telegram Anzeigenplattform für weitere Informationen an. [Mehr erfahren >]()";
-"AdsInfo.Launch.Text_URL" = "https://ads.telegram.org";
+"AdsInfo.Launch.Text_URL" = "https://ads.whatsgram.org";
 "AdsInfo.Launch.Title" = "Kann ich Werbung schalten?";
 "AdsInfo.Respect.Text" = "Die Werbung auf Telegram nutzt nicht deine persönlichen Daten und basiert auf dem Kanal, in dem du sie siehst.";
 "AdsInfo.Respect.Title" = "Respektiert deine Privatsphäre";
@@ -82,7 +82,7 @@
 "AffiliateProgram.JoinSubtitleMonths#other" = "**{bot}** wird **{commission}** von den Einnahmen jedes Nutzers, den du an ihn vermittelst, für **%d Monate**  teilen.";
 "AffiliateProgram.JoinSubtitleYears#one" = "**{bot}** wird **{commission}** von den Einnahmen jedes Nutzers, den du an ihn verweist, für **%d Jahr** teilen.";
 "AffiliateProgram.JoinSubtitleYears#other" = "**{bot}** wird **{commission}** von den Einnahmen jedes Nutzers, den du an ihn verweist, für **%d Jahre** teilen.";
-"AffiliateProgram.JoinTerms" = "Durch die Teilnahme an diesem Programm stimmst du den [Bedingungen Geschäftsbedingungen](https://telegram.org/tos/affiliate-program) der Partnerprogramme zu.";
+"AffiliateProgram.JoinTerms" = "Durch die Teilnahme an diesem Programm stimmst du den [Bedingungen Geschäftsbedingungen](https://whatsgram.org/tos/affiliate-program) der Partnerprogramme zu.";
 "AffiliateProgram.JoinTitle" = "Partnerprogramm";
 "AffiliateProgram.LinkSubtitleLifetime" = "Teile diesen Link mit deinen Nutzern und verdiene **dauerhaft** eine **{commission}** auf ihre Ausgaben in **{bot}**, nachdem sie deinem Link gefolgt sind.";
 "AffiliateProgram.LinkSubtitleMonths#one" = "Teile diesen Link mit deinen Nutzern, um eine **{commission}** für ihre Ausgaben in **{bot}** für **1 Monat** zu verdienen, nachdem sie deinem Link gefolgt sind.";
@@ -148,7 +148,7 @@
 "AffiliateSetup.StartTitle" = "Partnerprogramm starten";
 "AffiliateSetup.SuggestedSectionEmpty" = "Noch keine Programme verfügbar.\nBitte prüfe die Seite später.";
 "AffiliateSetup.SuggestedSectionTitle" = "PROGRAMME";
-"AffiliateSetup.TermsFooter" = "Wenn du ein Partnerprogramm erstellst, erklärst du dich mit den [Bedingungen](https://telegram.org/terms) für Partnerprogramme einverstanden.";
+"AffiliateSetup.TermsFooter" = "Wenn du ein Partnerprogramm erstellst, erklärst du dich mit den [Bedingungen](https://whatsgram.org/terms) für Partnerprogramme einverstanden.";
 "AffiliateSetup.TextJoin" = "Verdiene jedes Mal eine Provision, wenn ein Nutzer, der über deinen Empfehlungslink auf eine Mini-App zugegriffen hat, **Sterne** darin ausgibt.";
 "AffiliateSetup.TextNew" = "Belohne diejenigen, die dir helfen, deinen Nutzerkreis zu vergrößern.";
 "AffiliateSetup.TitleJoin" = "Partnerprogramme";
@@ -509,11 +509,11 @@
 "AuthSessions.AddDevice" = "QR-Code scannen";
 "AuthSessions.AddDevice.InvalidQRCode" = "Ungültiger QR-Code";
 "AuthSessions.AddDevice.ScanInfo" = "QR-Code scannen, um dich\nmit dem Konto auf einem\nanderen Gerät anzumelden.";
-"AuthSessions.AddDevice.ScanInstallInfo" = "Unter [getdesktop.telegram.org](desktop) oder [web.telegram.org](web) erhältst du einen QR-Code";
+"AuthSessions.AddDevice.ScanInstallInfo" = "Unter [getdesktop.whatsgram.org](desktop) oder [web.whatsgram.org](web) erhältst du einen QR-Code";
 "AuthSessions.AddDevice.ScanTitle" = "QR-Code scannen";
 "AuthSessions.AddDevice.UrlLoginHint" = "Mit diesem Code kann man sich bei deinem Telegram Konto anmelden.\n\nUm die Anmeldung zu bestätigen, in die Einstellungen von Telegram wechseln > Geräte > Gerät hinzufügen und den Code mit der Kamera scannen.";
 "AuthSessions.AddDeviceIntro.Action" = "QR-Code scannen";
-"AuthSessions.AddDeviceIntro.Text1" = "Telegram auf deinen Computer laden von [desktop.telegram.org]()";
+"AuthSessions.AddDeviceIntro.Text1" = "Telegram auf deinen Computer laden von [desktop.whatsgram.org]()";
 "AuthSessions.AddDeviceIntro.Text2" = "Starte Telegram Desktop, um einen QR-Code zu erhalten";
 "AuthSessions.AddDeviceIntro.Text3" = "QR-Code scannen, um dich mit deinem Konto zu verbinden";
 "AuthSessions.AddDeviceIntro.Title" = "Mit QR-Code anmelden";
@@ -944,7 +944,7 @@
 "Business.AddPost" = "Beitrag hinzufügen";
 "Business.AddPostInfo" = "Veröffentliche Bilder und Videos von deinen Waren oder Dienstleistungen auf deiner Seite.";
 "Business.AdsInfo" = "Als Premium-Abonnent siehst du keine Werbung auf Telegram, aber du kannst sie einschalten, um zum Beispiel deine eigenen Anzeigen zu sehen, die du auf der [Telegram Werbeplatform >]() gestartet hast.";
-"Business.AdsInfo_URL" = "https://ads.telegram.org";
+"Business.AdsInfo_URL" = "https://ads.whatsgram.org";
 "Business.AdsTitle" = "WERBUNG IN KANÄLEN";
 "Business.AwayMessages" = "Abwesenheitsnachrichten";
 "Business.AwayMessagesInfo" = "Bestimme Nachrichten, die automatisch gesendet werden, wenn du nicht da bist.";
@@ -2604,7 +2604,7 @@
 "Chat.PrivateMessageSentTimestamp.Date" = "gesendet %@";
 "Chat.PrivateMessageSentTimestamp.TodayAt" = "heute um %@ gesendet";
 "Chat.PrivateMessageSentTimestamp.YesterdayAt" = "gestern um %@ gesendet";
-"Chat.PsaTooltip.covid" = "Diese Nachricht enthält eine öffentliche Bekanntmachung hinsichtlich der aktuellen COVID-19 Pandemie. Erfahre mehr über diese Initiative unter https://telegram.org/blog/coronavirus";
+"Chat.PsaTooltip.covid" = "Diese Nachricht enthält eine öffentliche Bekanntmachung hinsichtlich der aktuellen COVID-19 Pandemie. Erfahre mehr über diese Initiative unter https://whatsgram.org/blog/coronavirus";
 "Chat.PsaTooltip.psa" = "Das ist eine offizielle Nachricht des CEO von Telegram zum aktuellen Konflikt.";
 "Chat.QuickReply.ServiceHeader1" = "Um deine Schnellantwort zu bearbeiten oder zu löschen, halte sie gedrückt.";
 "Chat.QuickReply.ServiceHeader2" = "Um diese Schnellantwort in einem Chat zu verwenden, tippe / ein und wähle den Kurzbefehl aus der Liste aus.";
@@ -3010,7 +3010,7 @@
 "ChatList.PremiumRestoreDiscountTitle" = "Hol dir Premium zurück mit bis zu %@ Rabatt";
 "ChatList.PremiumXmasGiftText" = "Sende limitierte Sammlerstücke an Freunde!";
 "ChatList.PremiumXmasGiftTitle" = "👑 Snoop Dogg Geschenke 🎁";
-"ChatList.PsaAlert.covid" = "Diese Nachricht enthält eine öffentliche Bekanntmachung hinsichtlich der aktuellen COVID-19 Pandemie. Erfahre mehr über diese Initiative unter https://telegram.org/blog/coronavirus";
+"ChatList.PsaAlert.covid" = "Diese Nachricht enthält eine öffentliche Bekanntmachung hinsichtlich der aktuellen COVID-19 Pandemie. Erfahre mehr über diese Initiative unter https://whatsgram.org/blog/coronavirus";
 "ChatList.PsaAlert.psa" = "Das ist eine offizielle Nachricht des CEO von Telegram zum aktuellen Konflikt.";
 "ChatList.PsaLabel.covid" = "COVID-19";
 "ChatList.PsaLabel.psa" = "Bekanntmachung";
@@ -3283,7 +3283,7 @@
 "ChatbotSetup.SetupNotCompleted.Text" = "Du hast keinen Bot hinzugefügt, der dein Konto verwaltet. Trotzdem verlassen?";
 "ChatbotSetup.SetupNotCompleted.Title" = "Kein Bot hinzugefügt";
 "ChatbotSetup.Text" = "Füge einen Bot hinzu, der für dich auf Nachrichten antwortet.";
-"ChatbotSetup.TextLink" = "https://telegram.org/blog/telegram-business/de?ln=a#chatbots-fur-unternehmen";
+"ChatbotSetup.TextLink" = "https://whatsgram.org/blog/telegram-business/de?ln=a#chatbots-fur-unternehmen";
 "ChatbotSetup.Title" = "Das kommt später";
 "ChatbotSetup.TitleItem" = "Chat-Automatisierung";
 "Checkout.Email" = "E-Mail";
@@ -4226,7 +4226,7 @@
 "Conversation.Unpin" = "Loslösen";
 "Conversation.UnpinMessageAlert" = "Angeheftete Nachricht wieder entfernen?";
 "Conversation.UnreadMessages" = "Ungelesene Nachrichten";
-"Conversation.UnsupportedMedia" = "Diese Nachricht wird von deiner Telegram-Version nicht unterstützt. Bitte aktualisiere die App: https://telegram.org/update";
+"Conversation.UnsupportedMedia" = "Diese Nachricht wird von deiner Telegram-Version nicht unterstützt. Bitte aktualisiere die App: https://whatsgram.org/update";
 "Conversation.UnsupportedMediaPlaceholder" = "Diese Nachricht wird von deiner Telegram-Version nicht unterstützt. Bitte aktualisiere die App.";
 "Conversation.UnvotePoll" = "Stimme entfernen";
 "Conversation.UpdateTelegram" = "AKTUALISIERE TELEGRAM";
@@ -4433,7 +4433,7 @@
 "DeleteAccount.ConfirmationAlertText" = "Wenn du dein Konto löschst, werden deine Daten dauerhaft gelöscht!\n\nEs ist unmöglich, die Löschung rückgängig zu machen!";
 "DeleteAccount.ConfirmationAlertTitle" = "Mit Kontolöschung fortfahren?";
 "DeleteAccount.Continue" = "Weiter";
-"DeleteAccount.DeleteMessagesURL" = "https://telegram.org/faq/de?setln=de#f-kann-ich-meine-nachrichten-loschen";
+"DeleteAccount.DeleteMessagesURL" = "https://whatsgram.org/faq/de?setln=de#f-kann-ich-meine-nachrichten-loschen";
 "DeleteAccount.DeleteMyAccount" = "Mein Konto löschen";
 "DeleteAccount.DeleteMyAccountTitle" = "Mein Konto löschen";
 "DeleteAccount.EnterPassword" = "Dein Passwort eingeben";
@@ -4680,7 +4680,7 @@
 "EnableSharing.SendRequest" = "Anfrage senden";
 "EnableSharing.Text" = "Du benötigst die Zustimmung von **%@**, um Teilen zu aktivieren. Anfrage senden?";
 "EnableSharing.Title" = "Teilen aktivieren";
-"EncryptionKey.Description" = "Bild und Text zeigen den aktuellen Schlüssel dieses geheimen Chats mit %1$@.\n\nSehen sie bei %2$@ genau so aus, ist Ende-zu-Ende-Verschlüsselung garantiert.\n\nErfahre mehr auf telegram.org";
+"EncryptionKey.Description" = "Bild und Text zeigen den aktuellen Schlüssel dieses geheimen Chats mit %1$@.\n\nSehen sie bei %2$@ genau so aus, ist Ende-zu-Ende-Verschlüsselung garantiert.\n\nErfahre mehr auf whatsgram.org";
 "EncryptionKey.Title" = "Geheimer Schlüssel";
 "EnterPasscode.ChangeTitle" = "Pincode ändern";
 "EnterPasscode.EnterCurrentPasscode" = "Aktuellen Pincode eingeben";
@@ -4887,7 +4887,7 @@
 "FrozenAccount.Understood" = "Verstanden";
 "FrozenAccount.Violation.Text" = "Dein Konto wurde wegen eines Verstoßes gegen die Nutzungsbedingungen von Telegram eingefroren.";
 "FrozenAccount.Violation.TextNew" = "Dein Konto wurde eingefroren, weil du gegen die [Nutzungsbedingungen]() von Telegram verstoßen hast.";
-"FrozenAccount.Violation.TextNew_URL" = "https://telegram.org/tos/de";
+"FrozenAccount.Violation.TextNew_URL" = "https://whatsgram.org/tos/de";
 "FrozenAccount.Violation.Title" = "Verstoß gegen die Regeln";
 "Gallery.Ad" = "Werbung";
 "Gallery.AirPlay" = "AirPlay";
@@ -6150,7 +6150,7 @@
 "InviteText.ContactsCountText#one" = "Hi, ich benutze Telegram zum Chatten. Hier kannst du es herunterladen: {url}";
 "InviteText.ContactsCountText#other" = "Hi, ich benutze Telegram zum Chatten – genau wie %@ unserer Kontakte. Hier kannst du es herunterladen: {url}";
 "InviteText.SingleContact" = "Hi, ich benutze Telegram zum Chatten. Hier kannst du es herunterladen: %@";
-"InviteText.URL" = "https://telegram.org/dl";
+"InviteText.URL" = "https://whatsgram.org/dl";
 "Items.NOfM" = "%1$@ von %2$@";
 "Join.ChannelsTooMuch" = "Du bist bereits in zu vielen Gruppen und Kanälen. Bitte erst einige verlassen.";
 "KeyCommand.ChatInfo" = "Info";
@@ -6424,7 +6424,7 @@
 "Login.NewNumber" = "Neue Nummer";
 "Login.OpenFragment" = "Fragment öffnen";
 "Login.Or" = "oder";
-"Login.PRIVACY_URL" = "https://telegram.org/privacy";
+"Login.PRIVACY_URL" = "https://whatsgram.org/privacy";
 "Login.PadPhoneHelp" = "Du kannst deine Handynummer auf allen Geräten mit Telegram benutzen.\nBenutze nicht deine iPad-Nummer, da wir dir eine SMS senden werden.\n\nStimmt die Nummer?\n{number}";
 "Login.PadPhoneHelpTitle" = "Deine Nummer";
 "Login.Paste" = "Einfügen";
@@ -6957,9 +6957,9 @@
 "Monetization.Balance.ComingLaterInfo" = "In den kommenden Wochen kannst du deine Vergütung über Fragment abholen, eine Drittanbieter-Plattform, die von Werbetreibenden zur Bezahlung von Anzeigen genutzt wird. [Mehr erfahren >]()";
 "Monetization.Balance.StarsInfo" = "Du kannst Sterne über Fragment abheben oder Sterne verwenden, um für deinen Kanal zu werben. Du kannst nicht weniger als 1000 Sterne abheben. [Mehr erfahren >]()";
 "Monetization.Balance.StarsInfoGroup" = "Du kannst Belohnungen für Sterne über Fragment sammeln. Du kannst nicht weniger als 1000 Sterne abheben. [Mehr erfahren >]()";
-"Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
+"Monetization.Balance.StarsInfo_URL" = "https://whatsgram.org/tos/stars";
 "Monetization.Balance.ZeroInfo" = "Mit Fragment, einer Drittanbieter-Plattform, die von Werbetreibenden für die Bezahlung von Anzeigen genutzt wird, kannst du Vergütungen sammeln. [Bedingungen & Konditionen >]()";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceStarsBuyAds" = "Werbung kaufen";
 "Monetization.BalanceStarsWithdraw" = "Über Fragment abheben";
 "Monetization.BalanceStarsWithdrawShort" = "Abheben";
@@ -6976,7 +6976,7 @@
 "Monetization.Intro.Bot.Ads.Text" = "Telegram kann in deinem Bot Werbung anzeigen.";
 "Monetization.Intro.Bot.Title" = "Mit deinem Bot verdienen";
 "Monetization.Intro.Info.Text" = "GRAM ist eine Kryptowährung der TON Blockchain, die Telegram wegen seiner hohen Geschwindigkeit und niedrigen Gebühren für Transaktionen nutzt. [Mehr erfahren >]()";
-"Monetization.Intro.Info.Text_URL" = "https://telegram.org/blog/monetization-for-channels/de\n";
+"Monetization.Intro.Info.Text_URL" = "https://whatsgram.org/blog/monetization-for-channels/de\n";
 "Monetization.Intro.Info.Title" = "Was ist #Gram?";
 "Monetization.Intro.Split.Text" = "Du kannst 50% der Werbeeinnahmen in Grams erhalten.";
 "Monetization.Intro.Split.Title" = "50:50 Umsatzaufteilung";
@@ -8339,7 +8339,7 @@
 "Passport.Identity.TypePassportUploadScan" = "Scan deines Reisepasses hochladen";
 "Passport.Identity.TypePersonalDetails" = "Persönliche Daten";
 "Passport.Identity.UploadOneOfScan" = "Scan von %@ hochladen";
-"Passport.InfoFAQ_URL" = "https://telegram.org/faq/de#passport";
+"Passport.InfoFAQ_URL" = "https://whatsgram.org/faq/de#passport";
 "Passport.InfoLearnMore" = "Mehr Infos";
 "Passport.InfoText" = "Mit **Telegram Passport** kannst du dich ganz einfach bei Webseiten und Diensten anmelden, die eine Identitätsprüfung erfordern.\n\nDeine Informationen, persönlichen Daten und Dokumente sind durch Ende-zu-Ende-Verschlüsselung geschützt. Niemand, einschließlich Telegram, kann ohne deine Erlaubnis darauf zugreifen.";
 "Passport.InfoTitle" = "Was ist Telegram Passport?";
@@ -8447,10 +8447,10 @@
 "PeerInfo.AllowedReactions.OptionSomeReactions" = "Einige Reaktionen";
 "PeerInfo.AllowedReactions.ReactionListHeader" = "VERFÜGBARE REAKTIONEN";
 "PeerInfo.AllowedReactions.StarReactions" = "Bezahlte Reaktionen";
-"PeerInfo.AllowedReactions.StarReactionsFooter" = "Einschalten, damit deine Abonnenten auf veröffentlichte Beiträge mit Telegram-Sternen reagieren, die du später als Grams abheben kannst. [Mehr erfahren >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"PeerInfo.AllowedReactions.StarReactionsFooter" = "Einschalten, damit deine Abonnenten auf veröffentlichte Beiträge mit Telegram-Sternen reagieren, die du später als Grams abheben kannst. [Mehr erfahren >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "PeerInfo.AllowedReactions.Title" = "Reaktionen";
-"PeerInfo.AppFooter" = "Indem du diese Mini-App startest, erklärst du dich mit den [Nutzungsbedingungen für Mini-Apps](https://telegram.org/tos/mini-apps) einverstanden.";
-"PeerInfo.AppFooterAdmin" = "Indem du diese Mini-App veröffentlichst, stimmst du den [Telegram \nNutzungsbedingungen für Entwickler](https://telegram.org/tos/bot-developers) zu.";
+"PeerInfo.AppFooter" = "Indem du diese Mini-App startest, erklärst du dich mit den [Nutzungsbedingungen für Mini-Apps](https://whatsgram.org/tos/mini-apps) einverstanden.";
+"PeerInfo.AppFooterAdmin" = "Indem du diese Mini-App veröffentlichst, stimmst du den [Telegram \nNutzungsbedingungen für Entwickler](https://whatsgram.org/tos/bot-developers) zu.";
 "PeerInfo.AutoDeleteDisable" = "Ausschalten";
 "PeerInfo.AutoDeleteInfo" = "Das löscht Nachrichten in diesem Chat nach der ausgewählten Zeit.";
 "PeerInfo.AutoDeleteSettingOther" = "Eigener Wert";
@@ -9551,7 +9551,7 @@
 "Report.Title.Story" = "Story melden";
 "Report.Title.User" = "Nutzer melden";
 "ReportAd.Help" = "Erfahre mehr über unsere [Werbebestimmungen und Richtlinien]().";
-"ReportAd.Help_URL" = "https://ads.telegram.org/guidelines";
+"ReportAd.Help_URL" = "https://ads.whatsgram.org/guidelines";
 "ReportAd.Hidden" = "Du wirst keine Werbung mehr von Telegram sehen.";
 "ReportAd.Reported" = "Wir werden diese Anzeige überprüfen, um sicherzustellen, dass sie mit unseren [Anzeigenrichtlinien]() übereinstimmt.";
 "ReportAd.Title" = "Werbung melden";
@@ -9800,7 +9800,7 @@
 "SendStarReactions.ShowMyselfInTop" = "Mich bei Top-Sender anzeigen";
 "SendStarReactions.SliderTop" = "TOP";
 "SendStarReactions.SubtitleFrom" = "von %@";
-"SendStarReactions.TermsOfServiceFooter" = "Wenn du Sterne sendest, erklärst du dich mit den [Nutzungsbedingungen](https://telegram.org/tos/stars) einverstanden.";
+"SendStarReactions.TermsOfServiceFooter" = "Wenn du Sterne sendest, erklärst du dich mit den [Nutzungsbedingungen](https://whatsgram.org/tos/stars) einverstanden.";
 "SendStarReactions.TextGeneric" = "Anzahl der Sterne die du **%@** senden möchtest, um diesen Beitrag zu unterstützen.";
 "SendStarReactions.TextSentStars#one" = "Du hast **%d** Stern geschickt, um diesen Beitrag zu unterstützen.";
 "SendStarReactions.TextSentStars#other" = "Du hast **%d** Sterne geschickt, um diesen Beitrag zu unterstützen.";
@@ -9902,7 +9902,7 @@
 "Settings.FAQ" = "Telegram FAQ";
 "Settings.FAQ_Button" = "Telegram FAQ";
 "Settings.FAQ_Intro" = "Der Support wird von Freiwilligen durchgeführt.\n\nObwohl es kein Live-Chat ist, versuchen alle so schnell wie möglich zu antworten.\n\nDie meisten Antworten findest du bereits im Bereich \"Telegram FAQ\".";
-"Settings.FAQ_URL" = "https://telegram.org/faq/de#allgemeine-fragen";
+"Settings.FAQ_URL" = "https://whatsgram.org/faq/de#allgemeine-fragen";
 "Settings.FrequentlyAskedQuestions" = "Häufig gestellte Fragen";
 "Settings.KeepPassword" = "Ja, ich kenne es noch";
 "Settings.KeepPhoneNumber" = "%@ behalten";
@@ -9942,7 +9942,7 @@
 "Settings.Privacy.ReadTimePremiumActive" = "Telegram Premium abonniert";
 "Settings.Privacy.ReadTimePremiumActiveFooter" = "Da du ein Telegram Premium Abonnent bist, siehst du die zuletzt gesehene und gelesene Zeit aller Nutzer, die sie mit dir teilen auch wenn du deine versteckst.";
 "Settings.Privacy.ReadTimePremiumFooter" = "Wenn du Premium abonniert hast, siehst du die Zeit, die andere Nutzer zuletzt gesehen und gelesen haben, auch wenn du deine Zeit vor ihnen verborgen hast (es sei denn, sie haben sie ausdrücklich eingeschränkt).";
-"Settings.PrivacyPolicy_URL" = "https://telegram.org/privacy";
+"Settings.PrivacyPolicy_URL" = "https://whatsgram.org/privacy";
 "Settings.PrivacySettings" = "Privatsphäre und Sicherheit";
 "Settings.Proxy" = "Proxy";
 "Settings.ProxyConnected" = "Verbunden";
@@ -9981,7 +9981,7 @@
 "Settings.SuggestSetupPasswordText" = "Lege ein Passwort fest, das jedes Mal erforderlich ist, wenn du dich mit dieser Nummer anmeldest.";
 "Settings.SuggestSetupPasswordTitle" = "Schütze dein Konto";
 "Settings.Support" = "Eine Frage stellen";
-"Settings.Terms_URL" = "https://telegram.org/tos";
+"Settings.Terms_URL" = "https://whatsgram.org/tos";
 "Settings.Tips" = "Telegram Funktionen";
 "Settings.TipsUsername" = "TelegramTipsDE";
 "Settings.Title" = "Einstellungen";
@@ -10249,10 +10249,10 @@
 "SocksProxySetup.Warning.Text" = "Dadurch kann der Admin des Proxy-Servers deine IP-Adresse sehen.";
 "SocksProxySetup.Warning.Title" = "Warnung";
 "SponsoredMessageInfo.Action" = "Mehr erfahren";
-"SponsoredMessageInfo.ActionUrl" = "https://ads.telegram.org";
-"SponsoredMessageInfo.Text" = "Siehe https://telegram.org";
-"SponsoredMessageInfo.Url" = "https://ads.telegram.org";
-"SponsoredMessageInfoScreen.MarkdownText" = "Im Gegensatz zu anderen Apps verwendet Telegram niemals deine privaten Daten, um Werbung zu schalten. [Mehr dazu in der Datenschutzrichtlinie](https://telegram.org/privacy#5-6-no-ads-based-on-user-data)\n\nIm Gegensatz zu anderen Apps verfolgt Telegram nicht, ob du auf eine gesponserte Nachricht getippt hast, und erstellt auch kein Profil von dir auf der Grundlage deiner Aktivitäten. Wir verhindern auch externe Links in gesponserten Nachrichten, um sicherzustellen, dass Dritte unsere Nutzer nicht ausspionieren können. Wir glauben, dass jeder Mensch das Recht auf Privatsphäre hat und Online-Plattformen das respektieren sollten.\n\nTelegram bietet Hunderten von Millionen Nutzern einen kostenlosen und unbegrenzten Dienst, der mit erheblichen Server- und Traffickosten verbunden ist. Um unabhängig zu bleiben und seinen Werten treu zu bleiben, hat Telegram ein kostenpflichtiges Werkzeug entwickelt, um Nachrichten unter Berücksichtigung der Privatsphäre der Nutzer zu bewerben. Verantwortungsbewusste Werbetreibende sind bei uns willkommen:\n[url]\nWerbung sollte nicht länger ein Synonym für den Missbrauch der Privatsphäre der Nutzer sein. Lasst uns gemeinsam neu definieren, wie ein Technologieunternehmen arbeiten sollte.";
+"SponsoredMessageInfo.ActionUrl" = "https://ads.whatsgram.org";
+"SponsoredMessageInfo.Text" = "Siehe https://whatsgram.org";
+"SponsoredMessageInfo.Url" = "https://ads.whatsgram.org";
+"SponsoredMessageInfoScreen.MarkdownText" = "Im Gegensatz zu anderen Apps verwendet Telegram niemals deine privaten Daten, um Werbung zu schalten. [Mehr dazu in der Datenschutzrichtlinie](https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data)\n\nIm Gegensatz zu anderen Apps verfolgt Telegram nicht, ob du auf eine gesponserte Nachricht getippt hast, und erstellt auch kein Profil von dir auf der Grundlage deiner Aktivitäten. Wir verhindern auch externe Links in gesponserten Nachrichten, um sicherzustellen, dass Dritte unsere Nutzer nicht ausspionieren können. Wir glauben, dass jeder Mensch das Recht auf Privatsphäre hat und Online-Plattformen das respektieren sollten.\n\nTelegram bietet Hunderten von Millionen Nutzern einen kostenlosen und unbegrenzten Dienst, der mit erheblichen Server- und Traffickosten verbunden ist. Um unabhängig zu bleiben und seinen Werten treu zu bleiben, hat Telegram ein kostenpflichtiges Werkzeug entwickelt, um Nachrichten unter Berücksichtigung der Privatsphäre der Nutzer zu bewerben. Verantwortungsbewusste Werbetreibende sind bei uns willkommen:\n[url]\nWerbung sollte nicht länger ein Synonym für den Missbrauch der Privatsphäre der Nutzer sein. Lasst uns gemeinsam neu definieren, wie ein Technologieunternehmen arbeiten sollte.";
 "SponsoredMessageInfoScreen.Text" = "Im Gegensatz zu anderen Apps nutzt Telegram niemals deine privaten Daten, um Werbung zu schalten. Gesponserte Nachrichten auf Telegram basieren ausschließlich auf dem Thema der öffentlichen Kanäle, in denen sie angezeigt werden. Das bedeutet, dass keine Nutzerdaten gesammelt oder analysiert werden, um Werbung anzuzeigen, und dass jeder Nutzer, der einen Kanal auf Telegram besucht, die gleichen gesponserten Nachrichten sieht.\n\nIm Gegensatz zu anderen Apps verfolgt Telegram nicht, ob du auf eine gesponserte Nachricht getippt hast, und erstellt auch kein Profil von dir auf der Grundlage deiner Aktivitäten. Wir verhindern auch externe Links in gesponserten Nachrichten, um sicherzustellen, dass Dritte unsere Nutzer nicht ausspionieren können. Wir sind der Meinung, dass jeder Mensch das Recht auf Privatsphäre hat und dass Technologieunternehmen dies respektieren sollten.\n\nTelegram bietet hunderten Millionen Nutzern einen kostenlosen und unbegrenzten Dienst, der mit erheblichen Server- und Datenverkehrskosten verbunden ist. Um unabhängig zu bleiben und unseren Werten treu zu bleiben, hat Telegram ein kostenpflichtiges Werkzeug entwickelt, um Nachrichten unter Berücksichtigung der Privatsphäre der Nutzer zu bewerben. Verantwortungsbewusste Werbetreibende sind bei uns willkommen:\n[url]\nGesponserte Nachrichten befinden sich derzeit im Testmodus. Sobald sie vollständig eingeführt sind und Telegram seine Grundkosten decken kann, werden wir damit beginnen, die Werbeeinnahmen mit den Eigentümern der öffentlichen Kanäle, in denen gesponserte Nachrichten angezeigt werden, zu teilen.\n\nWerbung sollte nicht länger ein Synonym für den Missbrauch der Privatsphäre von Nutzern sein. Lasst uns gemeinsam neu definieren, wie ein Technologieunternehmen arbeiten sollte.";
 "SponsoredMessageInfoScreen.Title" = "Was sind gesponserte Nachrichten?";
 "SponsoredMessageMenu.Hide" = "Verstecken";
@@ -10270,7 +10270,7 @@
 "Stars.BotRevenue.Withdraw.Balance" = "Verfügbares Guthaben";
 "Stars.BotRevenue.Withdraw.BuyAds" = "Werbung kaufen";
 "Stars.BotRevenue.Withdraw.Info" = "Du kannst Belohnungen für Sterne mit Fragment sammeln oder Sterne nutzen, um für deinen Bot zu werben. Du kannst nicht weniger als 1000 Sterne abheben. [Mehr erfahren >]()";
-"Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Stars.BotRevenue.Withdraw.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "Stars.BotRevenue.Withdraw.Withdraw" = "Über Fragment abheben";
 "Stars.BotRevenue.Withdraw.WithdrawShort" = "Abheben";
 "Stars.Gift.Received.Text" = "Verwende Sterne, um Inhalte und Dienste auf Telegram freizuschalten. [Siehe Beispiele >]()";
@@ -10358,7 +10358,7 @@
 "Stars.Intro.Withdraw" = "Abheben";
 "Stars.Intro.YourBalance" = "dein Guthaben";
 "Stars.PaidContent.AmountInfo" = "Nutzer müssen diese Menge an Sternen an deinen Kanal senden, um dieses Medium sehen zu können. **Mehr erfahren >**";
-"Stars.PaidContent.AmountInfo_URL" = "https://telegram.org/tos/stars";
+"Stars.PaidContent.AmountInfo_URL" = "https://whatsgram.org/tos/stars";
 "Stars.PaidContent.AmountPlaceholder" = "Sterne zum Freischalten";
 "Stars.PaidContent.AmountTitle" = "FREISCHALTKOSTEN EINGEBEN";
 "Stars.PaidContent.Create" = "Medium wird kostenpflichtig";
@@ -10389,7 +10389,7 @@
 "Stars.Purchase.StarsReactionsNeededInfo" = "Kaufe Sterne, um bezahlte Reaktionen an **%@** und andere Kanäle zu senden.";
 "Stars.Purchase.SubscriptionInfo" = "Kaufe Sterne, um **%@** zu abonnieren.";
 "Stars.Purchase.SubscriptionRenewInfo" = "Kaufe Sterne, um dein Abo bei **%@** zu behalten.";
-"Stars.Purchase.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Purchase.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Purchase.TransferStarGiftInfo" = "Kaufe Sterne, um dein einzigartiges Sammlerstück zu übertragen.";
 "Stars.Purchase.UpgradeStarGiftInfo" = "Kaufe Sterne, um dein Geschenk in ein einzigartiges Sammlerstück zu verwandeln.";
 "Stars.SellGift.AmountInfo" = "Du wirst **%@** erhalten.";
@@ -10419,7 +10419,7 @@
 "Stars.SendStars.SendStars" = "Bestätigen und Senden";
 "Stars.SendStars.Title" = "Sterne senden";
 "Stars.Subscription.Terms" = "Durch die Anmeldung stimmst du den **Nutzungsbedingungen** zu.";
-"Stars.Subscription.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Subscription.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Ton.Description" = "Nutze Grams, um Geschenke zu kaufen und Beiträge für Kanäle vorzuschlagen.";
 "Stars.Ton.Title" = "Gram-Guthaben";
 "Stars.Transaction.AppleTopUp.Subtitle" = "App Store";
@@ -10515,7 +10515,7 @@
 "Stars.Transaction.TelegramPremium#one" = "Premium für %@ Monat";
 "Stars.Transaction.TelegramPremium#other" = "Premium für %@ Monate";
 "Stars.Transaction.Terms" = "Prüfe die [Nutzungsbedingungen]() für Sterne.";
-"Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transaction.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transaction.To" = "An";
 "Stars.Transaction.Unsupported.Title" = "Nicht unterstützt";
 "Stars.Transaction.Via" = "Über";
@@ -10546,7 +10546,7 @@
 "Stars.Transfer.SubscribeInfo" = "Wirklich **%1$@** für **%2$@** monatlich abonnieren?";
 "Stars.Transfer.SubscribePerMonth" = "/Monat";
 "Stars.Transfer.Terms" = "Mit dem Kauf erklärst du dich mit den [Nutzungsbedingungen]() einverstanden.";
-"Stars.Transfer.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transfer.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transfer.Title" = "Bestätige deinen Kauf";
 "Stars.Transfer.Unavailable" = "In deinem Land sind leider keine Käufe von Sternen möglich.";
 "Stars.Transfer.UnlockBotInfo" = "Wirklich %1$@ von **%2$@** für **%3$@** freischalten?";
@@ -11493,9 +11493,9 @@
 "Ton.ProceedsOverview" = "ERLÖSE";
 "Ton.WithdrawViaFragment" = "Über Fragment abheben";
 "Ton.WithdrawViaFragment.Info" = "Grams über Fragment erhalten. [Mehr erfahren >]()";
-"Ton.WithdrawViaFragment.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Ton.WithdrawViaFragment.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "TopApps.Info.Done" = "Verstanden";
-"TopApps.Info.Text" = "Dieser Katalog zeigt Mini-Apps nach ihrem täglichen Umsatz in Sternen an. Um aufgeführt zu werden, müssen Entwickler ihre Haupt-Mini-Apps in @botfather (wie [hier](https://core.telegram.org/bots/webapps#launching-the-main-mini-app) beschrieben) einstellen, mehr als **1.000** tägliche Nutzer haben und einen Tagesumsatz von über **1.000** Sternen erzielen, basierend auf dem wöchentlichen Durchschnitt.";
+"TopApps.Info.Text" = "Dieser Katalog zeigt Mini-Apps nach ihrem täglichen Umsatz in Sternen an. Um aufgeführt zu werden, müssen Entwickler ihre Haupt-Mini-Apps in @botfather (wie [hier](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app) beschrieben) einstellen, mehr als **1.000** tägliche Nutzer haben und einen Tagesumsatz von über **1.000** Sternen erzielen, basierend auf dem wöchentlichen Durchschnitt.";
 "TopApps.Info.Title" = "Top Mini-Apps";
 "Tour.StartButton" = "Jetzt beginnen";
 "Tour.Text1" = "Die **schnellste** Messaging App der Welt. **Kostenlos** und **sicher**.";
@@ -12415,7 +12415,7 @@
 "WebApp.DisclaimerContinue" = "Fortsetzen";
 "WebApp.DisclaimerText" = "Du bist dabei, eine Mini-App zu nutzen. Diese wird von Dritten betrieben, die nicht mit Telegram in Verbindung stehen. Du musst den Nutzungsbedingungen für Mini-Apps zustimmen, um fortzufahren.";
 "WebApp.DisclaimerTitle" = "Nutzungsbedingungen";
-"WebApp.Disclaimer_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.Disclaimer_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.Download.Cancel" = "Abbrechen";
 "WebApp.Download.Document" = "Datei herunterladen";
 "WebApp.Download.Download" = "Herunterladen";
@@ -12445,7 +12445,7 @@
 "WebApp.LaunchMoreInfo" = "Mehr über diesen Bot";
 "WebApp.LaunchOpenApp" = "Starten";
 "WebApp.LaunchTermsConfirmation" = "Indem du diese Mini-App startest, erklärst du dich mit den [Nutzungsbedingungen für Mini-Apps]() einverstanden.";
-"WebApp.LaunchTermsConfirmation_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.LaunchTermsConfirmation_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.LocationPermission.Allow" = "Erlauben";
 "WebApp.LocationPermission.Decline" = "Ablehnen";
 "WebApp.LocationPermission.Succeed" = "**%@** kann nun auf deinen Standort zugreifen";
@@ -12463,7 +12463,7 @@
 "WebApp.OpenWebViewAlertText" = "**%@** möchte seine Web-App öffnen.\n\nDadurch kann es deine **IP-Adresse** sehen und allgemeine Geräteinfos.";
 "WebApp.OpenWebViewAlertTitle" = "App öffnen";
 "WebApp.PrivacyPolicy" = "Datenschutzerklärung";
-"WebApp.PrivacyPolicy_URL" = "https://telegram.org/privacy-tpa";
+"WebApp.PrivacyPolicy_URL" = "https://whatsgram.org/privacy-tpa";
 "WebApp.ReloadPage" = "Seite neu laden";
 "WebApp.RemoveAllConfirmationText" = "Das wird Verknüpfungen von **%@** aus allen Menüs entfernen.";
 "WebApp.RemoveBot" = "Aus Menü entfernen";
@@ -12485,7 +12485,7 @@
 "WebApp.ShortcutsAdded" = "Verknüpfung zu **%@** deinem Anhangsmenü hinzugefügt.";
 "WebApp.ShortcutsSettingsAdded" = "Verknüpfung zu **%@** wurde deinem Anhangsmenü und den Einstellungen hinzugefügt.";
 "WebApp.TermsOfUse" = "Nutzungsbedingungen";
-"WebApp.TermsOfUse_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.TermsOfUse_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebBrowser.AddBookmark" = "Als Lesezeichen";
 "WebBrowser.AddressBar.Bookmarks" = "LESEZEICHEN";
 "WebBrowser.AddressBar.RecentlyVisited" = "KÜRZLICH BESUCHT";

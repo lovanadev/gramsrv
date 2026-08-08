@@ -131,7 +131,7 @@
 "AffiliateProgram.JoinSubtitleMonths_any" = "**{bot}** compartirà un **{commission}** dels ingressos dels usuaris que hi referencieu durant **%d mesos**.";
 "AffiliateProgram.JoinSubtitleYears_1" = "**{bot}** compartirà un **{commission}** dels ingressos dels usuaris que hi referencieu durant **1 any**.";
 "AffiliateProgram.JoinSubtitleYears_any" = "**{bot}** compartirà un **{commission}** dels ingressos dels usuaris que hi referencieu durant **%d anys**.";
-"AffiliateProgram.JoinTerms" = "En unir-vos al programa, accepteu els [termes i condicions](https://telegram.org/tos/affiliate-program) dels programes d'afiliats.";
+"AffiliateProgram.JoinTerms" = "En unir-vos al programa, accepteu els [termes i condicions](https://whatsgram.org/tos/affiliate-program) dels programes d'afiliats.";
 "AffiliateProgram.JoinTitle" = "Programa d'afiliació";
 "AffiliateProgram.LinkSubtitle" = "Compartiu l'enllaç amb els vostres usuaris per a guanyar un **%1$d** de comissió del que gastin al **%2$@** **%3$@** després que obrin l'enllaç.";
 "AffiliateProgram.LinkSubtitleLifetime" = "Compartiu l'enllaç amb els vostres usuaris per a guanyar un **{commission}** de comissió del que gastin al **{bot}** **per sempre** després que obrin l'enllaç.";
@@ -200,7 +200,7 @@
 "AffiliateSetup.StartTitle" = "Inicia el programa d'afiliació";
 "AffiliateSetup.SuggestedSectionEmpty" = "Encara no hi ha cap programa.\nTorneu aquí més endavant.";
 "AffiliateSetup.SuggestedSectionTitle" = "PROGRAMES";
-"AffiliateSetup.TermsFooter" = "En crear un programa, accepteu els [termes i condicions](https://telegram.org/terms) dels programes d'afiliats.";
+"AffiliateSetup.TermsFooter" = "En crear un programa, accepteu els [termes i condicions](https://whatsgram.org/terms) dels programes d'afiliats.";
 "AffiliateSetup.TextJoin" = "Guanyeu una comissió cada vegada que un usuari gasti **estrelles** en una miniaplicació a què hagi accedit a través del vostre enllaç d'afiliat.";
 "AffiliateSetup.TextNew" = "Recompenseu a qui ajuda a fer créixer la vostra base d'usuaris.";
 "AffiliateSetup.TitleJoin" = "Programes d'afiliació";
@@ -473,7 +473,7 @@
 "Bot.AllowSendMessages" = "Permet a **%@** enviar-me missatges.";
 "Bot.Grossing.Disclaimer" = "Quines aplicacions s'hi inclouen? [Més informació >](grossing)";
 "Bot.Grossing.Disclaimer.Alert.Header" = "Millors Miniaplicacions";
-"Bot.Grossing.Disclaimer.Alert.Text" = "Aquest catàleg puntua les miniaplicacions segons el seu benefici diari, mesurat en estrelles. Per a ser llistada, cal que els desenvolupadors estableixin la seva miniaplicació principal al [@botfather](https://t.me/botfather) (com es descriu [aquí](https://core.telegram.org/api/bots/webapps)), tenir més de **1.000** usuaris diaris, i tenir un benefici de més de **1.000** estrelles diàries, de mitjana setmanal.";
+"Bot.Grossing.Disclaimer.Alert.Text" = "Aquest catàleg puntua les miniaplicacions segons el seu benefici diari, mesurat en estrelles. Per a ser llistada, cal que els desenvolupadors estableixin la seva miniaplicació principal al [@botfather](https://t.me/botfather) (com es descriu [aquí](https://core.whatsgram.org/api/bots/webapps)), tenir més de **1.000** usuaris diaris, i tenir un benefici de més de **1.000** estrelles diàries, de mitjana setmanal.";
 "Bot.Grossing.Disclaimer.Alert.ok" = "Entesos";
 "Bot.InlineAuth.Header" = "Obre l'enllaç";
 "Bot.InlineAuth.Open" = "Obre";
@@ -487,8 +487,8 @@
 "Bot.TransferOwner.Error.Title" = "Comprovació de seguretat";
 "Bot.TransferOwnership.Password.Desc" = "Introduïu la contrasenya de verificació en dos passos per a completar l'acció.";
 "Bot.TransferOwnership.Password.Title" = "Verificació en dos passos";
-"BotInfo.LaunchInfo" = "En publicar aquesta miniaplicació, accepteu les [Condicions del servei per a desenvolupadors](https://telegram.org/tos/bot-developers).";
-"BotInfo.LaunchInfo.PrivacyUrl" = "https://telegram.org/privacy-tpa";
+"BotInfo.LaunchInfo" = "En publicar aquesta miniaplicació, accepteu les [Condicions del servei per a desenvolupadors](https://whatsgram.org/tos/bot-developers).";
+"BotInfo.LaunchInfo.PrivacyUrl" = "https://whatsgram.org/privacy-tpa";
 "BotInfo.LaunchInfo.User" = "En iniciar aquesta miniaplicació, accepteu les [Condicions del servei de les miniaplicacions](%@).";
 "BotInfo.OpenApp" = "Obre l'aplicació";
 "BotUsername.Activate.Info" = "Voleu mostrar aquest enllaç al bot?";
@@ -668,7 +668,7 @@
 "Business.ScheduleStart" = "Programa l'inici";
 "Business.SelectPeers.Limit" = "S'ha assolit el límit";
 "Business.SwitchAd" = "No amaguis els anuncis";
-"Business.SwitchAd.Info" = "Com a subscriptor Premium, no veieu cap anunci al Telegram, però podeu activar-los, per exemple, per a veure els vostres propis anuncis que hàgiu llançat a la [Plataforma d'Anuncis de Telegram >](https://ads.telegram.org)";
+"Business.SwitchAd.Info" = "Com a subscriptor Premium, no veieu cap anunci al Telegram, però podeu activar-los, per exemple, per a veure els vostres propis anuncis que hàgiu llançat a la [Plataforma d'Anuncis de Telegram >](https://ads.whatsgram.org)";
 "Business.SwitchAd.Title" = "ANUNCIS ALS CANALS";
 "Business.Updated" = "S'ha actualitzat el vostre Telegram Business";
 "CHAT_MESSAGE_INVOICE" = "%1$@ ha enviat una factura per %3$@ al grup %2$@";
@@ -1293,7 +1293,7 @@
 "ChannelReactions.EnableReactions" = "Activa les reaccions";
 "ChannelReactions.EnableReactions.Info" = "Podeu afegir emojis de qualsevol paquet com a reaccions.";
 "ChannelReactions.EnableStars" = "Activa les reaccions de pagament";
-"ChannelReactions.EnableStars.Info" = "Activeu-ho per a permetre que els subscriptors reaccionin a les publicacions amb estrelles de Telegram, que podreu retirar com a Grams. [Més informació >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"ChannelReactions.EnableStars.Info" = "Activeu-ho per a permetre que els subscriptors reaccionin a les publicacions amb estrelles de Telegram, que podreu retirar com a Grams. [Més informació >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "ChannelReactions.LevelRequired" = "Cal el nivell %d";
 "ChannelReactions.MaxCount.Info" = "Limiteu el nombre de reaccions diferents que es poden afegir a una publicació, incloses les ja publicades.";
 "ChannelReactions.MaxCount.Title" = "REACCIONS MÀXIMES PER PUBLICACIÓ";
@@ -1781,7 +1781,7 @@
 "Chat.ManageMessages.What_countable" = "%d";
 "Chat.Message.Ad.ReadMore" = "Llegeix més";
 "Chat.Message.Ad.Text" = "A diferència d'altres aplicacions, el Telegram no usa mai les vostres dades privades per a suggerir anuncis. Els missatges patrocinats en el Telegram es basen únicament en el tema dels canals públics on es mostren. Això vol dir que no s'extreu ni s'analitza cap dada d'usuari per a mostrar anuncis, i tothom qui veu un canal al Telegram veu els mateixos missatges patrocinats.\n\nA diferència d'altres aplicacions, el Telegram no controla si heu tocat en un missatge patrocinat ni crea un perfil basant-se en la vostra activitat. Tampoc permetem enllaços externs als missatges patrocinats per a assegurar que tercers no puguin espiar els nostres usuaris. Creiem que tothom té dret a la intimitat, i les plataformes tecnològiques haurien de respectar-ho.\n\nEl Telegram ofereix un servei gratuït i il·limitat a centenars de milions d'usuaris, i això suposa costos importants en servidors i trànsit. Per tal de romandre independent i mantenir-se fidel als seus valors, Telegram ha desenvolupat una eina de pagament per a promocionar missatges tenint present la privadesa dels usuaris. Donem la benvinguda a anunciants responsables a:\n\n%@\n\nEls missatges patrocinats estan en proves. Una vegada s'hagin llançat del tot i permetin que Telegram cobreixi els seus costos bàsics, començarem a compartir els ingressos publicitaris amb els propietaris dels canals públics en els quals es mostren els missatges patrocinats.\n\nEls anuncis no haurien de ser sinònim d'abús de la privadesa dels usuaris. Redefinim com ha d'operar una empresa tecnològica: fem-ho junts.";
-"Chat.Message.Ad.Url" = "https://ads.telegram.org";
+"Chat.Message.Ad.Url" = "https://ads.whatsgram.org";
 "Chat.Message.Context.Quote" = "Cita";
 "Chat.Message.Context.Quote.LimitExceed" = "Massa llarg.";
 "Chat.Message.DeleteForAll" = "Elimina per a tothom";
@@ -1827,7 +1827,7 @@
 "Chat.Message.Socks5.Config" = "Configuració SOCKS5";
 "Chat.Message.Sponsored" = "anunci";
 "Chat.Message.Sponsored.Advertiser" = "Quant a l'anunciant";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Què són els missatges patrocinats?";
 "Chat.Message.Suggest.Markup.Approve" = "Aprova";
 "Chat.Message.Suggest.Markup.Decline" = "Rebutja";
@@ -1841,7 +1841,7 @@
 "Chat.Message.Todo.Total" = "%1$@/%2$@ completades";
 "Chat.Message.UnsendMessages" = "Retira els meus missatges";
 "Chat.Message.UnsendMessages_countable" = "%d";
-"Chat.Message.Unsupported" = "Aquest missatge no és compatible amb la vostra versió del Telegram. Actualitzeu a l'última versió via Configuració o instal·leu-la des de: https://macos.telegram.org";
+"Chat.Message.Unsupported" = "Aquest missatge no és compatible amb la vostra versió del Telegram. Actualitzeu a l'última versió via Configuració o instal·leu-la des de: https://macos.whatsgram.org";
 "Chat.Message.UnsupportedNew" = "Aquest missatge no és compatible amb la vostra versió del Telegram. Actualitzeu-lo a l'última versió.";
 "Chat.Message.Via" = "via";
 "Chat.Message.ViewBot" = "MOSTRA EL BOT";
@@ -2548,8 +2548,8 @@
 "ChatList.FolderUpdates.Title#one" = "%d xat nou disponible";
 "ChatList.FolderUpdates.Title#other" = "%d xats nous disponibles";
 "ChatList.FolderUpdates.Title_countable" = "%d";
-"ChatList.FreezeAccount" = "El vostre compte ha sigut congelat a causa d'una violació seriosa dels [Termes i condicions](https://telegram.org/tos) de Telegram. El vostre compte ara és en mode només de lectura (des del dia %1$@). Podeu apel·lar mitjançant l'[@SpamBot](%2$@) si penseu que ha sigut un error. Si no ens aviseu d'aquí al dia %3$@, el vostre compte es desactivarà i eliminarà definitivament.";
-"ChatList.FreezeAccount.Alert" = "El vostre compte ha sigut congelat a causa d'una violació seriosa dels [Termes i condicions](https://telegram.org/tos) de Telegram. El vostre compte ara és en mode només de lectura (des del dia %1$@). Podeu apel·lar mitjançant l'[@SpamBot](%2$@) si penseu que ha sigut un error. Si no ens aviseu d'aquí al dia %3$@, el vostre compte es desactivarà i eliminarà definitivament.";
+"ChatList.FreezeAccount" = "El vostre compte ha sigut congelat a causa d'una violació seriosa dels [Termes i condicions](https://whatsgram.org/tos) de Telegram. El vostre compte ara és en mode només de lectura (des del dia %1$@). Podeu apel·lar mitjançant l'[@SpamBot](%2$@) si penseu que ha sigut un error. Si no ens aviseu d'aquí al dia %3$@, el vostre compte es desactivarà i eliminarà definitivament.";
+"ChatList.FreezeAccount.Alert" = "El vostre compte ha sigut congelat a causa d'una violació seriosa dels [Termes i condicions](https://whatsgram.org/tos) de Telegram. El vostre compte ara és en mode només de lectura (des del dia %1$@). Podeu apel·lar mitjançant l'[@SpamBot](%2$@) si penseu que ha sigut un error. Si no ens aviseu d'aquí al dia %3$@, el vostre compte es desactivarà i eliminarà definitivament.";
 "ChatList.FreezeAccount.Alert.Appeal" = "Apel·la";
 "ChatList.FreezeAccount.Alert.Title" = "El compte s'ha congelat";
 "ChatList.FreezeAccount.Title" = "El compte s'ha congelat";
@@ -2672,7 +2672,7 @@
 "ChatMessage.Sponsored.About" = "Quant a l'anunci";
 "ChatMessage.Sponsored.Report" = "Denuncia l'anunci";
 "ChatMessage.Sponsored.Report.Aready" = "Ja heu denunciat aquest anunci";
-"ChatMessage.Sponsored.Report.LearnMore" = "Llegiu més informació sobre les [Polítiques i Directrius dels anuncis](https://ads.telegram.org/guidelines).";
+"ChatMessage.Sponsored.Report.LearnMore" = "Llegiu més informació sobre les [Polítiques i Directrius dels anuncis](https://ads.whatsgram.org/guidelines).";
 "ChatMessage.Sponsored.Report.OptionTitle" = "QUIN PROBLEMA HI HA AMB L'ANUNCI?";
 "ChatMessage.Sponsored.Report.Success" = "L'equip de moderació del Telegram revisarà la denúncia. Gràcies.";
 "ChatMessage.Sponsored.Title" = "Anunci";
@@ -3569,7 +3569,7 @@
 "ForwardModalAction.description#one" = "Seleccioneu un usuari o xat per a reenviar el missatge de %@";
 "ForwardModalAction.description#other" = "Seleccioneu un usuari o xat per a reenviar els missatges de %@";
 "ForwardModalAction.description_countable" = "%d %@";
-"Fragment.AdsInfo.Block.Text" = "Tothom pot crear un anunci i mostrar-lo en aquest canal, amb poc pressupost. Consulteu la plataforma d'anuncis del Telegram per a més informació. [Més informació >](https://ads.telegram.org)";
+"Fragment.AdsInfo.Block.Text" = "Tothom pot crear un anunci i mostrar-lo en aquest canal, amb poc pressupost. Consulteu la plataforma d'anuncis del Telegram per a més informació. [Més informació >](https://ads.whatsgram.org)";
 "Fragment.AdsInfo.Block.Title" = "Puc llançar un anunci?";
 "Fragment.AdsInfo.OK" = "Entesos";
 "Fragment.AdsInfo.Option1.Info" = "Els anuncis a Telegram no utilitzen la vostra informació personal, es basen en el canal on els veieu.";
@@ -3822,9 +3822,9 @@
 "Gift.Upgrade.Unique.Title" = "Únic";
 "Gift.Upgrade.Upgrade" = "Millora";
 "Gift.View.DisplayedInfoHide" = "El regal és visible al vostre perfil. [Amaga >]()";
-"Gift.View.KeepOrConvertDescription.Channel" = "El vostre canal pot desar el regal al seu perfil o convertir-lo en %@. [Quant a les estrelles >](https://telegram.org)";
+"Gift.View.KeepOrConvertDescription.Channel" = "El vostre canal pot desar el regal al seu perfil o convertir-lo en %@. [Quant a les estrelles >](https://whatsgram.org)";
 "Gift.View.KeepUpgradeOrConvertDescription" = "Us podeu quedar el regal, millorar-lo, o vendre'l per %@. [Quant a les estrelles >]()";
-"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "El vostre canal pot desar el regal, millorar-lo o vendre'l per %@. [Quant a les estrelles >](https://telegram.org)";
+"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "El vostre canal pot desar el regal, millorar-lo o vendre'l per %@. [Quant a les estrelles >](https://whatsgram.org)";
 "Gift.View.Status" = "Estat";
 "Gift.View.Status.NonUnique" = "No únic";
 "Gift.View.Status.Upgrade" = "millora";
@@ -4233,7 +4233,7 @@
 "InviteLink.Sticker.Revoked" = "• revocat";
 "InviteLink.Sticker.TimeLeft" = "caduca en %@";
 "InviteLink.Sub.Amount.Placeholder" = "Quantitat d'estrelles al mes";
-"InviteLink.Sub.Info" = "Cobreu una tarifa de subscripció a qui s'uneixi al vostre canal amb aquest enllaç. [Més informació >](https://telegram.org/tos/stars)";
+"InviteLink.Sub.Info" = "Cobreu una tarifa de subscripció a qui s'uneixi al vostre canal amb aquest enllaç. [Més informació >](https://whatsgram.org/tos/stars)";
 "InviteLink.Sub.Info.Editing" = "Per a canviar la tarifa de subscripció, creeu un altre enllaç amb un preu diferent.";
 "InviteLink.Sub.ReqApproval" = "No podeu activar l'aprovació per l'administració als enllaços amb tarifa mensual.";
 "InviteLink.Sub.Text" = "Sol·licita una tarifa mensual";
@@ -4593,9 +4593,9 @@
 "Modal.Share" = "Comparteix";
 "Modal.Yes" = "SÍ";
 "Monetization.AdRevenueTitle" = "RECOMPENSES PER PUBLICITAT";
-"Monetization.Balance.ComingLaterInfo" = "En les pròximes setmanes, podreu retirar recompenses amb el Fragment, una plataforma de tercers que els anunciants usen per a pagar anuncis. [Més informació >](telegram.org)";
-"Monetization.BalanceInfo" = "Podeu retirar la recompensa amb el Fragment, una plataforma de tercers que els anunciants usen per a pagar anuncis. [Més informació >](https://telegram.org/blog/monetization-for-channels)";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.Balance.ComingLaterInfo" = "En les pròximes setmanes, podreu retirar recompenses amb el Fragment, una plataforma de tercers que els anunciants usen per a pagar anuncis. [Més informació >](whatsgram.org)";
+"Monetization.BalanceInfo" = "Podeu retirar la recompensa amb el Fragment, una plataforma de tercers que els anunciants usen per a pagar anuncis. [Més informació >](https://whatsgram.org/blog/monetization-for-channels)";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceTitle" = "RECOMPENSA DISPONIBLE";
 "Monetization.BalanceWithdraw" = "Retira via Fragment";
 "Monetization.BalanceWithdraw.Stars" = "Retira via Fragment";
@@ -4605,7 +4605,7 @@
 "Monetization.ImpressionsTitle" = "IMPRESSIONS DELS ANUNCIS (PER HORES)";
 "Monetization.Intro.Ads.Text" = "El Telegram pot mostrar anuncis al vostre canal.";
 "Monetization.Intro.Ads.Title" = "Anuncis del Telegram";
-"Monetization.Intro.Info.Text" = "Gram és la criptomoneda de la plataforma de cadena de blocs TON, que Telegram utilitza per la seva rapidesa i baixes comissions en les transaccions. [Més informació >](https://telegram.org/blog/monetization-for-channels)";
+"Monetization.Intro.Info.Text" = "Gram és la criptomoneda de la plataforma de cadena de blocs TON, que Telegram utilitza per la seva rapidesa i baixes comissions en les transaccions. [Més informació >](https://whatsgram.org/blog/monetization-for-channels)";
 "Monetization.Intro.Info.Title" = "Què és %@ Gram?";
 "Monetization.Intro.Split.Text" = "Rebeu el 50 %@ dels ingressos per publicitat com a recompensa en Grams.";
 "Monetization.Intro.Split.Title" = "Ingressos a mitges";
@@ -4619,7 +4619,7 @@
 "Monetization.Overview.Current" = "Recompenses des de l'última retirada";
 "Monetization.Overview.Total" = "Recompenses històriques totals";
 "Monetization.OverviewTitle" = "RESUM DE LES RECOMPENSES";
-"Monetization.Stars.WithdrawInfo" = "Podeu bescanviar estrelles per recompenses amb el Fragment, o usar les estrelles per a promocionar el vostre bot. [Més informació >](https://telegram.org/tos/bot-developers#6-2-2-tpa-balance)";
+"Monetization.Stars.WithdrawInfo" = "Podeu bescanviar estrelles per recompenses amb el Fragment, o usar les estrelles per a promocionar el vostre bot. [Més informació >](https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance)";
 "Monetization.Stars.WithdrawTitle" = "SALDO D'ESTRELLES";
 "Monetization.SwitchOffAds" = "Desactiva els anuncis";
 "Monetization.SwitchOffAdsInfo" = "No podreu obtenir cap recompensa si desactiveu els anuncis.";
@@ -4902,7 +4902,7 @@
 "PHONE_NUMBER_INVALID" = "número de telèfon no vàlid";
 "PINNED_INVOICE" = "%1$@ ha fixat una factura";
 "PaidMedia.Header" = "INTRODUÏU EL PREU DE DESBLOCATGE";
-"PaidMedia.Info" = "Els usuaris hauran de transferir aquesta quantitat d'estrelles al vostre canal per a veure el contingut. [Quant a les estrelles >](https://telegram.org/blog/telegram-stars)";
+"PaidMedia.Info" = "Els usuaris hauran de transferir aquesta quantitat d'estrelles al vostre canal per a veure el contingut. [Quant a les estrelles >](https://whatsgram.org/blog/telegram-stars)";
 "PaidMedia.Ok" = "Fes de pagament aquest contingut";
 "PaidMedia.Placeholder" = "Estrelles per a desblocar-lo";
 "PaidMedia.Status.Purchased" = "Comprat";
@@ -5333,7 +5333,7 @@
 "PeerInfo.VerificationInfo.Bot" = "Telegram ha verificat aquest bot.";
 "PeerInfo.VerificationInfo.Channel" = "Telegram ha verificat aquest canal.";
 "PeerInfo.VerificationInfo.Group" = "Telegram ha verificat aquest grup.";
-"PeerInfo.VerificationInfo.URL" = "https://telegram.org/verify";
+"PeerInfo.VerificationInfo.URL" = "https://whatsgram.org/verify";
 "PeerInfo.Verified" = "%@ Aquest bot està verificat com a oficial pels representants de Telegram.";
 "PeerInfo.Verified.Tooltip" = "Compte verificat";
 "PeerInfo.VerifyAccounts" = "Verificació de comptes";
@@ -6836,7 +6836,7 @@
 "Star.List.StarsNeeded_countable" = "%d";
 "Star.List.TelegramStars" = "Estrelles del Telegram";
 "Star.List.TopUp" = "Recarrega";
-"Star.List.Tos" = "En continuar i comprar estrelles, accepteu els [Termes i condicions](https://telegram.org/tos/stars).";
+"Star.List.Tos" = "En continuar i comprar estrelles, accepteu els [Termes i condicions](https://whatsgram.org/tos/stars).";
 "Star.List.Transaction.Ads" = "Plataforma d'anuncis";
 "Star.List.Transaction.AppStore" = "App Store";
 "Star.List.Transaction.Fragment" = "Fragment";
@@ -6920,7 +6920,7 @@
 "Star.Transaction.Availability.Of" = "%1$d de %2$@";
 "Star.Transaction.Availability.OfLeft" = "%1$@ de %2$@";
 "Star.Transaction.Availability.OfText" = "%1$@ de %2$@";
-"Star.Transaction.BotTos" = "En subscriure-us, accepteu les [Condicions del servei](https://telegram.org)";
+"Star.Transaction.BotTos" = "En subscriure-us, accepteu les [Condicions del servei](https://whatsgram.org)";
 "Star.Transaction.BroadcastMessages#one" = "%d missatge";
 "Star.Transaction.BroadcastMessages#other" = "%d missatges";
 "Star.Transaction.BroadcastMessages_countable" = "%d";
@@ -6973,7 +6973,7 @@
 "Star.Transaction.StarGift.ShownInProfile" = "El regal és visible al vostre perfil. [Amaga >](hide)";
 "Star.Transaction.To" = "Per a";
 "Star.Transaction.Ton.Description" = "Useu Grams per a comprar regals i suggerir publicacions als canals.";
-"Star.Transaction.Tos" = "Llegiu les [Condicions del servei](https://telegram.org) de les estrelles.";
+"Star.Transaction.Tos" = "Llegiu les [Condicions del servei](https://whatsgram.org) de les estrelles.";
 "Star.Transaction.TransactionUrl" = "URL de la transacció";
 "Star.Transaction.UnknwonUser" = "[Usuari desconegut](https://fragment.com/stars)";
 "Star.Transaction.Value" = "Valor";
@@ -7078,7 +7078,7 @@
 "StarGift.Value.Source.Telegram" = "Telegram";
 "StarGift.ViewAllVariants" = "%1$@ Mostra totes les variants >";
 "StarList.Ton" = "Grams";
-"StarList.Ton.Withdraw.Info" = "Retireu els vostres Grams amb Fragment. [Més informació >](telegram.org)";
+"StarList.Ton.Withdraw.Info" = "Retireu els vostres Grams amb Fragment. [Més informació >](whatsgram.org)";
 "StarList.TonInfo" = "Useu Grams per a comprar regals i oferir publicacions als canals.";
 "StarTransaction.GiftRefundedInfo" = "El regal s'ha restablit perquè s'ha fet una sol·licitud per a reemborsar el pagament relacionat amb ell, i els diners s'han retornat.";
 "Stars.Balance.BuyAds" = "Compra anuncis";
@@ -7130,7 +7130,7 @@
 "Stars.Purchase.Subscribe.Success" = "Us heu subscrit a **%@** correctament";
 "Stars.Purchase.UpgradeStarGiftInfo" = "Compreu estrelles per a millorar el regal a un col·leccionable únic.";
 "Stars.ReactScreen.Anonymous" = "Anònim";
-"Stars.ReactScreen.Footer" = "En enviar estrelles, accepteu les [Condicions del servei](https://telegram.org/tos/stars).";
+"Stars.ReactScreen.Footer" = "En enviar estrelles, accepteu les [Condicions del servei](https://whatsgram.org/tos/stars).";
 "Stars.ReactScreen.Info" = "Trieu quantes estrelles voleu enviar a **%@** per a donar suport a la publicació.";
 "Stars.ReactScreen.Send#one" = "Envia %@%d";
 "Stars.ReactScreen.Send#other" = "Envia %@%d";
@@ -8417,7 +8417,7 @@
 "WebBot.Account.Desclaimer.Desc" = "Les dreceres a **%@** s'afegiran al menú d'adjunts i la Configuració.";
 "WebBot.Account.Disclaimer.OK" = "Continua";
 "WebBot.Account.Disclaimer.Text" = "Esteu a punt d'usar una miniaplicació operada per un tercer independent **no afiliat amb Telegram**. Cal que accepteu les seves Condicions d'ús per a continuar.";
-"WebBot.Account.Disclaimer.Third" = "Accepto les [Condicions d'ús](https://telegram.org/tos/mini-apps)";
+"WebBot.Account.Disclaimer.Third" = "Accepto les [Condicions d'ús](https://whatsgram.org/tos/mini-apps)";
 "WebBot.Account.Disclaimer.Title" = "Condicions d'ús";
 "WebBrowser.Error" = "**Alguna cosa ha anat malament.**\nTorneu a provar-ho més tard.";
 "WebBrowser.InstantView" = "Vista immediata";
@@ -8506,14 +8506,14 @@
 "psa.chat.alert.learnmore" = "Més informació";
 "psa.chat.alert.learnmore.covid" = "Més informació";
 "psa.chat.alert.learnmore.psa" = "Més informació";
-"psa.chat.text.covid" = "Aquest missatge us proporciona un comunicat de servei públic en relació amb la pandèmia COVID-19. Vegeu més informació sobre aquesta iniciativa en https://telegram.org/blog/coronavirus";
+"psa.chat.text.covid" = "Aquest missatge us proporciona un comunicat de servei públic en relació amb la pandèmia COVID-19. Vegeu més informació sobre aquesta iniciativa en https://whatsgram.org/blog/coronavirus";
 "psa.chat.text.psa" = "Aquest és un missatge oficial del CEO de Telegram sobre el conflicte en curs.";
 "psa.chat.title" = "Comunicat de servei públic";
 "psa.chatlist" = "ASP";
 "psa.chatlist.covid" = "COVID-19";
 "psa.chatlist.psa" = "Comunicat";
 "psa.text" = "Aquest missatge us proporciona un comunicat de servei públic en la llista de xats";
-"psa.text.covid" = "Aquest missatge us proporciona un comunicat de servei públic en relació amb la pandèmia COVID-19. Vegeu més informació sobre aquesta iniciativa en https://telegram.org/blog/coronavirus";
+"psa.text.covid" = "Aquest missatge us proporciona un comunicat de servei públic en relació amb la pandèmia COVID-19. Vegeu més informació sobre aquesta iniciativa en https://whatsgram.org/blog/coronavirus";
 "psa.text.psa" = "Aquest és un missatge oficial del CEO de Telegram sobre el conflicte en curs.";
 "psa.title" = "Notificació ASP";
 "psa.title.bubbles" = "Notificació ASP\nde: [%@]()";

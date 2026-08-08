@@ -60,7 +60,7 @@
 "AdsInfo.Bot.Split.Title" = "봇 제작자 돕기";
 "AdsInfo.Info" = "텔레그램의 광고는 다른 플랫폼의 광고와 매우 다릅니다. 이와 같은 광고는:";
 "AdsInfo.Launch.Text" = "누구나 최소한의 예산으로 이 채널에 광고를 만들어 게시할 수 있습니다. 자세한 내용은 텔레그램 광고 플랫폼을 확인하세요. [자세히 보기 >]()";
-"AdsInfo.Launch.Text_URL" = "https://ads.telegram.org";
+"AdsInfo.Launch.Text_URL" = "https://ads.whatsgram.org";
 "AdsInfo.Launch.Title" = "내가 광고를 집행할 수 있나요?";
 "AdsInfo.Respect.Text" = "텔레그램에서의 광고는 사용자의 개인 정보를 사용하지 않으며, 광고를 보는 채널을 기반으로 합니다.";
 "AdsInfo.Respect.Title" = "개인정보 존중";
@@ -79,7 +79,7 @@
 "AffiliateProgram.JoinSubtitleLifetime" = "**{bot}**에서 회원님이 추천한 각 사용자가 발생시킨 수익의 **{commission}**를 **평생** 회원님과 공유합니다.";
 "AffiliateProgram.JoinSubtitleMonths#other" = "**{bot}**에서 회원님이 추천한 각 사용자가 발생시킨 수익의 **{commission}**를 **%d개월 동안** 회원님과 공유합니다.";
 "AffiliateProgram.JoinSubtitleYears#other" = "**{bot}**에서 회원님이 추천한 각 사용자가 발생시킨 수익의 **{commission}**를 **%d년 동안** 회원님과 공유합니다.";
-"AffiliateProgram.JoinTerms" = "이 프로그램에 참여하면 제휴 프로그램의 [이용약관](https://telegram.org/tos/affiliate-program)에 동의하게 됩니다.";
+"AffiliateProgram.JoinTerms" = "이 프로그램에 참여하면 제휴 프로그램의 [이용약관](https://whatsgram.org/tos/affiliate-program)에 동의하게 됩니다.";
 "AffiliateProgram.JoinTitle" = "제휴 프로그램";
 "AffiliateProgram.LinkSubtitleLifetime" = "이 링크를 사용자에게 공유하면, 링크를 통해 유입된 사용자가 **{bot}**에서 지출한 금액에 대해 **{commission}**의 수수료를 **평생** 받을 수 있습니다.";
 "AffiliateProgram.LinkSubtitleMonths#other" = "이 링크를 사용자에게 공유하면, 링크를 통해 유입된 사용자가 **{bot}**에서 지출한 금액에 대해 **{commission}**의 수수료를 **%d개월 동안** 받을 수 있습니다.";
@@ -138,7 +138,7 @@
 "AffiliateSetup.StartTitle" = "제휴 프로그램 시작";
 "AffiliateSetup.SuggestedSectionEmpty" = "아직 이용 가능한 프로그램이 없습니다.\n나중에 다시 확인해 주세요.";
 "AffiliateSetup.SuggestedSectionTitle" = "프로그램";
-"AffiliateSetup.TermsFooter" = "제휴 프로그램을 만들면 제휴 프로그램의 [이용약관](https://telegram.org/terms)에 동의하게 됩니다.";
+"AffiliateSetup.TermsFooter" = "제휴 프로그램을 만들면 제휴 프로그램의 [이용약관](https://whatsgram.org/terms)에 동의하게 됩니다.";
 "AffiliateSetup.TextJoin" = "추천 링크를 통해 미니 앱에 처음 접속한 사용자가 앱에서 **스타**를 사용할 때마다 수수료를 받으세요.";
 "AffiliateSetup.TextNew" = "사용자 기반 확대를 도운 사람에게 보상하세요.";
 "AffiliateSetup.TitleJoin" = "제휴 프로그램";
@@ -490,11 +490,11 @@
 "AuthSessions.AddDevice" = "QR 코드 스캔";
 "AuthSessions.AddDevice.InvalidQRCode" = "올바른 QR 코드를 사용하세요";
 "AuthSessions.AddDevice.ScanInfo" = "QR 코드 스캔으로 다른 기기에서도\n이 계정으로 로그인하실 수 있습니다.";
-"AuthSessions.AddDevice.ScanInstallInfo" = "QR 코드를 얻으려면, [getdesktop.telegram.org](desktop) 혹은 [web.telegram.org](web)을 방문하세요";
+"AuthSessions.AddDevice.ScanInstallInfo" = "QR 코드를 얻으려면, [getdesktop.whatsgram.org](desktop) 혹은 [web.whatsgram.org](web)을 방문하세요";
 "AuthSessions.AddDevice.ScanTitle" = "QR 코드 스캔";
 "AuthSessions.AddDevice.UrlLoginHint" = "이 코드는 다른 사람이 회원님의 텔레그램 계정에 로그인하도록 허용하는 데 사용될 수 있습니다.\n\n텔레그램 로그인을 확인하려면 설정 > 기기 > 기기 추가로 이동해 코드를 스캔하세요.";
 "AuthSessions.AddDeviceIntro.Action" = "QR 코드 스캔";
-"AuthSessions.AddDeviceIntro.Text1" = "컴퓨터에 텔레그램을 다운로드하세요 [desktop.telegram.org]()";
+"AuthSessions.AddDeviceIntro.Text1" = "컴퓨터에 텔레그램을 다운로드하세요 [desktop.whatsgram.org]()";
 "AuthSessions.AddDeviceIntro.Text2" = "컴퓨터에서 텔레그램을 실행해 QR 코드를 받으세요";
 "AuthSessions.AddDeviceIntro.Text3" = "QR 코드를 스캔해 회원님의 계정을 연결하세요";
 "AuthSessions.AddDeviceIntro.Title" = "QR 코드로 로그인";
@@ -903,7 +903,7 @@
 "Business.AddPost" = "게시물 추가";
 "Business.AddPostInfo" = "회원님의 페이지에 상품이나 서비스의 사진과 동영상을 게시하세요.";
 "Business.AdsInfo" = "프리미엄 구독자는 텔레그램에서 광고를 보지 않지만, 예를 들어 [텔레그램 광고 플랫폼 >]()에서 시작한 자신의 광고를 보기 위해 광고를 켤 수 있습니다.";
-"Business.AdsInfo_URL" = "https://ads.telegram.org";
+"Business.AdsInfo_URL" = "https://ads.whatsgram.org";
 "Business.AdsTitle" = "채널 광고";
 "Business.AwayMessages" = "부재중 메시지";
 "Business.AwayMessagesInfo" = "부재중일 때 자동으로 전송되는 메시지를 설정하세요.";
@@ -2488,7 +2488,7 @@
 "Chat.PrivateMessageSentTimestamp.Date" = "%@에 보냄";
 "Chat.PrivateMessageSentTimestamp.TodayAt" = "오늘 %@에 보냄";
 "Chat.PrivateMessageSentTimestamp.YesterdayAt" = "어제 %@에 보냄";
-"Chat.PsaTooltip.covid" = "이 메시지는 현재 진행 중인 COVID-19 팬데믹과 관련된 공익 안내를 제공합니다. 자세한 내용은 https://telegram.org/blog/coronavirus 에서 확인하세요.";
+"Chat.PsaTooltip.covid" = "이 메시지는 현재 진행 중인 COVID-19 팬데믹과 관련된 공익 안내를 제공합니다. 자세한 내용은 https://whatsgram.org/blog/coronavirus 에서 확인하세요.";
 "Chat.PsaTooltip.psa" = "현재 진행중인 갈등과 관련된 텔레그램 CEO의 공식 메시지입니다.";
 "Chat.QuickReply.ServiceHeader1" = "빠른 답장을 수정하거나 삭제하려면 길게 누르세요.";
 "Chat.QuickReply.ServiceHeader2" = "대화에서 이 빠른 답장을 사용하려면 /를 입력하고 목록에서 단축키를 선택하세요.";
@@ -2864,7 +2864,7 @@
 "ChatList.PremiumRestoreDiscountTitle" = "최대 %@ 할인으로 다시 프리미엄에 가입하세요";
 "ChatList.PremiumXmasGiftText" = "친구에게 한정판 아이템을 보내세요!";
 "ChatList.PremiumXmasGiftTitle" = "👑 Snoop Dogg 선물 드롭 🎁";
-"ChatList.PsaAlert.covid" = "이 메시지는 현재 진행 중인 COVID-19 팬데믹과 관련된 공익 안내를 제공합니다. 자세한 내용은 https://telegram.org/blog/coronavirus 에서 확인하세요.";
+"ChatList.PsaAlert.covid" = "이 메시지는 현재 진행 중인 COVID-19 팬데믹과 관련된 공익 안내를 제공합니다. 자세한 내용은 https://whatsgram.org/blog/coronavirus 에서 확인하세요.";
 "ChatList.PsaAlert.psa" = "현재 진행중인 갈등과 관련된 텔레그램 CEO의 공식 메시지입니다.";
 "ChatList.PsaLabel.covid" = "코로나19";
 "ChatList.PsaLabel.psa" = "안내";
@@ -3129,7 +3129,7 @@
 "ChatbotSetup.SetupNotCompleted.Text" = "계정을 관리할 봇을 추가하지 않았습니다. 그래도 나가시겠습니까?";
 "ChatbotSetup.SetupNotCompleted.Title" = "추가된 봇 없음";
 "ChatbotSetup.Text" = "나 대신 봇이 메시지에 답장을 보낼 수 있도록 추가하세요.";
-"ChatbotSetup.TextLink" = "https://telegram.org/blog/telegram-business/ko?ln=a#508721516";
+"ChatbotSetup.TextLink" = "https://whatsgram.org/blog/telegram-business/ko?ln=a#508721516";
 "ChatbotSetup.Title" = "추후 제공";
 "ChatbotSetup.TitleItem" = "대화 자동화";
 "Checkout.Email" = "이메일";
@@ -4037,7 +4037,7 @@
 "Conversation.Unpin" = "고정 해제";
 "Conversation.UnpinMessageAlert" = "메시지를 고정 해제하시겠습니까?";
 "Conversation.UnreadMessages" = "안 읽은 메시지";
-"Conversation.UnsupportedMedia" = "이 메시지는 현재 사용하고 있는 텔레그램 버전에서 지원되지 않습니다. 메시지를 보시려면 https://telegram.org/update 에서 앱을 업데이트하세요.";
+"Conversation.UnsupportedMedia" = "이 메시지는 현재 사용하고 있는 텔레그램 버전에서 지원되지 않습니다. 메시지를 보시려면 https://whatsgram.org/update 에서 앱을 업데이트하세요.";
 "Conversation.UnsupportedMediaPlaceholder" = "이 메시지는 현재 텔레그램 버전에서 지원되지 않습니다. 최신 버전으로 업데이트해 주세요.";
 "Conversation.UnvotePoll" = "투표 취소";
 "Conversation.UpdateTelegram" = "텔레그램 업데이트";
@@ -4236,7 +4236,7 @@
 "DeleteAccount.ConfirmationAlertText" = "계정을 삭제하면 데이터가 영구적으로 삭제됩니다!\n\n이 동작을 되돌리는 것은 불가능합니다!";
 "DeleteAccount.ConfirmationAlertTitle" = "계정 삭제를 계속하겠습니까?";
 "DeleteAccount.Continue" = "계속";
-"DeleteAccount.DeleteMessagesURL" = "https://telegram.org/faq/ko#298956420";
+"DeleteAccount.DeleteMessagesURL" = "https://whatsgram.org/faq/ko#298956420";
 "DeleteAccount.DeleteMyAccount" = "계정 삭제";
 "DeleteAccount.DeleteMyAccountTitle" = "나의 계정 삭제";
 "DeleteAccount.EnterPassword" = "비밀번호를 입력해주세요";
@@ -4476,7 +4476,7 @@
 "EnableSharing.SendRequest" = "요청 보내기";
 "EnableSharing.Text" = "공유를 활성화하려면 **%@**님의 승인이 필요합니다. 요청을 보낼까요?";
 "EnableSharing.Title" = "공유 활성화";
-"EncryptionKey.Description" = "이 이미지와 텍스트는 %1$@님과의 비밀 대화에 대한 암호화 키에서 생성되었습니다.\n\n%2$@님의 기기에서도 똑같이 보인다면 종단간 암호화가 보장됩니다.\n\ntelegram.org에서 자세히 알아보세요.";
+"EncryptionKey.Description" = "이 이미지와 텍스트는 %1$@님과의 비밀 대화에 대한 암호화 키에서 생성되었습니다.\n\n%2$@님의 기기에서도 똑같이 보인다면 종단간 암호화가 보장됩니다.\n\nwhatsgram.org에서 자세히 알아보세요.";
 "EncryptionKey.Title" = "암호화 키";
 "EnterPasscode.ChangeTitle" = "암호 변경";
 "EnterPasscode.EnterCurrentPasscode" = "현재 암호 입력";
@@ -4648,7 +4648,7 @@
 "FrozenAccount.Understood" = "이해했습니다";
 "FrozenAccount.Violation.Text" = "텔레그램 이용 약관을 위반하여 계정이 정지되었습니다.";
 "FrozenAccount.Violation.TextNew" = "텔레그램 [서비스 약관]() 위반으로 계정이 동결되었습니다.";
-"FrozenAccount.Violation.TextNew_URL" = "https://telegram.org/tos";
+"FrozenAccount.Violation.TextNew_URL" = "https://whatsgram.org/tos";
 "FrozenAccount.Violation.Title" = "이용 약관 위반";
 "Gallery.Ad" = "스폰서";
 "Gallery.AirPlay" = "에어플레이";
@@ -5827,7 +5827,7 @@
 "InviteText.ContactsCount#other" = "안녕하세요, %@명의 친구와 텔레그램이라는 메신저를 사용하고 있어요. 함께 사용해요! 여기서 다운로드하세요: %@";
 "InviteText.ContactsCountText#other" = "안녕하세요, 친구 %@명이랑 텔레그램 메신저를 쓰고 있는데 추천드려요! 여기서 다운로드할 수 있어요: {url}";
 "InviteText.SingleContact" = "안녕하세요, 전 텔레그램이라는 메신저를 사용하고 있어요. 함께 사용해요! 여기서 다운로드하실 수 있어요. %@";
-"InviteText.URL" = "https://telegram.org/dl";
+"InviteText.URL" = "https://whatsgram.org/dl";
 "Items.NOfM" = "%2$@ 중 %1$@";
 "Join.ChannelsTooMuch" = "죄송합니다. 너무 많은 그룹과 채널에 들어가 계십니다. 한 곳에서 나온 뒤 들어가 주세요.";
 "KeyCommand.ChatInfo" = "대화방 정보";
@@ -6089,7 +6089,7 @@
 "Login.NewNumber" = "새 번호";
 "Login.OpenFragment" = "Fragment 열기";
 "Login.Or" = "혹은";
-"Login.PRIVACY_URL" = "https://telegram.org/privacy";
+"Login.PRIVACY_URL" = "https://whatsgram.org/privacy";
 "Login.PadPhoneHelp" = "기본 휴대전화 번호로 모든 기기에서 텔레그램에 로그인할 수 있습니다.\n여기에는 iPad의 SIM 번호를 입력하지 마세요. SMS를 보내야 합니다.\n\n이 번호가 맞나요?\n{number}";
 "Login.PadPhoneHelpTitle" = "내 전화번호";
 "Login.Paste" = "붙여넣기";
@@ -6579,9 +6579,9 @@
 "Monetization.Balance.ComingLaterInfo" = "향후 몇 주 안에 광고 비용을 지불하는 데 사용되는 제3자 플랫폼인 Fragment를 통해 보상을 수령할 수 있습니다. [더 알아보기 >]()";
 "Monetization.Balance.StarsInfo" = "Fragment를 사용해 스타 리워드를 수령하거나, 스타를 사용해 채널을 광고할 수 있습니다. 1000 스타 미만은 출금할 수 없습니다. [자세히 알아보기 >]()";
 "Monetization.Balance.StarsInfoGroup" = "Fragment를 사용하여 스타 보상을 수령할 수 있습니다. 1000 스타 미만은 출금할 수 없습니다. [자세히 알아보기 >]()";
-"Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
+"Monetization.Balance.StarsInfo_URL" = "https://whatsgram.org/tos/stars";
 "Monetization.Balance.ZeroInfo" = "Fragment는 광고주가 광고비를 지불할 때 사용하는 제3자 플랫폼이며, 이를 통해 앞으로 보상을 수령할 수 있습니다. [이용 약관 >]()";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceStarsBuyAds" = "광고 구매";
 "Monetization.BalanceStarsWithdraw" = "Fragment로 출금";
 "Monetization.BalanceStarsWithdrawShort" = "출금";
@@ -6598,7 +6598,7 @@
 "Monetization.Intro.Bot.Ads.Text" = "텔레그램은 회원님의 봇에 광고를 표시할 수 있습니다.";
 "Monetization.Intro.Bot.Title" = "봇에서 수익 얻기";
 "Monetization.Intro.Info.Text" = "그램은 빠른 속도와 낮은 거래 수수료를 위해 텔레그램이 사용하는 TON 블록체인 플랫폼의 암호화폐입니다. [자세히 알아보기 >]()";
-"Monetization.Intro.Info.Text_URL" = "https://telegram.org/blog/monetization-for-channels/ko";
+"Monetization.Intro.Info.Text_URL" = "https://whatsgram.org/blog/monetization-for-channels/ko";
 "Monetization.Intro.Info.Title" = "#그램이란?";
 "Monetization.Intro.Split.Text" = "광고 수익의 50%를 그램 보상으로 받습니다.";
 "Monetization.Intro.Split.Title" = "50:50 수익 배분";
@@ -7850,7 +7850,7 @@
 "Passport.Identity.TypePassportUploadScan" = "회원님의 여권을 스캔하여 업로드하세요";
 "Passport.Identity.TypePersonalDetails" = "개인 신상 명세";
 "Passport.Identity.UploadOneOfScan" = "회원님의 %@ 스캔본을 업로드하세요";
-"Passport.InfoFAQ_URL" = "https://telegram.org/faq/ko#1660002760";
+"Passport.InfoFAQ_URL" = "https://whatsgram.org/faq/ko#1660002760";
 "Passport.InfoLearnMore" = "더 알아보기";
 "Passport.InfoText" = "**텔레그램 패스포트**와 함께라면 본인 확인이 필요한 웹 사이트와 서비스에 손쉽게 가입하실 수 있습니다.\n\n회원님의 정보와 개인 데이터, 서류는 단대단 암호화로 보호됩니다. 텔레그램을 포함하여 그 누구도 회원님의 승인 없이 이들에 접근할 수 없습니다.";
 "Passport.InfoTitle" = "텔레그램 패스포트가 무엇인가요?";
@@ -7957,10 +7957,10 @@
 "PeerInfo.AllowedReactions.OptionSomeReactions" = "일부 반응";
 "PeerInfo.AllowedReactions.ReactionListHeader" = "사용 가능한 반응";
 "PeerInfo.AllowedReactions.StarReactions" = "유료 반응 활성화";
-"PeerInfo.AllowedReactions.StarReactionsFooter" = "구독자가 텔레그램 스타로 게시물에 반응하고, 회원님이 이를 그램으로 출금할 수 있도록 하려면 이 옵션을 켜세요. [자세히 알아보기 >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"PeerInfo.AllowedReactions.StarReactionsFooter" = "구독자가 텔레그램 스타로 게시물에 반응하고, 회원님이 이를 그램으로 출금할 수 있도록 하려면 이 옵션을 켜세요. [자세히 알아보기 >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "PeerInfo.AllowedReactions.Title" = "반응들";
-"PeerInfo.AppFooter" = "이 미니 앱을 실행하면 [미니 앱 서비스 약관](https://telegram.org/tos/mini-apps)에 동의하게 됩니다.";
-"PeerInfo.AppFooterAdmin" = "이 미니 앱을 게시하면 [텔레그램 개발자 이용 약관](https://telegram.org/tos/bot-developers)에 동의하게 됩니다.";
+"PeerInfo.AppFooter" = "이 미니 앱을 실행하면 [미니 앱 서비스 약관](https://whatsgram.org/tos/mini-apps)에 동의하게 됩니다.";
+"PeerInfo.AppFooterAdmin" = "이 미니 앱을 게시하면 [텔레그램 개발자 이용 약관](https://whatsgram.org/tos/bot-developers)에 동의하게 됩니다.";
 "PeerInfo.AutoDeleteDisable" = "비활성";
 "PeerInfo.AutoDeleteInfo" = "일정 시간 이후에 대화로 보낸 메시지를 자동 삭제합니다.";
 "PeerInfo.AutoDeleteSettingOther" = "이외...";
@@ -9018,7 +9018,7 @@
 "Report.Title.Story" = "스토리 신고";
 "Report.Title.User" = "사용자 신고";
 "ReportAd.Help" = "[텔레그램 광고 정책 및 가이드라인]()에 대해 더 알아보기";
-"ReportAd.Help_URL" = "https://ads.telegram.org/guidelines";
+"ReportAd.Help_URL" = "https://ads.whatsgram.org/guidelines";
 "ReportAd.Hidden" = "텔레그램에서 더 이상 광고를 보지 않게 됩니다.";
 "ReportAd.Reported" = "이 광고가 [광고 정책 및 가이드라인]()에 맞는지 검토하겠습니다.";
 "ReportAd.Title" = "광고 신고";
@@ -9254,7 +9254,7 @@
 "SendStarReactions.ShowMyselfInTop" = "상위 보낸 사람에 나를 표시";
 "SendStarReactions.SliderTop" = "상위";
 "SendStarReactions.SubtitleFrom" = "%@에서";
-"SendStarReactions.TermsOfServiceFooter" = "스타를 보내면 [서비스 약관](https://telegram.org/tos/stars)에 동의하게 됩니다";
+"SendStarReactions.TermsOfServiceFooter" = "스타를 보내면 [서비스 약관](https://whatsgram.org/tos/stars)에 동의하게 됩니다";
 "SendStarReactions.TextGeneric" = "이 게시물을 후원하기 위해 **%@**에게 보낼 스타 수를 선택하세요.";
 "SendStarReactions.TextSentStars#other" = "이 게시물을 후원하기 위해 **%d** 스타를 보냈습니다.";
 "SendStarReactions.Title" = "스타로 반응";
@@ -9348,7 +9348,7 @@
 "Settings.FAQ" = "자주 묻는 질문";
 "Settings.FAQ_Button" = "자주 묻는 질문";
 "Settings.FAQ_Intro" = "텔레그램 지원은 자원봉사자들이 처리합니다. 신속하게 응답해 드리고자 노력하지만, 다소 시간이 걸릴 수 있습니다.\n\n자주 묻는 질문을 확인해 보세요. 문제 해결을 위한 중요한 조언과 주요 질문에 대한 답변이 있습니다.";
-"Settings.FAQ_URL" = "https://telegram.org/faq/ko";
+"Settings.FAQ_URL" = "https://whatsgram.org/faq/ko";
 "Settings.FrequentlyAskedQuestions" = "자주 묻는 질문";
 "Settings.KeepPassword" = "네, 확실합니다";
 "Settings.KeepPhoneNumber" = "%@ 유지";
@@ -9388,7 +9388,7 @@
 "Settings.Privacy.ReadTimePremiumActive" = "텔레그램 프리미엄 구독중";
 "Settings.Privacy.ReadTimePremiumActiveFooter" = "회원님은 텔레그램 프리미엄 구독자이시기에, 회원님은 숨기시더라도, 회원님과 공유하고 있는 모든 사용자의 마지막 접속시간 및 읽음 시간을 볼 수 있습니다.";
 "Settings.Privacy.ReadTimePremiumFooter" = "텔레그램 프리미엄 구독시, 회원님 정보를 숨기더라도 다른 사람들의 마지막 접속시간과 읽음 시간을 확인할 수 있습니다. (상대방이 특정하여 제한하지 않았을 경우)";
-"Settings.PrivacyPolicy_URL" = "https://telegram.org/privacy";
+"Settings.PrivacyPolicy_URL" = "https://whatsgram.org/privacy";
 "Settings.PrivacySettings" = "개인 정보 및 보안";
 "Settings.Proxy" = "프록시";
 "Settings.ProxyConnected" = "연결됨";
@@ -9427,7 +9427,7 @@
 "Settings.SuggestSetupPasswordText" = "이 전화번호로 로그인할 때마다 필요한 비밀번호를 설정하십시오.";
 "Settings.SuggestSetupPasswordTitle" = "내 계정 보호하기";
 "Settings.Support" = "질문하기";
-"Settings.Terms_URL" = "https://telegram.org/tos";
+"Settings.Terms_URL" = "https://whatsgram.org/tos";
 "Settings.Tips" = "텔레그램 기능 소개";
 "Settings.TipsUsername" = "TelegramTips";
 "Settings.Title" = "설정";
@@ -9673,10 +9673,10 @@
 "SocksProxySetup.Warning.Text" = "이 작업을 하면 프록시 서버 관리자에게 회원님의 IP 주소가 노출됩니다.";
 "SocksProxySetup.Warning.Title" = "경고";
 "SponsoredMessageInfo.Action" = "더 알아보기";
-"SponsoredMessageInfo.ActionUrl" = "https://ads.telegram.org";
-"SponsoredMessageInfo.Text" = "https://telegram.org 방문하기";
-"SponsoredMessageInfo.Url" = "https://ads.telegram.org";
-"SponsoredMessageInfoScreen.MarkdownText" = "다른 앱과 달리 텔레그램은 광고를 타겟팅하는 데 회원님의 개인 데이터를 절대 사용하지 않습니다. [개인정보 처리방침에서 자세히 알아보기](https://telegram.org/privacy#5-6-no-ads-based-on-user-data)\n이 메시지가 표시되는 이유는 누군가가 이 공개 일대다 채널을 자신의 메시지를 홍보하는 공간으로 선택했기 때문입니다. 즉, 광고를 표시하기 위해 어떤 사용자 데이터도 수집되거나 분석되지 않으며, 텔레그램에서 같은 채널을 보는 모든 사용자는 동일한 스폰서 메시지를 보게 됩니다.\n\n다른 앱과 달리 텔레그램은 회원님이 스폰서 메시지를 탭했는지 추적하지 않으며, 활동을 기반으로 프로필을 만들지도 않습니다. 또한 제3자가 사용자를 염탐하지 못하도록 스폰서 메시지의 외부 링크도 차단합니다. 저희는 모든 사람에게 개인정보를 지킬 권리가 있으며, 온라인 플랫폼은 이를 존중해야 한다고 믿습니다.\n\n텔레그램은 수억 명의 사용자에게 무료이면서 무제한인 서비스를 제공하고 있으며, 여기에는 상당한 서버 및 트래픽 비용이 듭니다. 독립성을 유지하고 가치에 충실하기 위해 텔레그램은 사용자 개인정보를 고려한 유료 메시지 홍보 도구를 개발했습니다. 책임감 있는 광고주를 다음 주소에서 기다립니다:\n[url]\n광고가 더 이상 사용자 개인정보 침해의 동의어가 되어서는 안 됩니다. 기술 기업의 운영 방식을 함께 다시 정의해 봅시다.";
+"SponsoredMessageInfo.ActionUrl" = "https://ads.whatsgram.org";
+"SponsoredMessageInfo.Text" = "https://whatsgram.org 방문하기";
+"SponsoredMessageInfo.Url" = "https://ads.whatsgram.org";
+"SponsoredMessageInfoScreen.MarkdownText" = "다른 앱과 달리 텔레그램은 광고를 타겟팅하는 데 회원님의 개인 데이터를 절대 사용하지 않습니다. [개인정보 처리방침에서 자세히 알아보기](https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data)\n이 메시지가 표시되는 이유는 누군가가 이 공개 일대다 채널을 자신의 메시지를 홍보하는 공간으로 선택했기 때문입니다. 즉, 광고를 표시하기 위해 어떤 사용자 데이터도 수집되거나 분석되지 않으며, 텔레그램에서 같은 채널을 보는 모든 사용자는 동일한 스폰서 메시지를 보게 됩니다.\n\n다른 앱과 달리 텔레그램은 회원님이 스폰서 메시지를 탭했는지 추적하지 않으며, 활동을 기반으로 프로필을 만들지도 않습니다. 또한 제3자가 사용자를 염탐하지 못하도록 스폰서 메시지의 외부 링크도 차단합니다. 저희는 모든 사람에게 개인정보를 지킬 권리가 있으며, 온라인 플랫폼은 이를 존중해야 한다고 믿습니다.\n\n텔레그램은 수억 명의 사용자에게 무료이면서 무제한인 서비스를 제공하고 있으며, 여기에는 상당한 서버 및 트래픽 비용이 듭니다. 독립성을 유지하고 가치에 충실하기 위해 텔레그램은 사용자 개인정보를 고려한 유료 메시지 홍보 도구를 개발했습니다. 책임감 있는 광고주를 다음 주소에서 기다립니다:\n[url]\n광고가 더 이상 사용자 개인정보 침해의 동의어가 되어서는 안 됩니다. 기술 기업의 운영 방식을 함께 다시 정의해 봅시다.";
 "SponsoredMessageInfoScreen.Text" = "다른 앱과 달리 텔레그램은 광고를 타겟팅하는 데 회원님의 개인 데이터를 절대 사용하지 않습니다. 텔레그램의 스폰서 메시지는 오직 표시되는 공개 채널의 주제만을 기준으로 합니다. 즉, 광고를 표시하기 위해 어떤 사용자 데이터도 수집되거나 분석되지 않으며, 텔레그램에서 채널을 보는 모든 사용자는 동일한 스폰서 메시지를 보게 됩니다.\n\n다른 앱과 달리 텔레그램은 회원님이 스폰서 메시지를 탭했는지 추적하지 않으며, 활동을 기반으로 프로필을 만들지도 않습니다. 또한 제3자가 사용자를 염탐하지 못하도록 스폰서 메시지의 외부 링크도 차단합니다. 저희는 모든 사람에게 개인정보를 지킬 권리가 있으며, 기술 플랫폼은 이를 존중해야 한다고 믿습니다.\n\n텔레그램은 수억 명의 사용자에게 무료이면서 무제한인 서비스를 제공하고 있으며, 여기에는 상당한 서버 및 트래픽 비용이 듭니다. 독립성을 유지하고 가치에 충실하기 위해 텔레그램은 사용자 개인정보를 고려한 유료 메시지 홍보 도구를 개발했습니다. 책임감 있는 광고주를 다음 주소에서 기다립니다:\n[url]\n스폰서 메시지는 현재 테스트 중입니다. 정식 출시되어 텔레그램이 기본 비용을 충당할 수 있게 되면, 스폰서 메시지가 표시되는 공개 채널 소유자와 광고 수익을 공유할 예정입니다.\n\n온라인 광고가 더 이상 사용자 개인정보 남용의 동의어가 되어서는 안 됩니다. 기술 기업의 운영 방식을 함께 다시 정의해 봅시다.";
 "SponsoredMessageInfoScreen.Title" = "스폰서 메시지는 무엇인가요?";
 "SponsoredMessageMenu.Hide" = "가리기";
@@ -9694,7 +9694,7 @@
 "Stars.BotRevenue.Withdraw.Balance" = "사용 가능 잔액";
 "Stars.BotRevenue.Withdraw.BuyAds" = "광고 구매";
 "Stars.BotRevenue.Withdraw.Info" = "Fragment를 사용해 스타 리워드를 수령하거나, 스타를 사용해 봇을 광고할 수 있습니다. 1000 스타 미만은 출금할 수 없습니다. [자세히 알아보기 >]()";
-"Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Stars.BotRevenue.Withdraw.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "Stars.BotRevenue.Withdraw.Withdraw" = "Fragment로 출금";
 "Stars.BotRevenue.Withdraw.WithdrawShort" = "출금";
 "Stars.Gift.Received.Text" = "스타를 사용해 텔레그램에서 콘텐츠와 서비스를 잠금 해제하세요. [예시 보기 >]()";
@@ -9776,7 +9776,7 @@
 "Stars.Intro.Withdraw" = "출금";
 "Stars.Intro.YourBalance" = "잔액";
 "Stars.PaidContent.AmountInfo" = "사용자가 이 미디어를 보려면 해당 금액의 스타를 채널에 전송해야 합니다.\n[스타에 대해 더 알아보기 >]()";
-"Stars.PaidContent.AmountInfo_URL" = "https://telegram.org/tos/stars";
+"Stars.PaidContent.AmountInfo_URL" = "https://whatsgram.org/tos/stars";
 "Stars.PaidContent.AmountPlaceholder" = "잠금 해제에 필요한 스타";
 "Stars.PaidContent.AmountTitle" = "잠금 해제 비용 입력";
 "Stars.PaidContent.Create" = "이 미디어를 유료로 설정";
@@ -9805,7 +9805,7 @@
 "Stars.Purchase.StarsReactionsNeededInfo" = "**%@** 및 다른 채널에 유료 반응을 보내려면 스타를 구매하세요.";
 "Stars.Purchase.SubscriptionInfo" = "**%@** 구독에 필요한 스타를 구매하세요.";
 "Stars.Purchase.SubscriptionRenewInfo" = "**%@** 구독을 유지하려면 스타를 구매하세요.";
-"Stars.Purchase.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Purchase.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Purchase.TransferStarGiftInfo" = "고유 수집품의 소유권을 이전하려면 스타를 구매하세요.";
 "Stars.Purchase.UpgradeStarGiftInfo" = "선물을 고유 수집품으로 업그레이드하려면 스타를 구매하세요.";
 "Stars.SellGift.AmountInfo" = "수령액은 **%@**입니다.";
@@ -9834,7 +9834,7 @@
 "Stars.SendStars.SendStars" = "확인하고 보내기";
 "Stars.SendStars.Title" = "스타 보내기";
 "Stars.Subscription.Terms" = "구독하면 [서비스 약관]()에 동의하는 것입니다.";
-"Stars.Subscription.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Subscription.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Ton.Description" = "그램을 사용해 선물을 구매하고 채널에 게시물을 제안할 수 있습니다.";
 "Stars.Ton.Title" = "그램 잔액";
 "Stars.Transaction.AppleTopUp.Subtitle" = "App Store";
@@ -9920,7 +9920,7 @@
 "Stars.Transaction.TelegramBotApi.Title" = "유료 방송";
 "Stars.Transaction.TelegramPremium#other" = "텔레그램 프리미엄 %@개월";
 "Stars.Transaction.Terms" = "스타에 대한 [이용 약관]()을 읽어보세요.";
-"Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transaction.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transaction.To" = "받는 사람";
 "Stars.Transaction.Unsupported.Title" = "지원되지 않음";
 "Stars.Transaction.Via" = "경유";
@@ -9946,7 +9946,7 @@
 "Stars.Transfer.SubscribeInfo" = "**%1$@** 구독을 월 **%2$@**에 시작할까요?";
 "Stars.Transfer.SubscribePerMonth" = "/ 월";
 "Stars.Transfer.Terms" = "구매하면 [서비스 약관]()에 동의하는 것입니다.";
-"Stars.Transfer.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transfer.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transfer.Title" = "구매를 확인해주세요";
 "Stars.Transfer.Unavailable" = "죄송합니다. 회원님의 국가에서는 스타를 구매할 수 없습니다.";
 "Stars.Transfer.UnlockBotInfo" = "**%2$@**의 %1$@ 잠금을 **%3$@**에 해제하시겠습니까?";
@@ -10803,9 +10803,9 @@
 "Ton.ProceedsOverview" = "수익 개요";
 "Ton.WithdrawViaFragment" = "Fragment로 출금";
 "Ton.WithdrawViaFragment.Info" = "Fragment를 사용해 그램을 수령하세요. [자세히 알아보기 >]()";
-"Ton.WithdrawViaFragment.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Ton.WithdrawViaFragment.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "TopApps.Info.Done" = "이해했습니다";
-"TopApps.Info.Text" = "이 카탈로그는 스타로 측정한 일일 수익을 기준으로 미니 앱의 순위를 매깁니다. 목록에 오르려면 개발자는 [여기](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)에 설명된 대로 [@botfather]()에서 대표 미니 앱을 설정하고, 일일 사용자가 **1,000**명을 넘으며, 주간 평균 기준 일일 수익이 **1,000** 스타를 넘어야 합니다.";
+"TopApps.Info.Text" = "이 카탈로그는 스타로 측정한 일일 수익을 기준으로 미니 앱의 순위를 매깁니다. 목록에 오르려면 개발자는 [여기](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app)에 설명된 대로 [@botfather]()에서 대표 미니 앱을 설정하고, 일일 사용자가 **1,000**명을 넘으며, 주간 평균 기준 일일 수익이 **1,000** 스타를 넘어야 합니다.";
 "TopApps.Info.Title" = "상위 미니 앱";
 "Tour.StartButton" = "시작하기";
 "Tour.Text1" = "세상에서 가장 **빠르고** **안전한**\n**무료** 메신저입니다.";
@@ -11704,7 +11704,7 @@
 "WebApp.DisclaimerContinue" = "계속";
 "WebApp.DisclaimerText" = "회원님은 텔레그램과 무관한 독립적인 제3자가 운영하는 미니 앱을 사용하려고 합니다. 계속하려면 이용약관에 동의해주셔야 합니다.";
 "WebApp.DisclaimerTitle" = "이용약관";
-"WebApp.Disclaimer_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.Disclaimer_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.Download.Cancel" = "취소";
 "WebApp.Download.Document" = "문서 다운로드";
 "WebApp.Download.Download" = "다운로드";
@@ -11734,7 +11734,7 @@
 "WebApp.LaunchMoreInfo" = " 봇에 대해 자세히 보기";
 "WebApp.LaunchOpenApp" = "열기";
 "WebApp.LaunchTermsConfirmation" = "이 미니 앱을 실행하면 [미니 앱 서비스 약관]()에 동의하게 됩니다.";
-"WebApp.LaunchTermsConfirmation_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.LaunchTermsConfirmation_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.LocationPermission.Allow" = "허용";
 "WebApp.LocationPermission.Decline" = "거절";
 "WebApp.LocationPermission.Succeed" = "이제 **%@**에서 회원님의 위치에 접근할 수 있습니다.";
@@ -11750,7 +11750,7 @@
 "WebApp.OpenWebViewAlertText" = "진행을 위하여 **%@** 이 웹앱을 열기를 희망합니다.\n\n진행시 내 **IP 주소**와 기본 기기 정보에 접근을 할 수 있게 됩니다.";
 "WebApp.OpenWebViewAlertTitle" = "앱 열기";
 "WebApp.PrivacyPolicy" = "개인정보 처리방침";
-"WebApp.PrivacyPolicy_URL" = "https://telegram.org/privacy-tpa";
+"WebApp.PrivacyPolicy_URL" = "https://whatsgram.org/privacy-tpa";
 "WebApp.ReloadPage" = "페이지 새로고침";
 "WebApp.RemoveAllConfirmationText" = "모든 메뉴에서 **%@** 바로가기가 제거됩니다.";
 "WebApp.RemoveBot" = "메뉴에서 제거";
@@ -11772,7 +11772,7 @@
 "WebApp.ShortcutsAdded" = "첨부 매뉴에 **%@** 바로가기가 추가되었습니다.";
 "WebApp.ShortcutsSettingsAdded" = "첨부 및 사이드 매뉴에 **%@** 바로가기가 추가되었습니다.";
 "WebApp.TermsOfUse" = "이용약관";
-"WebApp.TermsOfUse_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.TermsOfUse_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebBrowser.AddBookmark" = "북마크 추가";
 "WebBrowser.AddressBar.Bookmarks" = "북마크";
 "WebBrowser.AddressBar.RecentlyVisited" = "최근 방문";

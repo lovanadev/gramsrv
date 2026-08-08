@@ -162,7 +162,7 @@
 "cloud_lng_passport_in_uk" = "Украин тілі";
 "cloud_lng_passport_in_uz" = "Өзбек тілі";
 "cloud_lng_passport_in_vi" = "Вьетнам тілі";
-"cloud_lng_tooltip_psa_covid" = "Бұл хатта COVID-19 пандемиясына қатысты ресми ақпар бар. Осы бастама жайлы толығырақ білу үшін: https://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "Бұл хатта COVID-19 пандемиясына қатысты ресми ақпар бар. Осы бастама жайлы толығырақ білу үшін: https://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "Бұл Telegram бас директорының жалғасып жатқан қақтығысқа қатысты ресми хаты.";
 "cloud_lng_topup_purpose_subs" = "Арна жазылымын ұзарту үшін **жұлдыз** сатып алыңыз.";
 "cloud_lng_translate_to_ar" = "Араб тілі";
@@ -220,7 +220,7 @@
 "lng_about_text2" = "Бағдарлама {gpl_link} сәйкес лицензияланған.\nБастапқы код {github_link} бойынша қолжетімді.";
 "lng_about_text3" = "Қосымша ақпар үшін {faq_link} өтіңіз.";
 "lng_about_text3_faq" = "Telegram ЖҚС";
-"lng_about_text_1" = "[a href=\"https://core.telegram.org/api\"]Telegram API[/a] негізіндегі ресми, тегін, жылдам әрі қауіпсіз қолданба.";
+"lng_about_text_1" = "[a href=\"https://core.whatsgram.org/api\"]Telegram API[/a] негізіндегі ресми, тегін, жылдам әрі қауіпсіз қолданба.";
 "lng_about_text_2" = "Бағдарлама [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] version 3 сәйкес лицензияланған.\nБастапқы код [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a] ішінде қолжетімді.";
 "lng_about_text_3" = "Қосымша ақпар үшін{faq_open}Telegram FAQ{faq_close} қолданыңыз.";
 "lng_about_version" = "{version} нұсқасы";
@@ -1393,7 +1393,7 @@
 "lng_bot_download_starting" = "Жүктеп алуда...";
 "lng_bot_earn_available" = "Қолжетімді теңгерім";
 "lng_bot_earn_balance_about" = "Теңгеріміңіздегі жұлдыздар сатып алынғаннан кейін 21 күн өткен соң жарнама мен сыйлықтарға жұмсауға болады.";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
+"lng_bot_earn_balance_about_url" = "https://whatsgram.org/tos/stars";
 "lng_bot_earn_balance_button#one" = "{emoji} {count} шешу";
 "lng_bot_earn_balance_button#other" = "{emoji} {count} шешу";
 "lng_bot_earn_balance_button_all" = "Бәрін шешу";
@@ -1534,7 +1534,7 @@
 "lng_business_about_quick_replies" = "Медиа мен пішімдеуі бар жауап үлгісін дайындау.";
 "lng_business_about_sponsored" = "Premium жазылушысы Telegram-ның ешбір жарнамасын көрмейді, бірақ оларды {link} іске қосқан жеке жарнамаларыңызды көру үшін қосуға болады";
 "lng_business_about_sponsored_link" = "Telegram жарнама платформасында {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
+"lng_business_about_sponsored_url" = "https://ads.whatsgram.org";
 "lng_business_button_sponsored" = "Жарнаманы жасырмау";
 "lng_business_edit_messages" = "Хат өңдеу";
 "lng_business_limit_reached#one" = "Шектеу: {count} хаттан көп жасай аласыз.";
@@ -1715,7 +1715,7 @@
 "lng_channel_earn_learn_bot_in_about" = "Telegram ботыңызда жарнама көрсете алады.";
 "lng_channel_earn_learn_close" = "Ұқтым";
 "lng_channel_earn_learn_coin_about" = "Gram – бұл Telegram транзакциялар бойынша жоғары жылдамдығы мен төмен комиссиялары үшін қолданатын блокчейн платформасы және криптовалюта. {link}";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels";
+"lng_channel_earn_learn_coin_link" = "https://whatsgram.org/blog/monetization-for-channels";
 "lng_channel_earn_learn_coin_title" = "{emoji} Gram деген не?";
 "lng_channel_earn_learn_in_about" = "Telegram арнаңызда жарнамаларды көрсете алады.";
 "lng_channel_earn_learn_in_subtitle" = "Telegram жарнамасы";
@@ -1879,7 +1879,7 @@
 "lng_chatbots_gift_settings" = "Сыйлықты баптау";
 "lng_chatbots_include_button" = "Чат таңдау";
 "lng_chatbots_included_title" = "Қосылатын чат";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"lng_chatbots_info_url" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "lng_chatbots_leave_without_added_text" = "Тіркелгіңізді басқару үшін бот қосқан жоқсыз. Сонда да шығасыз ба?";
 "lng_chatbots_leave_without_added_title" = "Бот қосылмады";
 "lng_chatbots_manage_gifts" = "Сыйлық пен жұлдыз";
@@ -2466,7 +2466,7 @@
 "lng_credits_box_history_entry_floodskip_row" = "Хат";
 "lng_credits_box_history_entry_fragment" = "Fragment";
 "lng_credits_box_history_entry_gift_about_link" = "Мысал көру {emoji}";
-"lng_credits_box_history_entry_gift_about_url" = "https://telegram.org/blog/telegram-stars/kk";
+"lng_credits_box_history_entry_gift_about_url" = "https://whatsgram.org/blog/telegram-stars/kk";
 "lng_credits_box_history_entry_gift_bought" = "Сыйлық сатып алу";
 "lng_credits_box_history_entry_gift_bought_from" = "Кімнен";
 "lng_credits_box_history_entry_gift_converted" = "Айырбасталынған сыйлық";
@@ -2505,7 +2505,7 @@
 "lng_credits_box_history_entry_via" = "Көзі";
 "lng_credits_box_history_entry_via_premium_bot" = "Premium бот";
 "lng_credits_box_out_about" = "Жұлдыздың {link}н оқып шығу.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars";
 "lng_credits_box_out_both" = "{photo} және {video}";
 "lng_credits_box_out_confirm#one" = "Растап {count} {emoji} жұлдыз төлеу";
 "lng_credits_box_out_confirm#other" = "Растап {count} {emoji} жұлдыз төлеу";
@@ -2606,7 +2606,7 @@
 "lng_credits_summary_in_toast_title" = "Жұлдыздар алынды";
 "lng_credits_summary_options_about" = "Жұлдыз сатып алып, {link} келісесіз.";
 "lng_credits_summary_options_about_link" = "шарттары мен ережелеріне";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars";
+"lng_credits_summary_options_about_url" = "https://whatsgram.org/tos/stars";
 "lng_credits_summary_options_credits#one" = "{count} жұлдыз";
 "lng_credits_summary_options_credits#other" = "{count} жұлдыз";
 "lng_credits_summary_options_more" = "Қосымша нұсқаларды көрсету";
@@ -4420,7 +4420,7 @@
 "lng_group_invite_subscription" = "Ай сайынғы төлем";
 "lng_group_invite_subscription_about" = "Сілтеме арқылы қосылғандар үшін арна жазылымын ақылы жасай аласыз. {link}";
 "lng_group_invite_subscription_about_link" = "Толығырақ {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "айына шамамен {total} аласыз";
 "lng_group_invite_subscription_info_subtitle" = "Жазылу ақысы";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} / айына {multiplier} {total}";
@@ -5192,7 +5192,7 @@
 "lng_mini_apps_disclaimer_link" = "Қызмет көрсету шарттары";
 "lng_mini_apps_disclaimer_text" = "**Telegram-ға қатысы жоқ** үшінші тарап әзірлеушісі жүргізетін шағын қолданбаны қолданғалы жатырсыз. Жалғастыру үшін виджетті қызмет көрсету шарттарына келісуіңіз керек.";
 "lng_mini_apps_disclaimer_title" = "Ескерту";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "Жасыру";
 "lng_minimize_window" = "Кішірейту";
 "lng_minutes#one" = "{count} минут";
@@ -5372,7 +5372,7 @@
 "lng_owner_badge" = "иесі";
 "lng_paid_about" = "Қолданушылар бұл контентті көру үшін көрсетілген жұлдыздар санын арнаңызға аударуы керек. {link}";
 "lng_paid_about_link" = "Толығырақ >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars/kk";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars/kk";
 "lng_paid_admin_about" = "Көрушілер сізге жұлдызды реакция жібере алады.";
 "lng_paid_admin_title" = "Көрушілерден жұлдыз алу";
 "lng_paid_comment_about" = "{name} үшін жұлдыз қосып, хатыңызды ерекшелеп бекітіңіз.";
@@ -5877,7 +5877,7 @@
 "lng_popular_apps_info_here" = "мына жерде";
 "lng_popular_apps_info_text" = "Бұл каталогта жұлдыздармен өлшенетін күнделікті табысы бойынша шағын қолданбалардың рейтингі берілген. Тізімге кіру үшін әзірлеушілер негізгі шағын қолданбасын {bot} ішінде ({link} сипатталғандай) бапталуы керек, күн сайын **1000**-нан астам қолданушысы бар және апталық орташа есеппен **1000** жұлдыздан жоғары күндік табыс табуы керек.";
 "lng_popular_apps_info_title" = "Танымал шағын қолданбалар";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
+"lng_popular_apps_info_url" = "https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app";
 "lng_posts_limit_about#one" = "Күніне {count} дейін іздеу сұранысын жасай аласыз.";
 "lng_posts_limit_about#other" = "Күніне {count} дейін іздеу сұранысын жасай аласыз.";
 "lng_posts_limit_reached" = "Шегіне жетті";
@@ -6216,7 +6216,7 @@
 "lng_profile_bot_help" = "Бот анықтамасы";
 "lng_profile_bot_permissions_title" = "Рұқсат";
 "lng_profile_bot_privacy" = "Боттың құпиялық саясаты";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "Ботты баптау";
 "lng_profile_camera_title" = "Өзімді түсіру";
 "lng_profile_changed_photo_about" = "{link} ішінде өзгерте аласыз.";
@@ -7299,7 +7299,7 @@
 "lng_settings_export_data" = "Telegram дерегін экспорттау";
 "lng_settings_faq" = "Telegram ЖҚС";
 "lng_settings_faq_button" = "ЖҚС-ға өту";
-"lng_settings_faq_link" = "https://telegram.org/faq/kk#zhalpi-suraqtar";
+"lng_settings_faq_link" = "https://whatsgram.org/faq/kk#zhalpi-suraqtar";
 "lng_settings_faq_subtitle" = "ЖҚС";
 "lng_settings_features" = "Telegram кеңесшісі";
 "lng_settings_file_confirmations" = "Файлды ашу";
@@ -7496,7 +7496,7 @@
 "lng_settings_suggestion_password_title" = "Құпиясөзіңіз";
 "lng_settings_suggestion_password_yes" = "Иә, әрине";
 "lng_settings_suggestion_phone_number_about" = "Telegram-ға әрдайым кіру үшін, жарамды телефон нөмірін көрсету керек. {link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq/kk#zhana-telefon-nomirim-bar-ne-isteimin";
+"lng_settings_suggestion_phone_number_about_link" = "https://whatsgram.org/faq/kk#zhana-telefon-nomirim-bar-ne-isteimin";
 "lng_settings_suggestion_phone_number_change" = "Ресми Telegram қолданбасындағы телефон нөміріңізді мүмкіндігінше тезірек өзгертіңіз. {emoji}";
 "lng_settings_suggestion_phone_number_title" = "{phone} нөмірі әлі де сіздікі ме?";
 "lng_settings_system_integration" = "Жүйелік интеграция";
@@ -7705,7 +7705,7 @@
 "lng_sponsored_info_description1" = "Басқа қолданбалармен салыстырғанда Telegram жеке деректеріңізді ешқашан жарнама үшін қолданбайды. Telegram-дағы демеуші хаттары жария арналарда олардың тақырыбына ғана негізделіп көрсетіледі. Бұл - қолданушының ешбір дерегі жарнама көрсету үшін алынбайды я талданбайды деген сөз. Telegram-дағы арнаны қарайтын қолданушылардың бәрі бірдей демеуші хатын көреді.\n\nБасқа қолданбалармен салыстырғанда Telegram демеуші хатына басқаныңызды тіркемейді және әрекеттеріңізге негізделген бейін жасамайды. Сондай-ақ қолданушыларды әлдебір үшінші тарап аңдымауы үшін біз демеуші хаттарындағы сыртқы сілтемелерді бұғаттаймыз. Біз әркімнің жеке өмірге құқығы бар деп санаймыз және технологиялық платформалар бұл құқықты құрметтеуі тиіс.\n\nTelegram жүздеген миллион қолданушыға тегін әрі шексіз қызмет көрсетіп отыруы үшін сервер мен желі траффигіне шығындалып жатыр. Бұдан ары қарай да тәуелсіз жұмыс істеп, өз құндылықтарын сақтап қалу мақсатында Telegram хаттарға демеу жасайтын ақылы құрал енгізбек. Жауапты жарнама берушілерді мына парақшаға шақырамыз:";
 "lng_sponsored_info_description1_link" = "Толығырақ құпиялық саясатында";
 "lng_sponsored_info_description1_linked" = "Басқа қолданбалармен салыстырғанда Telegram жеке деректеріңізді ешқашан жарнама үшін қолданбайды. {link}\n\nБасқа қолданбалармен салыстырғанда Telegram демеуші хатына басқаныңызды тіркемейді және әрекеттеріңізге негізделген бейін жасамайды. Сондай-ақ қолданушыларды әлдебір үшінші тарап аңдымауы үшін біз демеуші хаттарындағы сыртқы сілтемелерді бұғаттаймыз. Біз әркімнің жеке өмірге құқығы бар деп санаймыз және технологиялық платформалар бұл құқықты құрметтеуі тиіс.\n\nTelegram жүздеген миллион қолданушыға тегін әрі шексіз қызмет көрсетіп отыруы үшін сервер мен желі траффигіне шығындалып жатыр. Бұдан ары қарай да тәуелсіз жұмыс істеп, өз құндылықтарын сақтап қалу мақсатында Telegram хаттарға демеу жасайтын ақылы құрал енгізбек. Жауапты жарнама берушілерді мына парақшаға шақырамыз:";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy#5-6-no-ads-based-on-user-data";
+"lng_sponsored_info_description1_url" = "https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data";
 "lng_sponsored_info_description2" = "Демеуші хаттары қазір сынақ режімінде. Олар толық іске қосылып, Telegram өз шығындарын жапқан соң жарнама табысын демеуші хаттар көрсетілетін жария арналардың иелерімен бөлісе бастаймыз.\n\nЕнді онлайн жарнама қолданушының жеке өміріне қол сұғумен байланыстырылмауы керек. Технологиялық компания қалай жұмыс істеу керектігін жаңадан ұсынайық – сізбен бірге.";
 "lng_sponsored_info_menu" = "Жарнама беруші жайлы";
 "lng_sponsored_info_submenu" = "Жарнама беруші: {text}";
@@ -7932,7 +7932,7 @@
 "lng_star_ref_start_info" = "Серіктестік бағдарламасын жасап, серіктестік бағдарламаларының {terms} келісесіз.";
 "lng_star_ref_stopped" = "Серіктестік сілтеме енді белсенсіз.";
 "lng_star_ref_title" = "Серіктестік бағдарлама";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program";
+"lng_star_ref_tos_url" = "https://whatsgram.org/tos/affiliate-program";
 "lng_star_ref_transparent_about" = "Тартылған қолданушылардан түскен комиссияны нақты уақытта бақылай аласыз.";
 "lng_star_ref_transparent_title" = "Ашық";
 "lng_star_ref_update" = "Серіктестік бағдарламаны жаңарту";

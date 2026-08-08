@@ -162,7 +162,7 @@
 "cloud_lng_passport_in_uk" = "ukraina";
 "cloud_lng_passport_in_uz" = "uzbekki";
 "cloud_lng_passport_in_vi" = "vietnam";
-"cloud_lng_tooltip_psa_covid" = "Tämä viesti tarjoaa sinulle julkisen tiedotuksen tämänhetkisen COVID-19-pandemian suhteen. Lue lisää aloitteesta täältä: https://telegram.org/blog/coronavirus";
+"cloud_lng_tooltip_psa_covid" = "Tämä viesti tarjoaa sinulle julkisen tiedotuksen tämänhetkisen COVID-19-pandemian suhteen. Lue lisää aloitteesta täältä: https://whatsgram.org/blog/coronavirus";
 "cloud_lng_tooltip_psa_psa" = "Tämä on virallinen viesti Telegramin toimitusjohtajalta nykyiseen aseelliseen yhteenottoon liittyen.";
 "cloud_lng_topup_purpose_subs" = "Ostamillasi **tähdillä** voit jatkaa tilauksiasi kanavilla.";
 "cloud_lng_translate_to_ar" = "arabiaksi";
@@ -220,7 +220,7 @@
 "lng_about_text2" = "Ohjelmiston lisenssi on {gpl_link}, versio 3.\nLähdekoodi löytyy täältä: {github_link}.";
 "lng_about_text3" = "Lisätietoja löytyy sivulta {faq_link}.";
 "lng_about_text3_faq" = "Usein kysyttyä";
-"lng_about_text_1" = "Virallinen työpöytäsovellus, joka perustuu \n[a href=\"https://core.telegram.org/api\"]Telegram API -rajapintaan.[/a] Nopeus ja turvallisuus taattu, vieläpä täysin ilmaiseksi.";
+"lng_about_text_1" = "Virallinen työpöytäsovellus, joka perustuu \n[a href=\"https://core.whatsgram.org/api\"]Telegram API -rajapintaan.[/a] Nopeus ja turvallisuus taattu, vieläpä täysin ilmaiseksi.";
 "lng_about_text_2" = "Tämä ohjelma käyttää [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] -lisenssin\nversiota 3. Lähdekoodi [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHubissa[/a].";
 "lng_about_text_3" = "Lisätietoa Telegramin {faq_open}Usein kysytyissä kysymyksissä.{faq_close}";
 "lng_about_version" = "Versio {version}";
@@ -1393,7 +1393,7 @@
 "lng_bot_download_starting" = "Aloitetaan...";
 "lng_bot_earn_available" = "Saldoa käytettävissä";
 "lng_bot_earn_balance_about" = "Voit käyttää saldosi tähtiä mainostukseen tai nostaa ne palkintoina, kun on kulunut 21 päivää niiden ansaitsemisesta.";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
+"lng_bot_earn_balance_about_url" = "https://whatsgram.org/tos/stars";
 "lng_bot_earn_balance_button#one" = "Nosta {emoji} {count}";
 "lng_bot_earn_balance_button#other" = "Nosta {emoji} {count}";
 "lng_bot_earn_balance_button_all" = "Nosta kaikki tähdet";
@@ -1534,7 +1534,7 @@
 "lng_business_about_quick_replies" = "Vastaa nopeasti valmiilla viesteillä, joissa voi olla muotoilua ja mediaa.";
 "lng_business_about_sponsored" = "Et näe Premium-tilaajana Telegramin mainoksia, mutta voit ottaa ne käyttöön, jos haluat esimerkiksi nähdä mainoksia, jotka olet julkaissut {link}";
 "lng_business_about_sponsored_link" = "Telegramin mainosalustalla {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
+"lng_business_about_sponsored_url" = "https://ads.whatsgram.org";
 "lng_business_button_sponsored" = "Älä piilota mainoksia";
 "lng_business_edit_messages" = "Muokkaa viestejä";
 "lng_business_limit_reached#one" = "{count} viestin raja kohdattu";
@@ -1715,7 +1715,7 @@
 "lng_channel_earn_learn_bot_in_about" = "Telegram voi näyttää mainoksia botillasi.";
 "lng_channel_earn_learn_close" = "Selvä";
 "lng_channel_earn_learn_coin_about" = "Gram on TON-lohkoketjualustan kryptovaluutta, jota Telegram käyttää, koska se on nopea ja sen siirtomaksut ovat alhaiset. {link}";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels";
+"lng_channel_earn_learn_coin_link" = "https://whatsgram.org/blog/monetization-for-channels";
 "lng_channel_earn_learn_coin_title" = "Mikä on {emoji} gram?";
 "lng_channel_earn_learn_in_about" = "Telegram voi näyttää kanavallasi mainoksia.";
 "lng_channel_earn_learn_in_subtitle" = "Telegramin mainokset";
@@ -1879,7 +1879,7 @@
 "lng_chatbots_gift_settings" = "Muuttaa lahja-asetuksia";
 "lng_chatbots_include_button" = "Valitse keskustelutita";
 "lng_chatbots_included_title" = "Sisällytetyt keskustelut";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"lng_chatbots_info_url" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "lng_chatbots_leave_without_added_text" = "Et ole vielä lisännyt bottia hallinnoimaan tiliäsi. Haluatko silti poistua?";
 "lng_chatbots_leave_without_added_title" = "Bottia ei ole lisätty";
 "lng_chatbots_manage_gifts" = "Hallinnoida lahjoja ja tähtiä";
@@ -2466,7 +2466,7 @@
 "lng_credits_box_history_entry_floodskip_row" = "Viestit";
 "lng_credits_box_history_entry_fragment" = "Fragment";
 "lng_credits_box_history_entry_gift_about_link" = "Esimerkkejä {emoji}";
-"lng_credits_box_history_entry_gift_about_url" = "https://telegram.org/blog/telegram-stars";
+"lng_credits_box_history_entry_gift_about_url" = "https://whatsgram.org/blog/telegram-stars";
 "lng_credits_box_history_entry_gift_bought" = "Lahjan osto";
 "lng_credits_box_history_entry_gift_bought_from" = "Antaja";
 "lng_credits_box_history_entry_gift_converted" = "Muunnettu lahja";
@@ -2505,7 +2505,7 @@
 "lng_credits_box_history_entry_via" = "Tapa";
 "lng_credits_box_history_entry_via_premium_bot" = "Premium Bot";
 "lng_credits_box_out_about" = "Tarkista tähtien {link}.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
+"lng_credits_box_out_about_link" = "https://whatsgram.org/tos/stars";
 "lng_credits_box_out_both" = "{photo} ja {video}";
 "lng_credits_box_out_confirm#one" = "Vahvista ja maksa {emoji} {count} tähti";
 "lng_credits_box_out_confirm#other" = "Vahvista ja maksa {emoji} {count} tähteä";
@@ -2606,7 +2606,7 @@
 "lng_credits_summary_in_toast_title" = "Tähdet ostettiin!";
 "lng_credits_summary_options_about" = "Ostamalla tähtiä hyväksyt {link}.";
 "lng_credits_summary_options_about_link" = "käyttöehdot";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars";
+"lng_credits_summary_options_about_url" = "https://whatsgram.org/tos/stars";
 "lng_credits_summary_options_credits#one" = "{count} tähti";
 "lng_credits_summary_options_credits#other" = "{count} tähteä";
 "lng_credits_summary_options_more" = "Näytä lisävaihtoehdot";
@@ -4420,7 +4420,7 @@
 "lng_group_invite_subscription" = "Vaadi kuukausittainen tilaus";
 "lng_group_invite_subscription_about" = "Vaatii kuukausittaisen tilauksen heiltä, jotka liittyvät kanavalle tällä linkillä. {link}";
 "lng_group_invite_subscription_about_link" = "Lue lisää {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
+"lng_group_invite_subscription_about_url" = "https://whatsgram.org/tos/stars";
 "lng_group_invite_subscription_info_about" = "saat keskimäärin {total} kuussa";
 "lng_group_invite_subscription_info_subtitle" = "Tilausmaksu";
 "lng_group_invite_subscription_info_title" = "{emoji} {price}/kk {multiplier} {total}";
@@ -5192,7 +5192,7 @@
 "lng_mini_apps_disclaimer_link" = "käyttöehdot";
 "lng_mini_apps_disclaimer_text" = "Olet ryhtymässä käyttämään pienoissovellusta. Sitä ylläpitää taho, jolla **ei ole kytköksiä Telegramiin**. Sinun tulee hyväksyä pienoissovellusten käyttöehdot jatkaaksesi.";
 "lng_mini_apps_disclaimer_title" = "Varoitus";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
+"lng_mini_apps_tos_url" = "https://whatsgram.org/tos/mini-apps";
 "lng_minimize_to_tray" = "Pienennä tilapalkkiin";
 "lng_minimize_window" = "Pienennä";
 "lng_minutes#one" = "{count} minuutti";
@@ -5372,7 +5372,7 @@
 "lng_owner_badge" = "omistaja";
 "lng_paid_about" = "Käyttäjien tulee siirtää valitsemasi määrä Telegram-tähtiä kanavallesi katsellaksesi mediaa. {link}";
 "lng_paid_about_link" = "Lisätietoja tähdistä >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars";
+"lng_paid_about_link_url" = "https://whatsgram.org/blog/telegram-stars";
 "lng_paid_admin_about" = "Katselijat voivat lähettää tähtireaktioita.";
 "lng_paid_admin_title" = "Ota tähtiä vastaan katselijoilta";
 "lng_paid_comment_about" = "Korosta ja kiinnitä viesti tähdillä lähettäjälle {name}.";
@@ -5877,7 +5877,7 @@
 "lng_popular_apps_info_here" = "täällä";
 "lng_popular_apps_info_text" = "Tässä luettelossa on pienoissovelluksia, jotka on järjestetty päivittäisen liikevaihdon tähdissä mukaan. Sovellus näkyy täällä vain, jos kehittäjä on asettanut pääasiallisen pienoissovelluksen {bot}-botilla (kuten {link} opastetaan), jos sillä on yli **1000** päivittäistä käyttäjää, ja sen päivittäinen liikevaihto on vähintään **1000** tähteä viikon pituisella keskiarvolla mitattuna.";
 "lng_popular_apps_info_title" = "Suositut pienoissovellukset";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
+"lng_popular_apps_info_url" = "https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app";
 "lng_posts_limit_about#one" = "Voit tehdä {count} haun päivässä.";
 "lng_posts_limit_about#other" = "Voit tehdä {count} hakua päivässä.";
 "lng_posts_limit_reached" = "Kohtasit rajan";
@@ -6216,7 +6216,7 @@
 "lng_profile_bot_help" = "Botin ohje";
 "lng_profile_bot_permissions_title" = "Pääsyoikeudet";
 "lng_profile_bot_privacy" = "Botin yksityisyyskäytäntö";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
+"lng_profile_bot_privacy_url" = "https://whatsgram.org/privacy-tpa";
 "lng_profile_bot_settings" = "Botin asetukset";
 "lng_profile_camera_title" = "Ota itsestäsi kuva";
 "lng_profile_changed_photo_about" = "Voit vaihtaa sitä {link}.";
@@ -7299,7 +7299,7 @@
 "lng_settings_export_data" = "Vie Telegram-tiedot";
 "lng_settings_faq" = "Usein kysyttyä";
 "lng_settings_faq_button" = "Usein kysyttyä";
-"lng_settings_faq_link" = "https://telegram.org/faq#general-questions";
+"lng_settings_faq_link" = "https://whatsgram.org/faq#general-questions";
 "lng_settings_faq_subtitle" = "UKK";
 "lng_settings_features" = "Telegramin toiminnallisuudet";
 "lng_settings_file_confirmations" = "Vahvista tiedostojen avaaminen";
@@ -7496,7 +7496,7 @@
 "lng_settings_suggestion_password_title" = "Salasanasi";
 "lng_settings_suggestion_password_yes" = "Ilman muuta";
 "lng_settings_suggestion_phone_number_about" = "Pidä numerosi ajan tasalla, jotta voisit aina kirjautua Telegramiin. {link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
+"lng_settings_suggestion_phone_number_about_link" = "https://whatsgram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
 "lng_settings_suggestion_phone_number_change" = "Vaihda puhelinnumerosi Telegramin virallisella mobiilisovelluksella heti kun mahdollista. {emoji}";
 "lng_settings_suggestion_phone_number_title" = "Onko {phone} yhä numerosi?";
 "lng_settings_system_integration" = "Käyttöjärjestelmä";
@@ -7705,7 +7705,7 @@
 "lng_sponsored_info_description1" = "Telegram ei muiden sovellusten tavoin käytä yksityistä dataasi mainosten kohdentamiseen. Sponsoroitujen viestien näyttäminen perustuu julkisen kanavan aiheeseen. Käyttäjätietoja ei louhita tai analysoida mainosten näyttämiseksi, ja kaikki kanavaa katsovat näkevät samat sponsoroidut viestit.\n\nTelegram ei myöskään muiden sovellusten tavoin tarkkaile, napautatko sponsoroitua viestiä, eikä luo sinusta mainostusprofiilia. Estämme myös ulkopuoliset linkit, jotta käyttäjiämme ei voitaisi seurata. Periaatteisimme kuuluu, että jokaisella on oikeus yksityisyyteen, ja että verkkoalustojen tulisi kunnioittaa tätä oikeutta.\n\nTelegram tarjoaa ilmaisen ja rajattoman palvelun sadoille miljoonille, minkä takia palvelin- ja kaistakustannukset ovat merkittävät. Kehitimme maksullisen työkalun viestien mainostamiseen, jotta rahatilanteemme antaisi meidän pysyä riippumattomina sekä pitää periaatteistamme kiinni. Vastuulliset mainostajat ovat tervetulleita ottamaan meihin yhteyttä:";
 "lng_sponsored_info_description1_link" = "Lue lisää yksityisyyskäytännöstämme";
 "lng_sponsored_info_description1_linked" = "Telegram ei muiden sovellusten tavoin käytä yksityistä dataasi mainosten kohdentamiseen. {link}\n\nTelegram ei myöskään muiden sovellusten tavoin tarkkaile, napsautatko sponsoroitua viestiä, eikä luo sinusta mainostusprofiilia. Estämme myös ulkopuoliset linkit, jotta käyttäjiämme ei voitaisi seurata. Periaatteisimme kuuluu, että jokaisella on oikeus yksityisyyteen, ja että verkkoalustojen tulisi kunnioittaa tätä oikeutta.\n\nTelegram tarjoaa ilmaisen ja rajattoman palvelun sadoille miljoonille, minkä takia palvelin- ja kaistakustannukset ovat merkittävät. Kehitimme maksullisen työkalun viestien mainostamiseen, jotta rahatilanteemme antaisi meidän pysyä riippumattomina sekä pitää periaatteistamme kiinni. Vastuulliset mainostajat ovat tervetulleita ottamaan meihin yhteyttä:";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy#5-6-no-ads-based-on-user-data";
+"lng_sponsored_info_description1_url" = "https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data";
 "lng_sponsored_info_description2" = "Sponsoroidut viestit ovat tällä hetkellä koekäytössä. Kun ne on otettu täysin käyttöön ja Telegram pystyy kattamaan kulunsa, alamme jakamaan mainostuloja sponsoroituja viestejä näyttävien julkisten kanavan omistajille.\n\nMainosten ei välttämättä tarvitse tarkoittaa käyttäjien yksityisyydensuojan rikkomista. Voimme yhdessä muuttaa teknologiayritysten toimintasääntöjä.";
 "lng_sponsored_info_menu" = "Tietoja mainostajasta";
 "lng_sponsored_info_submenu" = "Mainostaja: {text}";
@@ -7932,7 +7932,7 @@
 "lng_star_ref_start_info" = "Luomalla ohjelman hyväksyt kumppanuusohjelmien {terms}.";
 "lng_star_ref_stopped" = "Tämä suosittelulinkki ei enää toimi.";
 "lng_star_ref_title" = "Kumppanuusohjelma";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program";
+"lng_star_ref_tos_url" = "https://whatsgram.org/tos/affiliate-program";
 "lng_star_ref_transparent_about" = "Seuraa suositelluilta käyttäjiltä saatuja palkkioita reaaliajassa.";
 "lng_star_ref_transparent_title" = "Avoin";
 "lng_star_ref_update" = "Muuta kumppanuusohjelmaa";

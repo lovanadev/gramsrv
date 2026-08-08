@@ -491,7 +491,7 @@
 "Chat.Menu.SelectMessages" = "Mesajları Seç";
 "Chat.Message.Ad.ReadMore" = "Devamını Oku";
 "Chat.Message.Ad.Text" = "Diğer uygulamalardan farklı olarak Telegram, reklam hedeflemeleri için asla özel verilerinizi kullanmaz. Telegram'daki sponsorlu mesajlar, yalnızca gösterildikleri genel kanalların konusuna dayanmaktadır. Bu, reklamları görüntülemek için hiçbir kullanıcı verisinin çıkarılmadığı veya analiz edilmediği ve Telegram'da bir kanalı görüntüleyen her kullanıcının aynı sponsorlu mesajı gördüğü anlamına gelir.\n\nDiğer uygulamalardan farklı olarak Telegram, sponsorlu bir mesaja dokunup tıklamadığınızı izlemez ve etkinliğinize göre profilinizi çıkarmaz. Ayrıca, üçüncü tarafların kullanıcılarımızı gözetlememesini sağlamak için sponsorlu mesajlardaki harici bağlantıları da engelleriz. Herkesin mahremiyet hakkına sahip olduğuna ve teknolojik platformların buna saygı duyması gerektiğine inanıyoruz.\n\nTelegram, önemli sunucu ve trafik maliyetleri içeren hizmetini yüz milyonlarca kullanıcıya ücretsiz ve sınırsız olarak sunuyor. Telegram, bağımsız ve değerlerine sadık kalmak amacıyla mesajları tanıtmak için kullanıcı gizliliğini de göz önünde bulunduran ücretli bir araç geliştirdi. Sorumlu reklamverenleri memnuniyetle karşılıyoruz:\n\n%@\n\nSponsorlu Mesajlar şu anda test modunda. Reklamlar, tamamen kullanıma sunulduğunda ve Telegram'ın temel maliyetlerini karşılamaya başladığında, sponsorlu mesajların görüntülendiği genel kanalların sahipleriyle reklam gelirlerini paylaşmaya başlayacağız.\n\nÇevrimiçi reklamlar artık kullanıcı gizliliğinin kötüye kullanılmasıyla eş anlamlı olmamalı. Bir teknoloji şirketinin nasıl çalışması gerektiğini hep birlikte yeniden tanımlayalım.";
-"Chat.Message.Sponsored.Link" = "https://promote.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://promote.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Sponsorlu mesajlar nedir?";
 "Chat.Message.ViewBot" = "BOTU GÖRÜNTÜLE";
 "Chat.Message.ViewChannel" = "KANALI GÖRÜNTÜLE";
@@ -1649,7 +1649,7 @@
 "Report2CommentOptional" = "Yorum Ekle (İsteğe Bağlı)";
 "Report2Send" = "Raporu Gönder";
 "ReportAd" = "Reklamı Bildir";
-"ReportAdLearnMore" = "[Reklam Politikalarımız ve Yönergelerimiz](https://ads.telegram.org/guidelines) hakkında daha fazla bilgi edinin.";
+"ReportAdLearnMore" = "[Reklam Politikalarımız ve Yönergelerimiz](https://ads.whatsgram.org/guidelines) hakkında daha fazla bilgi edinin.";
 "ReportBug" = "Hata Bildir";
 "ReportChat" = "Bildir";
 "ReportChatChild" = "Çocuk İstismarı";
@@ -1865,7 +1865,7 @@
 "StarMediaPurchase" = "Medyayı Satın Al";
 "Stars#one" = "%d Yıldız";
 "Stars#other" = "%d Yıldız";
-"Stars.Subscribe.Terms" = "Abone olarak [Hizmet Şartlarını](https://telegram.org) kabul etmiş olursunuz.";
+"Stars.Subscribe.Terms" = "Abone olarak [Hizmet Şartlarını](https://whatsgram.org) kabul etmiş olursunuz.";
 "Stars.Subscriptions" = "Aboneliklerim";
 "Stars.Subscriptions.Expired" = "%s tarihinde sona erdi";
 "Stars.TopUp" = "Yıldız Yükleme";
@@ -2203,7 +2203,7 @@
 "WebApp.AttachRemove.Success" = "\"%@\" botunu ek menüsünden başarıyla kaldırdınız.";
 "WebApp.Disclaimer.Check" = "**[Kullanım Koşullarını]()** kabul ediyorum.";
 "WebApp.InstallBot" = "Botu Yükle";
-"WebAppDisclaimerUrl" = "https://telegram.org/tos/mini-apps";
+"WebAppDisclaimerUrl" = "https://whatsgram.org/tos/mini-apps";
 "WebSessionsTitle" = "Telegram ile Yapılan Girişler";
 "Weeks#one" = "%1$d hafta";
 "Weeks#other" = "%1$d hafta";

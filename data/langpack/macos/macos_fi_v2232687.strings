@@ -130,7 +130,7 @@
 "AffiliateProgram.JoinSubtitleMonths_any" = "**{bot}** jakaa **{commission}** tuloista jokaiselta käyttäjältä, joka ryhtyy käyttämään sitä kauttasi, **%d kuukauden ajan**.";
 "AffiliateProgram.JoinSubtitleYears_1" = "**{bot}** jakaa **{commission}** tuloista jokaiselta käyttäjältä, joka ryhtyy käyttämään sitä kauttasi, **yhden vuoden ajan**.";
 "AffiliateProgram.JoinSubtitleYears_any" = "**{bot}** jakaa **{commission}** tuloista jokaiselta käyttäjältä, joka ryhtyy käyttämään sitä kauttasi, **%d vuoden ajan.**";
-"AffiliateProgram.JoinTerms" = "Liittymällä ohjelmaan hyväksyt kumppanuusohjelmien [käyttöehdot](https://telegram.org/tos/affiliate-program).";
+"AffiliateProgram.JoinTerms" = "Liittymällä ohjelmaan hyväksyt kumppanuusohjelmien [käyttöehdot](https://whatsgram.org/tos/affiliate-program).";
 "AffiliateProgram.JoinTitle" = "Kumppanuusohjelma";
 "AffiliateProgram.LinkSubtitle" = "Jaa linkki bottiin **%1$d** käyttäjiesi kanssa ja saa **%2$@** tuloista heidän maksaessaan botin palveluista (kesto: **%3$@**).";
 "AffiliateProgram.LinkSubtitleLifetime" = "Jaa tämä linkki käyttäjillesi saadaksesi **{commission}** tuloista botin **{bot}** maksuista jokaiselta käyttäjältä **pysyvästi**, jos he käyttävät tätä linkkiä.";
@@ -199,7 +199,7 @@
 "AffiliateSetup.StartTitle" = "Aloita kumppanuusohjelma";
 "AffiliateSetup.SuggestedSectionEmpty" = "Ohjelmia ei ole vielä saatavilla.\nTarkista tämä sivu myöhemmin.";
 "AffiliateSetup.SuggestedSectionTitle" = "OHJELMAT";
-"AffiliateSetup.TermsFooter" = "Luomalla kumppanuusohjelman hyväksyt kumppanuusohjelmien [käyttöehdot](https://telegram.org/terms).";
+"AffiliateSetup.TermsFooter" = "Luomalla kumppanuusohjelman hyväksyt kumppanuusohjelmien [käyttöehdot](https://whatsgram.org/terms).";
 "AffiliateSetup.TextJoin" = "Saa osa tuloista, kun käyttäjä löytää uuden pienoissovelluksen suosittelulinkkisi kautta ja käyttää siinä **tähtiään**.";
 "AffiliateSetup.TextNew" = "Palkitse käyttäjäkuntasi kasvattajia.";
 "AffiliateSetup.TitleJoin" = "Kumppanuusohjelmat";
@@ -475,7 +475,7 @@
 "Bot.AllowSendMessages" = "Anna botin **%@** lähettää minulle viestejä.";
 "Bot.Grossing.Disclaimer" = "Mitä sovelluksia täällä näkyy? [Lue >](grossing)";
 "Bot.Grossing.Disclaimer.Alert.Header" = "Suositut pienoissovellukset";
-"Bot.Grossing.Disclaimer.Alert.Text" = "Tässä luettelossa on pienoissovelluksia, jotka on järjestetty päivittäisen liikevaihdon tähdissä mukaan. Sovellus näkyy täällä vain, jos kehittäjä on asettanut pääasiallisen pienoissovelluksen [@botfather](https://t.me/botfather) -botilla (kuten [täällä](https://core.telegram.org/bots/webapps#launching-the-main-mini-app) opastetaan), jos sillä on yli **1000** päivittäistä käyttäjää, ja sen päivittäinen liikevaihto on vähintään **1000** tähteä viikon pituisella keskiarvolla mitattuna.";
+"Bot.Grossing.Disclaimer.Alert.Text" = "Tässä luettelossa on pienoissovelluksia, jotka on järjestetty päivittäisen liikevaihdon tähdissä mukaan. Sovellus näkyy täällä vain, jos kehittäjä on asettanut pääasiallisen pienoissovelluksen [@botfather](https://t.me/botfather) -botilla (kuten [täällä](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app) opastetaan), jos sillä on yli **1000** päivittäistä käyttäjää, ja sen päivittäinen liikevaihto on vähintään **1000** tähteä viikon pituisella keskiarvolla mitattuna.";
 "Bot.Grossing.Disclaimer.Alert.ok" = "Ymmärrän";
 "Bot.InlineAuth.Header" = "Avaa linkki";
 "Bot.InlineAuth.Open" = "Avaa";
@@ -489,8 +489,8 @@
 "Bot.TransferOwner.Error.Title" = "Turvatarkastus";
 "Bot.TransferOwnership.Password.Desc" = "Vahvista syöttämällä kaksivaiheisen todennuksen salasana.";
 "Bot.TransferOwnership.Password.Title" = "Kaksivaiheinen todennus";
-"BotInfo.LaunchInfo" = "Julkaisemalla pienoissovelluksen hyväksyt [Telegramin käyttöehdot kehittäjille](https://telegram.org/tos/bot-developers).";
-"BotInfo.LaunchInfo.PrivacyUrl" = "https://telegram.org/privacy-tpa";
+"BotInfo.LaunchInfo" = "Julkaisemalla pienoissovelluksen hyväksyt [Telegramin käyttöehdot kehittäjille](https://whatsgram.org/tos/bot-developers).";
+"BotInfo.LaunchInfo.PrivacyUrl" = "https://whatsgram.org/privacy-tpa";
 "BotInfo.LaunchInfo.User" = "Käynnistämällä pienoissovelluksen hyväksyt [Telegramin pienoissovellusten käyttöehdot.](%@)";
 "BotInfo.OpenApp" = "Avaa sovellus";
 "BotUsername.Activate.Info" = "Näytetäänkö tämä linkki botin profiilisivulla?";
@@ -670,7 +670,7 @@
 "Business.ScheduleStart" = "Aikataulu alkaa";
 "Business.SelectPeers.Limit" = "Raja saavutettiin";
 "Business.SwitchAd" = "Älä piilota mainoksia";
-"Business.SwitchAd.Info" = "Et näe Premium-tilaajana Telegramin mainoksia, mutta voit ottaa ne käyttöön, jos haluat esimerkiksi nähdä mainoksia, jotka olet julkaissut [Telegramin mainosalustalla >](https://ads.telegram.org)";
+"Business.SwitchAd.Info" = "Et näe Premium-tilaajana Telegramin mainoksia, mutta voit ottaa ne käyttöön, jos haluat esimerkiksi nähdä mainoksia, jotka olet julkaissut [Telegramin mainosalustalla >](https://ads.whatsgram.org)";
 "Business.SwitchAd.Title" = "MAINOKSET KANAVILLA";
 "Business.Updated" = "Telegram Business on päivitetty";
 "CHAT_MESSAGE_INVOICE" = "%1$@ lähetti %3$@ laskun ryhmään %2$@";
@@ -1295,7 +1295,7 @@
 "ChannelReactions.EnableReactions" = "Salli reaktiot";
 "ChannelReactions.EnableReactions.Info" = "Voit lisätä reaktioiksi emojeita mistä tahansa kokoelmasta.";
 "ChannelReactions.EnableStars" = "Salli maksulliset reaktiot";
-"ChannelReactions.EnableStars.Info" = "Ota käyttöön, jos haluat tilaajasi voivan lisätä maksullisia reaktiota Telegram-tähdillään. Voit nostaa ne grameina. [Lue lisää >](https://telegram.org/tos/content-creator-rewards)";
+"ChannelReactions.EnableStars.Info" = "Ota käyttöön, jos haluat tilaajasi voivan lisätä maksullisia reaktiota Telegram-tähdillään. Voit nostaa ne grameina. [Lue lisää >](https://whatsgram.org/tos/content-creator-rewards)";
 "ChannelReactions.LevelRequired" = "Taso %d vaaditaan";
 "ChannelReactions.MaxCount.Info" = "Rajoittaa julkaisuihin lisättävien eri reaktioiden lukumäärää, myös vanhoilla julkaisuilla.";
 "ChannelReactions.MaxCount.Title" = "REAKTIOIDEN ENIMMÄISMÄÄRÄ";
@@ -1784,7 +1784,7 @@
 "Chat.ManageMessages.What_countable" = "%d";
 "Chat.Message.Ad.ReadMore" = "Lue lisää";
 "Chat.Message.Ad.Text" = "Telegram ei muiden sovellusten tavoin käytä yksityistä dataasi mainosten kohdentamiseen. Sponsoroitujen viestien näyttäminen perustuu julkisen kanavan aiheeseen. Käyttäjätietoja ei louhita tai analysoida mainosten näyttämiseksi, ja kaikki kanavaa katsovat näkevät samat sponsoroidut viestit.\n\nTelegram ei myöskään muiden sovellusten tavoin tarkkaile, napautatko sponsoroitua viestiä, eikä luo sinusta mainostusprofiilia. Estämme myös ulkopuoliset linkit, jotta käyttäjiämme ei voitaisi seurata. Periaatteisimme kuuluu, että jokaisella on oikeus yksityisyyteen, ja että verkkoalustojen tulisi kunnioittaa tätä oikeutta.\n\nTelegram tarjoaa ilmaisen ja rajattoman palvelun sadoille miljoonille, minkä takia palvelin- ja kaistakustannukset ovat merkittävät. Kehitimme maksullisen työkalun viestien mainostamiseen, jotta rahatilanteemme antaisi meidän pysyä riippumattomina sekä pitää periaatteistamme kiinni. Vastuulliset mainostajat ovat tervetulleita ottamaan meihin yhteyttä:\n\n%@\n\nSponsoroidut viestit ovat tällä hetkellä koekäytössä. Kun ne on otettu täysin käyttöön ja Telegram pystyy kattamaan kulunsa, alamme jakamaan mainostuloja sponsoroituja viestejä näyttävien julkisten kanavan omistajille.\n\nMainosten ei välttämättä tarvitse tarkoittaa käyttäjien yksityisyydensuojan rikkomista. Voimme yhdessä muuttaa teknologiayritysten toimintasääntöjä.";
-"Chat.Message.Ad.Url" = "https://ads.telegram.org";
+"Chat.Message.Ad.Url" = "https://ads.whatsgram.org";
 "Chat.Message.Context.Quote" = "Lainaus";
 "Chat.Message.Context.Quote.LimitExceed" = "Liian pitkä.";
 "Chat.Message.DeleteForAll" = "Poista kaikilta";
@@ -1830,7 +1830,7 @@
 "Chat.Message.Socks5.Config" = "SOCKS5-määrittely";
 "Chat.Message.Sponsored" = "mainos";
 "Chat.Message.Sponsored.Advertiser" = "Tietoja mainostajasta";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Mitä on viestien sponsorointi?";
 "Chat.Message.Suggest.Markup.Approve" = "Hyväksy";
 "Chat.Message.Suggest.Markup.Decline" = "Hylkää";
@@ -1844,7 +1844,7 @@
 "Chat.Message.Todo.Total" = "%1$@/%2$@ tehty";
 "Chat.Message.UnsendMessages" = "Poista kaikilta";
 "Chat.Message.UnsendMessages_countable" = "%d";
-"Chat.Message.Unsupported" = "Tätä viestiä ei tueta Telegram-versiossasi. Lataa viimeisin päivitys App Storesta tai osoitteesta https://macos.telegram.org";
+"Chat.Message.Unsupported" = "Tätä viestiä ei tueta Telegram-versiossasi. Lataa viimeisin päivitys App Storesta tai osoitteesta https://macos.whatsgram.org";
 "Chat.Message.UnsupportedNew" = "Telegram-versiosi ei tue tätä viestiä. Päivitä uusimpaan versioon.";
 "Chat.Message.Via" = "botilla";
 "Chat.Message.ViewBot" = "NÄYTÄ BOTTI";
@@ -2553,8 +2553,8 @@
 "ChatList.FolderUpdates.Title#one" = "%d uusi keskustelu saatavilla";
 "ChatList.FolderUpdates.Title#other" = "%d uutta keskustelua saatavilla";
 "ChatList.FolderUpdates.Title_countable" = "%d";
-"ChatList.FreezeAccount" = "Tilisi on jäädytetty, koska olet vakavasti rikkonut [Telegramin käyttöehtoja](https://telegram.org/tos). Tilisi sisältöä voi vain lukea (%1$@ lähtien). Jos kyseessä on sinusta erehdys, voit valittaa päätöksestä [@SpamBot](%2$@)-botille. Jos et vastaa %3$@ mennessä, tilisi poistetaan kokonaan käytöstä pysyvästi.";
-"ChatList.FreezeAccount.Alert" = "Tilisi on jäädytetty, koska olet vakavasti rikkonut [Telegramin käyttöehtoja](https://telegram.org/tos). Tilisi sisältöä voi vain lukea (%1$@ lähtien). Jos kyseessä on sinusta erehdys, voit valittaa päätöksestä [@SpamBot](%2$@)-botille. Jos et vastaa %3$@ mennessä, tilisi poistetaan kokonaan käytöstä pysyvästi.";
+"ChatList.FreezeAccount" = "Tilisi on jäädytetty, koska olet vakavasti rikkonut [Telegramin käyttöehtoja](https://whatsgram.org/tos). Tilisi sisältöä voi vain lukea (%1$@ lähtien). Jos kyseessä on sinusta erehdys, voit valittaa päätöksestä [@SpamBot](%2$@)-botille. Jos et vastaa %3$@ mennessä, tilisi poistetaan kokonaan käytöstä pysyvästi.";
+"ChatList.FreezeAccount.Alert" = "Tilisi on jäädytetty, koska olet vakavasti rikkonut [Telegramin käyttöehtoja](https://whatsgram.org/tos). Tilisi sisältöä voi vain lukea (%1$@ lähtien). Jos kyseessä on sinusta erehdys, voit valittaa päätöksestä [@SpamBot](%2$@)-botille. Jos et vastaa %3$@ mennessä, tilisi poistetaan kokonaan käytöstä pysyvästi.";
 "ChatList.FreezeAccount.Alert.Appeal" = "Valita";
 "ChatList.FreezeAccount.Alert.Title" = "Tilisi on jäädytetty";
 "ChatList.FreezeAccount.Title" = "Tilisi on jäädytetty";
@@ -2670,7 +2670,7 @@
 "ChatMessage.Sponsored.About" = "Tietoja mainoksesta";
 "ChatMessage.Sponsored.Report" = "Ilmianna mainos";
 "ChatMessage.Sponsored.Report.Aready" = "Mainos on jo ilmiannettu";
-"ChatMessage.Sponsored.Report.LearnMore" = "Lue lisää [Telegramin mainoskäytännöistä ja -ehdoista](https://ads.telegram.org/guidelines).";
+"ChatMessage.Sponsored.Report.LearnMore" = "Lue lisää [Telegramin mainoskäytännöistä ja -ehdoista](https://ads.whatsgram.org/guidelines).";
 "ChatMessage.Sponsored.Report.OptionTitle" = "MITÄ TÄSSÄ MAINOKSESSA ON VIALLA?";
 "ChatMessage.Sponsored.Report.Success" = "Telegramin valvojat lukevat ilmiantosi. Kiitos.";
 "ChatMessage.Sponsored.Title" = "Mainos";
@@ -3619,7 +3619,7 @@
 "ForwardModalAction.description#one" = "Välitä henkilön %@ viesti valitsemalla vastaanottaja tai keskustelu";
 "ForwardModalAction.description#other" = "Välitä henkilön %@ viestit valitsemalla vastaanottaja tai keskustelu";
 "ForwardModalAction.description_countable" = "%d %@";
-"Fragment.AdsInfo.Block.Text" = "Kuka tahansa voi esittää tällä kanavalla mainoksia – vähilläkin varoilla. **Telegramin mainosalusta** tekee siitä mahdollista. [Lue lisää >](https://ads.telegram.org)";
+"Fragment.AdsInfo.Block.Text" = "Kuka tahansa voi esittää tällä kanavalla mainoksia – vähilläkin varoilla. **Telegramin mainosalusta** tekee siitä mahdollista. [Lue lisää >](https://ads.whatsgram.org)";
 "Fragment.AdsInfo.Block.Title" = "Voinko esittää mainoksen?";
 "Fragment.AdsInfo.OK" = "Ymmärrän";
 "Fragment.AdsInfo.Option1.Info" = "Telegramin mainokset eivät käytä henkilökohtaisia tietojasi ja perustuvat pelkästään katselemaasi kanavaan.";
@@ -3872,9 +3872,9 @@
 "Gift.Upgrade.Unique.Title" = "Uniikki";
 "Gift.Upgrade.Upgrade" = "Muunna";
 "Gift.View.DisplayedInfoHide" = "Lahja näkyy profiilissasi. [Piilota >]()";
-"Gift.View.KeepOrConvertDescription.Channel" = "Kanava voi lisätä lahjan profiiliinsa tai muuntaa sen %@. [Lisätietoa tähdistä >](https://telegram.org)";
+"Gift.View.KeepOrConvertDescription.Channel" = "Kanava voi lisätä lahjan profiiliinsa tai muuntaa sen %@. [Lisätietoa tähdistä >](https://whatsgram.org)";
 "Gift.View.KeepUpgradeOrConvertDescription" = "Voit pitää tämän lahjan, muuntaa sen tai myydä sen (hinta: %@). [Lisätietoa tähdistä >]()";
-"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "Kanava voi pitää tämän lahjan, muuntaa sen tai myydä sen (hinta: %@). [Lisätietoa tähdistä >](https://telegram.org)";
+"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "Kanava voi pitää tämän lahjan, muuntaa sen tai myydä sen (hinta: %@). [Lisätietoa tähdistä >](https://whatsgram.org)";
 "Gift.View.Status" = "Tila";
 "Gift.View.Status.NonUnique" = "Ei uniikki";
 "Gift.View.Status.Upgrade" = "muunna";
@@ -4285,7 +4285,7 @@
 "InviteLink.Sticker.Revoked" = "• mitätöity";
 "InviteLink.Sticker.TimeLeft" = "erääntyy (%@)";
 "InviteLink.Sub.Amount.Placeholder" = "Tähtiä kuussa";
-"InviteLink.Sub.Info" = "Vaatii kuukausittaisen tilauksen heiltä, jotka liittyvät kanavalle tällä linkillä. [Lue lisää](https://telegram.org/tos/stars)";
+"InviteLink.Sub.Info" = "Vaatii kuukausittaisen tilauksen heiltä, jotka liittyvät kanavalle tällä linkillä. [Lue lisää](https://whatsgram.org/tos/stars)";
 "InviteLink.Sub.Info.Editing" = "Jos haluat muuttaa tilaushintaa, luo uusi kutsulinkki, jossa on eri hinta.";
 "InviteLink.Sub.ReqApproval" = "Linkki voi vaatia vain valvojan hyväksynnän tai kuukausimaksun, ei molempia.";
 "InviteLink.Sub.Text" = "Vaadi kuukausittainen tilaus";
@@ -4645,9 +4645,9 @@
 "Modal.Share" = "Jaa";
 "Modal.Yes" = "KYLLÄ";
 "Monetization.AdRevenueTitle" = "MAINOSPALKKIOT";
-"Monetization.Balance.ComingLaterInfo" = "Tulevien viikkojen aikana voit alkaa keräämään tuloja Fragmentin kautta. Se on kolmannen puolen alusta, jolla mainostajat voivat maksaa mainonnasta. [Käyttöehdot >](https://telegram.org/tos/content-creator-rewards)";
-"Monetization.BalanceInfo" = "Voit alkaa keräämään tuloja Fragmentin kautta. Se on kolmannen puolen alusta, jolla mainostajat voivat maksaa mainonnasta. [Käyttöehdot >](https://telegram.org/tos/content-creator-rewards)";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.Balance.ComingLaterInfo" = "Tulevien viikkojen aikana voit alkaa keräämään tuloja Fragmentin kautta. Se on kolmannen puolen alusta, jolla mainostajat voivat maksaa mainonnasta. [Käyttöehdot >](https://whatsgram.org/tos/content-creator-rewards)";
+"Monetization.BalanceInfo" = "Voit alkaa keräämään tuloja Fragmentin kautta. Se on kolmannen puolen alusta, jolla mainostajat voivat maksaa mainonnasta. [Käyttöehdot >](https://whatsgram.org/tos/content-creator-rewards)";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceTitle" = "PALKKIOT";
 "Monetization.BalanceWithdraw" = "Lunasta Fragmentilla";
 "Monetization.BalanceWithdraw.Stars" = "Nosta Fragmentilla";
@@ -4657,7 +4657,7 @@
 "Monetization.ImpressionsTitle" = "MAINOSNÄKVYYS (TUNNEITTAIN)";
 "Monetization.Intro.Ads.Text" = "Telegram voi näyttää kanavallasi mainoksia.";
 "Monetization.Intro.Ads.Title" = "Telegramin mainokset";
-"Monetization.Intro.Info.Text" = "Gram on TON-lohkoketjualustan kryptovaluutta, jota Telegram käyttää, koska se on nopea ja sen siirtomaksut ovat alhaiset. [Lue lisää >](https://telegram.org/blog/monetization-for-channels)";
+"Monetization.Intro.Info.Text" = "Gram on TON-lohkoketjualustan kryptovaluutta, jota Telegram käyttää, koska se on nopea ja sen siirtomaksut ovat alhaiset. [Lue lisää >](https://whatsgram.org/blog/monetization-for-channels)";
 "Monetization.Intro.Info.Title" = "Mikä on %@ gram?";
 "Monetization.Intro.Split.Text" = "Saat 50%@ mainospalkkioista grameina.";
 "Monetization.Intro.Split.Title" = "50:50 tulojen jako";
@@ -4671,7 +4671,7 @@
 "Monetization.Overview.Current" = "Palkkiot sitten viime lunastuksen";
 "Monetization.Overview.Total" = "Palkkiot yhteensä koko ajalta";
 "Monetization.OverviewTitle" = "PALKKIOIDEN YLEISKATSAUS";
-"Monetization.Stars.WithdrawInfo" = "Voit lunastaa tähtiä Fragmentilla tai mainostaa niillä bottiasi. [Lue lisää >](https://telegram.org/tos/bot-developers#6-2-2-tpa-balance)";
+"Monetization.Stars.WithdrawInfo" = "Voit lunastaa tähtiä Fragmentilla tai mainostaa niillä bottiasi. [Lue lisää >](https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance)";
 "Monetization.Stars.WithdrawTitle" = "TÄHTISALDO";
 "Monetization.SwitchOffAds" = "Poista mainokset käytöstä";
 "Monetization.SwitchOffAdsInfo" = "Jos poistat mainokset käytöstä, et voi saada niistä tuloja.";
@@ -4952,7 +4952,7 @@
 "PHONE_NUMBER_INVALID" = "Virheellinen puhelinnumero. Yritä uudelleen.";
 "PINNED_INVOICE" = "%1$@ kiinnitti laskun";
 "PaidMedia.Header" = "SYÖTÄ AVAUSMAKSU";
-"PaidMedia.Info" = "Käyttäjien tulee siirtää valitsemasi määrä Telegram-tähtiä kanavallesi katsellaksesi mediaa. [Lisätietoa tähdistä >](https://telegram.org/blog/telegram-stars)";
+"PaidMedia.Info" = "Käyttäjien tulee siirtää valitsemasi määrä Telegram-tähtiä kanavallesi katsellaksesi mediaa. [Lisätietoa tähdistä >](https://whatsgram.org/blog/telegram-stars)";
 "PaidMedia.Ok" = "Tee mediasta maksullinen";
 "PaidMedia.Placeholder" = "Hinta tähdissä";
 "PaidMedia.Status.Purchased" = "Ostettu";
@@ -5383,7 +5383,7 @@
 "PeerInfo.VerificationInfo.Bot" = "Telegram on vahvistanut tämän botin.";
 "PeerInfo.VerificationInfo.Channel" = "Telegram on vahvistanut tämän kanavan.";
 "PeerInfo.VerificationInfo.Group" = "Telegram on vahvistanut tämän ryhmän.";
-"PeerInfo.VerificationInfo.URL" = "https://telegram.org/verify";
+"PeerInfo.VerificationInfo.URL" = "https://whatsgram.org/verify";
 "PeerInfo.Verified" = "%@ Telegramin edustajat ovat vahvistaneet tämän botin viralliseksi.";
 "PeerInfo.Verified.Tooltip" = "Vahvistettu tili";
 "PeerInfo.VerifyAccounts" = "Vahvista tilejä";
@@ -6932,7 +6932,7 @@
 "Star.List.StarsNeeded_countable" = "%d";
 "Star.List.TelegramStars" = "Telegram-tähdet";
 "Star.List.TopUp" = "Tähtien osto";
-"Star.List.Tos" = "Ostamalla tähtiä hyväksyt [käyttöehdot](https://telegram.org/tos/stars).";
+"Star.List.Tos" = "Ostamalla tähtiä hyväksyt [käyttöehdot](https://whatsgram.org/tos/stars).";
 "Star.List.Transaction.Ads" = "Mainosalusta";
 "Star.List.Transaction.AppStore" = "App Store";
 "Star.List.Transaction.Fragment" = "Fragment";
@@ -7016,7 +7016,7 @@
 "Star.Transaction.Availability.Of" = "%1$d/%2$@";
 "Star.Transaction.Availability.OfLeft" = "%1$@/%2$@ jäljellä";
 "Star.Transaction.Availability.OfText" = "%1$@ / %2$@";
-"Star.Transaction.BotTos" = "Tilaamalla hyväksyt [käyttöehdot](https://telegram.org)";
+"Star.Transaction.BotTos" = "Tilaamalla hyväksyt [käyttöehdot](https://whatsgram.org)";
 "Star.Transaction.BroadcastMessages#one" = "%d viesti";
 "Star.Transaction.BroadcastMessages#other" = "%d viestiä";
 "Star.Transaction.BroadcastMessages_countable" = "%d";
@@ -7069,7 +7069,7 @@
 "Star.Transaction.StarGift.ShownInProfile" = "Lahja näkyy profiilissasi. [Piilota >](hide)";
 "Star.Transaction.To" = "Saaja";
 "Star.Transaction.Ton.Description" = "Grameilla voit ostaa lahjoja ja ehdottaa viestejäsi kanaville.";
-"Star.Transaction.Tos" = "Tarkista tähtien [käyttöehdot](https://telegram.org/tos/stars).";
+"Star.Transaction.Tos" = "Tarkista tähtien [käyttöehdot](https://whatsgram.org/tos/stars).";
 "Star.Transaction.TransactionUrl" = "Verkko-osoite siirtoon";
 "Star.Transaction.UnknwonUser" = "[Tuntematon käyttäjä](https://fragment.com/stars)";
 "Star.Transaction.Value" = "Arvo";
@@ -7175,7 +7175,7 @@
 "StarGift.ViewAllVariants" = "%1$@ Näytä kaikki muunnelmat >";
 "StarGiftNft.ResaleMinPriceInfo" = "Tätä valintaa voi käyttää vain lahjoille, joiden hinta on yli %1$@.";
 "StarList.Ton" = "Gramia";
-"StarList.Ton.Withdraw.Info" = "Voit kerätä gramisi Fragmentilla. [Lue lisää >](telegram.org)";
+"StarList.Ton.Withdraw.Info" = "Voit kerätä gramisi Fragmentilla. [Lue lisää >](whatsgram.org)";
 "StarList.TonInfo" = "Voit tarjota grameja julkaistaksesi viestejäsi Telegram-kanavilla.";
 "StarTransaction.GiftRefundedInfo" = "Tämä lahja muunnettiin takaisin, koska saimme pyynnön evätä lahjan maksu, ja rahat palautettiin.";
 "Stars.Balance.BuyAds" = "Mainosta";
@@ -7227,7 +7227,7 @@
 "Stars.Purchase.Subscribe.Success" = "Tilasit kanavan **%@**";
 "Stars.Purchase.UpgradeStarGiftInfo" = "Osta tähtiä muuntaaksesi lahjan uniikiksi keräilyesineeksi.";
 "Stars.ReactScreen.Anonymous" = "Anonyymi";
-"Stars.ReactScreen.Footer" = "Lähettämällä tähtiä hyväksyt [käyttöehdot](https://telegram.org/tos/stars).";
+"Stars.ReactScreen.Footer" = "Lähettämällä tähtiä hyväksyt [käyttöehdot](https://whatsgram.org/tos/stars).";
 "Stars.ReactScreen.Info" = "Valitse, montako tähteä **%@** saa sinulta tukena tälle viestille.";
 "Stars.ReactScreen.Send#one" = "Lähetä %@%d";
 "Stars.ReactScreen.Send#other" = "Lähetä %@%d";
@@ -8517,7 +8517,7 @@
 "WebBot.Account.Desclaimer.Desc" = "Botin **%@** pikakuvakkeet lisätään liitevalikkoon ja asetuksiin.";
 "WebBot.Account.Disclaimer.OK" = "Jatka";
 "WebBot.Account.Disclaimer.Text" = "Olet ryhtymässä käyttämään pienoissovellusta. Sitä ylläpitää taho, jolla **ei ole kytköksiä Telegramiin**. Sinun tulee hyväksyä pienoissovellusten käyttöehdot jatkaaksesi.";
-"WebBot.Account.Disclaimer.Third" = "Hyväksyn [käyttöehdot](https://telegram.org/tos/mini-apps)";
+"WebBot.Account.Disclaimer.Third" = "Hyväksyn [käyttöehdot](https://whatsgram.org/tos/mini-apps)";
 "WebBot.Account.Disclaimer.Title" = "Käyttöehdot";
 "WebBrowser.Error" = "**Valitettavasti jokin meni pieleen.**\nYritä myöhemmin uudelleen.";
 "WebBrowser.InstantView" = "Pikakatselu";
@@ -8606,14 +8606,14 @@
 "psa.chat.alert.learnmore" = "Lue lisää";
 "psa.chat.alert.learnmore.covid" = "Lue lisää";
 "psa.chat.alert.learnmore.psa" = "Lue lisää";
-"psa.chat.text.covid" = "Tämä viesti tarjoaa sinulle julkisen tiedotuksen tämänhetkisen COVID-19-pandemian suhteen. Lue lisää aloitteesta täältä: https://telegram.org/blog/coronavirus";
+"psa.chat.text.covid" = "Tämä viesti tarjoaa sinulle julkisen tiedotuksen tämänhetkisen COVID-19-pandemian suhteen. Lue lisää aloitteesta täältä: https://whatsgram.org/blog/coronavirus";
 "psa.chat.text.psa" = "Tämä on virallinen viesti Telegramin toimitusjohtajalta nykyiseen aseelliseen yhteenottoon liittyen.";
 "psa.chat.title" = "Julkinen tiedotus";
 "psa.chatlist" = "Tiedotus";
 "psa.chatlist.covid" = "COVID-19";
 "psa.chatlist.psa" = "Tiedotus";
 "psa.text" = "Tämä viesti sisältää julkisen tiedotuksen, joka näytetään keskustelulistassasi";
-"psa.text.covid" = "Tämä viesti tarjoaa sinulle julkisen tiedotuksen tämänhetkisen COVID-19-pandemian suhteen. Lue lisää aloitteesta täältä: https://telegram.org/blog/coronavirus";
+"psa.text.covid" = "Tämä viesti tarjoaa sinulle julkisen tiedotuksen tämänhetkisen COVID-19-pandemian suhteen. Lue lisää aloitteesta täältä: https://whatsgram.org/blog/coronavirus";
 "psa.text.psa" = "Tämä on virallinen viesti Telegramin toimitusjohtajalta nykyiseen aseelliseen yhteenottoon liittyen.";
 "psa.title" = "Julkinen tiedotus";
 "psa.title.bubbles" = "Julkinen tiedotus\nlähde: [%@]()";

@@ -52,7 +52,7 @@
 "AdsInfo.Ads.Title" = "Olib tashlash mumkin";
 "AdsInfo.Info" = "Telegram Reklama boshqa platformalardagi reklamadan ancha farq qiladi. Masalan:";
 "AdsInfo.Launch.Text" = "Har kim minimal budjet bilan bu kanalda chiqarish uchun reklama yaratishi mumkin. Tafsilotlar uchun Telegram Reklama platformasi bilan tanishing. [Batafsil >]()";
-"AdsInfo.Launch.Text_URL" = "https://ads.telegram.org";
+"AdsInfo.Launch.Text_URL" = "https://ads.whatsgram.org";
 "AdsInfo.Launch.Title" = "Reklama ishga tushirishim mumkinmi?";
 "AdsInfo.Respect.Text" = "Telegramdagi reklamalar shaxsiy axborotlaringizdan foydalanmaydi va siz ularni koʻradigan kanalga asoslanadi.";
 "AdsInfo.Respect.Title" = "Maxfiyligingizni hurmat qilish";
@@ -69,7 +69,7 @@
 "AffiliateProgram.DurationLifetime" = "Muddatsiz";
 "AffiliateProgram.JoinSubtitleYears#one" = "**{bot}** siz taklif qilgan har bir foydalanuvchidan olingan daromadning **{commission}** qismini **1 yil** davomida ulashadi.";
 "AffiliateProgram.JoinSubtitleYears#other" = "**{bot}** siz taklif qilgan har bir foydalanuvchidan olingan daromadning **{commission}** qismini **%d yil** davomida ulashadi.";
-"AffiliateProgram.JoinTerms" = "Bu dasturga qoʻshilish orqali Hamkorlik dasturlarining [shartlar va qoidalariga](https://telegram.org/tos/affiliate-program) rozilik bildirasiz.";
+"AffiliateProgram.JoinTerms" = "Bu dasturga qoʻshilish orqali Hamkorlik dasturlarining [shartlar va qoidalariga](https://whatsgram.org/tos/affiliate-program) rozilik bildirasiz.";
 "AffiliateProgram.JoinTitle" = "Hamkorlik dasturi";
 "AffiliateProgram.LinkTitle" = "Referal havolasi";
 "AffiliateProgram.PeerTypeSelf" = "shaxsiy hisob";
@@ -125,7 +125,7 @@
 "AffiliateSetup.SortSectionHeader.Date" = "[SANA]() ASOSIDA SARALASH";
 "AffiliateSetup.StartTitle" = "Hamkorlik dasturini boshlash";
 "AffiliateSetup.SuggestedSectionTitle" = "DASTURLAR";
-"AffiliateSetup.TermsFooter" = "Hamkorlik dasturini yaratish orqali Hamkorlik dasturlarining [shartlar va qoidalariga](https://telegram.org/terms) rozilik bildirasiz.";
+"AffiliateSetup.TermsFooter" = "Hamkorlik dasturini yaratish orqali Hamkorlik dasturlarining [shartlar va qoidalariga](https://whatsgram.org/terms) rozilik bildirasiz.";
 "AffiliateSetup.TextJoin" = "Tavsiya havolangiz orqali mini ilovaga birinchi marta kirgan foydalanuvchi uning ichida **yulduzlar** sarflagan har safar komissiya ishlab toping.";
 "AffiliateSetup.TextNew" = "Foydalanuvchilar bazangizni oshirishga yordam berganlarni mukofotlang.";
 "AffiliateSetup.TitleJoin" = "Hamkorlik dasturlari";
@@ -413,11 +413,11 @@
 "AuthSessions.AddDevice" = "QR kodni skanerlash";
 "AuthSessions.AddDevice.InvalidQRCode" = "QR kod xato";
 "AuthSessions.AddDevice.ScanInfo" = "Boshqa qurilmada ushbu hisobga\nkirish uchun QR kodni skanerlang.";
-"AuthSessions.AddDevice.ScanInstallInfo" = "QR kodni olish uchun [getdesktop.telegram.org](desktop) yoki [web.telegram.org](web) manziliga kiring";
+"AuthSessions.AddDevice.ScanInstallInfo" = "QR kodni olish uchun [getdesktop.whatsgram.org](desktop) yoki [web.whatsgram.org](web) manziliga kiring";
 "AuthSessions.AddDevice.ScanTitle" = "QR kodni skanerlash";
 "AuthSessions.AddDevice.UrlLoginHint" = "Bu kod kimningdir Telegram hisobingizga kirishiga ruxsat berish uchun ishlatilishi mumkin.\n\nTelegram hisobiga kirishni tasdiqlash uchun Sozlamalar > Qurilmalar > Desktop qurilmasini ulash rukniga kiring va kodni skanerlang.";
 "AuthSessions.AddDeviceIntro.Action" = "QR kodni skanerlash";
-"AuthSessions.AddDeviceIntro.Text1" = "Telegramni kompyuteringizda [desktop.telegram.org]() saytidan yuklab oling.";
+"AuthSessions.AddDeviceIntro.Text1" = "Telegramni kompyuteringizda [desktop.whatsgram.org]() saytidan yuklab oling.";
 "AuthSessions.AddDeviceIntro.Text2" = "QR kodni olish uchun kompyuteringizda Telegramni ishga tushiring";
 "AuthSessions.AddDeviceIntro.Text3" = "Hisobingizni ulash uchun QR kodni skanerlang";
 "AuthSessions.AddDeviceIntro.Title" = "QR kod orqali kirish";
@@ -797,7 +797,7 @@
 "Business.AddPost" = "Post qoʻshish";
 "Business.AddPostInfo" = "Sahifangizga mahsulot yoki xizmatlaringiz rasm va videolarini joylang.";
 "Business.AdsInfo" = "Premium obunachi sifatida Telegramda hech qanday reklamalarni koʻrmaysiz, lekin ularni yoqishingiz mumkin, masalan, [Telegram Reklamalar platformasida >]() ishga tushirgan oʻz reklamalaringizni koʻrish uchun";
-"Business.AdsInfo_URL" = "https://ads.telegram.org";
+"Business.AdsInfo_URL" = "https://ads.whatsgram.org";
 "Business.AdsTitle" = "KANALLARDAGI REKLAMALAR";
 "Business.AwayMessages" = "“Joyida emas” xabarlari";
 "Business.AwayMessagesInfo" = "Ishda emasligingizda avtomatik yuboriladigan xabarlar.";
@@ -2300,7 +2300,7 @@
 "Chat.PrivateMessageSeenTimestamp.Date" = "%@ da oʻqigan";
 "Chat.PrivateMessageSeenTimestamp.TodayAt" = "bugun %@ da oʻqigan";
 "Chat.PrivateMessageSeenTimestamp.YesterdayAt" = "kecha %@ da oʻqigan";
-"Chat.PsaTooltip.covid" = "Bu xabar davom etayotgan COVID-19 pandemiyasi bilan bog‘liq davlat xizmatlari e’lonlarini taqdim etadi.\nBu tashabbus tafsilotlari shu yerda: https://telegram.org/blog/coronavirus";
+"Chat.PsaTooltip.covid" = "Bu xabar davom etayotgan COVID-19 pandemiyasi bilan bog‘liq davlat xizmatlari e’lonlarini taqdim etadi.\nBu tashabbus tafsilotlari shu yerda: https://whatsgram.org/blog/coronavirus";
 "Chat.PsaTooltip.psa" = "Bu davom etayotgan mojaro yuzasidan Telegram rahbarining rasmiy xabaridir.";
 "Chat.QuickReply.ServiceHeader1" = "Tezkor javobni tahrirlash yoki oʻchirish uchun uni bosib turing.";
 "Chat.QuickReply.ServiceHeader2" = "Chatda ushbu tezkor javobdan foydalanish uchun / belgisini kiriting va roʻyxatdan qisqa buyruqni tanlang.";
@@ -2675,7 +2675,7 @@
 "ChatList.PremiumRestoreDiscountTitle" = "Premiumni %@ gacha chegirma bilan qayta oling";
 "ChatList.PremiumXmasGiftText" = "Doʻstlarga cheklangan nashrdagi kolleksion hadyalar yuboring!";
 "ChatList.PremiumXmasGiftTitle" = "👑 Snup Doggdan hadya dropi 🎁";
-"ChatList.PsaAlert.covid" = "Bu xabar davom etayotgan COVID-19 pandemiyasi bilan bogʻliq davlat xizmatlari eʼlonlarini taqdim etadi.\nBu tashabbus tafsilotlarini bilish uchun quyidagi manzilga kiring: https://telegram.org/blog/coronavirus";
+"ChatList.PsaAlert.covid" = "Bu xabar davom etayotgan COVID-19 pandemiyasi bilan bogʻliq davlat xizmatlari eʼlonlarini taqdim etadi.\nBu tashabbus tafsilotlarini bilish uchun quyidagi manzilga kiring: https://whatsgram.org/blog/coronavirus";
 "ChatList.PsaAlert.psa" = "Bu davom etayotgan mojaro yuzasidan Telegram rahbarining rasmiy xabaridir.";
 "ChatList.PsaLabel.covid" = "COVID-19";
 "ChatList.PsaLabel.psa" = "Eʼlon";
@@ -2933,7 +2933,7 @@
 "ChatbotSetup.SetupNotCompleted.Text" = "Hisobingizni boshqarish uchun bot qoʻshmadingiz. Baribir chiqasizmi?";
 "ChatbotSetup.SetupNotCompleted.Title" = "Hech qanday bot qoʻshilmagan";
 "ChatbotSetup.Text" = "Hisobingizga siz oladigan xabarlarni avtomatik qayta ishlaydigan va ularga javob beradigan bot qoʻshing. [Batafsil >]()";
-"ChatbotSetup.TextLink" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
+"ChatbotSetup.TextLink" = "https://whatsgram.org/blog/telegram-business#chatbots-for-business";
 "ChatbotSetup.Title" = "Tez kunda";
 "ChatbotSetup.TitleItem" = "Chatlarni avtomatlashtirish";
 "Checkout.Email" = "Email";
@@ -3752,7 +3752,7 @@
 "Conversation.Unpin" = "Yechib olish";
 "Conversation.UnpinMessageAlert" = "Bu xabarni olib tashlashni xohlaysizmi?";
 "Conversation.UnreadMessages" = "Oʻqilmagan xabarlar";
-"Conversation.UnsupportedMedia" = "Bu xabarni Telegram versiyangiz qoʻllab-quvvatlamaydi. Uni ochish uchun ilovani yangilang: https://telegram.org/update";
+"Conversation.UnsupportedMedia" = "Bu xabarni Telegram versiyangiz qoʻllab-quvvatlamaydi. Uni ochish uchun ilovani yangilang: https://whatsgram.org/update";
 "Conversation.UnsupportedMediaPlaceholder" = "Bu xabar Telegram versiyangizda dastaklanmaydi. Oxirgi versiyaga yangilang.";
 "Conversation.UnvotePoll" = "Ovozni bekor qilish";
 "Conversation.UpdateTelegram" = "TELEGRAMNI YANGILASH";
@@ -3933,7 +3933,7 @@
 "DeleteAccount.ConfirmationAlertText" = "Hisobingizni oʻchirsangiz, maʼlumotlaringiz butunlay oʻchirib tashlanadi!\n\nKeyin bu amalni bekor qilish imkonsiz!";
 "DeleteAccount.ConfirmationAlertTitle" = "Hisobingizni oʻchirishda davom etasizmi?";
 "DeleteAccount.Continue" = "Davom etish";
-"DeleteAccount.DeleteMessagesURL" = "https://telegram.org/faq#q-can-i-delete-my-messages";
+"DeleteAccount.DeleteMessagesURL" = "https://whatsgram.org/faq#q-can-i-delete-my-messages";
 "DeleteAccount.DeleteMyAccount" = "Hisobimni oʻchirish";
 "DeleteAccount.DeleteMyAccountTitle" = "Hisobimni oʻchirish";
 "DeleteAccount.EnterPassword" = "Parolingizni kiriting";
@@ -4168,7 +4168,7 @@
 "EmptyState.GreetingMessage.Title" = "Yangi salomlashuv xabari";
 "EnableSharing.SendRequest" = "Soʻrov yuborish";
 "EnableSharing.Title" = "Ulashishni yoqish";
-"EncryptionKey.Description" = "Bu rasm va matn %1$@ bilan maxfiy chat uchun shifrlash kalitidan olingan.\n\nAgar ular %2$@ning qurilmasidagi bilan bir xil koʻrinishga ega boʻlsa, ikki tomonlama shifrlash kafolatlanadi.\n\nTafsilotlar uchun telegram.org manziliga kiring";
+"EncryptionKey.Description" = "Bu rasm va matn %1$@ bilan maxfiy chat uchun shifrlash kalitidan olingan.\n\nAgar ular %2$@ning qurilmasidagi bilan bir xil koʻrinishga ega boʻlsa, ikki tomonlama shifrlash kafolatlanadi.\n\nTafsilotlar uchun whatsgram.org manziliga kiring";
 "EncryptionKey.Title" = "Shifrlash kaliti";
 "EnterPasscode.ChangeTitle" = "Kirish kodini oʻzgartirish";
 "EnterPasscode.EnterCurrentPasscode" = "Joriy kirish kodingizni kiriting";
@@ -4343,7 +4343,7 @@
 "FrozenAccount.Title" = "Hisobingiz muzlatildi";
 "FrozenAccount.Understood" = "Tushunarli";
 "FrozenAccount.Violation.Text" = "Hisobingiz Telegram shartlari va qoidalarini buzgani sababli muzlatildi.";
-"FrozenAccount.Violation.TextNew_URL" = "https://telegram.org/tos";
+"FrozenAccount.Violation.TextNew_URL" = "https://whatsgram.org/tos";
 "FrozenAccount.Violation.Title" = "Shartlarni buzish";
 "Gallery.Ad" = "Reklama";
 "Gallery.AirPlay" = "AirPlay";
@@ -5357,7 +5357,7 @@
 "InviteText.ContactsCountText#one" = "Salom, men Telegramdan muloqot qilish uchun foydalanmoqdaman. Menga qoʻshiling! Uni bu yerdan yuklab oling: {url}";
 "InviteText.ContactsCountText#other" = "Salom, men Telegramdan muloqot qilish uchun foydalanmoqdaman – %@ ta kontaktlarimiz kabi. Menga qoʻshiling! Uni bu yerdan yuklab oling: {url}";
 "InviteText.SingleContact" = "Salom, men Telegramdan foydalanyapman. Menga qoʻshiling! Uni bu yerdan yuklab oling: %@";
-"InviteText.URL" = "https://telegram.org/dl";
+"InviteText.URL" = "https://whatsgram.org/dl";
 "Items.NOfM" = "%2$@ dan %1$@";
 "Join.ChannelsTooMuch" = "Kechirasiz, siz juda koʻp guruh va kanallarga aʼzosiz. Yangisiga qoʻshilishdan oldin birortasini tark eting.";
 "KeyCommand.ChatInfo" = "Chat haqida";
@@ -5611,7 +5611,7 @@
 "Login.NewNumber" = "Yangi raqam";
 "Login.OpenFragment" = "Fragment saytini ochish";
 "Login.Or" = "yoki";
-"Login.PRIVACY_URL" = "https://telegram.org/privacy";
+"Login.PRIVACY_URL" = "https://whatsgram.org/privacy";
 "Login.PadPhoneHelp" = "Barcha qurilmalarda Telegram hisobiga kirish uchun asosiy telefon raqamingizdan foydalanishingiz mumkin.\nBu yerda iPad planshetingiz SIM kartasidan foydalanmang — biz sizga SMS yuborishimiz kerak.\n\nBu raqam toʻgʻrimi?\n{number}";
 "Login.PadPhoneHelpTitle" = "Telefon raqamingiz";
 "Login.Paste" = "Joylash";
@@ -6103,8 +6103,8 @@
 "Monetization.Balance.AvailableInfo" = "Mukofotingizni Fragment, reklama beruvchilar tomonidan reklamalarni toʻlash uchun ishlatiladigan tashqi platforma yordamida olishingiz mumkin. [Batafsil >]()";
 "Monetization.Balance.ComingLaterInfo" = "Kelgusi haftalarda siz reklama beruvchilar reklamalarga toʻlash uchun foydalanadigan uchinchi tomon platformasi Fragment yordamida mukofotingizni olishingiz mumkin boʻladi. [Batafsil >]()";
 "Monetization.Balance.StarsInfo" = "Fragment yordamida yulduzlarni yechib olishingiz yoki kanalingizni reklama qilish uchun Yulduzlardan foydalanishingiz mumkin. 1000 yulduzdan kam summani yechib ololmaysiz. [Batafsil >]()";
-"Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
-"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
+"Monetization.Balance.StarsInfo_URL" = "https://whatsgram.org/tos/stars";
+"Monetization.BalanceInfo_URL" = "https://whatsgram.org/tos/content-creator-rewards";
 "Monetization.BalanceStarsBuyAds" = "Reklama sotib olish";
 "Monetization.BalanceStarsWithdraw" = "Fragment orqali yechib olish";
 "Monetization.BalanceStarsWithdrawShort" = "Yechib olish";
@@ -6118,7 +6118,7 @@
 "Monetization.Intro.Ads.Text" = "Telegram kanalingizda reklama chiqarishi mumkin.";
 "Monetization.Intro.Ads.Title" = "Telegram Reklama";
 "Monetization.Intro.Info.Text" = "TON – bu yuqori tezlik va tranzaksiyalardagi past komissiyalar uchun Telegram foydalanadigan blokcheyn platformasi va kriptovalyutadir. [Batafsil >]()";
-"Monetization.Intro.Info.Text_URL" = "https://telegram.org/blog/monetization-for-channels/uz";
+"Monetization.Intro.Info.Text_URL" = "https://whatsgram.org/blog/monetization-for-channels/uz";
 "Monetization.Intro.Info.Title" = "#TON nima?";
 "Monetization.Intro.Split.Text" = "Reklama daromadining 50% qismini mukofot sifatida TONda olishingiz mumkin.";
 "Monetization.Intro.Split.Title" = "Daromadni 50/50 taqsimlash";
@@ -7340,7 +7340,7 @@
 "Passport.Identity.TypePassportUploadScan" = "Pasportingiz skaner variantini yuklang";
 "Passport.Identity.TypePersonalDetails" = "Shaxsiy maʼlumotlar";
 "Passport.Identity.UploadOneOfScan" = "%@ skanerlangan variantini yuklang";
-"Passport.InfoFAQ_URL" = "https://telegram.org/faq#passport";
+"Passport.InfoFAQ_URL" = "https://whatsgram.org/faq#passport";
 "Passport.InfoLearnMore" = "Batafsil bilish";
 "Passport.InfoText" = "**Telegram Passport** yordamida shaxsni tasdiqlashni talab qiladigan veb-saytlar va xizmatlarda osonlik bilan hisobingizga kirishingiz mumkin.\n\nAxborotlar, shaxsiy maʼlumotlar va hujjatlaringiz boshidan oxirigacha shifrlash bilan himoyalanadi. Hech kim, jumladan, Telegram ruxsatingizsiz ulardan foydalana olmaydi.";
 "Passport.InfoTitle" = "Telegram Passport nima?";
@@ -7448,10 +7448,10 @@
 "PeerInfo.AllowedReactions.OptionSomeReactions" = "Ayrim reaksiyalar";
 "PeerInfo.AllowedReactions.ReactionListHeader" = "MAVJUD REAKSIYALAR";
 "PeerInfo.AllowedReactions.StarReactions" = "Pulli reaksiyalarni yoqish";
-"PeerInfo.AllowedReactions.StarReactionsFooter" = "Obunachilaringizga Telegram Yulduzlar bilan postlarga reaksiya bildirish imkonini berish uchun buni yoqing, ularni TON sifatida yechib olishingiz mumkin. [Batafsil >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
+"PeerInfo.AllowedReactions.StarReactionsFooter" = "Obunachilaringizga Telegram Yulduzlar bilan postlarga reaksiya bildirish imkonini berish uchun buni yoqing, ularni TON sifatida yechib olishingiz mumkin. [Batafsil >](https://whatsgram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "PeerInfo.AllowedReactions.Title" = "Reaksiyalar";
-"PeerInfo.AppFooter" = "Bu mini ilovani ishga tushirish orqali [Mini ilovalar uchun Xizmat shartlariga](https://telegram.org/tos/mini-apps) rozilik bildirasiz.";
-"PeerInfo.AppFooterAdmin" = "Bu mini ilovani nashr qilish orqali [Dasturchilar uchun Telegram Xizmat shartlariga](https://telegram.org/tos/bot-developers) rozilik bildirasiz.";
+"PeerInfo.AppFooter" = "Bu mini ilovani ishga tushirish orqali [Mini ilovalar uchun Xizmat shartlariga](https://whatsgram.org/tos/mini-apps) rozilik bildirasiz.";
+"PeerInfo.AppFooterAdmin" = "Bu mini ilovani nashr qilish orqali [Dasturchilar uchun Telegram Xizmat shartlariga](https://whatsgram.org/tos/bot-developers) rozilik bildirasiz.";
 "PeerInfo.AutoDeleteDisable" = "Faolsizlantirish";
 "PeerInfo.AutoDeleteInfo" = "Bu chatda yuborilgan yangi xabarlarni muayyan vaqtdan keyin avtomatik oʻchirish.";
 "PeerInfo.AutoDeleteSettingOther" = "Boshqa...";
@@ -8467,7 +8467,7 @@
 "Report.Title.Message" = "Xabar haqida shikoyat";
 "Report.Title.Story" = "Hikoya haqida shikoyat qilish";
 "ReportAd.Help" = "[Telegram Reklama siyosati va qoidalari]() haqida batafsil.";
-"ReportAd.Help_URL" = "https://ads.telegram.org/guidelines";
+"ReportAd.Help_URL" = "https://ads.whatsgram.org/guidelines";
 "ReportAd.Title" = "Reklama haqida shikoyat";
 "ReportGroupLocation.Report" = "Shikoyat qilish";
 "ReportGroupLocation.Text" = "Guruh ushbu joylashuvga aloqasi boʻlmasa, bizga xabar bering.";
@@ -8669,7 +8669,7 @@
 "SendStarReactions.SendButtonTitle" = "# %@ yuborish";
 "SendStarReactions.ShowMyselfInTop" = "Meni top yuboruvchilarda koʻrsatish";
 "SendStarReactions.SliderTop" = "TOP";
-"SendStarReactions.TermsOfServiceFooter" = "Yulduzlar yuborish orqali siz [Xizmat shartlariga](https://telegram.org/tos/stars) rozilik bildirasiz.";
+"SendStarReactions.TermsOfServiceFooter" = "Yulduzlar yuborish orqali siz [Xizmat shartlariga](https://whatsgram.org/tos/stars) rozilik bildirasiz.";
 "SendStarReactions.TextGeneric" = "Bu postni dastaklash uchun **%@**ga nechta yulduz yuborishni tanlang.";
 "SendStarReactions.TextSentStars#one" = "Bu postni dastaklash uchun **1** yulduz yubordingiz.";
 "SendStarReactions.TextSentStars#other" = "Bu postni dastaklash uchun **%d** yulduz yubordingiz.";
@@ -8764,7 +8764,7 @@
 "Settings.FAQ" = "Telegram haqida savollar";
 "Settings.FAQ_Button" = "Javoblar";
 "Settings.FAQ_Intro" = "Iltimos, unutmang Telegram qoʻllab-quvvatlash xizmati faqat ko'ngillilar tomonidan amalga oshiriladi. Biz imkon qadar tezroq javob berishga harakat qilamiz, lekin bu biroz vaqt olishi mumkin.\n\nIltimos, Telegram KBS bilan tanishib chiqing. U yerda tez-tez beriladigan savollarga javob topishingiz mumkin.";
-"Settings.FAQ_URL" = "https://telegram.org/faq#general-questions";
+"Settings.FAQ_URL" = "https://whatsgram.org/faq#general-questions";
 "Settings.FrequentlyAskedQuestions" = "Savol-javoblar";
 "Settings.KeepPassword" = "Ha, albatta";
 "Settings.KeepPhoneNumber" = "%@ ni qoldirish";
@@ -8804,7 +8804,7 @@
 "Settings.Privacy.ReadTimePremiumActive" = "Telegram Premiumga obuna boʻlgansiz";
 "Settings.Privacy.ReadTimePremiumActiveFooter" = "Siz Telegram Premium obunachisi boʻlganingiz sababli siz oxirgi faollik va oʻqigan vaqtini sizga ulashayotgan barcha foydalanuvchilarning ushbu maʼlumotlarini koʻra olasiz – hatto oʻzingiznikini berkitgan boʻlsangiz ham.";
 "Settings.Privacy.ReadTimePremiumFooter" = "Agar Telegram Premiumga obuna boʻlsangiz, boshqa foydalanuvchilarning oxirgi faollik va oʻqigan vaqtini hatto siz ulardan oʻzingiznikini berkitsangiz ham koʻrasiz (agar ular buni maxsus cheklamagan boʻlsa).";
-"Settings.PrivacyPolicy_URL" = "https://telegram.org/privacy";
+"Settings.PrivacyPolicy_URL" = "https://whatsgram.org/privacy";
 "Settings.PrivacySettings" = "Maxfiylik va xavfsizlik";
 "Settings.Proxy" = "Proksi";
 "Settings.ProxyConnected" = "Ulangan";
@@ -8841,7 +8841,7 @@
 "Settings.SuggestSetupPasswordText" = "Har safar ushbu telefon raqamingiz bilan kirganingizda talab qilinadigan parol sozlang.";
 "Settings.SuggestSetupPasswordTitle" = "Hisobingizni himoyalang";
 "Settings.Support" = "Savol berish";
-"Settings.Terms_URL" = "https://telegram.org/tos";
+"Settings.Terms_URL" = "https://whatsgram.org/tos";
 "Settings.Tips" = "Telegram funksiyalari";
 "Settings.TipsUsername" = "TelegramTips";
 "Settings.Title" = "Sozlamalar";
@@ -9102,10 +9102,10 @@
 "SocksProxySetup.Warning.Proceed" = "Davom etish";
 "SocksProxySetup.Warning.Title" = "Ogohlantirish";
 "SponsoredMessageInfo.Action" = "Batafsil";
-"SponsoredMessageInfo.ActionUrl" = "https://ads.telegram.org";
-"SponsoredMessageInfo.Text" = "https://telegram.org saytiga kiring";
-"SponsoredMessageInfo.Url" = "https://ads.telegram.org";
-"SponsoredMessageInfoScreen.MarkdownText" = "Boshqa ilovalardan farqli ravishda, Telegram reklamalarni yoʻnaltirish uchun shaxsiy maʼlumotlaringizdan foydalanmaydi. [Maxfiylik siyosatida batafsil bilib oling](https://telegram.org/privacy#5-6-no-ads-based-on-user-data)\n\nBoshqa ilovalardan farqli ravishda, Telegram reklama xabariga borgan yoki bosmaganingizni kuzatmaydi hamda harakatlaringizga asosan shaxsga doir hujjat yaratmaydi. Shuningdek, uchinchi tomonlar foydalanuvchilarimizga nisbatan josuslik qilmasligini taʼminlash uchun reklama xabarlarida tashqi havolalarni ochishdan oldin ogohlantiramiz. Biz har bir inson shaxsiy hayoti daxlsizligi huquqiga ega va onlayn platformalar buni hurmat qilishi kerak, deb hisoblaymiz.\n\nTelegram yuz millionlab foydalanuvchilarga server va trafik uchun katta xarajatlarni oʻz ichiga olgan bepul va cheksiz xizmatni taklif qiladi. Mustaqil boʻlish va oʻz qadriyatlariga sodiq qolish uchun Telegram foydalanuvchilar maxfiyligini hisobga olgan holda xabarlarni tanitish uchun pulli vositani ishlab chiqdi. Biz masʼuliyatli reklama beruvchilarni quyidagi manzil orqali qabul qilamiz:\n[url]\nReklamalar endi foydalanuvchi maxfiyligini buzish bilan sinonim boʻlmasligi kerak. Keling, texnologik kompaniyalar qanday ishlashini birgalikda oʻzgartiramiz.";
+"SponsoredMessageInfo.ActionUrl" = "https://ads.whatsgram.org";
+"SponsoredMessageInfo.Text" = "https://whatsgram.org saytiga kiring";
+"SponsoredMessageInfo.Url" = "https://ads.whatsgram.org";
+"SponsoredMessageInfoScreen.MarkdownText" = "Boshqa ilovalardan farqli ravishda, Telegram reklamalarni yoʻnaltirish uchun shaxsiy maʼlumotlaringizdan foydalanmaydi. [Maxfiylik siyosatida batafsil bilib oling](https://whatsgram.org/privacy#5-6-no-ads-based-on-user-data)\n\nBoshqa ilovalardan farqli ravishda, Telegram reklama xabariga borgan yoki bosmaganingizni kuzatmaydi hamda harakatlaringizga asosan shaxsga doir hujjat yaratmaydi. Shuningdek, uchinchi tomonlar foydalanuvchilarimizga nisbatan josuslik qilmasligini taʼminlash uchun reklama xabarlarida tashqi havolalarni ochishdan oldin ogohlantiramiz. Biz har bir inson shaxsiy hayoti daxlsizligi huquqiga ega va onlayn platformalar buni hurmat qilishi kerak, deb hisoblaymiz.\n\nTelegram yuz millionlab foydalanuvchilarga server va trafik uchun katta xarajatlarni oʻz ichiga olgan bepul va cheksiz xizmatni taklif qiladi. Mustaqil boʻlish va oʻz qadriyatlariga sodiq qolish uchun Telegram foydalanuvchilar maxfiyligini hisobga olgan holda xabarlarni tanitish uchun pulli vositani ishlab chiqdi. Biz masʼuliyatli reklama beruvchilarni quyidagi manzil orqali qabul qilamiz:\n[url]\nReklamalar endi foydalanuvchi maxfiyligini buzish bilan sinonim boʻlmasligi kerak. Keling, texnologik kompaniyalar qanday ishlashini birgalikda oʻzgartiramiz.";
 "SponsoredMessageInfoScreen.Text" = "Boshqa ilovalardan farqli ravishda, Telegram hech qachon shaxsiy maʼlumotlaringizni reklamalarni target qilish uchun ishlatmaydi. Telegramdagi reklama xabarlari faqat ular namoyish qilinadigan ommaviy guruh mavzusiga asoslanadi. Bu shuni anglatadiki, reklamalarni namoyish qilish uchun hech qanday foydalanuvchi maʼlumotlari olinmaydi yoki tahlil qilinmaydi va Telegramda kanalni koʻrayotgan har bir foydalanuvchi bir xil reklama xabarlarini koʻradi.\n\nBoshqa ilovalardan farqli ravishda, Telegram reklama xabarini bosgan yoki bosmaganingizni kuzatmaydi va harakatingizga asosan sizni profillashtirmaydi. Uchinchi tomonlar foydalanuvchilarimizni kuzatmasligini taʼminlash uchun reklama xabarlarida tashqi havolalarni ham taqiqladik. Biz har kim shaxsiy hayoti daxlsizligi huquqiga ega deb hisoblaymiz va texnologik platformalar buni hurmat qilishi kerak.\n\nTelegram yuz millionlab foydalanuvchilarga server va trafik uchun katta xarajatlarni oʻz ichiga olgan bepul va cheksiz xizmatni taklif qiladi. Mustaqil boʻlish va oʻz qadriyatlariga sodiq qolish uchun Telegram foydalanuvchilar maxfiyligini hisobga olgan holda xabarlarni targʻib qilish uchun pulli vositani ishlab chiqdi. Biz masʼuliyatli reklama beruvchilarni quyidagi manzil orqali qabul qilamiz:\n[url]\nReklama xabarlari ayni paytda sinov rejimida. Ular toʻliq ishga tushganidan va Telegramning asosiy xarajatlarini qoplash imkonini berganidan keyin biz reklamadan tushgan foydani reklama xabarlari namoyish qilingan ommaviy kanallar egalariga ulashishni boshlaymiz.\n\nInternetdagi reklamalar endi foydalanuvchi maxfiyligi buzilishi bilan sinonim boʻlmasligi kerak. Keling, texnologik kompaniyalar qanday ishlashini birgalikda oʻzgartiramiz.";
 "SponsoredMessageInfoScreen.Title" = "Homiylik xabarlari nima?";
 "SponsoredMessageMenu.Hide" = "Berkitish";
@@ -9118,7 +9118,7 @@
 "Stars.BotRevenue.Transactions.Title" = "Tranzaksiyalar tarixi";
 "Stars.BotRevenue.Withdraw.Balance" = "Mavjud balans";
 "Stars.BotRevenue.Withdraw.BuyAds" = "Reklama sotib olish";
-"Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Stars.BotRevenue.Withdraw.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "Stars.BotRevenue.Withdraw.Withdraw" = "Fragment orqali yechib olish";
 "Stars.BotRevenue.Withdraw.WithdrawShort" = "Yechib olish";
 "Stars.Gift.Received.Text" = "Telegramda kontent va xizmatlarni ochish uchun yulduzlardan foydalaning. [Misollarni koʻrish >]()";
@@ -9187,7 +9187,7 @@
 "Stars.Intro.Withdraw" = "Yechib olish";
 "Stars.Intro.YourBalance" = "balansingiz";
 "Stars.PaidContent.AmountInfo" = "Foydalanuvchilar bu mediani koʻrish uchun kanalingizga ushbu miqdordagi yulduzlarni oʻtkazishiga toʻgʻri keladi.\n[Yulduzlar haqida batafsil >]()";
-"Stars.PaidContent.AmountInfo_URL" = "https://telegram.org/tos/stars";
+"Stars.PaidContent.AmountInfo_URL" = "https://whatsgram.org/tos/stars";
 "Stars.PaidContent.AmountTitle" = "OCHISH NARXINI KIRITING";
 "Stars.PaidContent.Create" = "Bu mediani pulli qilib belgilash";
 "Stars.PaidContent.Title" = "Pulli kontent";
@@ -9205,7 +9205,7 @@
 "Stars.Purchase.StarsNeeded#other" = "%@ yulduz kerak";
 "Stars.Purchase.StarsNeededInfo" = "Yulduzlar sotib oling va ulardan **%@** hamda boshqa mini ilovalarda foydalaning.";
 "Stars.Purchase.StarsReactionsNeededInfo" = "**%@** va boshqa kanallarga pulli reaksiyalar yuborish uchun yulduzlar sotib oling.";
-"Stars.Purchase.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Purchase.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.SellGift.AmountInfo" = "Siz **%@** yulduz olasiz.";
 "Stars.SellGift.AmountInfo.Stars#one" = "%@ yulduz";
 "Stars.SellGift.AmountInfo.Stars#other" = "%@ yulduz";
@@ -9229,7 +9229,7 @@
 "Stars.SendStars.SendStars" = "Tasdiqlash va yuborish";
 "Stars.SendStars.Title" = "Yulduzlar yuborish";
 "Stars.Subscription.Terms" = "Siz obuna boʻlish orqali [Xizmat shartlariga]() rozilik berasiz.";
-"Stars.Subscription.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Subscription.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Ton.Title" = "TON";
 "Stars.Transaction.AppleTopUp.Subtitle" = "App Store";
 "Stars.Transaction.CopiedId" = "Tranzaksiya ID vaqtinchalik xotiraga nusxalandi.";
@@ -9299,7 +9299,7 @@
 "Stars.Transaction.TelegramBotApi.Messages#one" = "%@ ta xabar";
 "Stars.Transaction.TelegramBotApi.Messages#other" = "%@ ta xabar";
 "Stars.Transaction.Terms" = "Yulduzlar uchun [Xizmat shartlari]() bilan tanishing.";
-"Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transaction.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transaction.To" = "Kimga";
 "Stars.Transaction.Unsupported.Title" = "Dastaklanmaydi";
 "Stars.Transaction.Via" = "Orqali";
@@ -9329,7 +9329,7 @@
 "Stars.Transfer.SubscribeInfo" = "Oyiga **%2$@** evaziga **%1$@**ga obuna boʻlasizmi?";
 "Stars.Transfer.SubscribePerMonth" = "/ oy";
 "Stars.Transfer.Terms" = "Xarid qilish orqali [Xizmat shartlariga]() rozilik bildirasiz.";
-"Stars.Transfer.Terms_URL" = "https://telegram.org/tos/stars";
+"Stars.Transfer.Terms_URL" = "https://whatsgram.org/tos/stars";
 "Stars.Transfer.Title" = "Xaridingizni tasdiqlang";
 "Stars.Transfer.Videos#one" = "%@ ta video";
 "Stars.Transfer.Videos#other" = "%@ ta video";
@@ -10219,9 +10219,9 @@
 "Time.TomorrowAt" = "ertaga %@ da";
 "Time.YesterdayAt" = "kecha %@ da";
 "TimeZoneSelection.Title" = "Vaqt mintaqasi";
-"Ton.WithdrawViaFragment.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+"Ton.WithdrawViaFragment.Info_URL" = "https://whatsgram.org/tos/bot-developers#6-2-2-tpa-balance";
 "TopApps.Info.Done" = "Tushunarli";
-"TopApps.Info.Text" = "Bu katalog mini ilovalarni yulduzlarda oʻlchanadigan kunlik daromadiga koʻra tartiblaydi. Roʻyxatga kiritilishi uchun dasturchilar oʻz asosiy mini ilovasini @botfather botida sozlashi ([bu yerda](https://core.telegram.org/bots/webapps#launching-the-main-mini-app) tavsiflanganidek), kunlik **1000** dan ortiq foydalanuvchiga ega boʻlishi va haftalik oʻrtacha koʻrsatkichga asoslanib, kunlik daromadi **1000** yulduzdan oshishi kerak.";
+"TopApps.Info.Text" = "Bu katalog mini ilovalarni yulduzlarda oʻlchanadigan kunlik daromadiga koʻra tartiblaydi. Roʻyxatga kiritilishi uchun dasturchilar oʻz asosiy mini ilovasini @botfather botida sozlashi ([bu yerda](https://core.whatsgram.org/bots/webapps#launching-the-main-mini-app) tavsiflanganidek), kunlik **1000** dan ortiq foydalanuvchiga ega boʻlishi va haftalik oʻrtacha koʻrsatkichga asoslanib, kunlik daromadi **1000** yulduzdan oshishi kerak.";
 "TopApps.Info.Title" = "Top mini ilovalar";
 "Tour.StartButton" = "Suhbatni boshlash";
 "Tour.Text1" = "Dunyoning **eng tezkor** muloqot ilovasi.\nBu **bepul** va **xavfsiz**.";
@@ -11062,7 +11062,7 @@
 "WebApp.DisclaimerContinue" = "Davom etish";
 "WebApp.DisclaimerText" = "Siz Telegram bilan affillanmagan mustaqil tomon boshqaradigan mini ilovadan foydalanmoqchisiz. Davom etish uchun mini ilovalar uchun Foydalanish shartlariga rozilik bildirishingiz kerak.";
 "WebApp.DisclaimerTitle" = "Foydalanish shartlari";
-"WebApp.Disclaimer_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.Disclaimer_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.Download.Cancel" = "Bekor qilish";
 "WebApp.Download.Document" = "Hujjatni yuklab olish";
 "WebApp.Download.Download" = "Yuklab olish";
@@ -11087,7 +11087,7 @@
 "WebApp.LaunchMoreInfo" = "Bu bot haqida batafsil";
 "WebApp.LaunchOpenApp" = "Ishga tushirish";
 "WebApp.LaunchTermsConfirmation" = "Bu mini ilovani ishga tushirish orqali [Mini ilovalar uchun Xizmat shartlariga]() rozilik bildirasiz.";
-"WebApp.LaunchTermsConfirmation_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.LaunchTermsConfirmation_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebApp.LocationPermission.Allow" = "Ruxsat berish";
 "WebApp.LocationPermission.Decline" = "Rad etish";
 "WebApp.LocationPermission.Succeed" = "**%@** endi joylashuv axborotingizga kirishi mumkin.";
@@ -11105,7 +11105,7 @@
 "WebApp.OpenWebViewAlertText" = "**%@** davom etish uchun veb ilovasini ochishni xohlamoqda.\n\nU **IP manzilingiz** va qurilmangiz haqidagi asosiy axborotni ololadi.";
 "WebApp.OpenWebViewAlertTitle" = "Ilovani ishga tushirish";
 "WebApp.PrivacyPolicy" = "Maxfiylik siyosati";
-"WebApp.PrivacyPolicy_URL" = "https://telegram.org/privacy-tpa";
+"WebApp.PrivacyPolicy_URL" = "https://whatsgram.org/privacy-tpa";
 "WebApp.ReloadPage" = "Sahifani qayta yuklash";
 "WebApp.RemoveAllConfirmationText" = "Bunda **%@** yorliqlari barcha menyulardan olib tashlanadi.";
 "WebApp.RemoveBot" = "Menyudan olib tashlash";
@@ -11127,7 +11127,7 @@
 "WebApp.ShortcutsAdded" = "**%@** yorligʻi biriktirmalar menyusiga qoʻshildi.";
 "WebApp.ShortcutsSettingsAdded" = "**%@** yorliqlari biriktirmalar menyusi va Sozlamalarga qoʻshildi.";
 "WebApp.TermsOfUse" = "Foydalanish shartlari";
-"WebApp.TermsOfUse_URL" = "https://telegram.org/tos/mini-apps";
+"WebApp.TermsOfUse_URL" = "https://whatsgram.org/tos/mini-apps";
 "WebBrowser.AddBookmark" = "Bukmark kiritish";
 "WebBrowser.AddressBar.Bookmarks" = "BUKMARKLAR";
 "WebBrowser.AddressBar.RecentlyVisited" = "OXIRGI KIRILGAN";

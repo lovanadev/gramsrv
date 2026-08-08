@@ -1564,7 +1564,7 @@
 "GiftPeerUpgradeTransferableDescription" = "{user} bude moci poslat dárek komukoli na Telegramu.";
 "GiftPeerUpgradeUniqueDescription" = "{user} získá jedinečné číslo, model, pozadí a symbol pro dárek.";
 "GiftPremiumDescription" = "S Telegram Premium získá {user} přístup k exkluzivním funkcím. {link}";
-"GiftPremiumDescriptionLink" = "https://telegram.org/faq_premium";
+"GiftPremiumDescriptionLink" = "https://whatsgram.org/faq_premium";
 "GiftPremiumDescriptionLinkCaption" = "Viz funkce >";
 "GiftPremiumDescriptionYourBalance" = "Váš zůstatek je **{stars}**. {link}";
 "GiftPremiumHeader" = "Darovat Premium";
@@ -2498,7 +2498,7 @@
 "ProfileBirthdayValueAge#few" = "{date} ({age} roky)";
 "ProfileBirthdayValueAge#many" = "{date} ({age} let)";
 "ProfileBirthdayValueAge#other" = "{date} ({age} let)";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps";
 "ProfileCopyPhone" = "Kopírovat telefonní číslo";
 "ProfileItemSubscribers" = "Odběratelé";
 "ProfileJoinChannel" = "Připojit se";
@@ -2864,7 +2864,7 @@
 "SpeakingWithVolume" = "{volume}% mluví";
 "SponsoredMessageAd" = "Reklama";
 "SponsoredMessageAdWhatIsThis" = "co to je?";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "Co jsou sponzorované\nzprávy?";
 "SponsoredMessageInfoDescription1" = "Telegram na rozdíl od ostatních aplikací nepoužívá vaše osobní údaje pro cílení reklam. Sponzorované zprávy na Telegramu jsou založeny výhradně na tématu veřejného kanálu, ve kterém jsou zobrazeny. To znamená, že žádná data nejsou těžena ani analyzována pro zobrazování reklam. Každý uživatel kanálu na Telegramu vidí ty stejné sponzorované zprávy.";
 "SponsoredMessageInfoDescription2" = "Telegram na rozdíl od ostatních aplikací nesleduje, jestli jste náhodou neklikli na nějakou sponzorovanou zprávu a neprofiluje vás na základě aktivity. Taktéž ve sponzorovaných zprávách nedovolujeme odkazy na externí stránky, aby třetí strany nemohly špehovat naše uživatele. Věříme, že každý má právo na soukromí a technologické platformy by to měly respektovat.";
@@ -2907,7 +2907,7 @@
 "StarsNeededTextSendPaidMessages" = "Kupte si **hvězdy** pro zasílání zpráv.";
 "StarsPay" = "Potvrdit a zaplatit {amount}";
 "StarsPerMonth" = "⭐️{amount}/měsíc";
-"StarsReactionLink" = "https://telegram.org/tos/stars";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars";
 "StarsReactionLinkText" = "Podmínkami služby";
 "StarsReactionTerms" = "Odesláním hvězd souhlasíte s {link}";
 "StarsSubscribeBotButtonMonth" = "Předplatit za {amount} / měsíc";
@@ -2916,14 +2916,14 @@
 "StarsSubscribeBotText#many" = "Chcete si předplatit **{name}** v **{bot}** za **{amount} hvězd** měsíčně?";
 "StarsSubscribeBotText#other" = "Chcete si předplatit **{name}** v **{bot}** za **{amount} hvězd** měsíčně?";
 "StarsSubscribeInfo" = "Předplacením souhlasíte s {link}";
-"StarsSubscribeInfoLink" = "https://telegram.org/tos/stars";
+"StarsSubscribeInfoLink" = "https://whatsgram.org/tos/stars";
 "StarsSubscribeInfoLinkText" = "Podmínkami služby";
 "StarsSubscribeText#one" = "Chcete si předplatit **{chat}** za **{amount} hvězdu** měsíčně?";
 "StarsSubscribeText#few" = "Chcete si předplatit **{chat}** za **{amount} hvězdy** měsíčně?";
 "StarsSubscribeText#many" = "Chcete si předplatit **{chat}** za **{amount} hvězd** měsíčně?";
 "StarsSubscribeText#other" = "Chcete si předplatit **{chat}** za **{amount} hvězd** měsíčně?";
 "StarsTransactionTOS" = "Přečtěte si {link} pro hvězdy.";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars";
 "StarsTransactionTOSLinkText" = "Podmínky služby";
 "StarsTransactionsAll" = "Všechny transakce";
 "StarsTransactionsIncoming" = "Příchozí";

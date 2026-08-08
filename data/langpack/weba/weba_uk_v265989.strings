@@ -1576,7 +1576,7 @@
 "GiftPeerUpgradeTransferableDescription" = "{user} зможе надіслати цей подарунок будь-кому в Telegram.";
 "GiftPeerUpgradeUniqueDescription" = "Подарунок {user} отримає унікальний номер, модель, фон і символ.";
 "GiftPremiumDescription" = "Відкрийте для {user} досвід ексклюзивних\nможливостей з Telegram Premium. {link}";
-"GiftPremiumDescriptionLink" = "https://telegram.org/faq_premium/uk";
+"GiftPremiumDescriptionLink" = "https://whatsgram.org/faq_premium/uk";
 "GiftPremiumDescriptionLinkCaption" = "Переглянути можливості >";
 "GiftPremiumDescriptionYourBalance" = "Ваш баланс —\u00a0**{stars}**. {link}";
 "GiftPremiumHeader" = "Подарувати Premium";
@@ -2511,7 +2511,7 @@
 "ProfileBirthdayValueAge#few" = "{date} ({age} роки)";
 "ProfileBirthdayValueAge#many" = "{date} ({age} років)";
 "ProfileBirthdayValueAge#other" = "{date} ({age} роки)";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps/ua";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps/ua";
 "ProfileCopyPhone" = "Копіювати номер телефону";
 "ProfileItemSubscribers" = "Підписники";
 "ProfileJoinChannel" = "Приєднатися до каналу";
@@ -2880,7 +2880,7 @@
 "SpeakingWithVolume" = "{volume}% говорить";
 "SponsoredMessageAd" = "Реклама";
 "SponsoredMessageAdWhatIsThis" = "що це?";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "Як працює реклама?";
 "SponsoredMessageInfoDescription1" = "На відміну від інших застосунків, Telegram не використовує особистих даних користувачів для показу цільової реклами. Спонсоровані повідомлення в Telegram відповідають виключно темам каналів, у яких вони розміщуються. Це означає, що жодних даних не збирається чи аналізується для показу оголошень і рекламні оголошення є спільними для всіх користувачів.";
 "SponsoredMessageInfoDescription2" = "На відміну від інших застосунків, Telegram не відстежує натискання користувачів на спонсоровані повідомлення і не формує профілі користувачів на основі їхньої активності. Ми також попереджаємо перед відкриттям зовнішніх посилань у спонсорованих повідомленнях, щоб сторонні особи не могли стежити за нашими користувачами. Ми віримо, що кожен має право на приватність, і технологічні платформи повинні його поважати.";
@@ -2923,7 +2923,7 @@
 "StarsNeededTextSendPaidMessages" = "Купуйте **зірки**, щоб надсилати повідомлення.";
 "StarsPay" = "Підтвердити й заплатити {amount}";
 "StarsPerMonth" = "{amount} ⭐️ на місяць";
-"StarsReactionLink" = "https://telegram.org/tos/stars/ua";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars/ua";
 "StarsReactionLinkText" = "Умовами використання";
 "StarsReactionTerms" = "Надсилаючи зірки, ви погоджуєтеся з {link}";
 "StarsSubscribeBotButtonMonth" = "Підписатися за {amount} на місяць";
@@ -2932,14 +2932,14 @@
 "StarsSubscribeBotText#many" = "Ви хочете підписатися на **{name}** в **{bot}** за **{amount}** зірок на місяць?";
 "StarsSubscribeBotText#other" = "Ви хочете підписатися на **{name}** в **{bot}** за **{amount}** зірок на місяць?";
 "StarsSubscribeInfo" = "Підписуючись, ви погоджуєтеся з {link}.";
-"StarsSubscribeInfoLink" = "https://telegram.org/tos/stars/ua";
+"StarsSubscribeInfoLink" = "https://whatsgram.org/tos/stars/ua";
 "StarsSubscribeInfoLinkText" = "Умовами використання";
 "StarsSubscribeText#one" = "Ви хочете підписатися на **{chat}** за **{amount} зірку** на місяць? ";
 "StarsSubscribeText#few" = "Ви хочете підписатися на **{chat}** за **{amount} зірки** на місяць? ";
 "StarsSubscribeText#many" = "Ви хочете підписатися на **{chat}** за **{amount} зірок** на місяць? ";
 "StarsSubscribeText#other" = "Ви хочете підписатися на **{chat}** за **{amount} зірок** на місяць? ";
 "StarsTransactionTOS" = "Ознайомтеся з {link} зірок.";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars/ua";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars/ua";
 "StarsTransactionTOSLinkText" = "Умовами використання";
 "StarsTransactionsAll" = "Усі операції";
 "StarsTransactionsIncoming" = "Зарахування";

@@ -1336,7 +1336,7 @@
 "GiftPeerUpgradeTransferableDescription" = "{user}님은 선물을 텔레그램의 누구에게나 보낼 수 있습니다.";
 "GiftPeerUpgradeUniqueDescription" = "{user}는 선물에 대한 고유 번호, 모델, 배경 및 기호를 받게 됩니다.";
 "GiftPremiumDescription" = "텔레그램 프리미엄으로 {user}님에게 독점 기능 이용 권한을 선물하세요. {link}";
-"GiftPremiumDescriptionLink" = "https://telegram.org/faq_premium";
+"GiftPremiumDescriptionLink" = "https://whatsgram.org/faq_premium";
 "GiftPremiumDescriptionLinkCaption" = "기능 보기 >";
 "GiftPremiumDescriptionYourBalance" = "회원님의 잔액은 **{stars}**입니다. {link}";
 "GiftPremiumHeader" = "프리미엄 선물하기";
@@ -2078,7 +2078,7 @@
 "ProfileBirthdayTodayValueAge#other" = "🎂 {date} ({age}세)";
 "ProfileBirthdayValue" = "{date}";
 "ProfileBirthdayValueAge#other" = "{date} ({age}세)";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps";
 "ProfileCopyPhone" = "전화번호 복사";
 "ProfileItemSubscribers" = "구독자";
 "ProfileJoinChannel" = "채널 들어가기";
@@ -2417,7 +2417,7 @@
 "SpeakingWithVolume" = "{volume}%로 말하는 중";
 "SponsoredMessageAd" = "광고";
 "SponsoredMessageAdWhatIsThis" = "이건 무엇인가요?";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "스폰서 메시지가\n뭔가요?";
 "SponsoredMessageInfoDescription1" = "다른 앱과는 다르게, 텔레그램은 개인 정보를 활용하여 타겟 광고를 절대 하지 않습니다. 텔레그램 스폰서 메시지는 보여지는 채널의 주제를 기반으로 합니다. 즉, 그 어떠한 개인 정보도 광고 표시를 하기 위해 추출과 분석이 되어지지 않았으며, 텔레그램 채널에 있는 모든 사용자가 동일한 스폰서 메시지가 표시가 된다는 뜻입니다.";
 "SponsoredMessageInfoDescription2" = "다른 앱과 달리 텔레그램은 회원님이 후원 메시지를 탭했는지 추적하지 않으며 회원님의 활동을 기반으로 프로필을 작성하지 않습니다. 또한 제3자가 사용자를 감시할 수 없도록 후원 메시지의 외부 링크를 차단합니다. 모든 사람에게 개인정보 보호 권리가 있으며 기술 플랫폼은 이를 존중해야 한다고 믿습니다.";
@@ -2457,17 +2457,17 @@
 "StarsNeededTextSendPaidMessages" = "**스타**를 구매하여 메시지를 보내세요.";
 "StarsPay" = "확인 및 결제({amount})";
 "StarsPerMonth" = "⭐️{amount}/월";
-"StarsReactionLink" = "https://telegram.org/tos/stars";
+"StarsReactionLink" = "https://whatsgram.org/tos/stars";
 "StarsReactionLinkText" = "서비스 약관";
 "StarsReactionTerms" = "스타를 보내면 {link}에 동의하게 됩니다.";
 "StarsSubscribeBotButtonMonth" = "{amount}/월로 구독하세요";
 "StarsSubscribeBotText#other" = "**{bot}**에서 **{name}**을(를) 월 **{amount}** 스타에 구독하시겠습니까?";
 "StarsSubscribeInfo" = "구독하면 {link}에 동의하게 됩니다.";
-"StarsSubscribeInfoLink" = "https://telegram.org/tos/stars";
+"StarsSubscribeInfoLink" = "https://whatsgram.org/tos/stars";
 "StarsSubscribeInfoLinkText" = "서비스 약관";
 "StarsSubscribeText#other" = "매달 **{amount} 스타**로 **{chat}**을 구독하시겠습니까?";
 "StarsTransactionTOS" = "스타에 대한 {link}를 검토하세요.";
-"StarsTransactionTOSLink" = "https://telegram.org/tos/stars";
+"StarsTransactionTOSLink" = "https://whatsgram.org/tos/stars";
 "StarsTransactionTOSLinkText" = "서비스 약관";
 "StarsTransactionsAll" = "모든 거래";
 "StarsTransactionsIncoming" = "수신";

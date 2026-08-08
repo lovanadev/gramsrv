@@ -999,7 +999,7 @@
 "PrivacyValueBots" = "小程序";
 "Profile" = "个人资料";
 "ProfileBirthday" = "生日";
-"ProfileBotOpenAppInfoLink" = "https://telegram.org/tos/mini-apps";
+"ProfileBotOpenAppInfoLink" = "https://whatsgram.org/tos/mini-apps";
 "ProfileCopyPhone" = "复制手机号码";
 "ProfileJoinChannel" = "关注频道";
 "ProfileJoinGroup" = "加入群组";
@@ -1163,7 +1163,7 @@
 "SomethingWentWrong" = "出错了";
 "Speaking" = "发言中";
 "SpeakingWithVolume" = "正以 {volume}% 音量发言";
-"SponsoredMessageAlertLearnMoreUrl" = "https://ads.telegram.org";
+"SponsoredMessageAlertLearnMoreUrl" = "https://ads.whatsgram.org";
 "SponsoredMessageInfo" = "什么是赞助消息？";
 "SponsoredMessageInfoDescription1" = "与其他应用不同，Telegram 不会将您的隐私数据用于投放定向广告。赞助商消息的投放完全基于公开频道内所发布的内容。这意味着 Telegram 不会通过挖掘和分析用户画像来投放广告，查看频道的所有用户都会看到同样的赞助商消息。";
 "SponsoredMessageInfoDescription3" = "Telegram 向数亿用户提供免费和无限制的服务，这意味着服务器和流量的巨大开销。为了保持独立且始终如一地秉持理念，Telegram 已开发一种付费工具以推广信息，同时保证用户的隐私。我们欢迎负责任的广告商：";

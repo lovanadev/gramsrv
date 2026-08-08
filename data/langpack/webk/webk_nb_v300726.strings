@@ -306,7 +306,7 @@
 "AdminRights.Other" = "Annet";
 "AdminRights.PostStories" = "Legge ut historier";
 "Administrators" = "Administratorer";
-"Ads.Reported" = "Vi vil gjennomgå denne annonsen for å sikre at den samsvarer med våre **[retningslinjer for annonser](https://ads.telegram.org/guidelines)**.";
+"Ads.Reported" = "Vi vil gjennomgå denne annonsen for å sikre at den samsvarer med våre **[retningslinjer for annonser](https://ads.whatsgram.org/guidelines)**.";
 "AgeVerification.Action" = "Bekreft alderen min";
 "AgeVerification.Failed" = "Beklager, du kan ikke se 18+ innhold.";
 "AgeVerification.Text" = "For å få tilgang til dette innholdet, må du bekrefte at du er minst 18 år som påkrevd av lokal lovgivning.\n\nDette er en engangsprosess som benytter kameraet på telefonen din. Selfien din vil ikke bli lagret av Telegram.";
@@ -1008,7 +1008,7 @@
 "Chat.Message.Ad.Text" = "I motsetning til andre apper bruker aldri Telegram dine private data for å gi deg målrettede annonser. Sponsede meldinger på Telegram er basert utelukkende på emnet i den offentlige kanalen de vises i. Ingen brukerdata blir samlet eller analysert for å vise annonser, og alle brukere som ser på en kanal på Telegram ser den samme sponsede meldingen.\n\nI motsetning til andre apper sporer ikke Telegram om du har trykket på en sponset melding, og vi oppretter heller ikke profiler basert på aktiviteten din. Vi hindrer også eksterne lenker i sponsede meldinger for å sikre at tredjeparter ikke kan overvåke våre brukere. Vi mener at alle har rett til personvern, og teknologiske plattformer bør respektere det.\n\nTelegram tilbyr gratis og ubegrensede tjenester til hundrevis av millioner brukere, noe som innebærer betydelige server- og trafikkostnader. For å forbli uavhengig og holde fast ved sine verdier, har Telegram utviklet et betalt verktøy for å promotere meldinger med brukernes personvern i tankene. Vi ønsker ansvarlige annonsører velkommen på:\n\n%@\n\nSponsede meldinger er for tiden i testmodus. Så snart de er lansert for fullt og gjør det mulig for Telegram å dekke grunnleggende kostnader, vil vi begynne å dele reklameinntektene med eierne av de offentlige kanalene hvor sponsede meldinger vises.\n\nAnnonser bør ikke lenger være synonymt med misbruk av brukernes personvern. La oss sammen omdefinere hvordan et teknologiselskap bør operere.";
 "Chat.Message.RequestToJoin" = "BE OM Å FÅ BLI MED";
 "Chat.Message.SendMessage" = "SEND MELDING";
-"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.whatsgram.org";
 "Chat.Message.Sponsored.What" = "Hva er sponsede meldinger?";
 "Chat.Message.ViewApp" = "START APP";
 "Chat.Message.ViewBot" = "SE ROBOT";
@@ -1172,7 +1172,7 @@
 "ChatList.Filter.NonContacts" = "Ikke-kontakter";
 "ChatList.Filter.ReadChats" = "Leste";
 "ChatList.Main.EmptyPlaceholder.Subtitle" = "Du har %s på Telegram";
-"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "Bruk Telegram appen på din [Android](https://telegram.org/android) eller [iOS](https://telegram.org/dl/ios) enhet for å synkronisere kontaktene dine";
+"ChatList.Main.EmptyPlaceholder.SubtitleNoContacts" = "Bruk Telegram appen på din [Android](https://whatsgram.org/android) eller [iOS](https://whatsgram.org/dl/ios) enhet for å synkronisere kontaktene dine";
 "ChatList.Main.EmptyPlaceholder.Title" = "Dine samtaler vil vises her";
 "ChatList.Menu.SwitchTo.A" = "Bytt til A-versjonen";
 "ChatList.Menu.SwitchTo.Webogram" = "Bytt til den gamle versjonen";
@@ -1899,7 +1899,7 @@
 "InviteLink.Observe.Fee.Subtitle" = "du får omtrent %s pr. måned";
 "InviteLink.Observe.Fee.Title" = "%s / måned x %d";
 "InviteLink.Sticker.TimeLeft" = "utløper om %@";
-"InviteLink.Subscription.Caption" = "Krev abonnementsavgift fra personer som blir med i kanalen via denne lenken. [Les mer >]() [Les mer >](https://telegram.org)";
+"InviteLink.Subscription.Caption" = "Krev abonnementsavgift fra personer som blir med i kanalen via denne lenken. [Les mer >]() [Les mer >](https://whatsgram.org)";
 "InviteLink.Subscription.Edit" = "For å endre abonnementsavgiften, opprett en ny invitasjonslenke med en annen pris.";
 "InviteLink.Subscription.Placeholder" = "Antall stjerner pr. måned";
 "InviteLink.Subscription.Price" = "~%s / måned";
@@ -2311,8 +2311,8 @@
 "Message.Context.Selection.SendNow" = "Send valgte nå";
 "Message.Context.Unpin" = "Løsne";
 "Message.ReplyActionButtonShowReceipt" = "Vis kvittering";
-"Message.Unsupported.Desktop" = "__Denne meldingen er for tiden ikke støttet av Telegram Web. Prøv [getdesktop.telegram.org](https://getdesktop.telegram.org/)__";
-"Message.Unsupported.Mobile" = "__Denne meldingen er for tiden ikke støttet av Telegram Web. Prøv [telegram.org/dl](https://telegram.org/dl/)__";
+"Message.Unsupported.Desktop" = "__Denne meldingen er for tiden ikke støttet av Telegram Web. Prøv [getdesktop.whatsgram.org](https://getdesktop.whatsgram.org/)__";
+"Message.Unsupported.Mobile" = "__Denne meldingen er for tiden ikke støttet av Telegram Web. Prøv [whatsgram.org/dl](https://whatsgram.org/dl/)__";
 "MessageContainsEmojiPack" = "Denne meldingen inneholder emoji fra %s pakken.";
 "MessageContainsEmojiPacks#one" = "Denne meldingen inneholder emojier fra **%d pakke**.";
 "MessageContainsEmojiPacks#other" = "Denne meldingen inneholder emojier fra **%d pakker**.";
@@ -2716,8 +2716,8 @@
 "PeerInfo.Action.LiveStream" = "Direktesending";
 "PeerInfo.Action.VoiceChat" = "Videosamtale";
 "PeerInfo.Administrators" = "Administratorer";
-"PeerInfo.AppFooter" = "Ved å starte denne miniapplikasjonen, godtar du [Tjenestevilkår for miniapplikasjoner](https://telegram.org/privacy).";
-"PeerInfo.AppFooterAdmin" = "Ved å publisere denne miniapplikasjonen, godtar du [Telegrams Tjenestevilkår for utviklere](https://telegram.org/privacy).";
+"PeerInfo.AppFooter" = "Ved å starte denne miniapplikasjonen, godtar du [Tjenestevilkår for miniapplikasjoner](https://whatsgram.org/privacy).";
+"PeerInfo.AppFooterAdmin" = "Ved å publisere denne miniapplikasjonen, godtar du [Telegrams Tjenestevilkår for utviklere](https://whatsgram.org/privacy).";
 "PeerInfo.DeleteChannel" = "Slett kanal";
 "PeerInfo.DeleteContact" = "Slett kontakt";
 "PeerInfo.Discussion" = "Samtale";
@@ -3117,7 +3117,7 @@
 "Report2CommentOptional" = "Legg til en kommentar (valgfritt)";
 "Report2Send" = "Send rapport";
 "ReportAd" = "Rapporter annonse";
-"ReportAdLearnMore" = "Les mer om våre [retningslinjer for annonser](https://ads.telegram.org/guidelines).";
+"ReportAdLearnMore" = "Les mer om våre [retningslinjer for annonser](https://ads.whatsgram.org/guidelines).";
 "ReportBug" = "Rapporter feil";
 "ReportChat" = "Rapportér";
 "ReportChatChild" = "Misbruk av barn";
@@ -3181,7 +3181,7 @@
 "RevenueSharingAdsInfo3Subtitle" = "Du kan slå av annonser ved å abonnere på **Telegram Premium**, og kanaler på nivå %1$s kan fjerne dem for sine abonnenter.";
 "RevenueSharingAdsInfo3Title" = "Kan fjernes";
 "RevenueSharingAdsInfo4Subtitle2" = "Alle kan opprette en annonse som skal vises i denne roboten, selv på små budsjett. Se **Telegram Annonseplattform** for mer informasjon. %1$s";
-"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[Les mer >](https://ads.telegram.org/)**";
+"RevenueSharingAdsInfo4SubtitleLearnMore1" = "**[Les mer >](https://ads.whatsgram.org/)**";
 "RevenueSharingAdsInfo4Title" = "Kan jeg kjøre en annonse?";
 "RevokeAlert" = "Er du sikker på at du vil annullere denne lenken? Så fort lenken er annullert, vil ingen kunne bli med ved å bruke den.";
 "RevokeButton" = "Annuller";
@@ -3718,7 +3718,7 @@
 "Stars.Subscribe.Button" = "Abonner";
 "Stars.Subscribe.Description" = "Vil du abonnere på **%s** for **%s** pr. måned?";
 "Stars.Subscribe.Need" = "Kjøp **stjerner** og bruk dem til å abonnere på kanaler.";
-"Stars.Subscribe.Terms" = "Ved å abonnere godtar du [Tjenestevilkårene](https://telegram.org).";
+"Stars.Subscribe.Terms" = "Ved å abonnere godtar du [Tjenestevilkårene](https://whatsgram.org).";
 "Stars.Subscribe.Title" = "Abonner på kanalen";
 "Stars.Subscription" = "Abonnement";
 "Stars.Subscription.Active" = "Hvis du avslutter nå, vil du fortsatt få tilgang til abonnementet ditt fram til %s.";
@@ -3738,13 +3738,13 @@
 "Stars.Subscriptions.Expires" = "utløper %s";
 "Stars.Subscriptions.PerMonth" = "pr. måned";
 "Stars.Subscriptions.Renews" = "fornyes %s";
-"Stars.TOS" = "Ved å fortsette med kjøp av stjerner, godtar du [Vilkår for bruk](https://telegram.org/tos).";
+"Stars.TOS" = "Ved å fortsette med kjøp av stjerner, godtar du [Vilkår for bruk](https://whatsgram.org/tos).";
 "Stars.TopUp" = "Stjernepåfylling";
 "Stars.TopUp.Enough" = "Du har tilstrekkelig antall stjerner for øyeblikket. [Kjøp allikevel]()";
 "Stars.TopUp.Label_default" = "Kjøp stjerner for å låse opp innhold og tjenester\ni miniapplikasjoner på Telegram";
 "Stars.TopUp.Label_stargift" = "Kjøp *stjerner** for å sende gaver.";
 "Stars.TopUp.Reaction" = "Kjøp **stjerner** og send dem til **%s** for å støtte innleggene deres.";
-"Stars.TransactionTOS" = "Gjennomgå **[Tjenestevilkårene](https://telegram.org/tos)** for stjerner.";
+"Stars.TransactionTOS" = "Gjennomgå **[Tjenestevilkårene](https://whatsgram.org/tos)** for stjerner.";
 "Stars.Unlock" = "Vil du låse opp %s i **%s** for **%s**?";
 "Stars.Unlock.FromBot" = "Vil du låse opp %s fra **%s** for **%s**?";
 "Stars.Unlock.Media" = "%s og %s";
@@ -4245,8 +4245,8 @@
 "Verified.Channel" = "Denne kanalen er verifisert av Telegram.";
 "Verified.Group" = "Denne gruppen er verifisert av Telegram.";
 "ViaBot" = "via";
-"Video.Unsupported.Desktop" = "Beklager, denne videoen kan ikke spilles av på Telegram Web. Prøv å åpne den med vår [skrivebordsapp](https://getdesktop.telegram.org/) i stedet.__";
-"Video.Unsupported.Mobile" = "__Beklager, denne videoen kan ikke spilles av på Telegram Web. Prøv å åpne den med vår [mobilapp](https://telegram.org/dl/) i stedet.__";
+"Video.Unsupported.Desktop" = "Beklager, denne videoen kan ikke spilles av på Telegram Web. Prøv å åpne den med vår [skrivebordsapp](https://getdesktop.whatsgram.org/) i stedet.__";
+"Video.Unsupported.Mobile" = "__Beklager, denne videoen kan ikke spilles av på Telegram Web. Prøv å åpne den med vår [mobilapp](https://whatsgram.org/dl/) i stedet.__";
 "VideoCall" = "Videoanrop";
 "Videos#one" = "%d video";
 "Videos#other" = "%d videoer";
@@ -4315,7 +4315,7 @@
 "WebApp.InstallBot" = "Installer robot";
 "WebApp.WriteAccess.Description" = "Tillat %s å sende meldinger?";
 "WebApp.WriteAccess.Title" = "Tillat sending av meldinger";
-"WebAppDisclaimerUrl" = "https://telegram.org/tos/mini-apps";
+"WebAppDisclaimerUrl" = "https://whatsgram.org/tos/mini-apps";
 "WebPage.InstantView" = "UMIDDELBAR VISNING";
 "WebPage.OpenLink" = "ÅPNE LENKE";
 "WebPage.RemovePreview" = "Fjern lenkeforhåndsvisning";
